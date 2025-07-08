@@ -1,0 +1,1 @@
+-->update dns_enfermeria set centro_id=13,usua_id=286,clie_id=5222,atenc_id=4092,protoop_tblprincipal='',enferm_fecharegistro='2023-06-28 02:01:44',protoop_idenlace='',enferm_enlace='52220117225388632862023062802014497',enferm_archivo='' where enferm_id=243 -->2023-06-28 02:25:23

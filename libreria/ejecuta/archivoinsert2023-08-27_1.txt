@@ -1,0 +1,498 @@
+196-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4726,centro_id=1,clie_id=5754,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA 32 AÑOS, NACIDA Y RESIDENTE EN SANTO DOMINGO, MESTIZA, DIVORCIADA, EMPLEADA PUBLICA, CATÓLICA, DIESTRA, TIPO DE SANGRE ORH +. PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-08-26 12:45:44',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='REGULARES',anam_enlace='575401172130103236520230826124544144',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR ESCUDERO',anam_hijosvivos='',anam_ayudante='',anam_fum='2023-08-06',anam_anestesiologo='DR SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1960 -->2023-08-27 04:45:30
+196-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (196,4726,1960,1,5754,1,0,0,0,0,0,0,'dns_hospitalanamesis',0,0,0,0,'',0,0,'',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2023-08-27 04:45:32',0,0,'',0,'',0,0,'1701',0,'04:45',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'','',0,'57540113120287541962023082704453236','2023-08-27 04:45:32',0,0,0,0)-->2023-08-27 04:45:37
+267-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,5763,'1722549423-1','2',267,'2023-08-27 07:08:28','','','2023-08-27 07:08:28','CIRUGIA PROGRAMADA','2023-08-27 07:08:28','1722549423','VIVO',1,'','','0117232002242672023082707082882')-->2023-08-27 07:08:40
+267-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (267,'','LIBRE DEMANDA',4729,1,5763,'','','PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.','1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO','','','',4,'12','','0','2023-08-27 07:08:45','','','','0','IRREGULARS','576301172320022426720230827070845420','','2','2','','DR. MOSQUERA/ DR. GUERRERO','2','','2023-08-12','',NULL,NULL,'2023-08-27',1,'T DE COBRE',0,'',0,'',1,'HACE 1 AÑO',1,'NINGUNA',0,0,0,0,0,0)-->2023-08-27 07:24:01
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4729,centro_id=1,clie_id=5763,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='',anam_partos='0',anam_fecharegistro='2023-08-27 07:08:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARS',anam_enlace='576301172320022426720230827070845420',anam_cirugia='',anam_cesareas='2',anam_gesta='2',anam_especialidad='',anam_tratante='DR. MOSQUERA/ DR. GUERRERO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-12',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=1,anam_metodopfamiliartex='T DE COBRE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 AÑO',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1961 -->2023-08-27 07:24:09
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4729,centro_id=1,clie_id=5763,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-27 07:08:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARS',anam_enlace='576301172320022426720230827070845420',anam_cirugia='',anam_cesareas='2',anam_gesta='2',anam_especialidad='',anam_tratante='DR. MOSQUERA/ DR. GUERRERO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-12',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=1,anam_metodopfamiliartex='T DE COBRE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 AÑO',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1961 -->2023-08-27 07:24:34
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4729,centro_id=1,clie_id=5763,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-27 07:08:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARS',anam_enlace='576301172320022426720230827070845420',anam_cirugia='',anam_cesareas='2',anam_gesta='2',anam_especialidad='',anam_tratante='DR. MOSQUERA/ DR. GUERRERO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-12',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=1,anam_metodopfamiliartex='T DE COBRE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 AÑO',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1961 -->2023-08-27 07:25:28
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4729,centro_id=1,clie_id=5763,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-27 07:08:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARS',anam_enlace='576301172320022426720230827070845420',anam_cirugia='',anam_cesareas='2',anam_gesta='2',anam_especialidad='',anam_tratante='DR. MOSQUERA/ DR. GUERRERO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-12',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=1,anam_metodopfamiliartex='T DE COBRE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 AÑO',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1961 -->2023-08-27 07:25:38
+340-->update dns_atencion set centro_id=1,clie_id=5763,atenc_hc='1722549423-1',tiposerv_id='2',usua_id=267,atenc_fecharegistro='2023-08-27 07:08:28',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2023-08-27 07:08:28',atenc_observacion='CIRUGIA PROGRAMADA',atenc_fechaingreso='2023-08-27 07:08:28',clie_ci='1722549423',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='0117232002242672023082707082882' where atenc_id=4729 -->2023-08-27 09:15:20
+340-->update dns_anamesisexamenfisico set anam_referencia='REFERIDO',atenc_id=4549,centro_id=1,clie_id=5604,usua_id=392,anam_observacionaf='',estaatenc_id=4,anam_planes='radiografia ap y lateral de codo derecho 
+control con resultados',anam_centrorefiere='',anam_emferpactual='refiere que hace 9 años sufrió fractura de codo fue intervenido quirúrgicamente 
+secuela de perdida de rango de movimiento de codo derecho 
+acude sin radiografía actual 
+además refiere deformidad de miembros inferiores',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='limitacion en rango de movimiento de codo derecho',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-08-09 11:03:52',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='refiere que hace 9 años sufrió fractura de codo fue intervenido quirúrgicamente 
+secuela de perdida de rango de movimiento de codo derecho',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='560401171891753539220230809110352243',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=860 -->2023-08-27 09:48:09
+340-->update dns_anamesisexamenfisico set anam_referencia='REFERIDO',atenc_id=4549,centro_id=1,clie_id=5604,usua_id=392,anam_observacionaf='',estaatenc_id=4,anam_planes='radiografia ap y lateral de codo derecho 
+control con resultados',anam_centrorefiere='',anam_emferpactual='refiere que hace 9 años sufrió fractura de codo fue intervenido quirúrgicamente 
+secuela de perdida de rango de movimiento de codo derecho 
+acude sin radiografía actual 
+además refiere deformidad de miembros inferiores',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='limitacion en rango de movimiento de codo derecho',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-08-09 11:03:52',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='refiere que hace 9 años sufrió fractura de codo fue intervenido quirúrgicamente 
+secuela de perdida de rango de movimiento de codo derecho',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='560401171891753539220230809110352243',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=860 -->2023-08-27 09:48:09
+340-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,4668,'1761636198-1','2',340,'2023-08-27 11:13:33','','','2023-08-27 11:13:33','consulta','2023-08-27 11:13:33','1761636198','VIVO',1,'','','01172540973234020230827111333289')-->2023-08-27 11:13:59
+340-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,emp_id,clie_registrado,clie_especialidad,clie_tratante,tipoci_id,clie_rucci,clie_ayudante,clie_direccion,clie_anestesiologo,clie_apellido,prob_codigo,cant_codigo,tippo_id,clie_nombre,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,orien_id,idgen_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','',12,'',1,'REGISTRADO','','',1,'1716310352','','EL RECREO','','PROAÑO ESPINOSA','17','1701',8,'GABRIEL ANDRES',3,'',7,'','','','1987-03-28',56,7,'0992529465','0996842452','M',4,4,'andreiygabriel@hotmail.com','','340','2023-08-27 12:11:33','','0117254097323402023082712113320341',NULL,'1','','5518','','','4','')-->2023-08-27 12:13:04
+349-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,4668,'1761636198-1','2',349,'2023-08-27 12:14:41','','','2023-08-27 12:14:41','control','2023-08-27 12:14:41','1761636198','VIVO',1,'','','01175852012434920230827121441153')-->2023-08-27 12:15:03
+349-->insert into dns_pediatriaconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_enlace) values (3485,349,13,4668,'LACTANTE MENOR MASCULINO DE 7 MESES DE EDAD, QUIEN ACUDE CON SUS PADRES A CONTROL DE NIÑO SANOS. AL EXAMEN FISICO SIN ALTERACIONES',219,'2023-08-27',1,'2023-08-27 12:18:28','12:18','SE REALIZA ORIENTACION DE ALIMENTACION COMPLEMENTARIA 
+TRI VI SOL DAR 0,6 ML DIARIO 
+UMBRAL GOTAS  1 ML VO PRN CADA 6 HOARS','466801175852012434920230827121828294')-->2023-08-27 12:26:16
+340-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,5764,'1716310352-1','2',340,'2023-08-27 13:01:43','','','2023-08-27 13:01:43','CONSULTA CIRUGIA RECONSTRUCTIVA','2023-08-27 13:01:43','1716310352','VIVO',1,'','','01172540973234020230827010143220')-->2023-08-27 13:02:18
+267-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (267,'','LIBRE DEMANDA',3984,13,5120,'','','PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.','','','','',4,'','SANGRADO DIGESTIVO BAJO','','2023-08-27 16:55:59','','','','','','512001172320022426720230827045559441','','','','','DR. IVAN AYABACA','','',NULL,'',NULL,NULL,'2023-08-27',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2023-08-27 17:10:24
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:23:56
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:25:00
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4729,centro_id=1,clie_id=5763,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL LO QUE ACUDE CON MEDICO ESPECIALISTA QUIEN ENVIÁ EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. GUERRERO SANTIAGO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-27 07:08:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARS',anam_enlace='576301172320022426720230827070845420',anam_cirugia='',anam_cesareas='2',anam_gesta='2',anam_especialidad='',anam_tratante='DR. MOSQUERA/ DR. GUERRERO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-12',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=1,anam_metodopfamiliartex='T DE COBRE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 AÑO',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1961 -->2023-08-27 17:35:41
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:36:36
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NPO  
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA DÍA 
+.- 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR 
+C.- ORDENES DR. AYABACA 
+O.- NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:39:53
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NPO  
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA DÍA 
+.- 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR 
+C.- ORDENES DR. AYABACA 
+O.- NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:40:02
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NPO  
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA DÍA 
+.- 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR 
+C.- ORDENES DR. AYABACA 
+O.- NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 17:40:17
+267-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (267,3984,1962,1,5120,1,0,0,1,0,0,0,'dns_hospitalanamesis',0,0,0,0,'ELECTROLITOS, INR',0,0,'',0,0,0,'',0,0,'17',0,0,0,0,0,0,1,'2023-08-27 17:40:30',0,1,'',0,'',0,0,'1701',0,'17:40',1,1,0,0,0,0,'RUMIPAMBA',0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'','',0,'512001172320022426720230827054030265','2023-08-27 17:40:30',0,0,0,0)-->2023-08-27 17:41:44
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, QUIEN ACUDE A MEDICO ESPECIALISTA POR PRESENTA PROCTORRAGIA POR DOS OCASIONES DE MODERADA INTENSIDAD, POR LO QUE SE DECIDE INGRESO PARA VALORACION.',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 18:50:41
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 18:51:09
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 18:51:54
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 18:52:34
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 18:52:59
+267-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='SANGRADO DIGESTIVO BAJO',clie_cirugia='',grp_id=1,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='MEDICINA INTERNA',clie_tratante='DR. IVAN AYABACA',tipoci_id=1,clie_rucci='1706684899',clie_ayudante='',clie_direccion='MANUEL VALDIVIEZO O650 Y ERAZO',clie_anestesiologo='',clie_apellido='INGA JARAMILLO',prob_codigo='17',cant_codigo='1701',tippo_id=3,clie_nombre='VICTOR',civil_id=2,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1960-06-10',nac_id=56,tarterial_id=7,clie_emergenciatelf='',clie_celular='0992518346',clie_genero='M',orien_id=4,idgen_id=4,clie_email='victor123i@hotmail.com',clie_emergenciacelu='',usua_id='370',clie_registro='2023-06-15 10:29:53',clie_institucion='',clie_enlace='0117527157123702023061510295314922',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='4899',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=5120 -->2023-08-27 20:18:01
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:28:42
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:28:51
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:28:57
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:29:21
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:29:24
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:30:15
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:49:55
+267-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3984,centro_id=13,clie_id=5120,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 63 AÑOS DE EDAD, CON ANTECEDENTE DE HEMORROIDES, DESDE  HACE 1 SEMANA PRESENTA HECES CON PINTAS DE SANGRE ,NO DOLOR AL DEFECAR , NO ARDOR , EL DIA DE HOY  PRESENTA 2 EPISODIOS DE PROCTORRAGIA EN MODERADA CANTIDAD COLOR ROJO VINOSO NO DOLOR   POR LO QUE ACUDE.
+RAS.- EPIGASTRALGIA  Y DISTENSIÓN ABDOMINAL , ASOCIADO A NAUSEA, NO BAJA DE PESO',anam_planes='A.-INGRESO A MEDICINA INTERNA (DR AYABACA 
+D.- LOS DESCRITOS  
+C.- DE CUIDADO
+A.- ALERGIAS NO REFIERE 
+V. CONTROL DE SIGNOS VITALES CADA   8 HORAS
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA 
+      
+A.- SEMIFOWLER
+N.- PROTOCOLO ANTIESCARAS
+      PROTOCOLO ANTICAIDAS
+D.- NADA POR VIAL ORAL EXCEPTO MEDICACION 
+I.- LACTATO DE RINGER 1000ML IV A 100ML/H 
+M.- 
+OMEPRAZOL 40 MG IV CADA 12 HORAS 
+SUSPENDER ANTIHIPERTENSIVOS 
+LEVOTIROXINA 75 UG VIA ORAL CADA DIA
+NULYTELY 1 SOBRE EN 1 LITRO TOMAR  200 CC CADA HORA  INICIAR 19H00 
+E.- ELECTROCARDIOGRAMA 
+L.- BH, GLUCOSA,  UREA CREA,  ELECTROLITOS, , TP, TTP INR STAT 
+MANANA BH 
+C.- VALORACION POR GASTROENTEROLOGIA  PARA PREPARACION Y PROGRAMACION DE ENDOSCOPIA Y COLONOSCOPIA 
+
+O.- INDICACIONES DE MEDICINA INTERNA DR. IVAN AYABACA ,',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='SANGRADO DIGESTIVO BAJO',anam_partos='',anam_fecharegistro='2023-08-27 16:55:59',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512001172320022426720230827045559441',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1962 -->2023-08-27 20:49:59
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-26','CRUCE DE TARJETAS JULIO','\'20230726902660082','2023-08-26 21:50:07','','2023-08-2627864EAB9DFBAD37','')-->2023-08-27 22:58:51
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=154,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='00000-00-26',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'20230726902660082',movban_fecharegistro='2023-08-26 21:50:07',usua_id='',movban_enlace='2023-08-2627864EAB9DFBAD37',emp_id='' where movban_id=1423 -->2023-08-27 23:11:15
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'2023-07-26','CRUCE DE TARJETAS JULIO','\'202307261121416409','2023-08-27 23:11:20','','2023-08-2727864EC1E687F0D5','')-->2023-08-27 23:13:22
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=154,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='2023-07-26',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'202307261121416409',movban_fecharegistro='2023-08-27 23:11:20',usua_id='',movban_enlace='2023-08-2727864EC1E687F0D5',emp_id='' where movban_id=1424 -->2023-08-27 23:13:31
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-07-27','CRUCE DE TARJETAS JULIO','\'202307272034776336','2023-08-27 23:13:36','','2023-08-2727864EC1EF021D6B','')-->2023-08-27 23:16:35
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-00','CRUCE DE TARJETAS JULIO','\'202307271436145654','2023-08-27 23:16:40','','2023-08-2727864EC1FA86BCF7','')-->2023-08-27 23:17:58
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-27','CRUCE DE TARJETAS JULIO','\'20230727166498671','2023-08-27 23:18:02','','2023-08-2727864EC1FFA8015A','')-->2023-08-27 23:19:47
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=154,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='00000-00-27',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'20230727166498671',movban_fecharegistro='2023-08-27 23:18:02',usua_id='',movban_enlace='2023-08-2727864EC1FFA8015A',emp_id='' where movban_id=1427 -->2023-08-27 23:19:57
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-28','CRUCE DE TARJETAS JULIO','\'20230728846963571','2023-08-27 23:20:01','','2023-08-2727864EC20713F167','')-->2023-08-27 23:21:32
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=154,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='00000-00-28',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'20230728846963571',movban_fecharegistro='2023-08-27 23:20:01',usua_id='',movban_enlace='2023-08-2727864EC20713F167',emp_id='' where movban_id=1428 -->2023-08-27 23:21:43
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-28','CRUCE DE TARJETAS JULIO','\'202307282009192733','2023-08-27 23:21:47','','2023-08-2727864EC20DB2378A','')-->2023-08-27 23:23:00
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-07-28','CRUCE DE TARJETAS JULIO','\'202307281795321886','2023-08-27 23:23:04','','2023-08-2727864EC2128E1DD7','')-->2023-08-27 23:25:11
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-28','CRUCE DE TARJETAS JULIO','\'202307281991669242','2023-08-27 23:25:20','','2023-08-2727864EC21B096DCB','')-->2023-08-27 23:26:53
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-31','CRUCE DE TARJETAS JULIO','\'20230731754257794','2023-08-27 23:27:06','','2023-08-2727864EC221AA3A12','')-->2023-08-27 23:36:07
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=154,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='00000-00-31',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'20230731754257794',movban_fecharegistro='2023-08-27 23:27:06',usua_id='',movban_enlace='2023-08-2727864EC221AA3A12',emp_id='' where movban_id=1432 -->2023-08-27 23:36:16
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',154,'','',NULL,'00000-00-31','CRUCE DE TARJETAS JULIO','\'20230731234904087','2023-08-27 23:36:19','','2023-08-2727864EC24436ACC5','')-->2023-08-27 23:37:52
+278-->insert into app_movimientobancos (movban_tipotransaccion,centro_id,tipop_id,tmv_id,detmov_id,movban_anulado,movban_ctabancaria,proveemovban_id,movban_ordenpago,movban_cheque,movban_fechacheque,movban_fechaemision,movban_descripcion,movban_comprobante,movban_fecharegistro,usua_id,movban_enlace,emp_id) values ('1','','','1','4','','1.1.1.3.1',0,'','',NULL,'00000-00-31','CRUCE DE TARJETAS JULIO','\'20230731144504688','2023-08-27 23:37:57','','2023-08-2727864EC24A58C041','')-->2023-08-27 23:39:21
+278-->update app_movimientobancos set movban_tipotransaccion='1',centro_id='',tipop_id='',tmv_id='1',detmov_id='4',movban_anulado='',movban_ctabancaria='1.1.1.3.1',proveemovban_id=0,movban_ordenpago='',movban_cheque='',movban_fechacheque=NULL,movban_fechaemision='00000-00-31',movban_descripcion='CRUCE DE TARJETAS JULIO',movban_comprobante='\'20230731144504688',movban_fecharegistro='2023-08-27 23:37:57',usua_id='',movban_enlace='2023-08-2727864EC24A58C041',emp_id='' where movban_id=1434 -->2023-08-27 23:39:36
+278-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,3,0,'2023-07-02',3732,'','1.1.1.1','TRANSFERENCIA','',NULL,1,0,278,'2023-08-27 23:42:07',0,'COBRO POR ATENCION MEDICA','2023-08-2727864EC259F99990','0164A18E912152F36020230702094953137',0)-->2023-08-27 23:44:56
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-02',proveep_id=3732,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:42:07',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC259F99990',doccab_id='0164A18E912152F36020230702094953137',compra_id=0 where crb_id=1875 -->2023-08-27 23:44:59
+278-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,3,0,'2023-07-04',446,'','','TRANSFERENCIA','',NULL,1,0,278,'2023-08-27 23:45:40',0,'COBRO POR ATENCION MEDICA','2023-08-2727864EC26744C5FF','0164A43D8D2C9EF20120230704104101233',0)-->2023-08-27 23:46:44
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-04',proveep_id=446,crb_paguesealaorden='',crb_cuenta='',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:45:40',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC26744C5FF',doccab_id='0164A43D8D2C9EF20120230704104101233',compra_id=0 where crb_id=1876 -->2023-08-27 23:46:47
+278-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,3,0,'2023-07-03',272,'','','TRANSFERENCIA','',NULL,1,0,278,'2023-08-27 23:48:53',0,'COBRO POR ATENCION MEDICA','2023-08-2727864EC2735E593B','0164A2E6FAEE81D20120230703101922500',0)-->2023-08-27 23:50:26
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-03',proveep_id=272,crb_paguesealaorden='',crb_cuenta='',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:48:53',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC2735E593B',doccab_id='0164A2E6FAEE81D20120230703101922500',compra_id=0 where crb_id=1877 -->2023-08-27 23:50:29
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-03',proveep_id=272,crb_paguesealaorden='',crb_cuenta='',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:48:53',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC2735E593B',doccab_id='0164A2E6FAEE81D20120230703101922500',compra_id=0 where crb_id=1877 -->2023-08-27 23:50:40
+278-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,3,0,'2023-07-04',3854,'','','TRANSFERENCIA','',NULL,1,0,278,'2023-08-27 23:52:02',0,'COBRO POR ATENCION MEDICA','2023-08-2727864EC27F28D78A','0164CDAB02E5B6127220230804085058442',0)-->2023-08-27 23:53:32
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-04',proveep_id=3854,crb_paguesealaorden='',crb_cuenta='',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:52:02',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC27F28D78A',doccab_id='0164CDAB02E5B6127220230804085058442',compra_id=0 where crb_id=1878 -->2023-08-27 23:53:35
+278-->update lpin_cobropago set ttra_id=1,frocob_id=3,subfp_id=0,crb_fecha='2023-07-04',proveep_id=3854,crb_paguesealaorden='',crb_cuenta='',crb_ncomprobante='TRANSFERENCIA',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=1,lote_id=0,usua_id=278,crb_fecharegistro='2023-08-27 23:52:02',crb_efectivo=0,crb_descripcion='COBRO POR ATENCION MEDICA',crb_enlace='2023-08-2727864EC27F28D78A',doccab_id='0164CDAB02E5B6127220230804085058442',compra_id=0 where crb_id=1878 -->2023-08-27 23:54:14

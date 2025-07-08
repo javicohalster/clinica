@@ -1,0 +1,624 @@
+269-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,emp_id,clie_registrado,clie_especialidad,clie_tratante,tipoci_id,clie_rucci,clie_ayudante,clie_direccion,clie_anestesiologo,clie_apellido,prob_codigo,cant_codigo,tippo_id,clie_nombre,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,orien_id,idgen_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','',12,'',1,'REGISTRADO','','',1,'1751226612','','SANTA RITA CALLE MALIMPIA OE 164','','LANDAZURI HERRRERA','17','1701',2,'KEVIN STEVEN',1,'CHILLOGALLO',14,'022620696','AUX DE ABASTECIMIENTO','','2001-03-20',56,7,'0962642121','0964133691','M',5,4,'kevinlandazuri720@gmail.com','','269','2022-09-26 09:48:39','','0117226351072692022092609483939815',NULL,'1','','2798','FARMAENLACE','AUX DE ABASTECIMIENTO','3','')-->2022-09-26 09:51:59
+269-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1751226612',clie_ayudante='',clie_direccion='SANTA RITA CALLE MALIMPIA OE 164',clie_anestesiologo='',clie_apellido='LANDAZURI HERRRERA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='KEVIN STEVEN',civil_id=1,clie_parroquia='CHILLOGALLO',conve_id=14,clie_telefono='022620696',clie_ocupacion='AUX DE ABASTECIMIENTO',clie_codigoisspol='',clie_fechanacimiento='2001-03-20',nac_id=56,tarterial_id=7,clie_emergenciatelf='0962642121',clie_celular='0964133691',clie_genero='M',orien_id=5,idgen_id=4,clie_email='kevinlandazuri720@gmail.com',clie_emergenciacelu='',usua_id='269',clie_registro='2022-09-26 09:48:39',clie_institucion='',clie_enlace='0117226351072692022092609483939815',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2798',clie_dondetrabaja='FARMAENLACE',clie_puestotrabaja='AUX DE ABASTECIMIENTO',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=2770 -->2022-09-26 09:52:05
+222-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,2770,'1751226612-1','2',222,'2022-09-26 09:52:45','','','2022-09-26 09:52:45','emergencia','2022-09-26 09:52:45','1751226612','VIVO',1,'','','0117165041782222022092609524576')-->2022-09-26 09:52:53
+222-->insert into dns_emergenciaanamesis (atenc_id,centro_id,clie_id,usua_id,anam_alergicos,anam_domiciliosal,anam_emferpactual,anam_fechaatencion,anam_gesta,anam_indicacionesgeneral,anam_lugarevento,anam_observacionaf,anam_penetrante,anam_problemas,estaatenc_id,anam_clinicos,anam_conexterna,anam_direccionevento,anam_iess,anam_nopenetrante,anam_partos,anam_procedimientos,anam_abortos,anam_biometria,anam_conceninformado,anam_expuesta,anam_fechaevento,anam_ginecologicos,anam_obssalida,anam_otroseguro,anam_cerrada,anam_cesareas,anam_horaevento,anam_internacion,anam_otrosplanemergencia,anam_quimicasanguinea,anam_traumatologicos,anam_amputacion,anam_fecharegistro,anam_gasometria,anam_menstruacion,anam_obsplanemergencia,anam_pediatricos,anam_personanotificacion,anam_referencia,anam_vehiculo,anam_endoscopia,anam_gestacion,anam_hemorragia,anam_parentesco,anam_quirurgicos,anam_servicio,anam_accidente,anam_diagmordedura,anam_direccionnotificacion,anam_establecimiento,anam_farmacologicos,anam_fetal,anam_nhoja,anam_rxabdomen,anam_diagpicadura,anam_enlace,anam_envenenamiento,anam_frecuenciafetal,anam_otrosapfr,anam_telefononotificacion,anam_tomografia,anam_ecografiapelvica,anam_excoriacion,anam_rotas,anam_violencia,anam_vivo,anam_acompanante,anam_establesal,anam_interconsulta,anam_masa,anam_observacionap,anam_otroevento,anam_tiempo,anam_ciacompanante,anam_hematoma,anam_inestablesal,anam_uroanalisis,anam_uterna,anam_diasincapacidad,anam_direccionacompanante,anam_electrolitos,anam_gi,anam_horadenuncia,anam_presentacion,anam_custodia,anam_dilatacion,anam_electrocardiograma,anam_gii,anam_muertoemergencia,anam_telefonoacompanante,anam_borramiento,anam_causa,anam_giii,anam_obsevento,anam_rxtorax,anam_fuenteinfo,anam_otrosdt,anam_plano,anam_rxosea,anam_etilico,anam_formallegada,anam_otrosdtuno,anam_pelvis,anam_resonancia,anam_coordenadas,anam_ecoabdomen,anam_entregapaciente,anam_sangrado,anam_valor,anam_contracciones,anam_horaexamen,anam_otrospd,anam_telefonoentrega,anam_alcoholemia,anam_observaciones,anam_obsplandiagnostico,anam_hora,anam_otassustancias,anam_vialibre,anam_sospecha,anam_viaobstruida,anam_abusofisico,anam_rh,anam_abusopsico,anam_abusosexual,anam_estable,anam_inestable,anam_obsabuso,anam_otracondicion,anam_gradouno,anam_motivollegada,anam_gradodos,anam_gradotres,anam_porcentaje,anam_picadura,anam_mordedura) values (1722,1,2770,222,'','','PACIENTE REFIERE QUE HACE 3 DIAS SUFRE ACCIDENTE EN MOTO IMPACTANDO MIEMBRO SUPERIOR IZQUIERDO CON SUPERFICIE DE CEMENTO, DESPUES DEL CUAL PRESENTA DOLOR DE MODERADA INTENSIDAD EN HOMBRO IZQUIERDO BRAZO Y ANTEBRAZO DEL MISMO LADO E IMPOSIBILIDAD A LOS MOVIMIENTOS, POR LO QUE ACUDE A HOSPITAL DE TERCER NIVEL DONDE ADMINISTRAN ANALGESIA   Y REALIZAN EXAMENES QUE NO ESPECIFICA, AL MOMENTO REFIERE DOLOR DE HOMBRO Y BRAZO IZQUIERDO, ADEMAS REALIZAN SUTURA DE PUNTOS EN 3ER DEDO DE MANO IZQUIERDA','2022-09-26','','','','','','TRAUMATISMO EN HOMBRO IZQUIERDO',4,'','','','','','','','','','','','','','','FARMAENLACE','','','','','','','','','2022-09-26 09:52:58','','','','','KEVIN STEVEN LANDAZURI HERRERA','','','','','','PACIENTE','','','','','SANTA RITA','','','','','','','277001171650417822220220926095258260','','','','0964133691','','','','','','','','','','','APP: CLINICOS: NO REFIERE QX: NO REFIERE ALERGIAS: NO REFIERE','','','','','','','','','','','','','','','','','','','','','','','','','KEVIN STEVEN LANDAZURI HERRERA','','','','','1','','','','','','NINGUNA','','','','','','0964133691','','','TRAUMATISMO HOMBRO IZQUIERDO','9:50','','1','','','','ORH','','','1','','','','','TRAUMATISMO EN HOMBRO Y BRAZO IZQUIERDO','','','','','')-->2022-09-26 10:25:22
+222-->update dns_emergenciaanamesis set atenc_id=1722,centro_id=1,clie_id=2770,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE REFIERE QUE HACE 3 DIAS SUFRE ACCIDENTE EN MOTO IMPACTANDO MIEMBRO SUPERIOR IZQUIERDO CON SUPERFICIE DE CEMENTO, DESPUES DEL CUAL PRESENTA DOLOR DE MODERADA INTENSIDAD EN HOMBRO IZQUIERDO BRAZO Y ANTEBRAZO DEL MISMO LADO E IMPOSIBILIDAD A LOS MOVIMIENTOS, POR LO QUE ACUDE A HOSPITAL DE TERCER NIVEL DONDE ADMINISTRAN ANALGESIA   Y REALIZAN EXAMENES QUE NO ESPECIFICA, AL MOMENTO REFIERE DOLOR DE HOMBRO Y BRAZO IZQUIERDO, ADEMAS REALIZAN SUTURA DE PUNTOS EN 3ER DEDO DE MANO IZQUIERDA',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='1',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='TRAUMATISMO EN HOMBRO IZQUIERDO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='',anam_conceninformado='',anam_expuesta='',anam_fechaevento='',anam_ginecologicos='',anam_obssalida='1',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='1',anam_quimicasanguinea='',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 09:52:58',anam_gasometria='',anam_menstruacion='',anam_obsplanemergencia='RX AP Y LATERAL HOMBRO IZQUIERDO',anam_pediatricos='',anam_personanotificacion='KEVIN STEVEN LANDAZURI HERRERA',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='PACIENTE',anam_quirurgicos='',anam_servicio='EMERGENCIA',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='SANTA RITA',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='',anam_diagpicadura='',anam_enlace='277001171650417822220220926095258260',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='0964133691',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='1',anam_acompanante='',anam_establesal='1',anam_interconsulta='',anam_masa='',anam_observacionap='APP: CLINICOS: NO REFIERE QX: NO REFIERE ALERGIAS: NO REFIERE',anam_otroevento='',anam_tiempo='',anam_ciacompanante='',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='KEVIN STEVEN LANDAZURI HERRERA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='0964133691',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='TRAUMATISMO HOMBRO IZQUIERDO',anam_hora='9:50',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='ORH',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='TRAUMATISMO EN HOMBRO Y BRAZO IZQUIERDO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=30 -->2022-09-26 10:28:24
+222-->insert into dns_imagenologia (atenc_id,clie_id,imgag_idexterno,centro_id,imgag_tablaexterno,imgag_rxconvencional,imgag_resumenclinico,imgag_motivo,usua_id,imgag_tomografia,imgag_codigo,imgag_resonacia,prob_codigo,imgag_ecografia,prio_id,imgag_procedimiento,cant_codigo,imgag_otros,imgag_describir,imgag_fechasolicitud,imgag_puedemovilizarse,imgag_puederetirarse,imgag_hora,imgag_medicopresente,imgag_tomacama,imgag_parroquia,imgag_fechatoma,imgag_servicio,imgag_sala,imgag_cama,imgag_fecharegistro,imgag_enlace) values (1722,2770,30,1,'dns_emergenciaanamesis',1,'DOLOR Y DIFICULTAD A LOS MOVIMIENTOS DE ROTACION','TRAUMATISMO EN HOMBRO IZQUIERDO DOLOR Y DIFICULTAD A LOS MOVIMIENTOS DE ROTACION',222,0,'',0,'17',0,0,0,'1701',0,'RX AP Y LATERAL HOMBRO IZQUIERDO','2022-09-26 10:28:31',1,0,'10:28',0,0,'','2022-09-26 10:28:31','','','','2022-09-26 10:28:31','27700117165041782222022092610283156')-->2022-09-26 10:29:33
+222-->update dns_emergenciaanamesis set atenc_id=1722,centro_id=1,clie_id=2770,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE REFIERE QUE HACE 3 DIAS SUFRE ACCIDENTE EN MOTO IMPACTANDO MIEMBRO SUPERIOR IZQUIERDO CON SUPERFICIE DE CEMENTO, DESPUES DEL CUAL PRESENTA DOLOR DE MODERADA INTENSIDAD EN HOMBRO IZQUIERDO BRAZO Y ANTEBRAZO DEL MISMO LADO E IMPOSIBILIDAD A LOS MOVIMIENTOS, POR LO QUE ACUDE A HOSPITAL DE TERCER NIVEL DONDE ADMINISTRAN ANALGESIA   Y REALIZAN EXAMENES QUE NO ESPECIFICA, AL MOMENTO REFIERE DOLOR DE HOMBRO Y BRAZO IZQUIERDO, ADEMAS REALIZAN SUTURA DE PUNTOS EN 3ER DEDO DE MANO IZQUIERDA',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='1',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='TRAUMATISMO EN HOMBRO IZQUIERDO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='',anam_conceninformado='',anam_expuesta='',anam_fechaevento='0000-00-00',anam_ginecologicos='',anam_obssalida='1',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='1',anam_quimicasanguinea='',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 09:52:58',anam_gasometria='',anam_menstruacion='0000-00-00',anam_obsplanemergencia='RX AP Y LATERAL HOMBRO IZQUIERDO',anam_pediatricos='',anam_personanotificacion='KEVIN STEVEN LANDAZURI HERRERA',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='PACIENTE',anam_quirurgicos='',anam_servicio='EMERGENCIA',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='SANTA RITA',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='',anam_diagpicadura='',anam_enlace='277001171650417822220220926095258260',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='0964133691',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='1',anam_acompanante='',anam_establesal='1',anam_interconsulta='',anam_masa='',anam_observacionap='APP: CLINICOS: NO REFIERE QX: NO REFIERE ALERGIAS: NO REFIERE',anam_otroevento='',anam_tiempo='',anam_ciacompanante='',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='0',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='KEVIN STEVEN LANDAZURI HERRERA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='0964133691',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='TRAUMATISMO HOMBRO IZQUIERDO',anam_hora='9:50',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='ORH',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='TRAUMATISMO EN HOMBRO Y BRAZO IZQUIERDO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=30 -->2022-09-26 10:30:40
+222-->update dns_emergenciaanamesis set atenc_id=1722,centro_id=1,clie_id=2770,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE REFIERE QUE HACE 3 DIAS SUFRE ACCIDENTE EN MOTO IMPACTANDO MIEMBRO SUPERIOR IZQUIERDO CON SUPERFICIE DE CEMENTO, DESPUES DEL CUAL PRESENTA DOLOR DE MODERADA INTENSIDAD EN HOMBRO IZQUIERDO BRAZO Y ANTEBRAZO DEL MISMO LADO E IMPOSIBILIDAD A LOS MOVIMIENTOS, POR LO QUE ACUDE A HOSPITAL DE TERCER NIVEL DONDE ADMINISTRAN ANALGESIA   Y REALIZAN EXAMENES QUE NO ESPECIFICA, AL MOMENTO REFIERE DOLOR DE HOMBRO Y BRAZO IZQUIERDO, ADEMAS REALIZAN SUTURA DE PUNTOS EN 3ER DEDO DE MANO IZQUIERDA',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='1',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='TRAUMATISMO EN HOMBRO IZQUIERDO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='',anam_conceninformado='',anam_expuesta='',anam_fechaevento='0000-00-00',anam_ginecologicos='',anam_obssalida='1',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='1',anam_quimicasanguinea='',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 09:52:58',anam_gasometria='',anam_menstruacion='0000-00-00',anam_obsplanemergencia='RX AP Y LATERAL HOMBRO IZQUIERDO',anam_pediatricos='',anam_personanotificacion='KEVIN STEVEN LANDAZURI HERRERA',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='PACIENTE',anam_quirurgicos='',anam_servicio='EMERGENCIA',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='SANTA RITA',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='',anam_diagpicadura='',anam_enlace='277001171650417822220220926095258260',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='0964133691',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='1',anam_acompanante='',anam_establesal='1',anam_interconsulta='',anam_masa='',anam_observacionap='APP: CLINICOS: NO REFIERE QX: NO REFIERE ALERGIAS: NO REFIERE',anam_otroevento='',anam_tiempo='',anam_ciacompanante='',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='0',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='KEVIN STEVEN LANDAZURI HERRERA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='0964133691',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='TRAUMATISMO HOMBRO IZQUIERDO',anam_hora='9:50',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='ORH',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='TRAUMATISMO EN HOMBRO Y BRAZO IZQUIERDO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=30 -->2022-09-26 10:31:23
+222-->insert into dns_emergenciaanamesis (atenc_id,centro_id,clie_id,usua_id,anam_alergicos,anam_domiciliosal,anam_emferpactual,anam_fechaatencion,anam_gesta,anam_indicacionesgeneral,anam_lugarevento,anam_observacionaf,anam_penetrante,anam_problemas,estaatenc_id,anam_clinicos,anam_conexterna,anam_direccionevento,anam_iess,anam_nopenetrante,anam_partos,anam_procedimientos,anam_abortos,anam_biometria,anam_conceninformado,anam_expuesta,anam_fechaevento,anam_ginecologicos,anam_obssalida,anam_otroseguro,anam_cerrada,anam_cesareas,anam_horaevento,anam_internacion,anam_otrosplanemergencia,anam_quimicasanguinea,anam_traumatologicos,anam_amputacion,anam_fecharegistro,anam_gasometria,anam_menstruacion,anam_obsplanemergencia,anam_pediatricos,anam_personanotificacion,anam_referencia,anam_vehiculo,anam_endoscopia,anam_gestacion,anam_hemorragia,anam_parentesco,anam_quirurgicos,anam_servicio,anam_accidente,anam_diagmordedura,anam_direccionnotificacion,anam_establecimiento,anam_farmacologicos,anam_fetal,anam_nhoja,anam_rxabdomen,anam_diagpicadura,anam_enlace,anam_envenenamiento,anam_frecuenciafetal,anam_otrosapfr,anam_telefononotificacion,anam_tomografia,anam_ecografiapelvica,anam_excoriacion,anam_rotas,anam_violencia,anam_vivo,anam_acompanante,anam_establesal,anam_interconsulta,anam_masa,anam_observacionap,anam_otroevento,anam_tiempo,anam_ciacompanante,anam_hematoma,anam_inestablesal,anam_uroanalisis,anam_uterna,anam_diasincapacidad,anam_direccionacompanante,anam_electrolitos,anam_gi,anam_horadenuncia,anam_presentacion,anam_custodia,anam_dilatacion,anam_electrocardiograma,anam_gii,anam_muertoemergencia,anam_telefonoacompanante,anam_borramiento,anam_causa,anam_giii,anam_obsevento,anam_rxtorax,anam_fuenteinfo,anam_otrosdt,anam_plano,anam_rxosea,anam_etilico,anam_formallegada,anam_otrosdtuno,anam_pelvis,anam_resonancia,anam_coordenadas,anam_ecoabdomen,anam_entregapaciente,anam_sangrado,anam_valor,anam_contracciones,anam_horaexamen,anam_otrospd,anam_telefonoentrega,anam_alcoholemia,anam_observaciones,anam_obsplandiagnostico,anam_hora,anam_otassustancias,anam_vialibre,anam_sospecha,anam_viaobstruida,anam_abusofisico,anam_rh,anam_abusopsico,anam_abusosexual,anam_estable,anam_inestable,anam_obsabuso,anam_otracondicion,anam_gradouno,anam_motivollegada,anam_gradodos,anam_gradotres,anam_porcentaje,anam_picadura,anam_mordedura) values (1717,1,2765,222,'','','PACIENTE QUE PRESENTA ESTREÑIMIENTO DE 3 DIAS DE EVOLUCION SE ACOMPAÑA DE DOLOR ABDOMINAL Y ALZA TERMICA DE 2 DIAS DE EVOLUCION PARA LO CUAL ACUDE A FACULTATIVO QUIEN PRESCRIBIO LACTULOSA Y DIGERIL, CON LO CUAL EL CUADRO MEJORA PERO PERSISTE POR LO QUE ACUDE','2022-09-26','','','','','','DOLOR ABDOMINAL, ESTREÑIMIENTO',4,'','','','','','','','','1','','','','','','FARMAENLACE','','','','','','1','','','2022-09-26 11:10:46','','','','','','','','','','','','','','','','','','','','','1','','27650117165041782222022092611104650','','','','','','','','','','','JESICA PAULINA COCHA TUPIZA','','','','','','','1724498314','','','','','','EL CONDADO','','','','','','','','','','3570933','','','','','','JESICA COLCHA','','','','','1','','','','','','NINGUNA','','','','','','3570933','','','CONTROL RESULTADOS BH,EMO,COPRO SERIADO QS,BILIRRUBINAS PROTEINAS TOTALES,ALBUMINA YA REALIZADOS
+RX ABDOMEN 2 POSICIONES
+I/C PEDIATRIA
+CONTROL CON RESULTADOS
+RX ABDOMEN 2 POSICIONES','11:00','','1','','','','A+','','','1','','','','','DOLOR ABDOMINAL FIEBRE, ESTREÑIMIENTO','','','','','')-->2022-09-26 11:43:06
+222-->update dns_emergenciaanamesis set atenc_id=1717,centro_id=1,clie_id=2765,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE QUE PRESENTA ESTREÑIMIENTO DE 3 DIAS DE EVOLUCION SE ACOMPAÑA DE DOLOR ABDOMINAL Y ALZA TERMICA DE 2 DIAS DE EVOLUCION PARA LO CUAL ACUDE A FACULTATIVO QUIEN PRESCRIBIO LACTULOSA Y DIGERIL, CON LO CUAL EL CUADRO MEJORA PERO PERSISTE POR LO QUE ACUDE',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='DOLOR ABDOMINAL, ESTREÑIMIENTO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='1',anam_conceninformado='',anam_expuesta='',anam_fechaevento='',anam_ginecologicos='',anam_obssalida='',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='',anam_quimicasanguinea='1',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 11:10:46',anam_gasometria='',anam_menstruacion='',anam_obsplanemergencia='',anam_pediatricos='',anam_personanotificacion='',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='',anam_quirurgicos='',anam_servicio='',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='1',anam_diagpicadura='',anam_enlace='27650117165041782222022092611104650',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='',anam_acompanante='JESICA PAULINA COCHA TUPIZA',anam_establesal='',anam_interconsulta='',anam_masa='',anam_observacionap='',anam_otroevento='',anam_tiempo='',anam_ciacompanante='1724498314',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='EL CONDADO',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='3570933',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='JESICA COLCHA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='3570933',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='CONTROL RESULTADOS BH,EMO,COPRO SERIADO QS,BILIRRUBINAS PROTEINAS TOTALES,ALBUMINA YA REALIZADOS
+RX ABDOMEN 2 POSICIONES
+I/C PEDIATRIA
+CONTROL CON RESULTADOS
+RX ABDOMEN 2 POSICIONES',anam_hora='11:00',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='A+',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='DOLOR ABDOMINAL FIEBRE, ESTREÑIMIENTO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=31 -->2022-09-26 11:43:43
+222-->update dns_emergenciaanamesis set atenc_id=1717,centro_id=1,clie_id=2765,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE QUE PRESENTA ESTREÑIMIENTO DE 3 DIAS DE EVOLUCION SE ACOMPAÑA DE DOLOR ABDOMINAL Y ALZA TERMICA DE 2 DIAS DE EVOLUCION PARA LO CUAL ACUDE A FACULTATIVO QUIEN PRESCRIBIO LACTULOSA Y DIGERIL, CON LO CUAL EL CUADRO MEJORA PERO PERSISTE POR LO QUE ACUDE',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='1',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='DOLOR ABDOMINAL, ESTREÑIMIENTO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='1',anam_conceninformado='',anam_expuesta='',anam_fechaevento='',anam_ginecologicos='',anam_obssalida='1',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='1',anam_quimicasanguinea='1',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 11:10:46',anam_gasometria='',anam_menstruacion='',anam_obsplanemergencia='RX ABDOMEN 2 POSICIONES
+CONTROL CON RESULTADOS',anam_pediatricos='',anam_personanotificacion='',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='',anam_quirurgicos='',anam_servicio='EMERGENCIA',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='1',anam_diagpicadura='',anam_enlace='27650117165041782222022092611104650',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='1',anam_acompanante='JESICA PAULINA COCHA TUPIZA',anam_establesal='',anam_interconsulta='',anam_masa='',anam_observacionap='',anam_otroevento='',anam_tiempo='',anam_ciacompanante='1724498314',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='EL CONDADO',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='3570933',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='JESICA COLCHA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='3570933',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='CONTROL RESULTADOS BH,EMO,COPRO SERIADO QS,BILIRRUBINAS PROTEINAS TOTALES,ALBUMINA YA REALIZADOS
+RX ABDOMEN 2 POSICIONES
+I/C PEDIATRIA
+CONTROL CON RESULTADOS
+RX ABDOMEN 2 POSICIONES',anam_hora='11:00',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='A+',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='DOLOR ABDOMINAL FIEBRE, ESTREÑIMIENTO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=31 -->2022-09-26 11:44:57
+222-->insert into dns_imagenologia (atenc_id,clie_id,imgag_idexterno,centro_id,imgag_tablaexterno,imgag_rxconvencional,imgag_resumenclinico,imgag_motivo,usua_id,imgag_tomografia,imgag_codigo,imgag_resonacia,prob_codigo,imgag_ecografia,prio_id,imgag_procedimiento,cant_codigo,imgag_otros,imgag_describir,imgag_fechasolicitud,imgag_puedemovilizarse,imgag_puederetirarse,imgag_hora,imgag_medicopresente,imgag_tomacama,imgag_parroquia,imgag_fechatoma,imgag_servicio,imgag_sala,imgag_cama,imgag_fecharegistro,imgag_enlace) values (1717,2765,31,1,'dns_emergenciaanamesis',1,'DOLOR ABDOMINAL DE 2 DIAS DE EVOLUCION SE ACOMPAÑA DE ESTREÑIMIENTO','DOLOR ABDOMINAL DE 2 DIAS DE EVOLUCION SE ACOMPAÑA DE ESTREÑIMIENTO',222,0,'',0,'17',0,0,0,'1701',0,'RX ABDOMEN 2 POSICIONES','2022-09-26 11:45:05',0,0,'11:45',0,0,'','2022-09-26 11:45:05','','','','2022-09-26 11:45:05','276501171650417822220220926114505214')-->2022-09-26 11:46:00
+222-->update dns_emergenciaanamesis set atenc_id=1722,centro_id=1,clie_id=2770,usua_id=222,anam_alergicos='',anam_domiciliosal='',anam_emferpactual='PACIENTE REFIERE QUE HACE 3 DIAS SUFRE ACCIDENTE EN MOTO IMPACTANDO MIEMBRO SUPERIOR IZQUIERDO CON SUPERFICIE DE CEMENTO, DESPUES DEL CUAL PRESENTA DOLOR DE MODERADA INTENSIDAD EN HOMBRO IZQUIERDO BRAZO Y ANTEBRAZO DEL MISMO LADO E IMPOSIBILIDAD A LOS MOVIMIENTOS, POR LO QUE ACUDE A HOSPITAL DE TERCER NIVEL DONDE ADMINISTRAN ANALGESIA   Y REALIZAN EXAMENES QUE NO ESPECIFICA, AL MOMENTO REFIERE DOLOR DE HOMBRO Y BRAZO IZQUIERDO, ADEMAS REALIZAN SUTURA DE PUNTOS EN 3ER DEDO DE MANO IZQUIERDA',anam_fechaatencion='2022-09-26',anam_gesta='',anam_indicacionesgeneral='1',anam_lugarevento='',anam_observacionaf='',anam_penetrante='',anam_problemas='TRAUMATISMO EN HOMBRO IZQUIERDO',estaatenc_id=4,anam_clinicos='',anam_conexterna='',anam_direccionevento='',anam_iess='',anam_nopenetrante='',anam_partos='',anam_procedimientos='',anam_abortos='',anam_biometria='',anam_conceninformado='',anam_expuesta='',anam_fechaevento='0000-00-00',anam_ginecologicos='',anam_obssalida='1',anam_otroseguro='FARMAENLACE',anam_cerrada='',anam_cesareas='',anam_horaevento='',anam_internacion='',anam_otrosplanemergencia='1',anam_quimicasanguinea='',anam_traumatologicos='',anam_amputacion='',anam_fecharegistro='2022-09-26 09:52:58',anam_gasometria='',anam_menstruacion='0000-00-00',anam_obsplanemergencia='RX AP Y LATERAL HOMBRO IZQUIERDO',anam_pediatricos='',anam_personanotificacion='KEVIN STEVEN LANDAZURI HERRERA',anam_referencia='',anam_vehiculo='',anam_endoscopia='',anam_gestacion='',anam_hemorragia='',anam_parentesco='PACIENTE',anam_quirurgicos='',anam_servicio='EMERGENCIA',anam_accidente='',anam_diagmordedura='',anam_direccionnotificacion='SANTA RITA',anam_establecimiento='',anam_farmacologicos='',anam_fetal='',anam_nhoja='',anam_rxabdomen='',anam_diagpicadura='',anam_enlace='277001171650417822220220926095258260',anam_envenenamiento='',anam_frecuenciafetal='',anam_otrosapfr='',anam_telefononotificacion='0964133691',anam_tomografia='',anam_ecografiapelvica='',anam_excoriacion='',anam_rotas='',anam_violencia='',anam_vivo='1',anam_acompanante='',anam_establesal='1',anam_interconsulta='',anam_masa='',anam_observacionap='APP: CLINICOS: NO REFIERE QX: NO REFIERE ALERGIAS: NO REFIERE',anam_otroevento='',anam_tiempo='',anam_ciacompanante='',anam_hematoma='',anam_inestablesal='',anam_uroanalisis='',anam_uterna='',anam_diasincapacidad='',anam_direccionacompanante='',anam_electrolitos='',anam_gi='',anam_horadenuncia='',anam_presentacion='',anam_custodia='0',anam_dilatacion='',anam_electrocardiograma='',anam_gii='',anam_muertoemergencia='',anam_telefonoacompanante='',anam_borramiento='',anam_causa='',anam_giii='',anam_obsevento='',anam_rxtorax='',anam_fuenteinfo='KEVIN STEVEN LANDAZURI HERRERA',anam_otrosdt='',anam_plano='',anam_rxosea='',anam_etilico='',anam_formallegada='1',anam_otrosdtuno='',anam_pelvis='',anam_resonancia='',anam_coordenadas='',anam_ecoabdomen='',anam_entregapaciente='NINGUNA',anam_sangrado='',anam_valor='',anam_contracciones='',anam_horaexamen='',anam_otrospd='',anam_telefonoentrega='0964133691',anam_alcoholemia='',anam_observaciones='',anam_obsplandiagnostico='TRAUMATISMO HOMBRO IZQUIERDO',anam_hora='9:50',anam_otassustancias='',anam_vialibre='1',anam_sospecha='',anam_viaobstruida='',anam_abusofisico='',anam_rh='ORH',anam_abusopsico='',anam_abusosexual='',anam_estable='1',anam_inestable='',anam_obsabuso='',anam_otracondicion='',anam_gradouno='',anam_motivollegada='TRAUMATISMO EN HOMBRO Y BRAZO IZQUIERDO',anam_gradodos='',anam_gradotres='',anam_porcentaje='',anam_picadura='',anam_mordedura='' where anam_id=30 -->2022-09-26 11:46:46
+222-->update dns_imagenologia set atenc_id=1722,clie_id=2770,imgag_idexterno=30,centro_id=1,imgag_tablaexterno='dns_emergenciaanamesis',imgag_rxconvencional=1,imgag_resumenclinico='DOLOR Y DIFICULTAD A LOS MOVIMIENTOS DE ROTACION',imgag_motivo='TRAUMATISMO EN HOMBRO IZQUIERDO DOLOR Y DIFICULTAD A LOS MOVIMIENTOS DE ROTACION',usua_id=222,imgag_tomografia=0,imgag_codigo='',imgag_resonacia=0,prob_codigo='17',imgag_ecografia=0,prio_id=0,imgag_procedimiento=0,cant_codigo='1701',imgag_otros=0,imgag_describir='RX AP  HOMBRO IZQUIERDO',imgag_fechasolicitud='2022-09-26',imgag_puedemovilizarse=1,imgag_puederetirarse=0,imgag_hora='10:28',imgag_medicopresente=0,imgag_tomacama=0,imgag_parroquia='',imgag_fechatoma='2022-09-26',imgag_servicio='',imgag_sala='',imgag_cama='',imgag_fecharegistro='2022-09-26 10:28:31',imgag_enlace='27700117165041782222022092610283156' where imgag_id=468 -->2022-09-26 11:46:58
+1-->update dns_hospitalanamesis set usua_id=1,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,clie_id=2,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA VIDEO',anam_planes='CIRUGIA VIDEO',anam_observacionaf='CIRUGIA VIDEO',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA VIDEO',anam_partos='',anam_fecharegistro='2022-03-08 11:33:20',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='2011711467884120220308113320388',anam_cirugia='CIRUGIA VIDEO',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA VIDEO',anam_tratante='CIRUGIA VIDEO',anam_hijosvivos='',anam_ayudante='CIRUGIA VIDEO',anam_fum=NULL,anam_anestesiologo='CIRUGIA VIDEO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-03-08',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=351 -->2022-09-26 11:47:11
+1-->update dns_hospitalanamesis set usua_id=1,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,clie_id=2,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA VIDEO',anam_planes='CIRUGIA VIDEO',anam_observacionaf='CIRUGIA VIDEO',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA VIDEO',anam_partos='',anam_fecharegistro='2022-03-08 11:33:20',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='2011711467884120220308113320388',anam_cirugia='CIRUGIA VIDEO',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA VIDEO',anam_tratante='CIRUGIA VIDEO',anam_hijosvivos='',anam_ayudante='CIRUGIA VIDEO',anam_fum=NULL,anam_anestesiologo='CIRUGIA VIDEO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-03-08',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=351 -->2022-09-26 11:47:21
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1088,centro_id=1,clie_id=1791,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, REFIERE COMO CAUSA APARENTE QUE HACE APROXIMADAMENTE 2 MESES SUFRE TRAUMA DE NARÍZ, PROVOCANDO CUADRO CLÍNICO DE DIFICULTAD PARA RESPIRAR POR FOSA NASAL DERECHA ACOMPAÑADO DE RONQUIDOS NOCTURNOS POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS TAC EN DONDE EVIDENCIA DESVÍO SEPTAL MÁS HIPERTROFIA DE CORNETES E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='NO REFIERE',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2022-09-22 07:47:38',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='17910102023425721852022092207473877',anam_cirugia='SEPTOPLASTIA + TURBINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. ALMEIDA',anam_hijosvivos='',anam_ayudante='DR. ILLESCAS',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-09-22',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=835 -->2022-09-26 11:54:05
+271-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,emp_id,clie_registrado,clie_especialidad,clie_tratante,tipoci_id,clie_rucci,clie_ayudante,clie_direccion,clie_anestesiologo,clie_apellido,prob_codigo,cant_codigo,tippo_id,clie_nombre,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,orien_id,idgen_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'LIPOSUCCION + PROTESIS MAMARIA','LIPOSUCCION + PROTESIS MAMARIA',12,'',1,'REGISTRADO','CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'1722700836','DRA. DIANA VILLACRES','TUMBACO -  VIA INTEROCEANICA Y GASPAR DE CARVAJAL','DR. MARCO BARRIONUEVO','CHAMBA COLLAGUAZO','17','1705',3,'GABRIELA ALEXANDRA',1,'',6,'','','','1988-11-05',56,7,'0995479552','0987726549','F',4,4,'gabychamba88@gmail.com','','271','2022-09-26 12:43:46','','0117175940042712022092612434611050',NULL,'1','','2799','','','','')-->2022-09-26 12:50:09
+271-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='LIPOSUCCION + PROTESIS MAMARIA',clie_cirugia='LIPOSUCCION + PROTESIS MAMARIA',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR CRISTIAN CACERES',tipoci_id=1,clie_rucci='1722700836',clie_ayudante='DRA. DIANA VILLACRES',clie_direccion='TUMBACO -  VIA INTEROCEANICA Y GASPAR DE CARVAJAL',clie_anestesiologo='DR. MARCO BARRIONUEVO',clie_apellido='CHAMBA COLLAGUAZO',prob_codigo='17',cant_codigo='1705',tippo_id=3,clie_nombre='GABRIELA ALEXANDRA',civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1988-11-05',nac_id=56,tarterial_id=7,clie_emergenciatelf='0995479552',clie_celular='0987726549',clie_genero='F',orien_id=4,idgen_id=4,clie_email='gabychamba88@gmail.com',clie_emergenciacelu='',usua_id='271',clie_registro='2022-09-26 12:43:46',clie_institucion='',clie_enlace='0117175940042712022092612434611050',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2799',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=2771 -->2022-09-26 12:50:32
+185-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,2771,'1722700836-1','2',185,'2022-09-26 13:21:34','','','2022-09-26 13:21:34','CIRUGÍA PROGRAMADA','2022-09-26 13:21:34','1722700836','VIVO',1,'','','0102023425721852022092601213439')-->2022-09-26 13:21:49
+185-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (185,'','LIBRE DEMANDA',1723,1,2771,'','','PACIENTE ADULTA JOVEN, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.','','NO REFIERE','','',4,'15 AÑOS','CIRUGÍA PROGRAMADA','0','2022-09-26 13:21:53','','-','','0','CMR','277101020234257218520220926012153173','LIPOESCULTURA + AUMENTO MAMARIO','0','0','CIRUGÍA PLÁSTICA','DR. CACERES','0','DRA. VILLACRES','2022-09-05','DR. BARRIONUEVO',NULL,'2022-09-22','2022-09-26',0,'',0,'',0,'',0,'',1,'HACE 1 AÑO',0,0,0,0,0,0)-->2022-09-26 13:36:24
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1723,centro_id=1,clie_id=2771,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='',anam_observacionaf='NO REFIERE',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-09-26 13:21:53',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='277101020234257218520220926012153173',anam_cirugia='LIPOESCULTURA + AUMENTO MAMARIO',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2022-09-05',anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc='2022-09-22',anam_fechaingreso='2022-09-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=1,anam_mamografiatxt='HACE 1 AÑO',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=842 -->2022-09-26 13:36:36
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1723,centro_id=1,clie_id=2771,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='NO REFIERE',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-09-26 13:21:53',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='277101020234257218520220926012153173',anam_cirugia='LIPOESCULTURA + AUMENTO MAMARIO',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2022-09-05',anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc='2022-09-22',anam_fechaingreso='2022-09-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=1,anam_mamografiatxt='HACE 1 AÑO',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=842 -->2022-09-26 13:36:46
+213-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,emp_id,clie_registrado,clie_especialidad,clie_tratante,tipoci_id,clie_rucci,clie_ayudante,clie_direccion,clie_anestesiologo,clie_apellido,prob_codigo,cant_codigo,tippo_id,clie_nombre,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,orien_id,idgen_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','',12,'',1,'REGISTRADO','','',1,'1001751351','','CUIDAD BICENTENARIO','','PADILLA LARA','17','1701',2,'JUAN GILBERT',2,'',14,'','','','1971-11-21',56,7,'0968000559','0981052188','M',4,4,'juangilbertpadilla@hotmail.com','','213','2022-09-26 16:11:32','','0117289538922132022092604113233597',NULL,'1','','2800','','','4','')-->2022-09-26 16:13:09
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:09
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:09
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:09
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:09
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:10
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:39
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:13:39
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:20:14
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1001751351',clie_ayudante='',clie_direccion='CUIDAD BICENTENARIO',clie_anestesiologo='',clie_apellido='PADILLA LARA',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='JUAN GILBERT',civil_id=2,clie_parroquia='',conve_id=14,clie_telefono='',clie_ocupacion='',clie_codigoisspol='',clie_fechanacimiento='1971-11-21',nac_id=56,tarterial_id=7,clie_emergenciatelf='0968000559',clie_celular='0981052188',clie_genero='M',orien_id=4,idgen_id=4,clie_email='juangilbertpadilla@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-26 16:11:32',clie_institucion='',clie_enlace='0117289538922132022092604113233597',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2800',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2772 -->2022-09-26 16:24:22
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1104370356',clie_ayudante='',clie_direccion='SAN LUIS DE CHILLOGALLO',clie_anestesiologo='',clie_apellido='VALAREZO COFRE',prob_codigo='17',cant_codigo='1701',tippo_id=3,clie_nombre='CESAR AUGUSTO',civil_id=2,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='EMPLEADO PRIVADO',clie_codigoisspol='',clie_fechanacimiento='1985-05-02',nac_id=56,tarterial_id=7,clie_emergenciatelf='0980951345',clie_celular='0986913652',clie_genero='M',orien_id=4,idgen_id=4,clie_email='cesar.valarezo@sunchemical.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-09-03 09:20:27',clie_institucion='',clie_enlace='0117289538922132022090309202730066',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2679',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2610 -->2022-09-26 17:37:16
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_cirugia='',grp_id=12,clie_token='',emp_id=1,clie_registrado='REGISTRADO',clie_especialidad='',clie_tratante='',tipoci_id=1,clie_rucci='1752681948',clie_ayudante='',clie_direccion='',clie_anestesiologo='',clie_apellido='Cargua Santos',prob_codigo='17',cant_codigo='1701',tippo_id=2,clie_nombre='Alvaro Jesús',civil_id=1,clie_parroquia='',conve_id=8,clie_telefono='023084533',clie_ocupacion='estudiante',clie_codigoisspol='',clie_fechanacimiento='2002-11-18',nac_id=56,tarterial_id=7,clie_emergenciatelf='0998770536',clie_celular='0987641198',clie_genero='M',orien_id=4,idgen_id=4,clie_email='jesus.thesantos@hotmail.com',clie_emergenciacelu='',usua_id='194',clie_registro='2022-07-26 14:41:01',clie_institucion='',clie_enlace='0117230746291942022072602410129847',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2468',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=2329 -->2022-09-26 18:25:04
+185-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1719,centro_id=1,clie_id=2766,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCION BASICA COMPLETA, AMA DE CASA, DIESTRA, CATOLICA, TIPO DE SANGRE B RH +. NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRONICA, CONSULTAN A NEUMOLOGO POR EXHACERBACION DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFIA EN LA QUE SE IDENTIFICA NODULO EN SEGMENTO 6 PULMON IZQUIERDO + INFILTRADO DE PULMON DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCION QUIRURGICA HO, RAZON POR LA QUE INGRESA',anam_planes='1 INGRESO A HOSPITALIZACION
+2 NADA POR VIA ORAL 
+3 FIRMAR CONSENTIMIENTOS INFORMADOS
+4 SUBIR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-09-24 08:38:24',anam_observacionap='',anam_menopausiaedad='50 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='IRREGULARES',anam_enlace='276601131202875419620220924083824491',anam_cirugia='SEGMENTECTOMIA',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGIA CARDIO TORACICA',anam_tratante='DR. EDISON MOYA',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. ALEXANDRA NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-09-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=839 -->2022-09-26 21:46:54
+185-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',185,2766,1,1719,'','839','','','','','2022-09-26 21:46:56','','','','PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.','','276601020234257218520220926094656123','','24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.','','','18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83','','','TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA')-->2022-09-26 21:47:33
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:34
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:34
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:36
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:36
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:37
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:41
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:48
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:50
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:52
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:52
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:47:53
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:48:01
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='',protoop_idenlace='839',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:48:12
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=2766,centro_id=1,atenc_id=1719,anam_altadefinitiva='1',protoop_idenlace='839',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO RESERVADO.',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-09-26 21:46:56',anam_defuncionmenos48='',anam_diasestadia='3',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 59 AÑOS NACIDA RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, INSTRUCCIÓN BÁSICA COMPLETA, AMA DE CASA, DIESTRA, CATÓLICA, TIPO DE SANGRE B RH +.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NO REFIERE
+APP: NO REFIERE
+AGO: MENARQUIA 13 AÑOS, CICLOS IRREGULARES, G:3 P:0 C:2 A: 1 HV: 2
+AQX: NO REFIERE
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 6 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO NO
+VACUNA COVID-19: 2 DOSIS 2022
+APF: MADRE CA DE ÚTERO (FALLECIDA), PADRE CA DE PULMÓN (FALLECIDO)
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE NO REFIERE ANTECEDENTES DE IMPORTANCIA. REFIERE HACE 5 MESES TOS CRÓNICA, CONSULTAN A NEUMÓLOGO POR EXACERBACIÓN DE CUADRO CON PERDIDA DE PESO POR LO QUE REALIZAN TOMOGRAFÍA EN LA QUE SE IDENTIFICA NÓDULO EN SEGMENTO 6 PULMÓN IZQUIERDO + INFILTRADO DE PULMÓN DERECHO + GANGLIOS POR LO QUE CONSULTAN CON MEDICO ESPECIALISTA Y PROGRAMAN INTERVENCIÓN QUIRÚRGICA HO, RAZÓN POR LA QUE INGRESA.',anam_nhoja='',anam_enlace='276601020234257218520220926094656123',anam_discapacidadleve='',anam_resumenevolucion='24/09/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES. SE COLOCÓ INTRAOPERATORIO TUBO TORÁCICO CON CAMPANA TRICAMERAL.
+
+25/09/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO CON MANEJO REGULAR DEL DOLOR A BASE DE INFUSIÓN DE OPIODE DEBIL MÁS AINES POR LO QUE SE AJUSTA DOSIS, CON APOYO DE OXÍGENO SUPLEMENTARIO A BAJO FLUJO, AMBULATORIA ASISTIDA, TUBO TORÁCICO OSCILANTE PRODUCTIVO.
+
+26/09/2022: PACIENTE EN SU SEGUNDO DÍA POST QUIRÚRGICO CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL , DIURESIS ESPONTÁNEA, SE LOGRA DESTETE EXITOSO DE OXÍGENO SUPLEMENTARIO, TUBO TORÁCICO PRODUCE 90 CC EN 12 HORAS SIN DATOS DE FUGA POR LO QUE SE DECIDE RETIRO DEL MISMO, PROCEDIMIENTO REALIZADO BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SIN COMPLICACIONES. PACIENTE AMBULATORIA, CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='18/09/2022: LEUCO 10,4 NEU 84,6% LINFO 9,6% HB 15,6 HCTO 49,2% PLAQ 223000 TTP 43,3 INR 1,14 GLUCOSA 114 UREA 27,45 CREA 0,91 TGO 17,8 TGP 18,83',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+24/09/2022: PROCEDIMIENTO: TORACOSCOPIA + BIOPSIA PULMONAR + VENTANA PERICARDICA + BIOPSIA DE PERICARDIO + BIOPSIA GANGLIO MEDIASTINAL
+HALLAZGOS QUIRÚRGICOS:
+- NÓDULO PULMONAR DE 1 CM EN SEGMENTO 6 IZQUIERDO, DURA, DE COLOR BLANQUECINO
+- DERRAME PERICÁRDICO 300 CC SEROHEMÁTICO
+- PERICARDIO DE ESPESOR NORMAL, HIPERÉMICO
+- GANGLIO MEDIASTINAL CADENA 5 NEGRUZCO, DURO, VASCULARIZADO
+- RESTO DE PARENQUIMA PULMONAR DE ASPECTO NORMAL
+- PLEURA PARIETAL Y VESCERAL DE ASPECTO NORMAL
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:
+- SOLUCIÓN SALINA 0.9% 1000 ML PASAR IV A 80 ML/HORA SUSPENDER CON TOLERANCIA ORAL  
+- TRAMADOL 300 MG + KETOROLACO 90 MG + SOLUCIÓN SALINA 0.9% 250 ML PASAR IV A 5 ML/HORA Y LUEGO A 10 ML/HORA
+- OMEPRAZOL 40 MG IV CADA 12 HORAS
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+- METAMIZOL 1 GRAMO IV POR RAZONES NECESARIAS
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS
+- OMEPRAZOL 20 MG VO CADA 12 HORAS
+- PARACETAMOL 1 GRAMO VO CADA 6 HORAS
+- METAMIZOL 1 GRAMO VO C/8 HORAS
+- ENOXAPARINA 40 MG SC CADA DIA' where anam_id=358 -->2022-09-26 21:48:54

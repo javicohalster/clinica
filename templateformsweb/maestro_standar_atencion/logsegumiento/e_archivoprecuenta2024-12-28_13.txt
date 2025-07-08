@@ -1,0 +1,1 @@
+269-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('RETIRO DE PUNTO ','2024-12-28','','1','6','1','25','10381','01172263510726920241228120255203','2024-12-28 12:03:54','269')-->2024-12-28 12:03:54

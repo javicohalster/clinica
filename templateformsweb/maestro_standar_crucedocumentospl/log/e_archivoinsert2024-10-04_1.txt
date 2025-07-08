@@ -1,0 +1,1 @@
+502-->delete from pichinchahumana_extension.lpin_cruceanticipos where crudoc_enlace='0164A57683D5A8327820230705085619218' and cruant_id=98-->2024-10-04 16:56:40

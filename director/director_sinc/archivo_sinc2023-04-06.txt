@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_groupprint='1' where fie_id='9464';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9465';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9474';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9466';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9467';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9468';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9469';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9470';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9471';
+update gogess_sisfield set fie_groupprint='1' where fie_id='9472';
+update gogess_sisfield set fie_groupprint='7' where fie_id='9744';

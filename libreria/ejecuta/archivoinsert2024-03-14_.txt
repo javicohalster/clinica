@@ -1,0 +1,27 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7611,atenc_id='6618',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-03-14 15:57:56',protoop_selectiva='1',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-03-14',protoop_sintesis='',protoop_idenlace='706',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='15:00',protoop_sintesisimagen='89840MDZZ20240314.jpg',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. JAVIER TORRES',protoop_horafin='17:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='ARTROSCOPIA DIAGNOSTICA + PLASTIA DE SUPRAESPINOSO',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM, SINOVITIS +PLASTIA SLAP + TENOTOMIA + SINOVECTOMIA + BURSECTOMIA, LIBERACION MANUAL CONANESTESIA',protoop_dieresis='PORTALES ARTROSCOPICOS POSTERIOR ANTERIOR ANTEROLATERAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LENIN CLAVIJO',protoop_enlace='761101171442027818120240314035756225',protoop_circulante='BELEN SANCHEZ',protoop_exposicion='TORRE DE ARTROSCOPIA, BOMBA DE IRRIGACION CON KIT DESECHABLE Y SS 0,9% 10000CC',protoop_anestesiologo='DR. OSCAR CACHIMUEL',protoop_exploracion='SINOVITIS EXTENSA, HOMBRO CONGELADO, SLAP TIPO II, DESFLECAMIENTO DE TENDON DE BICEPS, ROTURA TOTAL DE SUPRAESPINOSO, BURSITIS SURACROMIAL',protoop_ayudanteanestesia='DR. ANDRES CAIZA',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN SILLA DE PLAYA 
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS OPERATORIOS
+4.	INFILTRACION DE ARTICULACION CON MARCAINA 20CC AL MEDIOGUIADA CON PERICAN 18
+5.	PORTAL POSTERIOR, INTRODUCCION DE CAMARA Y ARTROSCOPIA DIAGNOSTICA
+6.	PORTAL ANTERIOR
+7.	SINOVECTOMIA AMPLIA CON SHAVER
+8.	HEMOSTASIA CON RADIOFRECUENCIA Y RECONOCIMIENTO DE HALLAZGOS ANTES DESCRITOS
+9.	CUENTEADO DE LESION DE SLAP
+10.	COLOCACION DE UNA SUPERSUTURA #2 CON SINCHA PERFORACION CON BROCA 2,6
+11.	COLOCACION DE ANCLA SIN NUDO DE PEEK 3,5 
+12.	TENOTOMIA DE BICEPS CON RADIOFRECUENCIA Y RETIRO DE MUÑON 
+13.	BURSECTOMIA  Y ACROMIOPLASTIA CON SHAVER Y RADIOFRECUENCIA
+14.	CRUENTEADO DE FOOT PRINT CON FRESA 
+15.	COLOCACION DE DOS SUTURAS #2 Y FORMACION DE SINCHA
+16.	COLOCACION DE UNA ANCLA  4,5 SIN NUDO CON PUNTA DE TITANIO CON CIERRE ANTERIOR DE LA LESION 
+17.	CONTROL DE RESULTADOS
+18.	SINTESIS
+
+CODIGOS 
+
+ARTROSCOPIA DIAGNOSTICA DE HOMBRO 29805
+REPARACION DE SUPRAESPINOSO 29827
+SINOVECTOMIA 29821
+REPARACION SLAP 28907
+BURSECTOMIA ACROMIOPLASTIA 29826
+TENOTOMIA DEL BICEPS 23406',protoop_complicaciones='NO',protoop_perdida='',protoop_sangrado='30',protoop_protesico='0',anam_enlace='' where protoop_id=979 -->2024-03-14 18:14:46

@@ -1,0 +1,8 @@
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='5064';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='5080';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='7774';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='7386';
+update gogess_sisfield set fie_type='textpeke' where fie_id='7386';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='7386';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='5082';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='5117';

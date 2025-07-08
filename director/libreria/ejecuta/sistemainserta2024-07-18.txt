@@ -1,0 +1,2 @@
+insert into beko_tarifa (impu_codigo,tari_bloquear,tari_codigo,tari_nombre,tari_valor) values (2,1,8,'IVA diferenciado',8)
+insert into beko_tarifa (impu_codigo,tari_bloquear,tari_codigo,tari_nombre,tari_valor) values (2,1,5,'5%',5)

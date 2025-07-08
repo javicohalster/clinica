@@ -1,0 +1,2 @@
+update sth_report set categr_id=17,rept_activo=0,rept_aleatunico='17149074492024072411175366',rept_archivopersonalizado='',rept_campos='',rept_nombre='REPORTE MEDICO-PACIENTE',rept_observacion='LISTATO',rept_tabla='' where rept_id=61 
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='171490744920240807041834170',rept_archivopersonalizado='standarmedicopaciente_panel.php',rept_campos='',rept_nombre='MEDICO PACIENTE',rept_observacion='Lista de pacientes por medico',rept_tabla='' where rept_id=62 

@@ -1,0 +1,14 @@
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'inventario_precios','select dns_cuadrobasicomedicamentos.cuadrobm_codigoatc as cuadrobm_codigoatc,
+dns_cuadrobasicomedicamentos.cuadrobm_principioactivo as cuadrobm_principioactivo,
+dns_cuadrobasicomedicamentos.cuadrobm_nombrecomercial as cuadrobm_nombrecomercial,
+dns_preciostiempo.precio_compra as precio_compra,
+dns_preciostiempo.precio_pvp as precio_pvp
+from dns_cuadrobasicomedicamentos 
+left join  dns_preciostiempo on dns_cuadrobasicomedicamentos.cuadrobm_id=dns_preciostiempo.cuadrobm_id','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','cuadrobm_codigoatc',1,19)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','cuadrobm_principioactivo',1,19)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','cuadrobm_nombrecomercial',1,19)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','precio_compra',1,19)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','precio_pvp',1,19)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','precio_fechamodi',1,19)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','',1,1,'Inventario Ultimo Precio','649b94e192af02023062802031318','1',180)

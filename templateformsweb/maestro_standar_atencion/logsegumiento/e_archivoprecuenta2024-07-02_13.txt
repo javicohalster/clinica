@@ -1,0 +1,2 @@
+381-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('CONSULTA','2024-07-02','','1','14','2','3','8842','01180375981838120240702094146431','2024-07-02 09:42:50','381')-->2024-07-02 09:42:50
+381-->update dns_precuenta set precu_observacion='EMERGENCIA',precu_fechainicio='2024-07-02',precu_fechafinal='',precu_activo='1',convepr_id='14',categesp_id='1',especipr_id='25',clie_id='8842' where precu_id='9822'-->2024-07-02 09:46:58

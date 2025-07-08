@@ -1,0 +1,14 @@
+update gogess_sisfield set fie_title='Retencion:' where fie_id='9394';
+update gogess_sisfield set fie_title='Notas Credito:' where fie_id='9395';
+update gogess_sisfield set fie_title='Campo Firmado:' where fie_id='9397';
+update gogess_sisfield set fie_title='Sin Firma:' where fie_id='9398';
+update gogess_sisfield set fie_title='Campo XML Firmado:' where fie_id='9399';
+update gogess_sisfield set fie_title='Campo id:' where fie_id='9400';
+update gogess_sisfield set fie_title='Activo Firma:' where fie_id='9401';
+update gogess_sisfield set fie_title='Estado SRI:' where fie_id='9402';
+update gogess_sisfield set fie_title='Motivo Devolucion:' where fie_id='9403';
+update gogess_sisfield set fie_orden='2' where fie_id='9550';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='9550';
+update gogess_sisfield set fie_title='Codigo Instituci&oacute;n:' where fie_id='4270';
+update gogess_sisfield set fie_title='Nombre Instituci&oacute;n:' where fie_id='4271';
+update gogess_sisfield set fie_title='Precio Instituci&oacute;n:' where fie_id='4272';

@@ -1,0 +1,1 @@
+536-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('HOSPITALIZACION','2025-01-26','','1','6','3','23','10599','01172623151553620250126082944179','2025-01-26 20:30:39','536')-->2025-01-26 20:30:39

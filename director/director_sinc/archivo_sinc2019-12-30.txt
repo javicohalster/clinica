@@ -1,0 +1,6 @@
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';
+update gogess_sisfield set fie_title='4 SIGNOS VITALES Y MEDICIONES' where fie_id='5604';

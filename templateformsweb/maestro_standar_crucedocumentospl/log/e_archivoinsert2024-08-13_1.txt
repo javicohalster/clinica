@@ -1,0 +1,15 @@
+319-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164A5956DBCB9319720230705110813330' and crucue_id=329-->2024-08-13 00:14:16
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166143B6C3467E45820240408014604327' and crucue_id=954-->2024-08-13 11:23:48
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166288D35D6ABF19720240423114021232' and crucue_id=1137-->2024-08-13 11:24:14
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','446','900','0166BB8C40C266550220240813113928461','2024-08-13 11:39:50','502')-->2024-08-13 11:39:50
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','446','450','0166BB8C787338550220240813114024307','2024-08-13 11:40:41','502')-->2024-08-13 11:40:41
+502-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.10',crucue_persona='2287',crucue_valorpago='5664' where crucue_id='969'-->2024-08-13 11:58:17
+502-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.10',crucue_persona='2287',crucue_valorpago='5664.20' where crucue_id='969'-->2024-08-13 11:58:25
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016615AF6C1FBF645820240409041316316' and crucue_id=1138-->2024-08-13 12:12:07
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','753','399','016615AF6C1FBF645820240409041316316','2024-08-13 12:18:18','502')-->2024-08-13 12:18:18
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016615AF6C1FBF645820240409041316316' and crucue_id=1412-->2024-08-13 12:19:16
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','753','399','016615AF6C1FBF645820240409041316316','2024-08-13 12:19:47','502')-->2024-08-13 12:19:47
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01659D742BE06A31972024010911282750' and crucue_id=778-->2024-08-13 12:35:02
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01659D7426B67C019720240109112822220' and crucue_id=779-->2024-08-13 12:36:27
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='305',cruant_anticipo='51',cruant_fechaemision='2023-12-30',cruant_valor='650',cruant_saldo='0',cruant_valorpago='650' where cruant_id='31'-->2024-08-13 12:43:49
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='446',cruant_anticipo='48',cruant_fechaemision='2023-10-26',cruant_valor='700',cruant_saldo='0',cruant_valorpago='700' where cruant_id='29'-->2024-08-13 12:47:25

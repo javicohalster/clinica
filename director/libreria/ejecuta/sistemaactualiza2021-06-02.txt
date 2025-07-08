@@ -1,0 +1,2 @@
+update sth_report set rept_aleatunico='171146788420190816020323152',rept_nombre='Registro Diario Medicina',rept_activo=1,rept_tabla='',rept_campos='',rept_archivopersonalizado='registrodiario_panel.php',categr_id=15 where rept_id=12 
+update sth_report set rept_aleatunico='171146788420190816020323152',rept_nombre='REGISTRO DIARIO MEDICINA',rept_activo=1,rept_tabla='',rept_campos='',rept_archivopersonalizado='registrodiario_panel.php',categr_id=15 where rept_id=12 

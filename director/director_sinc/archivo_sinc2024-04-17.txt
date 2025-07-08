@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_groupprint='0' where fie_id='7208';
+update gogess_sisfield set fie_groupprint='0' where fie_id='7207';

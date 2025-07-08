@@ -1,0 +1,7 @@
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='753',cruant_anticipo='39',cruant_fechaemision='2023-08-19',cruant_valor='4805',cruant_saldo='0',cruant_valorpago='4805' where cruant_id='41'-->2024-07-31 12:03:50
+502-->delete from pichinchahumana_extension.lpin_cruceanticipos where crudoc_enlace='0166286DDD6667719720240423092637355' and cruant_id=41-->2024-07-31 12:04:35
+502-->insert into pichinchahumana_extension.lpin_cruceanticipos (cruant_persona,cruant_anticipo,cruant_fechaemision,cruant_valor,cruant_saldo,cruant_valorpago,crudoc_enlace,cruant_fecharegistro,usua_id) values ('753','39','2023-08-19','4805','0','4805','0166286DDD6667719720240423092637355','2024-07-31 12:05:19','502')-->2024-07-31 12:05:19
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016616DA8F28F4645820240410012935459' and crucue_id=1026-->2024-07-31 12:14:56
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','369','1000','0166AA993F2C3B350220240731030623473','2024-07-31 15:07:57','502')-->2024-07-31 15:07:57
+502-->delete from pichinchahumana_extension.lpin_cruceanticipos where crudoc_enlace='01668EB48B8DADB50220240710111923429' and cruant_id=26-->2024-07-31 16:09:10
+502-->delete from pichinchahumana_extension.lpin_cruceanticipos where crudoc_enlace='01668EB4F67190C50220240710112110187' and cruant_id=27-->2024-07-31 16:09:54

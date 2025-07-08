@@ -1,0 +1,1 @@
+insert into lpin_cuentasenlace (enla_id,enlacuenta_numerocuenta,enlacuenta_nombrecuenta,tr_id,enlacuenta_activo,enlacuenta_fecharegistro,actr_id,categ_id,catgp_id,ttra_id) values (2,'5.2.2.1','Otros Gastos',1,1,'2023-04-25 02:46:38',8,0,0,0)

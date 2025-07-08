@@ -1,0 +1,6 @@
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index: campo_validar in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 20
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index:  in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 20
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index: idg in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 41
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index: campo_validar in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 53
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index:  in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 53
+[13-Sep-2021 15:35:24 America/Guayaquil] PHP Notice:  Undefined index: tipoci_id in /home/cedifene/public_html/cedifev2/formularioweb/libreria/validaciones/validar_cedulapaciente.php on line 91

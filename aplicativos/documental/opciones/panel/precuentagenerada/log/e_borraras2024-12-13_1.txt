@@ -1,0 +1,4 @@
+510-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='13135' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='213048')-->2024-12-13 15:27:49
+510-->delete from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='13135' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='213048'-->2024-12-13 15:27:49
+510-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='13112' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='213079')-->2024-12-13 16:15:02
+510-->delete from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='13112' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='213079'-->2024-12-13 16:15:02

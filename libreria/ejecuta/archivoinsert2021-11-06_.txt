@@ -1,0 +1,19 @@
+-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2021-11-05 17:38:27',atenc_id=102,centro_id=1,clie_id=145,protoop_exposicion='INTENSIFICADOR DE IMAGEN 
+MANUAL E INSTRUMENTAL',protoop_exploracion='DECOLAMIENTO EPIFISARIO SEVERO DE CADERA DERECHA ESTABLE
+CADERA VARA',protoop_examen='0',protoop_procedimiento='1.	PACIENTE EN DE CUBITO SUPINO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	DIERESIS DESCRITA
+5.	APERTURA DE FASCIA LATA
+6.	APERTURA MUSCULAR HASTA TEJIDO OSEO 
+7.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+8.	DESPERIOSTIZACION DE DIAFISIS FEMORAL 
+9.	SEÑALIZACION DE NIVEL DE OSTEOTOMIA
+10.	OSTEOTOMIA TRANSVERSAL SUBTROCANTERICA
+11.	COLOCACION DE LACA ANGULADA DE CADERA PROXIMAL EN 150 GRADOS DE 4 ORIFICIOS  EN EXTREMO PROXIMAL  CON TORNILLOS 3,4 *30MM Y * 40MM
+12.	ADOSAMIENTO DE PLACA EN EXTREMO DISTAL DE FEMUR Y VALGUIZACION DE FRAGMENTO PROXIMAL CON TRES TORNILLOS BLOQUEADOS DE 3,4MM * 22MM
+13.	PROCEDIMIENTO CONTROLADO CON INTENSIFICADOR DE IMAGEN 
+14.	REVISION DE RESULTADOS
+15.	LAVADO DE AREA CRUENTA
+16.	SISNTESIS',protoop_proyectada='OSTEOTOMIA VALGUIZANTE DE CADERA DERECHA',protoop_sintesis='APONEUROSIS, FASCIA LATA Y TCS VICRYL 1.0
+PIEL NYLON 3.0',protoop_cirujanouno='DR. FRANCISCO GUZMAN',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='INCISION LATERAL DE CADERA DERECHA DE 10CM',protoop_selectiva='1',protoop_instrumentista='SRA. MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. RENATO GUERRA',protoop_circulante='SRTA. IRENE ROJAMIN',protoop_idenlace='134',protoop_paleativa='',protoop_realizada='IDEM + OTS CON PLACA BLOQUEADA',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='1450117144202781812021110505382739',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='00000-11-05',protoop_horainicio='15:30',protoop_horafin='18:00' where protoop_id=76 -->2021-11-06 12:05:15

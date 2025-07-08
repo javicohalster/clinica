@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_title='Campos extras buscador:' where fie_id='9765';
+update gogess_sisfield set fie_title='Filtro buscador:' where fie_id='9766';

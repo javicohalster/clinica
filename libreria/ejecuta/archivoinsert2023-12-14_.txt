@@ -1,0 +1,36 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6038,atenc_id='5037',usua_id=437,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-12-14 09:48:53',protoop_selectiva='1',protoop_cirujanouno='DR RICARDO YEPEZ',protoop_fechaoperacion='',protoop_sintesis='',protoop_idenlace='362',protoop_general='',protoop_transquirurgico='no',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. FATIMA GUALOTUÑA',protoop_horafin='',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PTU',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='PTU',protoop_dieresis='NINGUNA',protoop_examendetalle='prostata',protoop_tecerayudante='',protoop_patologo='prostata',protoop_instrumentista='HEIDY VASQUEZ',protoop_enlace='603801120252179343720231214094853272',protoop_circulante='JENNY QUICHAN',protoop_exposicion='Posición de litotomía 
+Torre de video 
+Ureteroscopio rígido  + visión endoscopia',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_exploracion='estrechez de uretra
+prostata trilobar de mas o menos 60 gr
+lóbulo medio intravesical
+cuello vesical elevado 
+paredes vesicales trabeculadas grado II , III
+meatos ureterales ortotopicos',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. Asepsia y antisepsia
+2. Colocación de campos quirúrgicos
+3. Dilatación uretral con Beniques hasta 30 FR
+4. Introducción de camisa y obturador 26 fr flujo continuo
+5. Retiro de obturador e introducción de lente telescópico de 30 grados con elemento de trabajo bipolar
+6. Uretrocistoscopía diagnóstica con hallazgos descritos
+7. Resección transuretral de la próstata y cauterización de puntos sangrantes
+8. Lavado vesical con jeringuilla de toomey
+9. Revisión de hemostasia
+10. Retiro de instrumental
+11. Colocación de sonda Foley 22FR 3 vías con irrigación continua',protoop_complicaciones='ninguna',protoop_perdida='100',protoop_sangrado='100',protoop_protesico='0',anam_enlace='' where protoop_id=537 -->2023-12-14 11:36:45
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6038,atenc_id='5037',usua_id=437,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-12-14 09:48:53',protoop_selectiva='1',protoop_cirujanouno='DR RICARDO YEPEZ',protoop_fechaoperacion='',protoop_sintesis='',protoop_idenlace='362',protoop_general='',protoop_transquirurgico='no',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. FATIMA GUALOTUÑA',protoop_horafin='',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PTU',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='PTU',protoop_dieresis='NINGUNA',protoop_examendetalle='prostata',protoop_tecerayudante='',protoop_patologo='prostata',protoop_instrumentista='HEIDY VASQUEZ',protoop_enlace='603801120252179343720231214094853272',protoop_circulante='JENNY QUICHAN',protoop_exposicion='Posición de litotomía 
+Torre de video 
+Ureteroscopio rígido  + visión endoscopia',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_exploracion='estrechez de uretra
+prostata trilobar de mas o menos 60 gr
+lóbulo medio intravesical
+cuello vesical elevado 
+paredes vesicales trabeculadas grado II , III
+meatos ureterales ortotopicos',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. Asepsia y antisepsia
+2. Colocación de campos quirúrgicos
+3. Dilatación uretral con Beniques hasta 30 FR
+4. Introducción de camisa y obturador 26 fr flujo continuo
+5. Retiro de obturador e introducción de lente telescópico de 30 grados con elemento de trabajo bipolar
+6. Uretrocistoscopía diagnóstica con hallazgos descritos
+7. Resección transuretral de la próstata y cauterización de puntos sangrantes
+8. Lavado vesical con jeringuilla de toomey
+9. Revisión de hemostasia
+10. Retiro de instrumental
+11. Colocación de sonda Foley 22FR 3 vías con irrigación continua',protoop_complicaciones='ninguna',protoop_perdida='100',protoop_sangrado='100',protoop_protesico='0',anam_enlace='' where protoop_id=537 -->2023-12-14 11:36:50

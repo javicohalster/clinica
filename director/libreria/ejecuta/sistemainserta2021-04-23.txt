@@ -1,0 +1,1 @@
+insert into gogess_itemmenu (men_id,ite_titulo,ite_link,ite_detalle,ite_style,ite_active,ite_order,ite_extra,ite_linktable,ite_tipd,ite_submenu) values (4,'Convenios','','','',1,33,'','pichinchahumana_extension.dns_convenios',1,0)

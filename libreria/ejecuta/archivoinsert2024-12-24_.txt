@@ -1,0 +1,20 @@
+-->update dns_newconsultaexternaanamesis set clie_id=9177,usua_id=318,centro_id=1,atenc_id=8065,anam_referencia='',anam_emferpactual='cefaleas ... antecedente de    gripe     que  reagudizan la cefalea .  refiere    mediciacion   dalivium    con lo cual  dolor    no  cede  totalmente  acude con tac  En el presente estudio no se identifican hipodensidades, hiperdensidades ni lesiones ocupantes de
+espacio en el parénquima cerebral.
+El sistema ventricular es de configuración habitual en la línea media.
+La relación entre la sustancia gris y blanca se encuentra conservada.
+Calcificación fisiológica de los plexos coroideos y glándula pineal.
+Tronco del encéfalo y cuarto ventículo sin alteraciones.
+Se realiza cortes axilares y reconstrucción MPR (reconstrucción multi paramétrica) aplicando MIP
+(Máxima intensidad de proyección) evidenciando al sistema arterial del polígono de Willis con vasos de
+trayecto y realce normales, sin evidencia de lesiones aneurismáticas o malformaciones vasculares al
+momento del estudio.
+Comunicante posterior derecha no visualizada como variante anatómica.
+Estructuras venosas identificables sin evidencia de patología.
+En ventana ósea se aprecia incidentalmente engrosamiento mucoso marginal de senos maxilares,
+celdillas etmoidales anteriores y de la lobulación izquierda del seno frontal, con obliteración del
+conducto ostiomeatal derecho.
+Orientación paradójica del cornete medio derecho.
+Tabique nasal con desvío sinuoso en el área III de Cottlé.
+IMPRESIÓN DIAGNÓSTICA.
+Comunicante posterior derecha no visible como variante anatómica.
+Sinusitis.',anam_planes='control',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='cefaleas ... antecedente de    gripe     que  reagudizan la cefalea',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-12-24 13:56:03',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='917701100287907831820241224015603256' where anam_id=2940 -->2024-12-24 15:53:42

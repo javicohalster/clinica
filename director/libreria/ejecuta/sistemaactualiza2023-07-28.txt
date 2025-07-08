@@ -1,0 +1,112 @@
+update gogess_sistable set tab_name='dns_newconsultaexternaanamesis',tab_title='CONSULTA EXTERNA - Consulta Externa - Anamnesis y Examen Físico SNS-MSP / HCU-form.002 / 2021 <b>(PRIMERA VEZ)</b>',tab_information='',st_id=7,tab_bextras='',tab_rel='',tab_crel='',tab_trel=0,tab_mdobuscar='',tab_actv=1,tab_valextguardar='',tab_datosf=0,instan_id=2,tab_sqlimp='',tab_archivoimp='',tab_tipoimp=0,tab_archivo=1,tab_formatotabla=1,ayu_id=0,tab_nlista=30,tab_tablaregreso='',tab_campoprimario='anam_id',tab_tipocampoprimariio='int',tab_camposgrid='anam_id,clie_id,anam_nhoja,anam_hc,usua_id',tab_scriptorden='order by anam_id desc',tab_campogeneracion='',tab_campoorden='',tab_compilar=0,tab_sri=0,tab_camposecsri='',tab_historialmedico=0,tab_codigo='',tab_stringconection='',datab_id=0,tab_sysmedico=1,tab_estructura=1 where tab_id=556 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='cssobj',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogrid',fie_lencampo='25',fie_name='anam_dispositivosmedicos',tab_name='dns_newconsultaexternaanamesis',fie_title='DISPOSITIVOS MEDICOS',fie_type='campogrid',fie_tabledb='dns_newconsultaexternaanamesis',fie_datadb='',fie_active=0,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='14',fie_sql='',fie_sendvar='anam_enlacex',fie_tactive=0,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=1,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandardispositivo.php',fie_groupprint='14',fie_anchocolomna='12',fie_tablasubgrid='pichinchahumana_extension.dns_newconsultaexternadispositivos',fie_campoenlacesub='anam_enlace',fie_tablasubgridcampos='plantrai_codigo,plantrai_nombredispositivo,plantrai_precio,plantrai_cantidad,plantrai_indicaciones',fie_tablasubcampoid='plantrai_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='plantrai_fecharegistro',fie_tituloscamposgrid='Código,Dispositivo,Precio,Cantidad,Indicaciones,Fecha Registro',fie_camposobligatoriosgrid='plantrai_codigo,plantrai_nombredispositivo,plantrai_precio,plantrai_cantidad,plantrai_indicaciones',fie_camposgridselect='plantrai_codigo,plantrai_nombredispositivo,plantrai_precio,plantrai_cantidad,plantrai_indicaciones,plantrai_fecharegistro',fie_alias='',ttbl_id=4,fie_camposumar='',fie_crear=0,fie_scriptbuscador='' where fie_id=10678 
+update gogess_sistable set tab_name='dns_newconsultaexternaconsultaexterna',tab_title='CONSULTA EXTERNA - Evolución y Prescripciones SNS-MSP / HCU-form.002 / 2021',tab_information='',st_id=7,tab_bextras='',tab_rel='',tab_crel='',tab_trel=0,tab_mdobuscar='',tab_actv=1,tab_valextguardar='',tab_datosf=0,instan_id=2,tab_sqlimp='',tab_archivoimp='',tab_tipoimp=0,tab_archivo=1,tab_formatotabla=1,ayu_id=0,tab_nlista=30,tab_tablaregreso='',tab_campoprimario='conext_id',tab_tipocampoprimariio='int',tab_camposgrid='conext_id,clie_id,conext_nhoja,conext_hc,usua_id,conext_motivoconsulta',tab_scriptorden='order by conext_id desc',tab_campogeneracion='',tab_campoorden='',tab_compilar=0,tab_sri=0,tab_camposecsri='',tab_historialmedico=0,tab_codigo='',tab_stringconection='',datab_id=0,tab_sysmedico=1,tab_estructura=1 where tab_id=558 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='cssobj',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogridsub',fie_lencampo='25',fie_name='conext_dispositivosmedicos',tab_name='dns_newconsultaexternaconsultaexterna',fie_title='DISPOSITIVOS MEDICOS',fie_type='campogridsub',fie_tabledb='dns_newconsultaexternaconsultaexterna',fie_datadb='',fie_active=0,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='12',fie_sql='',fie_sendvar='conext_enlacex',fie_tactive=0,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=1,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandardispositivo.php',fie_groupprint='12',fie_anchocolomna='12',fie_tablasubgrid='pichinchahumana_extension.dns_dispositivomedicoexterno',fie_campoenlacesub='conext_enlace',fie_tablasubgridcampos='plantrai_codigo,plantrai_nombredispositivo,plantrai_precio,plantrai_cantidad,plantrai_indicaciones',fie_tablasubcampoid='plantrai_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='plantrai_fecharegistro',fie_tituloscamposgrid='Código,Dispositivo,Cantidad,Indicaciones,Fecha Registro',fie_camposobligatoriosgrid='plantrai_codigo,plantrai_nombredispositivo,plantrai_precio,plantrai_cantidad,plantrai_indicaciones',fie_camposgridselect='plantrai_codigo,plantrai_nombredispositivo,plantrai_cantidad,plantrai_indicaciones,plantrai_fecharegistro',fie_alias='',ttbl_id=4,fie_camposumar='',fie_crear=0,fie_scriptbuscador='' where fie_id=10740 
+update dns_formatoreceta set emp_id=1,forrect_nombre='RECETAS',forrect_texto='<table border="0" style="height:654px; width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<div style="text-align: center;">-grafico1-</div>
+			</td>
+			<td>
+			<div style="text-align: center;"><strong>CLINICA LOS PINOS</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div class="css_receta" style="text-align: right;"><span style="font-size:20px"><strong>No</strong> -codigo-</span></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>UNIDAD DE SALUD: CLINICA LOS PINOS</strong> -centro-<br />
+			<strong>NOMBRE:</strong> -clie_nombre- -clie_apellido-<br />
+			<strong>EDAD:</strong> -edad-<br />
+			<strong>No. H.C.L o C.I.:</strong> -clie_rucci-<br />
+			<strong>FECHA:</strong> -fecha-</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>PRESENTACION</strong> (Nombre gen&eacute;rico, forma farmac&eacute;utica, concentaci&oacute;n, cantidad)<br />
+			-receta-</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><strong>M&eacute;dico:</strong> -usua_nombre- -usua_apellido-<br />
+			<strong>C&oacute;digo Profesional:</strong> -usua_msp-</p>
+
+			<p><br />
+			<strong>Firma:</strong>.........................................................</p>
+
+			<p><br />
+			<strong>Sello:</strong>..........................................................</p>
+
+			<p><br />
+			<strong>C.I.E:</strong>-diagnostico-<br />
+			<strong>Tipo de tratamiento:</strong> A( ) C( ) U( )<br />
+			<strong>D&iacute;as de tratamiento:</strong>..................................................</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div>______________________________________________________________________<br />
+			C.I.E.: Clasificaci&oacute;n Internacional de las Enfermedades<br />
+			A=Agudo, C=Cr&oacute;nico, U=Urgente<br />
+			<strong>FARMACIA - ORGINAL<br />
+			M&Eacute;DICO - COPIA </strong></div>
+			</td>
+		</tr>
+	</tbody>
+</table>',forrect_grafico1='47753VQFJS20200301.logoreceta.png',forrect_grafico2='',forrect_grafico3='',forrect_grafico4='' where forrect_id=1 
+update dns_formatoreceta set emp_id=1,forrect_nombre='RECETAS',forrect_texto='<table border="0" style="height:654px; width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<div style="text-align: center;">-grafico1-</div>
+			</td>
+			<td>
+			<div style="text-align: center;"><span style="font-size:22px"><strong>CLINICA LOS PINOS</strong></span></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div class="css_receta" style="text-align: right;"><span style="font-size:20px"><strong>No</strong> -codigo-</span></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>UNIDAD DE SALUD: </strong><!--StartFragment-->CLINICA LOS PINOS PINOSMED CIA.LTDA.<!--EndFragment--><br />
+			<strong>NOMBRE:</strong> -clie_nombre- -clie_apellido-<br />
+			<strong>EDAD:</strong> -edad-<br />
+			<strong>No. H.C.L o C.I.:</strong> -clie_rucci-<br />
+			<strong>FECHA:</strong> -fecha-</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>PRESENTACION</strong> (Nombre gen&eacute;rico, forma farmac&eacute;utica, concentaci&oacute;n, cantidad)<br />
+			-receta-</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><strong>M&eacute;dico:</strong> -usua_nombre- -usua_apellido-<br />
+			<strong>C&oacute;digo Profesional:</strong> -usua_msp-</p>
+
+			<p><br />
+			<strong>Firma:</strong>.........................................................</p>
+
+			<p><br />
+			<strong>Sello:</strong>..........................................................</p>
+
+			<p><br />
+			<strong>C.I.E:</strong>-diagnostico-<br />
+			<strong>Tipo de tratamiento:</strong> A( ) C( ) U( )<br />
+			<strong>D&iacute;as de tratamiento:</strong>..................................................</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div>______________________________________________________________________<br />
+			C.I.E.: Clasificaci&oacute;n Internacional de las Enfermedades<br />
+			A=Agudo, C=Cr&oacute;nico, U=Urgente<br />
+			<strong>FARMACIA - ORGINAL<br />
+			M&Eacute;DICO - COPIA </strong></div>
+			</td>
+		</tr>
+	</tbody>
+</table>',forrect_grafico1='47753VQFJS20200301.logoreceta.png',forrect_grafico2='',forrect_grafico3='',forrect_grafico4='' where forrect_id=1 

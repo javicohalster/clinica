@@ -1,0 +1,8 @@
+update gogess_sisfield set fie_orden='37' where fie_id='4114';
+update gogess_sisfield set fie_orden='38' where fie_id='5216';
+update gogess_sisfield set fie_orden='39' where fie_id='7183';
+update gogess_sisfield set fie_orden='36' where fie_id='9099';
+update gogess_sisfield set fie_title='Puesto de trabajo:' where fie_id='9099';
+update gogess_sisfield set fie_type='textpeke' where fie_id='9099';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='9099';
+update gogess_sisfield set field_type='' where fie_id='4114';

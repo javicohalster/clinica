@@ -1,0 +1,12 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7130,atenc_id='6240',usua_id=448,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-05-06 10:48:58',protoop_selectiva='1',protoop_cirujanouno='DR. ANDRES ANDRADE',protoop_fechaoperacion='2024-05-06',protoop_sintesis='',protoop_idenlace='888',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='11:30',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. PAMELA GORDILLO',protoop_horafin='12:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PROCTOPEXIA PERINEAL + HEMORROIDOPEXIA CON GRAPADOR',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='PROCTOPEXIA PERINEAL + HEMORROIDOPEXIA CON GRAPADORA + ANOSCOPIA CON DILATACION',protoop_dieresis='ANORRECTAL',protoop_examendetalle='HEMORROIDES',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='713001100252175344820240506104858102',protoop_circulante='',protoop_exposicion='ANOSCOPIA',protoop_anestesiologo='',protoop_exploracion='1. PROLAPSO MUCOSO ANAL CIRCUNFERENCIAL
+2. HEMORROIDES CONGESTIVAS PROLAPSADAS EN LOS RADIOS DE LAS 3,5 Y 9',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. COLOCACION DE PACIENTE EN POSICION DE NAVAJA SEVILLANA
+2. SEPARACION DE GLUTEOS CON CINTA ADHESIVA
+3. ASEPSIA Y ANTISEPSIA.
+4. ANOSCOPIA MAS DILATACION ANAL, CON EXPLORACION EN LOS 4 CUADRANTES
+5. FIJACION DE ANOSCOPIO CON SEDA 0 REGION PERIANAL ANTERIOR Y POSTERIOR.
+6. INTRODUCCION DE ANOSCOPIO FENESTRADO PARA REALIZACION DE JARETA CON PROLENE 00 DE MANERA CIRCUNFERENCIAL Y COMPROBACION DE LA MISMA
+7. INTRODUCCION DE PPH 34MM MAS GRAPEO, CON IDENTIFICACION DE DONA ANASTOMOTICA COMPLETA.
+8. CONTROL DE HEMOSTASIA CIRCUNFERENCIAL EN ZONA DE GRAPEO.
+9. PROCTOPEXIA PERINEAL CON VICRYL 000 EN LOS RADIO DE LAS 3, 5 Y 9 PUNTOS CONTINUOS.
+10. COLOCACION DE APOSITO HEMOSTATICO.
+11. COLOCACION DE GASAS.',protoop_complicaciones='NO',protoop_perdida='10',protoop_sangrado='10',protoop_protesico='0',anam_enlace='' where protoop_id=1131 -->2024-05-06 12:05:29

@@ -1,0 +1,12 @@
+update gogess_sisfield set fie_group='16' where fie_id='10559';
+update gogess_sisfield set fie_group='16' where fie_id='10560';
+update gogess_sisfield set fie_group='16' where fie_id='10561';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10559';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10560';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10561';
+update gogess_sisfield set fie_orden='1' where fie_id='10559';
+update gogess_sisfield set fie_orden='2' where fie_id='10560';
+update gogess_sisfield set fie_orden='3' where fie_id='10561';
+update gogess_sisfield set fie_title='Cod Documento Modif:' where fie_id='10559';
+update gogess_sisfield set fie_title='Num Documento Modif:' where fie_id='10560';
+update gogess_sisfield set fie_title='Autorizaci&oacute;n:' where fie_id='10561';

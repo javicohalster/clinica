@@ -1,0 +1,6 @@
+update gogess_sisfield set fie_group='3' where fie_id='6857';
+update gogess_sisfield set fie_orden='3' where fie_id='6857';
+update gogess_sisfield set fie_groupprint='3' where fie_id='6857';
+update gogess_sisfield set fie_group='3' where fie_id='6858';
+update gogess_sisfield set fie_orden='4' where fie_id='6858';
+update gogess_sisfield set fie_groupprint='3' where fie_id='6858';

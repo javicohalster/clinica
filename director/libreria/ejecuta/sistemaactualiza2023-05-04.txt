@@ -1,0 +1,8 @@
+update app_empresa set emp_ruc='1792935261001',emp_nombre='CLINICA LOS PINOS',emp_direccion='ELIA LIUT N45-10 Y TELEGRAFO PRIMERO',emp_telefono='(593)5001 030',emp_estado=1,prob_codigo='17',cant_codigo='1701',temp_id=4,emp_logo='gogess_data17856MZOWM20210824.png',pais_id=1,emp_email='info@clinicalospinos.com',emp_restaporcentaje='6.5',emp_valorgastosadm='10',emp_valoriva='12',emp_xml='',emp_leyendapdf='',emp_cabecerareportes='<div align="center">
+<b>CLINICA LOS PINOS
+<br>
+ELIA LIUT N45-10 Y TELEGRAFO PRIMERO
+<br>
+RUC: 1792935261001
+<br></b>
+</div>',emp_salariominimo=450,emp_departamento='DIRECCIÓN DE TALENTO HUMANO' where emp_id=1 

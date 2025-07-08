@@ -1,0 +1,4 @@
+update gogess_sisfield set fie_title='Cedula de Identidad:' where fie_id='5216';
+update gogess_sisfield set fie_title='Documentos de validaci&oacute;n archivo:' where fie_id='6064';
+update gogess_sisfield set fie_title='C&eacute;dula de Identidad:' where fie_id='5216';
+update gogess_sisfield set fie_title='C&eacute;dula de Identidad Archivo:' where fie_id='5216';

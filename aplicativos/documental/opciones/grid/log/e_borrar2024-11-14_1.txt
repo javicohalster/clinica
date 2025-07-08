@@ -1,0 +1,17 @@
+502-->select * from lpin_cobropago where crb_id='3721'-->2024-11-14 15:08:01
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='4680')-->2024-11-14 15:08:04
+502-->delete from lpin_comprobantecontable where crpadet_id='4680'-->2024-11-14 15:08:04
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-091976615968E5CBA0'-->2024-11-14 15:08:04
+502-->delete from lpin_cobropago where crb_id=3721-->2024-11-14 15:08:04
+502-->select * from lpin_cobropago where crb_id='3631'-->2024-11-14 15:11:50
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='4549')-->2024-11-14 15:11:53
+502-->delete from lpin_comprobantecontable where crpadet_id='4549'-->2024-11-14 15:11:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='4550')-->2024-11-14 15:11:56
+502-->delete from lpin_comprobantecontable where crpadet_id='4550'-->2024-11-14 15:11:56
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-0819766148E6444860'-->2024-11-14 15:11:56
+502-->delete from lpin_cobropago where crb_id=3631-->2024-11-14 15:11:56
+502-->select * from lpin_cobropago where crb_id='3704'-->2024-11-14 15:50:56
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='4650')-->2024-11-14 15:50:59
+502-->delete from lpin_comprobantecontable where crpadet_id='4650'-->2024-11-14 15:50:59
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-091976615822BC35F7'-->2024-11-14 15:50:59
+502-->delete from lpin_cobropago where crb_id=3704-->2024-11-14 15:50:59

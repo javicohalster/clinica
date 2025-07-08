@@ -1,0 +1,102 @@
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4464,centro_id=1,clie_id=5531,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1 INGRESO A CIRUGÍA PLÁSTICA / HAB 307 
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-29 08:32:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='REGULARES',anam_enlace='553101172575763530420230829083206182',anam_cirugia='LIPOESCULTURA',anam_cesareas='3',anam_gesta='4',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CHRISTIAN CACERES',anam_hijosvivos='3',anam_ayudante='DRA. DIANA VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-29',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1967 -->2023-08-29 12:46:48
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-29 12:39:57',atenc_id=4464,centro_id=1,clie_id=5531,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 6700 CC
+4, INJERTO GRASO 600 CC EN CADA GLUTEO 		
+5. REMODELACION DE CICATRIZ DE ABDOMINOPLASTIA ANTERIOR',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR Y COLOCACION DE INJERTO GLITEO 					
+9. COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CORRECCION DE CICATRIZ ANTERIOR DE ABDO Y CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA',protoop_sintesis='NYLON 5/0
+SEDA 3/0
+MONOCRYL 3/0 Y 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1967',protoop_paleativa='',protoop_realizada='LIPOESCULTURA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='553101172001173120520230829123957491',protoop_ayudanteanestesia='DR ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-29',protoop_horainicio='09:20',protoop_horafin='12:30' where protoop_id=1515 -->2023-08-29 12:46:51
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-29 12:39:57',atenc_id=4464,centro_id=1,clie_id=5531,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 6700 CC
+4, INJERTO GRASO 600 CC EN CADA GLUTEO 		
+5. REMODELACION DE CICATRIZ DE ABDOMINOPLASTIA ANTERIOR',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR Y COLOCACION DE INJERTO GLITEO 					
+9. COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CORRECCION DE CICATRIZ ANTERIOR DE ABDO Y CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA',protoop_sintesis='NYLON 5/0
+SEDA 3/0
+MONOCRYL 3/0 Y 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1967',protoop_paleativa='',protoop_realizada='LIPOESCULTURA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='553101172001173120520230829123957491',protoop_ayudanteanestesia='DR ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-29',protoop_horainicio='09:20',protoop_horafin='12:30' where protoop_id=1515 -->2023-08-29 12:46:51
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4745,centro_id=1,clie_id=5774,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA QUIEN REFIERE COMO ANTCEDENTE DE IMPORTANCIA COLOCACION DE BIOPOLIMEROS A NIVEL LABIAL HACE 30 AÑOS, HACE 15 AÑOS PRESENTA TUMEFACCION LABIAL MISMA QUE A SIDO SOMETIDA A CIRUGÍA PARA CORRECCION POR 3 OCASIONES SIN LOGRAR UNA UN RESULTADO SATISFACTORIO POR LO QUE HACE 1 MES ACUDE A MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCION QUIRURGICA',anam_planes='1 INGRESO A CIRUGÍA PLÁSTICA / HAB 306 
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. SANTIAGO PEZANTES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2023-08-29 10:29:05',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='577401172575763530420230829102905174',anam_cirugia='REVISION DE CIRUGIA EN EL LABIO',anam_cesareas='1',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. PESANTEZ',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. CAIZA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-29',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1968 -->2023-08-29 15:40:57
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-08-29 13:41:40',atenc_id=4745,centro_id=1,clie_id=5774,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='PRESENCIA DE MATERIAL EXTRANO EN TEJIDO DE DISTRIBUCION GENERAL EN LABIO INFERIOR QUE COMPROMENTEN MUSCULATURA',protoop_examen='',protoop_procedimiento='ASEPSIA -ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON XILOCAINA LOCAL EN LABIO INFERIOR MUCOSA
+APERTURA RESPETANDO LOS PLANOS ANATOMICOS HASTA ENCONTRAL EL MATERIAL EXTRANO
+DISECCION Y EXTRACION DE MATERIAL TIPO BIOPLIMEROS, Y CAUTERIZACION DE TEJIDOS
+LAVADO DE CACIDAD
+SINTESIS POR PLANOS.
+PASE A RECUPERACION',protoop_proyectada='RETIRO DE BIOPOLIMEROS EN LABIO INFERIOR',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION INTRABUCAL EN LABIO INFERIOR QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='LCDA ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR OSCAR MENENDEZ',protoop_circulante='AUX RUBEN',protoop_idenlace='1968',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='577401170921352221820230829014140257',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-29',protoop_horainicio='12:00',protoop_horafin='13:30' where protoop_id=1517 -->2023-08-29 15:40:59
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-08-29 13:41:40',atenc_id=4745,centro_id=1,clie_id=5774,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='PRESENCIA DE MATERIAL EXTRANO EN TEJIDO DE DISTRIBUCION GENERAL EN LABIO INFERIOR QUE COMPROMENTEN MUSCULATURA',protoop_examen='',protoop_procedimiento='ASEPSIA -ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON XILOCAINA LOCAL EN LABIO INFERIOR MUCOSA
+APERTURA RESPETANDO LOS PLANOS ANATOMICOS HASTA ENCONTRAL EL MATERIAL EXTRANO
+DISECCION Y EXTRACION DE MATERIAL TIPO BIOPLIMEROS, Y CAUTERIZACION DE TEJIDOS
+LAVADO DE CACIDAD
+SINTESIS POR PLANOS.
+PASE A RECUPERACION',protoop_proyectada='RETIRO DE BIOPOLIMEROS EN LABIO INFERIOR',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION INTRABUCAL EN LABIO INFERIOR QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='LCDA ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR OSCAR MENENDEZ',protoop_circulante='AUX RUBEN',protoop_idenlace='1968',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='577401170921352221820230829014140257',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-29',protoop_horainicio='12:00',protoop_horafin='13:30' where protoop_id=1517 -->2023-08-29 15:40:59
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4746,centro_id=1,clie_id=5775,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTES DE HIPOTIROIDISMO, EN TRATAMIENTO CON MEDICACIÓN DESCRITA, INGRESA A ESTA CASA DE SALUD PARA REALIZACION DE CIRUGÍA PROGRAMA POR ANTECEDENTES DE COLELITIASIS, PACIENTE REFIERE QUE CUADRO CLÍNICO INICIA APROXIMADAMENTE 2 MESES CON PRESENCIA DE DOLOR, EN REGION ABDOMINAL A NIVEL DE HIPOCONDRIO DERECHO, POR LO QUE ACUDE CON FACULTATIVO QUE REALIZA EXÁMENES DE IMAGEN EN DONDE SE EVIDENCIA PRESENCIA DE CALCULO A NIVEL DE VESICULA BILIAR , SE SOLICITA INTERCONSULTA CON MÉDICO ESPECIALISTA PARA PROGRAMAR CIRUGÍA. PACIENTE CON AUTORIZACIÓN DE CIRUGÍA POR PARTE DE MEDICINA INTERNA.',anam_planes='1.- INGRESO A HOSPITALIZACIÓN HAB 305
+2.- NADA POR VIA ORAL.
+3.- CONTROL DE SIGNOS VITALES 
+4.- CUIDADOS DE ENFERMERÍA.
+5.- LACTATO DE RINGER 1000 ML INTRAVENOSO PASAR 90 ML/HORA.
+6.- CEFTRIAXONA 1 GRAMOS INTRAVENOSO A LAS 12:30
+7.- MEDIAS ANTIEMBOLICAS.
+8.- PASE AL QUIRÓFANO AL LLAMADO.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='6',anam_fecharegistro='2023-08-29 11:47:47',anam_observacionap='',anam_menopausiaedad='45 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='577501172575763530420230829114747201',anam_cirugia='COLELAP',anam_cesareas='0',anam_gesta='7',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. ESPINOZA',anam_hijosvivos='',anam_ayudante='DRA. IZURIETA',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-29',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1969 -->2023-08-29 17:19:47
+250-->update dns_protocolooperatorio set usua_id=276,protoop_fecharegistro='2023-08-29 15:31:36',atenc_id=4746,centro_id=1,clie_id=5775,protoop_exposicion='de cavidad abdominal, higado vesicula y via biliar mediante videocamara',protoop_exploracion='1. plastron formado por duodeno, epiplon y vesicula
+2. vesicula distendida de paredes gruesas, multilitiasica
+3. via biliar normal,
+4. cistico edematoso y corto',protoop_examen='',protoop_procedimiento='1. desbridamiento del plastrón
+2. diseccion del lig cistoduodenal
+3. clipamiento y seccion del cond cistico
+4. clipaminto y seccion de la arteria cistica
+5. colecistectomia retrograda
+6. control de la hemostasia
+7. colocacion de dren de jakson en Morrisson
+8. extraccion de la vesicula en bolsa',protoop_proyectada='colelap',protoop_sintesis='por planos',protoop_cirujanouno='Oswaldo Espínosa',protoop_complicaciones='no',protoop_diagnostico='',protoop_dieresis='3 puertos de acceso laparoscopico',protoop_selectiva='1',protoop_instrumentista='jaqueline',protoop_examendetalle='histologico de vesicula',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='1969',protoop_paleativa='',protoop_realizada='colelap',protoop_ayudanteuno='Yolanda Izurieta',protoop_anestesiologo='Dr Barrionuevo',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='577501170929533927620230829033136451',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='general',protoop_fechaoperacion='2023-08-29',protoop_horainicio='14:40',protoop_horafin='15:30' where protoop_id=1519 -->2023-08-29 17:19:50
+250-->update dns_protocolooperatorio set usua_id=276,protoop_fecharegistro='2023-08-29 15:31:36',atenc_id=4746,centro_id=1,clie_id=5775,protoop_exposicion='de cavidad abdominal, higado vesicula y via biliar mediante videocamara',protoop_exploracion='1. plastron formado por duodeno, epiplon y vesicula
+2. vesicula distendida de paredes gruesas, multilitiasica
+3. via biliar normal,
+4. cistico edematoso y corto',protoop_examen='',protoop_procedimiento='1. desbridamiento del plastrón
+2. diseccion del lig cistoduodenal
+3. clipamiento y seccion del cond cistico
+4. clipaminto y seccion de la arteria cistica
+5. colecistectomia retrograda
+6. control de la hemostasia
+7. colocacion de dren de jakson en Morrisson
+8. extraccion de la vesicula en bolsa',protoop_proyectada='colelap',protoop_sintesis='por planos',protoop_cirujanouno='Oswaldo Espínosa',protoop_complicaciones='no',protoop_diagnostico='',protoop_dieresis='3 puertos de acceso laparoscopico',protoop_selectiva='1',protoop_instrumentista='jaqueline',protoop_examendetalle='histologico de vesicula',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='1969',protoop_paleativa='',protoop_realizada='colelap',protoop_ayudanteuno='Yolanda Izurieta',protoop_anestesiologo='Dr Barrionuevo',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='577501170929533927620230829033136451',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='general',protoop_fechaoperacion='2023-08-29',protoop_horainicio='14:40',protoop_horafin='15:30' where protoop_id=1519 -->2023-08-29 17:19:50

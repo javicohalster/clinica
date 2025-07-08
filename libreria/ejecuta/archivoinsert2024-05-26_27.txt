@@ -1,0 +1,1 @@
+373-->insert into dns_enfermeria (atenc_id,centro_id,clie_id,usua_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (2144,27,3376,373,'','2024-05-26 15:57:15','','337601040139115637320240526035715394','')-->2024-05-26 16:10:28

@@ -1,0 +1,19 @@
+-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2021,centro_id=1,clie_id=3248,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE UN MES ±, PRESENTA EDEMA, RUBOR, CALOR, HERIDA SUPURATIVA DE 3CMX 1CM  EN MIEMBRO INFERIOR IZQUIERDO EN DORSO DE PIERNA, EN TRATAMIENTO CON ANTIBIOTICOTERAPIA DE AMPLIO ESPECTRO EN  EN OTRA CASA DE SALUD DE LA PROVINCIA DE IMBABURA, HOSPITALIZADO HASTA EL 23/12/2022 SIN EMBARGO HACE 4 DÍAS PERSISTE CLÍNICA CON DE HERIDA SUPURATIVA, EDEMA, RUBOR, DOLOR, E IMPOTENCIA FUNCIONAL, NO LIMITANTE A LA DEAMBULACION. POR LO QUE INGRESA',anam_planes='1. INGRESO A MEDICINA INTERNA/HAB. 306
+    2. SEMIFOWLER
+    3. DIETA GENERAL
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CONTROL INGESTA Y EXCRETA
+    6. CURVA TÉRMICA
+    7. BAÑO DIARIO
+    8. CUIDADOS DE ENFERMERÍA
+    9. FIRMAR CONSENTIMIENTO INFORMADO
+    10. CANALIZAR VÍA PERIFÉRICA
+    11. SOLUCIÓN SALINA AL 0.9% 1000CC IV  A 125CC/H 
+    12. VANCOMICINA 1GR IV CADA 12H  
+    13. PARACETAMOL 1 GR IV CADA 6 HORAS
+    14. BH, GLUCOSA,UREA CREATININA, BILIRRUBINAS, TGO, TGP, GLOBULINA, PROTEÍNAS TOTALES. 
+    15. CULTIVO DE SECRECIÓN 
+    16. ECOGRAFÍA DE PARTES BLANDAS PIERNA IZQUIERDA
+    17. RX AP PIERNA IZQUIERDA. 
+    18. ÓRDENES DR. AYABACA
+    19. NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CELULITIS MIEMBRO INFERIOR IZQUIERDO',anam_partos='',anam_fecharegistro='2023-01-31 16:56:08',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='324801172320022426720230131045608386',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-01-31',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1230 -->2023-02-01 08:00:18

@@ -1,0 +1,5 @@
+502-->select * from app_movimientobancos where movban_id='1732'-->2024-08-23 12:05:52
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1732')-->2024-08-23 12:05:54
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1732'-->2024-08-23 12:05:54
+502-->delete  from lpin_movbancos where movban_enlace='2024-04-084586614935C00B42'-->2024-08-23 12:05:54
+502-->delete from app_movimientobancos where movban_id=1732-->2024-08-23 12:05:54

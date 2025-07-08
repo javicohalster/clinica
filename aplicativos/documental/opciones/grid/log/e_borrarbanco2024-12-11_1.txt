@@ -1,0 +1,10 @@
+502-->select * from app_movimientobancos where movban_id='1470'-->2024-12-11 17:01:41
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1470')-->2024-12-11 17:01:43
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1470'-->2024-12-11 17:01:43
+502-->delete  from lpin_movbancos where movban_enlace='2023-11-16197655679463474A'-->2024-12-11 17:01:43
+502-->delete from app_movimientobancos where movban_id=1470-->2024-12-11 17:01:43
+502-->select * from app_movimientobancos where movban_id='1658'-->2024-12-11 17:03:18
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1658')-->2024-12-11 17:03:20
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1658'-->2024-12-11 17:03:20
+502-->delete  from lpin_movbancos where movban_enlace='2024-02-2619765DCBC852BB3E'-->2024-12-11 17:03:20
+502-->delete from app_movimientobancos where movban_id=1658-->2024-12-11 17:03:20

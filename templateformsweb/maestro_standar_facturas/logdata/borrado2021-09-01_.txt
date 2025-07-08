@@ -1,0 +1,1 @@
+-->delete from beko_documentodetalle where docdet_id=17-->2021-09-01 23:43:39

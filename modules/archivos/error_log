@@ -1,0 +1,40 @@
+[28-Jan-2013 14:42:47 UTC] PHP Warning:  POST Content-Length of 116566181 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jun-2015 04:38:02 UTC] PHP Fatal error:  Call to a member function replace_cmb() on a non-object in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 28
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../cfg/clases.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../cfg/clases.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(): Failed opening '../../../../cfg/clases.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../cfg/declaracion.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../cfg/declaracion.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(): Failed opening '../../../../cfg/declaracion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../libreria/estructura/aqualis_master.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(../../../../libreria/estructura/aqualis_master.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:39:35 UTC] PHP Warning:  include(): Failed opening '../../../../libreria/estructura/aqualis_master.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:39:35 UTC] PHP Notice:  Undefined variable: lista_tbldata in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 13
+[30-Jun-2015 04:39:35 UTC] PHP Fatal error:  Class 'ValidacionesFormulario' not found in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 17
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../cfg/clases.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../cfg/clases.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(): Failed opening '../../../cfg/clases.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 10
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../cfg/declaracion.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../cfg/declaracion.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(): Failed opening '../../../cfg/declaracion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 11
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../libreria/estructura/aqualis_master.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(../../../libreria/estructura/aqualis_master.php): failed to open stream: No such file or directory in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:40:03 UTC] PHP Warning:  include(): Failed opening '../../../libreria/estructura/aqualis_master.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 12
+[30-Jun-2015 04:40:03 UTC] PHP Notice:  Undefined variable: lista_tbldata in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 13
+[30-Jun-2015 04:40:03 UTC] PHP Fatal error:  Class 'ValidacionesFormulario' not found in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 17
+[30-Jun-2015 04:40:27 UTC] PHP Notice:  Undefined property: ValidacionesFormulario::$fie_sqlconexiontabla in /home/userpato/public_html/gogess_php/libreria/formulario/cmb.php on line 168
+[30-Jun-2015 04:40:27 UTC] PHP Notice:  Undefined variable: ap_path in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 119
+[30-Jun-2015 04:40:27 UTC] PHP Notice:  Undefined variable: ap_path in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 123
+[30-Jun-2015 04:40:27 UTC] PHP Notice:  Undefined variable: kam_id in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 126
+[30-Jun-2015 04:40:27 UTC] PHP Notice:  Undefined variable: sessid in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 130
+[30-Jun-2015 04:42:23 UTC] PHP Notice:  Undefined variable: ap_path in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 119
+[30-Jun-2015 04:42:23 UTC] PHP Notice:  Undefined variable: ap_path in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 123
+[30-Jun-2015 04:42:23 UTC] PHP Notice:  Undefined variable: kam_id in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 126
+[30-Jun-2015 04:42:23 UTC] PHP Notice:  Undefined variable: sessid in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 130
+[30-Jun-2015 04:45:08 UTC] PHP Notice:  Undefined variable: ap_path in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 123
+[30-Jun-2015 04:45:08 UTC] PHP Notice:  Undefined variable: kam_id in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 126
+[30-Jun-2015 04:45:08 UTC] PHP Notice:  Undefined variable: sessid in /home/userpato/public_html/gogess_php/modules/archivos/archivo.php on line 130
+[30-Jun-2015 04:46:44 UTC] PHP Fatal error:  Call to a member function replace_cmb() on a non-object in /home/userpato/public_html/gogess_php/modules/archivos/upload.php on line 40
+[30-Jun-2015 04:47:37 UTC] PHP Notice:  Undefined offset: 26 in /home/userpato/public_html/gogess_php/modules/archivos/upload.php on line 75
+[30-Jun-2015 04:47:37 UTC] PHP Deprecated:  Function split() is deprecated in /home/userpato/public_html/gogess_php/modules/archivos/upload.php on line 87
+[30-Jun-2015 04:50:37 UTC] PHP Deprecated:  Function split() is deprecated in /home/userpato/public_html/gogess_php/modules/archivos/upload.php on line 87

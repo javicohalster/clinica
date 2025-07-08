@@ -1,0 +1,18 @@
+update gogess_sisfield set fie_title='Solicitante Externo:' where fie_id='7774';
+update gogess_sisfield set fie_type='textpeke' where fie_id='7774';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='7774';
+update gogess_sisfield set fie_orden='4' where fie_id='7386';
+update gogess_sisfield set fie_group='2' where fie_id='7774';
+update gogess_sisfield set fie_orden='3' where fie_id='7774';
+update gogess_sisfield set fie_groupprint='2' where fie_id='7774';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='7774';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='7386';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='5080';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='5064';
+update gogess_sisfield set fie_title='Recibido por:' where fie_id='7386';
+update gogess_sisfield set fie_anchocolomna='2' where fie_id='5064';
+update gogess_sisfield set fie_anchocolomna='2' where fie_id='5080';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='7774';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='7386';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='5064';
+update gogess_sisfield set fie_anchocolomna='3' where fie_id='7386';

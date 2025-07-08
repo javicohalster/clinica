@@ -1,0 +1,1 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','Dersy19753','DERSY_JAQUELINE_CARRILLO_RUEDA_171220080924.p12','C:/firma/certificado/',1,'1002373999')

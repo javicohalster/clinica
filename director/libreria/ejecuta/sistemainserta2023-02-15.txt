@@ -1,0 +1,19 @@
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'cirugias','select hospi.atenc_id as id_atencion_hospital,clie.clie_rucci as identificacion,clie.clie_apellido as apellidos,clie.clie_nombre as nombres,clie.clie_genero as genero,
+hospi.anam_motivoconsulta as motivo,hospi.anam_cirugia as cirugia,hospi.anam_especialidad as especialidad,hospi.anam_tratante as medico_tratante,hospi.anam_ayudante as medico_ayudante,hospi.anam_anestesiologo as anestesilogo,hospi.anam_fechaingreso as ingreso
+from app_cliente clie
+inner join  dns_atencion aten on aten.clie_id=clie.clie_id
+left join dns_hospitalanamesis hospi on hospi.atenc_id=aten.atenc_id
+where clie.clie_id!=2 and clie.clie_id!=3 and hospi.atenc_id!=\'NULL\'','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','id_atencion_hospital',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','identificacion',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','apellidos',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','nombres',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','genero',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','motivo',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','cirugia',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','especialidad',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','medico_tratante',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','medico_ayudante',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','anestesilogo',1,14)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','ingreso',1,14)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','',1,1,'Reporte Cirugias','63ed3159d383e20230215072409201','1',25)

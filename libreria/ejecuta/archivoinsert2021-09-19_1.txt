@@ -1,0 +1,837 @@
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','LIPOSUCCION',0,'LIPOSUCCION','',5,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CHRISTIAN CACERES',1,'DRA DIANA VILLACRES','CALIFORNIA ALTA','1752750073','DR. MANOLO CALERO','PONCE GUERRA','17',3,'DENISSE CAROLINA','1701',1,'',6,'','BIENES Y RAICES','1996-11-13',56,'0987338982',7,'0994896322','F',4,'guerracarolina358@gmail.com','',4,'194','2021-09-19 07:26:57','','011723074629194202109190726571419',NULL,'1','','4','')-->2021-09-19 07:31:27
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,100,'1752750073-1','2',178,'2021-09-19 07:53:02','','','2021-09-19 07:53:02','INTERVENCION QUIRURGIXA PROGRAMADA','2021-09-19 07:53:02','1752750073','VIVO',1,'','','01172173839917820210919075302214')-->2021-09-19 07:53:31
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',68,1,100,'','','PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','0','2021-09-19 07:53:36','','','','0','','10001172173839917820210919075336260','LIPOSUCCION','0','0','CIRUGIA PLASTICA','DR. CACERES','','','2021-09-13','',NULL,NULL,'2021-09-19',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-19 07:55:28
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 07:55:57
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 07:56:01
+178-->update dns_atencion set centro_id=1,clie_id=100,atenc_hc='1752750073-1',tiposerv_id='2',usua_id=178,atenc_fecharegistro='2021-09-19 07:53:02',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2021-09-19 07:53:02',atenc_observacion='INTERVENCION QUIRURGIXA PROGRAMADA',atenc_fechaingreso='2021-09-19 07:53:02',clie_ci='1752750073',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01172173839917820210919075302214' where atenc_id=68 -->2021-09-19 07:57:59
+178-->update dns_atencion set centro_id=1,clie_id=100,atenc_hc='1752750073-1',tiposerv_id='2',usua_id=178,atenc_fecharegistro='2021-09-19 07:53:02',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2021-09-19 07:53:02',atenc_observacion='INTERVENCION QUIRURGIXA PROGRAMADA',atenc_fechaingreso='2021-09-19 07:53:02',clie_ci='1752750073',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01172173839917820210919075302214' where atenc_id=68 -->2021-09-19 07:58:47
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 07:58:56
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 07:59:08
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 08:02:52
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,98,'1719764266-1','2',178,'2021-09-19 07:56:59','','','2021-09-19 07:56:59','CIRUGIA PROGRAMADA','2021-09-19 07:56:59','1719764266','VIVO',1,'','','01172173839917820210919075659373')-->2021-09-19 08:03:59
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',69,1,98,'','','Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','','2021-09-19 08:04:06','','','','','','9801172173839917820210919080406117','ARTROSCOPIA','','','DR. PROAÑO','','','',NULL,'',NULL,NULL,'2021-09-19',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-19 08:08:14
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 08:08:38
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 08:08:45
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 08:20:00
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 08:20:02
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 08:44:25
+187-->insert into dns_enfermeria (centro_id,usua_id,clie_id,atenc_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (1,187,98,69,'','2021-09-19 09:24:13','','980105021917451872021091909241320','')-->2021-09-19 09:28:11
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','AUMENTO MAMARIO',0,'AUMENTO MAMARIO','',5,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'DRA DIANA VILLACRES','CONOCOTO','1722640115','DR. CALERO','JARAMILLO POLO','17',3,'CRISTINA MISHELL','1701',2,'',6,'','BACHILLER','1994-09-15',56,'0993215450',7,'0990856436','F',4,'shellemicris@hotmail.com','',4,'194','2021-09-19 09:52:02','','0117230746291942021091909520233340',NULL,'1','','3','')-->2021-09-19 09:55:16
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,101,'1722640115-1','2',178,'2021-09-19 10:36:52','','','2021-09-19 10:36:52','INTERVENCION QUIRURGICA PROGRAMADA','2021-09-19 10:36:52','1722640115','VIVO',1,'','','01172173839917820210919103652274')-->2021-09-19 10:37:15
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',70,1,101,'','','PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','0','2021-09-19 10:47:57','','','','0','','10101172173839917820210919104757489','AUMENTO MAMARIO','1','1','CIRUGIA PLASTICA','DR. CACERES','','','2021-09-08','',NULL,NULL,'2021-09-19',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-19 10:51:32
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 10:51:53
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 10:54:19
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (69,178,1,98,'NOTA DE TRAUMATOLOGIA:
+
+BAJO ANESTESIA GENERAL SE REALIZÓ ARTROSCOPIA + PLASTIA DE LCA DERECHO SIN COMPLICACIONES','',39,'2021-09-19',1,'2021-09-19 10:54:23','10:54','980117217383991782021091910542350')-->2021-09-19 10:55:26
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='NOTA DE TRAUMATOLOGIA:
+
+BAJO ANESTESIA GENERAL SE REALIZÓ ARTROSCOPIA + PLASTIA DE LCA DERECHO SIN COMPLICACIONES',conext_prescripciones='1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 10:54:23',conext_horar='10:54',conext_enlace='980117217383991782021091910542350' where conext_id=55 -->2021-09-19 10:58:12
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='NOTA DE TRAUMATOLOGIA:
+
+BAJO ANESTESIA GENERAL SE REALIZÓ ARTROSCOPIA + PLASTIA DE LCA DERECHO SIN COMPLICACIONES',conext_prescripciones='1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 10:54:23',conext_horar='10:54',conext_enlace='980117217383991782021091910542350' where conext_id=55 -->2021-09-19 10:58:14
+187-->insert into dns_enfermeria (centro_id,usua_id,clie_id,atenc_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (1,187,101,70,'','2021-09-19 12:54:16','','10101050219174518720210919125416302','')-->2021-09-19 12:59:18
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','MINIABDOMINOPLASTIA',0,'MINIABDOMINOPLASTIA','',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'DRA DIANA VILLACRES','LA KENNEDY','1722750278','DR. MANOLO CALERO','VERGARA BORJA','17',3,'JENNY VERONICA','1701',1,'',6,'','ASISTENTE DE MARKETING','1989-07-30',56,'',7,'0987779860','F',4,'sdr_vero@hotmail.com','',4,'194','2021-09-19 13:24:18','','0117230746291942021091901241839316',NULL,'1','','4','')-->2021-09-19 13:27:25
+194-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='MINIABDOMINOPLASTIA',clie_titularseguro=0,clie_cirugia='MINIABDOMINOPLASTIA',clie_token='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR CRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='LA KENNEDY',clie_rucci='1722750278',clie_anestesiologo='DR. MANOLO CALERO',clie_apellido='VERGARA BORJA',prob_codigo='17',tippo_id=3,clie_nombre='JENNY VERONICA',cant_codigo='1701',civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='ASISTENTE DE MARKETING',clie_fechanacimiento='1989-07-30',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='0987779860',clie_genero='F',orien_id=4,clie_email='sdr_vero@hotmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='194',clie_registro='2021-09-19 13:24:18',clie_institucion='',clie_enlace='0117230746291942021091901241839316',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=102 -->2021-09-19 13:27:55
+194-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='MINIABDOMINOPLASTIA',clie_titularseguro=0,clie_cirugia='MINIABDOMINOPLASTIA',clie_token='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR CRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='LA KENNEDY',clie_rucci='1722750278',clie_anestesiologo='DR. MANOLO CALERO',clie_apellido='VERGARA BORJA',prob_codigo='17',tippo_id=3,clie_nombre='JENNY VERONICA',cant_codigo='1701',civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='ASISTENTE DE MARKETING',clie_fechanacimiento='1989-07-30',nac_id=56,clie_emergenciatelf='0960186114',tarterial_id=7,clie_celular='0987779860',clie_genero='F',orien_id=4,clie_email='sdr_vero@hotmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='194',clie_registro='2021-09-19 13:24:18',clie_institucion='',clie_enlace='0117230746291942021091901241839316',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=102 -->2021-09-19 13:28:26
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,102,'1722750278-1','2',178,'2021-09-19 14:10:58','','','2021-09-19 14:10:58','INTERVENCION QUIRURGICA PROGRAMADA','2021-09-19 14:10:58','1722750278','VIVO',1,'','','01172173839917820210919021058219')-->2021-09-19 14:11:51
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',71,1,102,'','','PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','0','2021-09-19 14:11:53','','','','1','','10201172173839917820210919021153110','MINIABDOMINOPLASTIA','1','3','CIRUGIA PLASTICA','DR. CACERES','','','2021-08-18','',NULL,NULL,'2021-09-19',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-19 14:14:10
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=71,centro_id=1,clie_id=102,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 14:11:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10201172173839917820210919021153110',anam_cirugia='MINIABDOMINOPLASTIA',anam_cesareas='1',anam_gesta='3',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-08-18',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=41 -->2021-09-19 14:14:30
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 14:22:43
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (69,178,1,98,'PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE','',39,'2021-09-19',1,'2021-09-19 14:22:47','16:00','9801172173839917820210919022247440')-->2021-09-19 14:23:56
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:28:01
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:28:09
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:28:29
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='NOTA DE TRAUMATOLOGIA:
+
+BAJO ANESTESIA GENERAL SE REALIZÓ ARTROSCOPIA + PLASTIA DE LCA DERECHO SIN COMPLICACIONES',conext_prescripciones='1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 10:54:23',conext_horar='10:54',conext_enlace='980117217383991782021091910542350' where conext_id=55 -->2021-09-19 14:28:40
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 14:28:51
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:28:56
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:29:11
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 14:29:38
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='NOTA DE TRAUMATOLOGIA:
+
+BAJO ANESTESIA GENERAL SE REALIZÓ ARTROSCOPIA + PLASTIA DE LCA DERECHO SIN COMPLICACIONES',conext_prescripciones='1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 10:54:23',conext_horar='10:54',conext_enlace='980117217383991782021091910542350' where conext_id=55 -->2021-09-19 14:33:02
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:33:25
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,98,1,69,'','39','','','','','2021-09-19 14:29:41','','','','PACIENTE MASCULINO DE 23 AÑOS DE EDAD, SIN ALERGIAS CONOCIDAS. NO REFIERE ANTECEDENTES PERSONALES. ANTECEDENTE FAMILIAR DE ABUELA PATERNA CON DIABETES MIELLITUS, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA. REFIERE QUE HACE 15 DÍAS APROXIMADAMENTE, SUFRE CAÍDA DESDE MOTOCICLETA EN MOVIMIENTO, POSTERIOR A LO QUE PRESENTA DOLOR CONSTANTE EN RODILLA DERECHA, CON LIMITACIÓN FUNCIONAL Y DIFICULTAD PARA MANTENER CARGA SOBRE LA MISMA, POR LO QUE ACUDE CON FACULTATIVO QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA.','','9801172173839917820210919022941164','','19/09/21: PACIENTE INGRESA PARA RESOLUCION QUIRURGICA																																																															
+ 
+9/09/21: SE REALIAZA BAJO ANESTESIA GENERAL PROCEDIMIENTO QUIRURGICO DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DE LCA DERECHO  SIN COMPLICACIONES 																																																															
+
+19/09/21  16:00 : PACIENTE PERMANECE EN CONDICION CLINICA ESTABLE. SE OTORGA ALTA MAS INDICACIONES.','','','1. SINOVIAL HIPERTROFICA TRICOMPARTIMENTAL
+2. LIGAMENTO CRUZADO ANTERIOR: RUPTURA DE INSERCION FEMORAL
+3. MENISCO INTERNO CON DEGENERACINO DE CUERNO POSTERIOR
+4. MENISCO EXTERNO CON RUPTURA COMPLEJA DE CUERNO POSTERIOR','','','NOTA POSQUIRURGICA
+
+1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA
+
+ALTA
+
+ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES')-->2021-09-19 14:34:07
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=98,centro_id=1,atenc_id=69,anam_altadefinitiva='',protoop_idenlace='39',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 14:29:41',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 23 AÑOS DE EDAD, SIN ALERGIAS CONOCIDAS. NO REFIERE ANTECEDENTES PERSONALES. ANTECEDENTE FAMILIAR DE ABUELA PATERNA CON DIABETES MIELLITUS, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA. REFIERE QUE HACE 15 DÍAS APROXIMADAMENTE, SUFRE CAÍDA DESDE MOTOCICLETA EN MOVIMIENTO, POSTERIOR A LO QUE PRESENTA DOLOR CONSTANTE EN RODILLA DERECHA, CON LIMITACIÓN FUNCIONAL Y DIFICULTAD PARA MANTENER CARGA SOBRE LA MISMA, POR LO QUE ACUDE CON FACULTATIVO QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA.',anam_nhoja='',anam_enlace='9801172173839917820210919022941164',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA RESOLUCION QUIRURGICA																																																															
+ 
+9/09/21: SE REALIAZA BAJO ANESTESIA GENERAL PROCEDIMIENTO QUIRURGICO DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DE LCA DERECHO  SIN COMPLICACIONES 																																																															
+
+19/09/21  16:00 : PACIENTE PERMANECE EN CONDICION CLINICA ESTABLE. SE OTORGA ALTA MAS INDICACIONES.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. SINOVIAL HIPERTROFICA TRICOMPARTIMENTAL
+2. LIGAMENTO CRUZADO ANTERIOR: RUPTURA DE INSERCION FEMORAL
+3. MENISCO INTERNO CON DEGENERACINO DE CUERNO POSTERIOR
+4. MENISCO EXTERNO CON RUPTURA COMPLEJA DE CUERNO POSTERIOR',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSQUIRURGICA
+
+1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA
+
+ALTA
+
+ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES' where anam_id=23 -->2021-09-19 14:34:14
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=98,centro_id=1,atenc_id=69,anam_altadefinitiva='1',protoop_idenlace='39',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE, CON BUEN MANEJO DEL DOLOR POSOPERATORIO. MANTIENE BUENA TOLERANCIA ORAL, Y NO REFIERE SINTOMATOLOGIA POR LO QUE SE OTORGA ALTA CON INDICACIONES',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:29:41',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 23 AÑOS DE EDAD, SIN ALERGIAS CONOCIDAS. NO REFIERE ANTECEDENTES PERSONALES. ANTECEDENTE FAMILIAR DE ABUELA PATERNA CON DIABETES MIELLITUS, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA. REFIERE QUE HACE 15 DÍAS APROXIMADAMENTE, SUFRE CAÍDA DESDE MOTOCICLETA EN MOVIMIENTO, POSTERIOR A LO QUE PRESENTA DOLOR CONSTANTE EN RODILLA DERECHA, CON LIMITACIÓN FUNCIONAL Y DIFICULTAD PARA MANTENER CARGA SOBRE LA MISMA, POR LO QUE ACUDE CON FACULTATIVO QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA.',anam_nhoja='',anam_enlace='9801172173839917820210919022941164',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA RESOLUCION QUIRURGICA																																																															
+ 
+9/09/21: SE REALIAZA BAJO ANESTESIA GENERAL PROCEDIMIENTO QUIRURGICO DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DE LCA DERECHO  SIN COMPLICACIONES 																																																															
+
+19/09/21  16:00 : PACIENTE PERMANECE EN CONDICION CLINICA ESTABLE. SE OTORGA ALTA MAS INDICACIONES.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. SINOVIAL HIPERTROFICA TRICOMPARTIMENTAL
+2. LIGAMENTO CRUZADO ANTERIOR: RUPTURA DE INSERCION FEMORAL
+3. MENISCO INTERNO CON DEGENERACINO DE CUERNO POSTERIOR
+4. MENISCO EXTERNO CON RUPTURA COMPLEJA DE CUERNO POSTERIOR',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSQUIRURGICA
+
+1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA
+
+ALTA
+
+ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES' where anam_id=23 -->2021-09-19 14:34:50
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 14:34:58
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:36:02
+178-->update dns_hospitalconsultaexterna set atenc_id=69,usua_id=178,centro_id=1,clie_id=98,conext_notasdeevolucion='PACIENTE REFIERE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA NAUSEA NI MAREO. PACIENTE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE TRAUMATOLOGIA:
+1. MELOXICAM 15 MG CADA DIA
+2. METAGESIC 1 TAB CADA 12 HORAS POR 10 DIAS 
+3. CEFADROXILO 500 MG CADA 12 HORAS POR 7 DIAS
+4. HIELO LOCAL
+5. MOVER RODILLA HASTA 50 GRADOS.
+6. ALTA MÁS INDICACIONES',anam_id=39,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:22:47',conext_horar='16:00',conext_enlace='9801172173839917820210919022247440' where conext_id=56 -->2021-09-19 14:36:06
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 14:37:10
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (68,178,1,100,'NOTA POSTQUIRURGICA
+
+SE REALIZO LIPOESCULTURA MÁS AUMENTO DEL MENTON SIN COMPLICACIONES','',38,'2021-09-19',1,'2021-09-19 14:37:12','14:37','1000117217383991782021091902371214')-->2021-09-19 14:37:56
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='NOTA POSTQUIRURGICA
+
+SE REALIZO LIPOESCULTURA MÁS AUMENTO DEL MENTON SIN COMPLICACIONES',conext_prescripciones='1. AMBULATORIO TEMPRANO
+2. PROBAR TOLERANCIA ORAL EN 2 HORAS',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:37:12',conext_horar='14:37',conext_enlace='1000117217383991782021091902371214' where conext_id=57 -->2021-09-19 14:39:27
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (68,178,1,100,'PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE','',38,'2021-09-19',1,'2021-09-19 14:39:32','18:00','1000117217383991782021091902393286')-->2021-09-19 14:41:07
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:39:32',conext_horar='18:00',conext_enlace='1000117217383991782021091902393286' where conext_id=58 -->2021-09-19 14:42:06
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:39:32',conext_horar='18:00',conext_enlace='1000117217383991782021091902393286' where conext_id=58 -->2021-09-19 14:42:11
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 14:42:37
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 14:42:41
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,100,1,68,'','38','','','','','2021-09-19 14:42:43','','','','PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','1000117217383991782021091902424376','','19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 18:00 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE','','','HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO','','','INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS')-->2021-09-19 14:45:03
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=100,centro_id=1,atenc_id=68,anam_altadefinitiva='',protoop_idenlace='38',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 14:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='1000117217383991782021091902424376',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 18:00 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS' where anam_id=24 -->2021-09-19 14:45:10
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=100,centro_id=1,atenc_id=68,anam_altadefinitiva='1',protoop_idenlace='38',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR Y BUENA TOLERNACIA ORAL. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='1000117217383991782021091902424376',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 18:00 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS' where anam_id=24 -->2021-09-19 14:45:45
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 14:46:22
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 14:46:27
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'','',1,'REGISTRADO',1,'','',1,'','SAN JUAN CENTRO HISTORICO','0200336006','','GORDILLO MARTINEZ','17',3,'FLOR ANATILDE','1701',2,'',6,'','JUBILADA','1949-07-01',56,'',7,'0958844634','F',4,'','',4,'194','2021-09-19 15:17:39','','0117230746291942021091903173938422',NULL,'1','','4','')-->2021-09-19 15:19:44
+194-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='LIMPIEZA QUIRURGICA DE CADERA IZQUIERDA',clie_titularseguro=0,clie_cirugia='LIMPIEZA QUIRURGICA DE CADERA IZQUIERDA',clie_token='',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='',clie_direccion='IBARRA',clie_rucci='1000373322',clie_anestesiologo='DR. MANOLO CALERO',clie_apellido='CALDERON GARZON',prob_codigo='10',tippo_id=3,clie_nombre='MARIA ROSARIO',cant_codigo='1001',civil_id=3,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NINGUNA',clie_fechanacimiento='1934-10-07',nac_id=56,clie_emergenciatelf='0998716175',tarterial_id=7,clie_celular='0999733431',clie_genero='F',orien_id=4,clie_email='',clie_emergenciacelu='',idgen_id=4,usua_id='185',clie_registro='2021-09-02 21:20:12',clie_institucion='',clie_enlace='0102023425721852021090209201229933',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=59 -->2021-09-19 15:22:33
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 16:28:58
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 16:29:14
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 16:29:30
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 16:32:45
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (70,178,1,101,'NOTA DE C. PLASTICA 
+
+BAJO ANESTESIA GENERAL SE REALIZÓ AUMENTO MAMARIO SIN COMPLICACIONES','',40,'2021-09-19',1,'2021-09-19 16:33:32','16:33','10101172173839917820210919043332438')-->2021-09-19 16:34:27
+178-->update dns_hospitalconsultaexterna set atenc_id=70,usua_id=178,centro_id=1,clie_id=101,conext_notasdeevolucion='NOTA DE C. PLASTICA 
+
+BAJO ANESTESIA GENERAL SE REALIZÓ AUMENTO MAMARIO SIN COMPLICACIONES',conext_prescripciones='1. PROBAR TOLERANCIA ORAL EN 2 HORAS
+2. METAMIZOL 2 GR PRN SI HAY DOLOR
+3. BRASIER POSQUIRURGICO PERMANENTE',anam_id=40,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 16:33:32',conext_horar='16:33',conext_enlace='10101172173839917820210919043332438' where conext_id=59 -->2021-09-19 16:35:35
+187-->update dns_enfermeria set centro_id=1,usua_id=187,clie_id=98,atenc_id=69,protoop_tblprincipal='',enferm_fecharegistro='2021-09-19 09:24:13',protoop_idenlace='0',enferm_enlace='980105021917451872021091909241320',enferm_archivo='' where enferm_id=125 -->2021-09-19 17:44:03
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (70,178,1,101,'PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR. AL MOMENTO NO REFIERE NAUSEA NI OTRA SINTOMATOLOGIA','',40,'2021-09-19',1,'2021-09-19 18:23:30','20:30','10101172173839917820210919062330498')-->2021-09-19 18:24:31
+178-->update dns_hospitalconsultaexterna set atenc_id=70,usua_id=178,centro_id=1,clie_id=101,conext_notasdeevolucion='PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR. AL MOMENTO NO REFIERE NAUSEA NI OTRA SINTOMATOLOGIA',conext_prescripciones='1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA',anam_id=40,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 18:23:30',conext_horar='20:30',conext_enlace='10101172173839917820210919062330498' where conext_id=60 -->2021-09-19 18:25:18
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 18:25:25
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,101,1,70,'','40','','','','','2021-09-19 18:25:27','','','','PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 08/09/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','10101172173839917820210919062527428','','19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 20:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES','','','HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA','','','1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA')-->2021-09-19 18:26:38
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='',protoop_idenlace='40',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 08/09/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 20:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA' where anam_id=25 -->2021-09-19 18:26:45
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 08/09/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 20:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA' where anam_id=25 -->2021-09-19 18:27:09
+182-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=40,centro_id=1,clie_id=59,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA MAYOR CON MÚLTIPLES COMORBILIDADES, ES TRAIDA POR FAMILIARES (HIJOS), QUIENES REFIEREN QUE HACE 4 DÍAS SUFRE CAIDA DE SU PROPIA ALTURA CON IMPACTO SOBRE CADERA IZQUIERDA, PRESENTANDO DOLOR DE MODERADA A GRAN INTENSIDAD EN CADERA IZQUIERDA, LIMITACIÓN FUNCIONAL, EDEMA, POR LO QUE ACUDEN A MÉDICO ESPECIALISTA QUIEN SOLICITA EXAMENES COMPLEMENTARIOS, DIAGNOSTICA FRACTURA DE CADERA IZQUIERDA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='CHEQUEO PREQUIRÚRGICO POR MEDICINA INTENSIVA -
+MANEJO CLINICO QUIRURGICO INTEGRAL -
+RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR CADERA IZQUIERDA',anam_partos='8',anam_fecharegistro='2021-09-02 21:38:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='-',anam_enlace='590102023425721852021090209384765',anam_cirugia='PROTESIS TOTAL DE CADERA IZQUIERDA',anam_cesareas='0',anam_gesta='8',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='8',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc='2011-01-02',anam_fechaingreso='2021-09-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=22 -->2021-09-19 19:07:52
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- FRACTURA DE CUELLO FEMORAL CON COMPROMISO DEL TROCANTER MAYOR.}
+2.- HEMATOMA FRACTURARIO',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- OSTEOTOMIA EN CUELLO DE FEMUR Y EXTRACCION DE CABEZA DEMORAL Y FRAGMENTOS FRACTURARIOS.
+6.- FRESADO DE COMPONENTE ACETABULAR DESD',protoop_proyectada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 8 CM',protoop_selectiva='1',protoop_instrumentista='LIC MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_ayudanteuno='',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-03',protoop_horainicio='16:45',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:08:00
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- FRACTURA DE CUELLO FEMORAL CON COMPROMISO DEL TROCANTER MAYOR.}
+2.- HEMATOMA FRACTURARIO',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- OSTEOTOMIA EN CUELLO DE FEMUR Y EXTRACCION DE CABEZA DEMORAL Y FRAGMENTOS FRACTURARIOS.
+6.- FRESADO DE COMPONENTE ACETABULAR DESD',protoop_proyectada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 8 CM',protoop_selectiva='1',protoop_instrumentista='LIC MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_ayudanteuno='',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-03',protoop_horainicio='16:45',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:08:01
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- FRACTURA DE CUELLO FEMORAL CON COMPROMISO DEL TROCANTER MAYOR.}
+2.- HEMATOMA FRACTURARIO',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- OSTEOTOMIA EN CUELLO DE FEMUR Y EXTRACCION DE CABEZA DEMORAL Y FRAGMENTOS FRACTURARIOS.
+6.- FRESADO DE COMPONENTE ACETABULAR DESD',protoop_proyectada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 8 CM',protoop_selectiva='1',protoop_instrumentista='LIC MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_ayudanteuno='',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-03',protoop_horainicio='16:45',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:08:32
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- FRACTURA DE CUELLO FEMORAL CON COMPROMISO DEL TROCANTER MAYOR.}
+2.- HEMATOMA FRACTURARIO',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- OSTEOTOMIA EN CUELLO DE FEMUR Y EXTRACCION DE CABEZA DEMORAL Y FRAGMENTOS FRACTURARIOS.
+6.- FRESADO DE COMPONENTE ACETABULAR DESD',protoop_proyectada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 8 CM',protoop_selectiva='1',protoop_instrumentista='LIC MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='PROTESIS TOTAL DE CADERA IZQUIERDA CEMENTADA',protoop_ayudanteuno='',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-03',protoop_horainicio='16:45',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:08:52
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 19:10:29
+178-->update dns_hospitalconsultaexterna set atenc_id=70,usua_id=178,centro_id=1,clie_id=101,conext_notasdeevolucion='PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR. AL MOMENTO NO REFIERE NAUSEA NI OTRA SINTOMATOLOGIA',conext_prescripciones='1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA',anam_id=40,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 18:23:30',conext_horar='20:30',conext_enlace='10101172173839917820210919062330498' where conext_id=60 -->2021-09-19 19:10:34
+178-->update dns_hospitalconsultaexterna set atenc_id=70,usua_id=178,centro_id=1,clie_id=101,conext_notasdeevolucion='PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR. AL MOMENTO NO REFIERE NAUSEA NI OTRA SINTOMATOLOGIA',conext_prescripciones='1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAVULANICO 625 MG VO CADA 8 HORAS POR 10 DIAS
+5. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS
+6. CONTROL POR C. EXTERNA',anam_id=40,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 18:23:30',conext_horar='19:45',conext_enlace='10101172173839917820210919062330498' where conext_id=60 -->2021-09-19 19:10:48
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 19:10:56
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 0',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 20:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAV' where anam_id=25 -->2021-09-19 19:10:57
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 0',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 20:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAV' where anam_id=25 -->2021-09-19 19:10:58
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 0',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 19:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAV' where anam_id=25 -->2021-09-19 19:11:08
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- SECRECION SERO HEMATICA SUPERFICIAL A NIVEL DE CADERA IZQUIERDA (SEROMA)
+2.- NO TEJIDO DESVITALIZADO
+3.- NO SECRECION PURULENTA',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- TOMA DE MUSTRA PARA CULTIVO SUPERFICIAL Y PROFUNDA
+6.- LAVADO CON ABUNDANTE SOLUCION SALINA, AGUA OXIGENADA Y CLOREXIDINA
+7.- CURETAJE DE BORDES
+8.- CIERRA POR PLANOS',protoop_proyectada='LIMPIEZA QUIRURGICA + TOMA DE MUESTRA PARA CULTIVO',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 6 CM',protoop_selectiva='1',protoop_instrumentista='LIC JESUS PEREIRA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-19',protoop_horainicio='18:00',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:12:59
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2021-09-03 18:47:55',atenc_id=40,centro_id=1,clie_id=59,protoop_exposicion='MANUAL E INSTRUMANTAL',protoop_exploracion='1.- SECRECION SERO HEMATICA SUPERFICIAL A NIVEL DE CADERA IZQUIERDA (SEROMA)
+2.- NO TEJIDO DESVITALIZADO
+3.- NO SECRECION PURULENTA',protoop_examen='0',protoop_procedimiento='1.- ASEPSIA - ANTISEPSIA
+2.- COLOCACION DE CAMPOS QUIRURGICOS
+3.- DIERESIS DESCRITA
+4.- IDENTIFICACION DE HALLAZGOS.
+5.- TOMA DE MUSTRA PARA CULTIVO SUPERFICIAL Y PROFUNDA
+6.- LAVADO CON ABUNDANTE SOLUCION SALINA, AGUA OXIGENADA Y CLOREXIDINA
+7.- CURETAJE DE BORDES
+8.- CIERRA POR PLANOS',protoop_proyectada='LIMPIEZA QUIRURGICA + TOMA DE MUESTRA PARA CULTIVO',protoop_sintesis='VICRYL 1/0
+GRAPAS DE PIEL',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNO',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL DE APROXIMADAMENTE 6 CM',protoop_selectiva='1',protoop_instrumentista='LIC JESUS PEREIRA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR RENATO GUERRA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='22',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5901100258084118220210903064755374',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-09-19',protoop_horainicio='18:00',protoop_horafin='19:00' where protoop_id=7 -->2021-09-19 19:13:41
+178-->update dns_atencion set centro_id=1,clie_id=59,atenc_hc='1000373322-1',tiposerv_id='2',usua_id=185,atenc_fecharegistro='2021-09-02 21:32:02',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2021-09-02 21:32:02',atenc_observacion='PACIENTE ADULTA MAYOR INGRESADA PARA RESOLUCIÓN QUIRÚRGICA',atenc_fechaingreso='2021-09-02 21:32:02',clie_ci='1000373322',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01020234257218520210902093202134' where atenc_id=40 -->2021-09-19 19:38:18
+178-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=40,centro_id=1,clie_id=59,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA MAYOR CON MÚLTIPLES COMORBILIDADES, ES TRAIDA POR FAMILIARES (HIJOS), QUIENES REFIEREN QUE HACE 4 DÍAS SUFRE CAIDA DE SU PROPIA ALTURA CON IMPACTO SOBRE CADERA IZQUIERDA, PRESENTANDO DOLOR DE MODERADA A GRAN INTENSIDAD EN CADERA IZQUIERDA, LIMITACIÓN FUNCIONAL, EDEMA, POR LO QUE ACUDEN A MÉDICO ESPECIALISTA QUIEN SOLICITA EXAMENES COMPLEMENTARIOS, DIAGNOSTICA FRACTURA DE CADERA IZQUIERDA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='CHEQUEO PREQUIRÚRGICO POR MEDICINA INTENSIVA -
+MANEJO CLINICO QUIRURGICO INTEGRAL -
+RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR CADERA IZQUIERDA',anam_partos='8',anam_fecharegistro='2021-09-02 21:38:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='-',anam_enlace='590102023425721852021090209384765',anam_cirugia='PROTESIS TOTAL DE CADERA IZQUIERDA',anam_cesareas='0',anam_gesta='8',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='8',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc='2011-01-02',anam_fechaingreso='2021-09-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=22 -->2021-09-19 19:39:21
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',40,1,59,'','','PACIENTE CON ANTECEDENTE DE PROTESIS DE CADERA IZQUIERDA POR FRACTURA TRAS CAIDA DESDE SU PROPIA ALTURA, ACUDE POR PRESENTAR DOLOR MODERADO EN CADERA IZQUIERDA CON LIMITACION FUNCIONAL DE MIEMBRO INFERIOR IZQUIERDO','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','8','2021-09-19 19:38:46','','','','0','','5901172173839917820210919073846288','LIMPIEZA QUIRURGICA','0','8','Traumatología','DR. FRANCISCO GUZMAN','','',NULL,'DR. EDUARDO SANTANA',NULL,NULL,'2021-09-19',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-19 19:47:50
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=40,centro_id=1,clie_id=59,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE PROTESIS DE CADERA IZQUIERDA POR FRACTURA TRAS CAIDA DESDE SU PROPIA ALTURA, ACUDE POR PRESENTAR DOLOR MODERADO EN CADERA IZQUIERDA CON LIMITACION FUNCIONAL DE MIEMBRO INFERIOR IZQUIERDO',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO DE FAMILIARES
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='8',anam_fecharegistro='2021-09-19 19:38:46',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5901172173839917820210919073846288',anam_cirugia='LIMPIEZA QUIRURGICA',anam_cesareas='0',anam_gesta='8',anam_especialidad='Traumatología',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=42 -->2021-09-19 19:48:17
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (40,178,1,59,'PASE A PISO
+PACIENTE CURSANDO POSTQUIRURGICO INMEDIATO POR LIMPIEZA QUIRURGICA + TOMA DE MUESTRA PARA CULTIVO. ACTO QUIRURGICO SIN COMPLICACIONES','',42,'2021-09-19',1,'2021-09-19 19:48:23','19:48','590117217383991782021091907482348')-->2021-09-19 19:49:54
+178-->update dns_hospitalconsultaexterna set atenc_id=40,usua_id=178,centro_id=1,clie_id=59,conext_notasdeevolucion='PASE A PISO
+PACIENTE CURSANDO POSTQUIRURGICO INMEDIATO POR LIMPIEZA QUIRURGICA + TOMA DE MUESTRA PARA CULTIVO. ACTO QUIRURGICO SIN COMPLICACIONES.
+AL MOMENTO PERMANECE TRANQUILA, SIN EVIDENCIA DE DOLOR POSTOPERATORIO.',conext_prescripciones='INDICACIONES DE TRAUMATOLOGIA
+
+1 CLINDAMICINA 600 MG IV CADA 6 HORAS
+2. PARACETAMOL 1 GR IV CADA 8 HORAS
+3. OMEPRAZOL 40 MG IV CADA DIA',anam_id=42,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 19:48:23',conext_horar='19:48',conext_enlace='590117217383991782021091907482348' where conext_id=61 -->2021-09-19 19:51:12
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 21:14:56
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:39:32',conext_horar='18:00',conext_enlace='1000117217383991782021091902393286' where conext_id=58 -->2021-09-19 21:15:13
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:39:32',conext_horar='20:50',conext_enlace='1000117217383991782021091902393286' where conext_id=58 -->2021-09-19 21:15:25
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=100,centro_id=1,atenc_id=68,anam_altadefinitiva='1',protoop_idenlace='38',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR Y BUENA TOLERNACIA ORAL. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPO',anam_nhoja='',anam_enlace='1000117217383991782021091902424376',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 18:00 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO O',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR' where anam_id=24 -->2021-09-19 21:15:32
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=100,centro_id=1,atenc_id=68,anam_altadefinitiva='1',protoop_idenlace='38',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR Y BUENA TOLERNACIA ORAL. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPO',anam_nhoja='',anam_enlace='1000117217383991782021091902424376',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 18:00 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO O',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR' where anam_id=24 -->2021-09-19 21:15:32
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=100,centro_id=1,atenc_id=68,anam_altadefinitiva='1',protoop_idenlace='38',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR Y BUENA TOLERNACIA ORAL. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 24 AÑOS, SIN ALERGIAS CONOCIDAS,  CON ANTECEDENTE PERSONAL DE SOPLO CARDIACO BENIGNO EN LA INFANCIA, FUM: 13/09/21, G: 1 A:1 P: 0 C: 0. ANTECEDENTE FAMILIAR DE PADRE CON HTA. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPO',anam_nhoja='',anam_enlace='1000117217383991782021091902424376',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + MENTOPLASTIA, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+19/09/2021 20:50 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO O',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR' where anam_id=24 -->2021-09-19 21:15:45
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 21:15:50
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=70,centro_id=1,clie_id=101,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 10:47:57',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='10101172173839917820210919104757489',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-08',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=40 -->2021-09-19 21:16:04
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 0',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 19:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAV' where anam_id=25 -->2021-09-19 21:16:07
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=101,centro_id=1,atenc_id=70,anam_altadefinitiva='1',protoop_idenlace='40',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNADDDDDDDDDDDD',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 18:25:27',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS, NO REFIERE ALERGIAS NI ANTECEDENTES PERSONALES DE IMPORTANCIA. ANTECEDENTE QUIRURGICO DE CESAREA. ANTECEDENTE FAMILIAR DE MADRE CON HTA, ABUELA MATERNA CA LINFÁTICO, ABUELA PATERNA CA UTERINO. G: 1 C: 1 A:0 P: 0 . FUM: 0',anam_nhoja='',anam_enlace='10101172173839917820210919062527428',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+19/09/21 19:30:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 		
+1. HIPOPLASIA MAMARIA BILATERAL		
+2. PROTESIS MAMARIAS DE 385 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. NPO POR 2 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ETORICOXIB 120 MG CADA DIA POR 5 DIAS
+4. AMOXICILINA/ AC. CLAV' where anam_id=25 -->2021-09-19 21:16:08
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 21:16:30
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=69,centro_id=1,clie_id=98,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente masculino de 23 años de edad acude para procedimiento quirurgico programado por traumatología. Refiere que hace 15 días aproximadamente, sufre caída desde motocicleta en																												
+ movimiento, posterior a lo que presenta dolor constante en rodilla derecha, con limitación funcional y dificultad para mantener carga sobre la misma, por lo que acude con facultativo quien decide 																												
+ resolución quirúrgica.',anam_planes='1.INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-09-19 08:04:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='9801172173839917820210919080406117',anam_cirugia='ARTROSCOPIA',anam_cesareas='',anam_gesta='',anam_especialidad='DR. PROAÑO',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=39 -->2021-09-19 21:16:37
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=98,centro_id=1,atenc_id=69,anam_altadefinitiva='1',protoop_idenlace='39',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE, CON BUEN MANEJO DEL DOLOR POSOPERATORIO. MANTIENE BUENA TOLERANCIA ORAL, Y NO REFIERE SINTOMATOLOGIA POR LO QUE SE OTORGA ALTA CON INDICACIONES',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:29:41',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 23 AÑOS DE EDAD, SIN ALERGIAS CONOCIDAS. NO REFIERE ANTECEDENTES PERSONALES. ANTECEDENTE FAMILIAR DE ABUELA PATERNA CON DIABETES MIELLITUS, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA. REFIERE QUE HACE 15 DÍ',anam_nhoja='',anam_enlace='9801172173839917820210919022941164',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA RESOLUCION QUIRURGICA																																																															
+ 
+9/09/21: SE REALIAZA BAJO ANESTESIA GENERAL PROCEDIMIENTO QUIRURGICO DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DE LCA DERECHO  SI',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. SINOVIAL HIPERTROFICA TRICOMPARTIMENTAL
+2. LIGAMENTO CRUZADO ANTERIOR: RUPTURA DE INSERCION FEMORAL
+3. MENISCO INTERNO CON DEGENERACINO DE CUERNO POSTERIOR
+4. MENISCO EXTERNO CON RUPTURA COMPLEJA DE CUERNO POSTERIOR',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSQUIRURGICA
+
+1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA
+
+ALTA
+
+ORDENES DE' where anam_id=23 -->2021-09-19 21:16:41
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=98,centro_id=1,atenc_id=69,anam_altadefinitiva='1',protoop_idenlace='39',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE, CON BUEN MANEJO DEL DOLOR POSOPERATORIO. MANTIENE BUENA TOLERANCIA ORAL, Y NO REFIERE SINTOMATOLOGIA POR LO QUE SE OTORGA ALTA CON INDICACIONES',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-19 14:29:41',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 23 AÑOS DE EDAD, SIN ALERGIAS CONOCIDAS. NO REFIERE ANTECEDENTES PERSONALES. ANTECEDENTE FAMILIAR DE ABUELA PATERNA CON DIABETES MIELLITUS, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA. REFIERE QUE HACE 15 DÍ',anam_nhoja='',anam_enlace='9801172173839917820210919022941164',anam_discapacidadleve='',anam_resumenevolucion='19/09/21: PACIENTE INGRESA PARA RESOLUCION QUIRURGICA																																																															
+ 
+9/09/21: SE REALIAZA BAJO ANESTESIA GENERAL PROCEDIMIENTO QUIRURGICO DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DE LCA DERECHO  SI',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. SINOVIAL HIPERTROFICA TRICOMPARTIMENTAL
+2. LIGAMENTO CRUZADO ANTERIOR: RUPTURA DE INSERCION FEMORAL
+3. MENISCO INTERNO CON DEGENERACINO DE CUERNO POSTERIOR
+4. MENISCO EXTERNO CON RUPTURA COMPLEJA DE CUERNO POSTERIOR',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSQUIRURGICA
+
+1. CEFAZOLINA 1 GR IV CADA 8 HORAS
+2. KETOROLACO 30 MG IV CADA 8 HORAS
+3. PARACETAMOL 1 R IV CADA 8 HORAS
+4. TRAMADOL 100 MG IV CADA 12 HORAS
+5 METOCLOPRAMIDA 10 MG IV CADA 12 HORAS
+6. OMEPRAZOL 40 MG IV CADA DIA
+
+ALTA
+
+ORDENES DE' where anam_id=23 -->2021-09-19 21:16:41
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=71,centro_id=1,clie_id=102,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 14:11:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10201172173839917820210919021153110',anam_cirugia='MINIABDOMINOPLASTIA',anam_cesareas='1',anam_gesta='3',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-08-18',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=41 -->2021-09-19 21:20:15
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=71,centro_id=1,clie_id=102,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 14:11:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10201172173839917820210919021153110',anam_cirugia='MINIABDOMINOPLASTIA',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-08-18',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=41 -->2021-09-19 21:20:46
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=68,centro_id=1,clie_id=100,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOSUCCION POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. RESOLUCION QUIRURGICA
+3. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 07:53:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10001172173839917820210919075336260',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-13',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=38 -->2021-09-19 21:21:17
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='NOTA POSTQUIRURGICA
+
+SE REALIZO LIPOESCULTURA MÁS AUMENTO DEL MENTON SIN COMPLICACIONES',conext_prescripciones='1. AMBULATORIO TEMPRANO
+2. PROBAR TOLERANCIA ORAL EN 2 HORAS',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:37:12',conext_horar='14:37',conext_enlace='1000117217383991782021091902371214' where conext_id=57 -->2021-09-19 21:21:22
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (71,178,1,102,'PASE A PISO
+PACIENTE CURSANDO POSTQUIRURGICO INMEDIATO DE MINIABDOMINOPLASTIA + LIPOESCULTURA','1. AMBULATORIO TEMPRANO
+2. PROBAR TOLERANCIA ORAL EN 2 HORAS
+3. METOCLOPRAMIDA 10 MG IV STAT',41,'2021-09-19',1,'2021-09-19 21:20:52','21:20','10201172173839917820210919092052411')-->2021-09-19 21:22:17
+178-->update dns_hospitalconsultaexterna set atenc_id=71,usua_id=178,centro_id=1,clie_id=102,conext_notasdeevolucion='PASE A PISO
+PACIENTE CURSANDO POSTQUIRURGICO INMEDIATO DE MINIABDOMINOPLASTIA + LIPOESCULTURA',conext_prescripciones='1. AMBULATORIO TEMPRANO
+2. PROBAR TOLERANCIA ORAL EN 2 HORAS
+3. METOCLOPRAMIDA 10 MG IV STAT',anam_id=41,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 21:20:52',conext_horar='21:20',conext_enlace='10201172173839917820210919092052411' where conext_id=62 -->2021-09-19 21:22:21
+178-->update dns_hospitalconsultaexterna set atenc_id=68,usua_id=178,centro_id=1,clie_id=100,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR LIPOESCULTURA + AUMENTO DEL MENTON. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. IBUPROFENO 600 MG VO CADA 8 HORAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=38,conext_fechar='2021-09-19',estaatenc_id=1,conext_fecharegistro='2021-09-19 14:39:32',conext_horar='20:50',conext_enlace='1000117217383991782021091902393286' where conext_id=58 -->2021-09-19 21:22:37
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (71,178,1,102,'PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR MINIABDOMINOPLASTIA + LIPOESCULTURA. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE','',41,'2021-09-19',1,'2021-09-19 21:22:29','21:22','10201172173839917820210919092229372')-->2021-09-19 21:23:08
+178-->update dns_hospitalconsultaexterna set atenc_id=71,usua_id=178,centro_id=1,clie_id=102,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSQUIRURGICO POR MINIABDOMINOPLASTIA + LIPOESCULTURA. REFEIRE DOLOR LEVE EN LECHO QUIRURGICO. NO PRESENTA MAREO NI NAUSEA. PERMANECE EN CONDICION CLINICA ESTABLE',conext_prescripciones='ORDENES DE C. PLASTICA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. ETORICOXIB 120 MG VO CADA DIA
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN ANTES DE MASAJE',anam_id=41,conext_fechar='2021-09-20',estaatenc_id=1,conext_fecharegistro='2021-09-19 21:22:29',conext_horar='00:30',conext_enlace='10201172173839917820210919092229372' where conext_id=63 -->2021-09-19 21:24:23
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=71,centro_id=1,clie_id=102,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 14:11:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10201172173839917820210919021153110',anam_cirugia='MINIABDOMINOPLASTIA',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-08-18',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=41 -->2021-09-19 21:30:09
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,102,1,71,'','41','','','','','2021-09-19 21:30:10','','','','PACIENTE FEMENINA DE 32 AÑOS, SIN ALERGIAS CONOCIDAS,  SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ANTECEDENTE QUIRURGICO DE COLECISTECTOMIA, CESAREA Y LAPAROTOMIA POR EMBARAZO ECTOPICO; FUM: 18/08/21, G: 3 A:1 P: 0 C: 2. ANTECEDENTE FAMILIAR DE MADRE CON HTA, HERMANA CON HIPERTIROIDISMO. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','10201172173839917820210919093010149','','19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE MINIABDOMINOPLASTIA + LIPOESCULTURA , MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+20/09/2021 00:30 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE','','','HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO','','','INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+3. METOCLOPRAMIDA 10 MG IV STAT
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. ETORICOXIB 120 MG VO CADA DIA POR 5 DIAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN 30 MINUTOS ANTES DE MASAJES')-->2021-09-19 21:33:23
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=102,centro_id=1,atenc_id=71,anam_altadefinitiva='',protoop_idenlace='41',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 21:30:10',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, SIN ALERGIAS CONOCIDAS,  SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ANTECEDENTE QUIRURGICO DE COLECISTECTOMIA, CESAREA Y LAPAROTOMIA POR EMBARAZO ECTOPICO; FUM: 18/08/21, G: 3 A:1 P: 0 C: 2. ANTECEDENTE FAMILIAR DE MADRE CON HTA, HERMANA CON HIPERTIROIDISMO. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='10201172173839917820210919093010149',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE MINIABDOMINOPLASTIA + LIPOESCULTURA , MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+20/09/2021 00:30 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+3. METOCLOPRAMIDA 10 MG IV STAT
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. ETORICOXIB 120 MG VO CADA DIA POR 5 DIAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN 30 MINUTOS ANTES DE MASAJES' where anam_id=26 -->2021-09-19 21:34:05
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=102,centro_id=1,atenc_id=71,anam_altadefinitiva='1',protoop_idenlace='41',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. BUEN MANEJO DEL DOLOR Y MANTIENE BUENA TOLERANCIA ORAL POR LO QUE SE OTORGA ALTA MÁS INDICACIONES CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 21:30:10',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, SIN ALERGIAS CONOCIDAS,  SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ANTECEDENTE QUIRURGICO DE COLECISTECTOMIA, CESAREA Y LAPAROTOMIA POR EMBARAZO ECTOPICO; FUM: 18/08/21, G: 3 A:1 P: 0 C: 2. ANTECEDENTE FAMILIAR DE MADRE CON HTA, HERMANA CON HIPERTIROIDISMO. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='10201172173839917820210919093010149',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE MINIABDOMINOPLASTIA + LIPOESCULTURA , MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+20/09/2021 00:30 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+3. METOCLOPRAMIDA 10 MG IV STAT
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. ETORICOXIB 120 MG VO CADA DIA POR 5 DIAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN 30 MINUTOS ANTES DE MASAJES' where anam_id=26 -->2021-09-19 21:35:17
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=102,centro_id=1,atenc_id=71,anam_altadefinitiva='1',protoop_idenlace='41',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. BUEN MANEJO DEL DOLOR Y MANTIENE BUENA TOLERANCIA ORAL POR LO QUE SE OTORGA ALTA MÁS INDICACIONES CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-19 21:30:10',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, SIN ALERGIAS CONOCIDAS,  SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ANTECEDENTE QUIRURGICO DE COLECISTECTOMIA, CESAREA Y LAPAROTOMIA POR EMBARAZO ECTOPICO; FUM: 18/08/21, G: 3 A:1 P: 0 C: 2. ANTECEDENTE FAMILIAR DE MADRE CON HTA, HERMANA CON HIPERTIROIDISMO. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='10201172173839917820210919093010149',anam_discapacidadleve='',anam_resumenevolucion='19/09/2021: PACIENTE INGRESA PARA PROCEDIMIENTO DE MINIABDOMINOPLASTIA + LIPOESCULTURA , MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES
+
+20/09/2021 00:30 PACIENTE EN CONDICION CLINICA ESTABLE, CON BUENA TOLERANCIA ORAL. SE OTORGA ALTA BAJO ORDEN DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS
+
+1. LIPODISTROFIA ABDOMINAL
+2. LIPOSUCCION DE 4500 cc TOTAL
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOINJERTO GLUTEOS: 540 cc CADA UNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACIONES DE C. PLASTICA
+
+1. PROBAR TOLERNACIA ORAL EN 2 HORAS
+2. AMBULATORIO TEMPRANO
+3. METOCLOPRAMIDA 10 MG IV STAT
+
+ALTA
+
+1. AMOXICILINA/ AC. CLAVULANICO 625 MG CADA 8 HORAS POR 7 DIAS
+2. PARACETAMOL 1 GR VO CADA 12 HORAS EN CASO DE DOLOR
+3. OMEPRAZOL 20 MG VO CADA DIA POR 7 DIAS 
+4. ETORICOXIB 120 MG VO CADA DIA POR 5 DIAS
+5. PREGABALINA 75 MG CADA NOCHE POR 5 DIAS
+6. ADORLAN 30 MINUTOS ANTES DE MASAJES' where anam_id=26 -->2021-09-19 21:35:26
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=71,centro_id=1,clie_id=102,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE MINIABDOMINOPLASTIA + LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO
+3. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-19 14:11:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='10201172173839917820210919021153110',anam_cirugia='MINIABDOMINOPLASTIA',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-08-18',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=41 -->2021-09-19 21:35:32
+187-->insert into dns_enfermeria (centro_id,usua_id,clie_id,atenc_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (1,187,100,68,'','2021-09-19 21:50:42','','10001050219174518720210919095042222','')-->2021-09-19 21:57:18
+187-->update dns_enfermeria set centro_id=1,usua_id=187,clie_id=101,atenc_id=70,protoop_tblprincipal='',enferm_fecharegistro='2021-09-19 12:54:16',protoop_idenlace='0',enferm_enlace='10101050219174518720210919125416302',enferm_archivo='' where enferm_id=126 -->2021-09-19 22:03:03
+187-->update dns_enfermeria set centro_id=1,usua_id=187,clie_id=101,atenc_id=70,protoop_tblprincipal='',enferm_fecharegistro='2021-09-19 12:54:16',protoop_idenlace='0',enferm_enlace='10101050219174518720210919125416302',enferm_archivo='' where enferm_id=126 -->2021-09-19 22:03:59

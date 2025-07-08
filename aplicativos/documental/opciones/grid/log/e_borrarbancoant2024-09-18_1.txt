@@ -1,0 +1,10 @@
+502-->select * from app_anticipos where anti_id='66'-->2024-09-18 15:16:31
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='66')-->2024-09-18 15:16:34
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='66'-->2024-09-18 15:16:34
+502-->delete  from lpin_movanticipos where anti_enlace='2024-08-0131966AC5481032C7'-->2024-09-18 15:16:34
+502-->delete from app_anticipos where anti_id=66-->2024-09-18 15:16:34
+502-->select * from app_anticipos where anti_id='67'-->2024-09-18 15:23:08
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='67')-->2024-09-18 15:23:10
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='67'-->2024-09-18 15:23:10
+502-->delete  from lpin_movanticipos where anti_enlace='2024-08-0131966AC548104C2C'-->2024-09-18 15:23:10
+502-->delete from app_anticipos where anti_id=67-->2024-09-18 15:23:10

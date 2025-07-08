@@ -1,0 +1,15 @@
+295-->select * from lpin_cobropago where crb_id='8457'-->2024-10-20 13:19:24
+295-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9700')-->2024-10-20 13:19:27
+295-->delete from lpin_comprobantecontable where crpadet_id='9700'-->2024-10-20 13:19:27
+295-->delete  from lpin_cobropagodetalle where crb_enlace='2024-10-202956715276F13C35'-->2024-10-20 13:19:27
+295-->delete from lpin_cobropago where crb_id=8457-->2024-10-20 13:19:27
+295-->select * from lpin_cobropago where crb_id='8455'-->2024-10-20 13:21:02
+295-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9698')-->2024-10-20 13:21:04
+295-->delete from lpin_comprobantecontable where crpadet_id='9698'-->2024-10-20 13:21:04
+295-->delete  from lpin_cobropagodetalle where crb_enlace='2024-10-202956715260990166'-->2024-10-20 13:21:04
+295-->delete from lpin_cobropago where crb_id=8455-->2024-10-20 13:21:04
+295-->select * from lpin_cobropago where crb_id='8454'-->2024-10-20 13:22:00
+295-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9697')-->2024-10-20 13:22:02
+295-->delete from lpin_comprobantecontable where crpadet_id='9697'-->2024-10-20 13:22:02
+295-->delete  from lpin_cobropagodetalle where crb_enlace='2024-10-20295671525843FC16'-->2024-10-20 13:22:02
+295-->delete from lpin_cobropago where crb_id=8454-->2024-10-20 13:22:02

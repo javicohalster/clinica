@@ -1,0 +1,1 @@
+select 	compra_nfactura from dns_compras where tipdoc_id='19' and compra_nfactura like '001-002-%' order by compra_nfactura desc limit 1

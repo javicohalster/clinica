@@ -1,0 +1,167 @@
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'caja_consultaext','SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_Img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+where c.clie_id!=\'2\'','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','id',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','identificacion',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','nombre',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','apellido',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','atencion_ingreso',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','consulta_anamnesis',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','fecha_registro',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','id_subsecuente',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','id_laboratorio',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','fecha_solicitud_lab',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','id_imagen',1,6)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','fecha_solicitud_Img',1,6)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico) values (0,'','','','',1,1,'Consulta Externa Caja','639c7434398682022121601354863')
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'convenio_hospitalizacion','SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anesteciologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 10','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','id',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','identificacion',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','nombre',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','apellido',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','titular_seguro',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','convenio',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','tipo_cobro_nombre',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','hospitalizacion_ingreso',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','atencion_ingreso',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','cirugia',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','especialidad',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','tratante',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,13,'','ayudante',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,14,'','anestesiologo',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,15,'','id_laboratorio',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,16,'','fecha_solicitud_lab',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,17,'','id_imagen',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,18,'','fecha_solicitud_img',1,7)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,19,'','motivo_llegada',1,7)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico) values (0,'','','','',1,1,'Hospitalizacion Convenios','639c8a7620bd020221216031046176')
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'convenio_traumatologia','SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 10','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico) values (0,'','','','',1,1,'Traumatologia Convenios','639c8f253f3b420221216033045341')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','id',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','identificacion',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','nombre',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','apellido',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','titular_seguro',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','convenio',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','tipo_cobro_nombre',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','atencion_ingreso',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','traumatologia_Consulta_Anam',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','fecha_registro',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','id_subsecuente',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','id_laboratorio',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,13,'','fecha_solicitud_lab',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,14,'','id_imagen',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,15,'','fecha_solicitud_img',1,8)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,16,'','motivo_llegada',1,8)
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'convenio_consultaext','SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 10','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','id',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','identificacion',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','nombre',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','apellido',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','titular_seguro',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','convenio',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','tipo_cobro_nombre',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','atencion_ingreso',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','consulta_anamnesis',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','fecha_registro',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','id_subsecuente',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','id_laboratorio',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,13,'','fecha_solicitud_lab',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,14,'','id_imagen',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,15,'','fecha_solicitud_img',1,9)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,16,'','motivo_llegada',1,9)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico) values (0,'','','','',1,1,'Consulta Externa Convenios','639c95f753d8c20221216035951403')

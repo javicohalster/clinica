@@ -1,0 +1,3 @@
+update dns_especialidad set especi_nombre='Acupuntura',especi_iniciales='AC',especi_codigo='AC',especi_activo=0,mnupan_id=0,especi_diagnostico='1',especi_horasxprocedimiento=30,especi_horasapertura='8' where especi_id=18 
+update dns_especialidad set especi_nombre='Actividades Extramurales',especi_iniciales='',especi_codigo='',especi_activo=0,mnupan_id=0,especi_diagnostico='0',especi_horasxprocedimiento=0,especi_horasapertura='0' where especi_id=14 
+update dns_especialidad set especi_nombre='Pre Hospitalario',especi_iniciales='',especi_codigo='',especi_activo=0,mnupan_id=0,especi_diagnostico='0',especi_horasxprocedimiento=0,especi_horasapertura='0' where especi_id=13 

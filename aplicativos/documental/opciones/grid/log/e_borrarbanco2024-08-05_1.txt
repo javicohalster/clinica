@@ -1,0 +1,320 @@
+319-->select * from app_movimientobancos where movban_id='880'-->2024-08-05 12:27:50
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='880')-->2024-08-05 12:27:52
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='880'-->2024-08-05 12:27:52
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A719FD593FF'-->2024-08-05 12:27:52
+319-->delete from app_movimientobancos where movban_id=880-->2024-08-05 12:27:52
+319-->select * from app_movimientobancos where movban_id='881'-->2024-08-05 12:28:03
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='881')-->2024-08-05 12:28:05
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='881'-->2024-08-05 12:28:05
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71A929F39E'-->2024-08-05 12:28:05
+319-->delete from app_movimientobancos where movban_id=881-->2024-08-05 12:28:05
+319-->select * from app_movimientobancos where movban_id='882'-->2024-08-05 12:28:19
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='882')-->2024-08-05 12:28:21
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='882'-->2024-08-05 12:28:21
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71B81E318B'-->2024-08-05 12:28:21
+319-->delete from app_movimientobancos where movban_id=882-->2024-08-05 12:28:21
+319-->select * from app_movimientobancos where movban_id='883'-->2024-08-05 12:28:36
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='883')-->2024-08-05 12:28:38
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='883'-->2024-08-05 12:28:38
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71BF044483'-->2024-08-05 12:28:38
+319-->delete from app_movimientobancos where movban_id=883-->2024-08-05 12:28:38
+502-->select * from app_movimientobancos where movban_id='1766'-->2024-08-05 12:40:15
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1766')-->2024-08-05 12:40:17
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1766'-->2024-08-05 12:40:17
+502-->delete  from lpin_movbancos where movban_enlace='2024-04-094586615C3A395FD5'-->2024-08-05 12:40:17
+502-->delete from app_movimientobancos where movban_id=1766-->2024-08-05 12:40:17
+319-->select * from app_movimientobancos where movban_id='884'-->2024-08-05 17:18:41
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='884')-->2024-08-05 17:18:44
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='884'-->2024-08-05 17:18:44
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71C448A48D'-->2024-08-05 17:18:44
+319-->delete from app_movimientobancos where movban_id=884-->2024-08-05 17:18:44
+319-->select * from app_movimientobancos where movban_id='886'-->2024-08-05 17:18:51
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='886')-->2024-08-05 17:18:53
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='886'-->2024-08-05 17:18:53
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71DA714AFD'-->2024-08-05 17:18:53
+319-->delete from app_movimientobancos where movban_id=886-->2024-08-05 17:18:53
+319-->select * from app_movimientobancos where movban_id='887'-->2024-08-05 17:19:00
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='887')-->2024-08-05 17:19:02
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='887'-->2024-08-05 17:19:02
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71E04111D3'-->2024-08-05 17:19:02
+319-->delete from app_movimientobancos where movban_id=887-->2024-08-05 17:19:02
+319-->select * from app_movimientobancos where movban_id='888'-->2024-08-05 17:19:10
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='888')-->2024-08-05 17:19:13
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='888'-->2024-08-05 17:19:13
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71F2E84F21'-->2024-08-05 17:19:13
+319-->delete from app_movimientobancos where movban_id=888-->2024-08-05 17:19:13
+319-->select * from app_movimientobancos where movban_id='889'-->2024-08-05 17:19:19
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='889')-->2024-08-05 17:19:21
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='889'-->2024-08-05 17:19:21
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71F81228C4'-->2024-08-05 17:19:21
+319-->delete from app_movimientobancos where movban_id=889-->2024-08-05 17:19:21
+319-->select * from app_movimientobancos where movban_id='890'-->2024-08-05 17:47:28
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='890')-->2024-08-05 17:47:31
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='890'-->2024-08-05 17:47:31
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A71FED08920'-->2024-08-05 17:47:31
+319-->delete from app_movimientobancos where movban_id=890-->2024-08-05 17:47:31
+319-->select * from app_movimientobancos where movban_id='891'-->2024-08-05 17:47:35
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='891')-->2024-08-05 17:47:37
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='891'-->2024-08-05 17:47:37
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A720427E1B6'-->2024-08-05 17:47:37
+319-->delete from app_movimientobancos where movban_id=891-->2024-08-05 17:47:38
+319-->select * from app_movimientobancos where movban_id='892'-->2024-08-05 17:47:45
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='892')-->2024-08-05 17:47:48
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='892'-->2024-08-05 17:47:48
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A720A83355F'-->2024-08-05 17:47:48
+319-->delete from app_movimientobancos where movban_id=892-->2024-08-05 17:47:48
+319-->select * from app_movimientobancos where movban_id='893'-->2024-08-05 17:47:58
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='893')-->2024-08-05 17:48:00
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='893'-->2024-08-05 17:48:00
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A720EEC22B7'-->2024-08-05 17:48:00
+319-->delete from app_movimientobancos where movban_id=893-->2024-08-05 17:48:00
+319-->select * from app_movimientobancos where movban_id='894'-->2024-08-05 17:48:07
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='894')-->2024-08-05 17:48:09
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='894'-->2024-08-05 17:48:09
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72137EB918'-->2024-08-05 17:48:09
+319-->delete from app_movimientobancos where movban_id=894-->2024-08-05 17:48:09
+319-->select * from app_movimientobancos where movban_id='895'-->2024-08-05 17:48:17
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='895')-->2024-08-05 17:48:20
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='895'-->2024-08-05 17:48:20
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7218E8AA7E'-->2024-08-05 17:48:20
+319-->delete from app_movimientobancos where movban_id=895-->2024-08-05 17:48:20
+319-->select * from app_movimientobancos where movban_id='896'-->2024-08-05 17:48:41
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='896')-->2024-08-05 17:48:43
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='896'-->2024-08-05 17:48:43
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A721D8032C3'-->2024-08-05 17:48:43
+319-->delete from app_movimientobancos where movban_id=896-->2024-08-05 17:48:43
+319-->select * from app_movimientobancos where movban_id='897'-->2024-08-05 17:49:13
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='897')-->2024-08-05 17:49:15
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='897'-->2024-08-05 17:49:15
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7222BC35C4'-->2024-08-05 17:49:15
+319-->delete from app_movimientobancos where movban_id=897-->2024-08-05 17:49:15
+319-->select * from app_movimientobancos where movban_id='898'-->2024-08-05 17:49:24
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='898')-->2024-08-05 17:49:27
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='898'-->2024-08-05 17:49:27
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7227E58906'-->2024-08-05 17:49:27
+319-->delete from app_movimientobancos where movban_id=898-->2024-08-05 17:49:27
+319-->select * from app_movimientobancos where movban_id='899'-->2024-08-05 17:49:35
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='899')-->2024-08-05 17:49:38
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='899'-->2024-08-05 17:49:38
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A722DD66F66'-->2024-08-05 17:49:38
+319-->delete from app_movimientobancos where movban_id=899-->2024-08-05 17:49:38
+319-->select * from app_movimientobancos where movban_id='901'-->2024-08-05 17:49:48
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='901')-->2024-08-05 17:49:51
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='901'-->2024-08-05 17:49:51
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7238ED7738'-->2024-08-05 17:49:51
+319-->delete from app_movimientobancos where movban_id=901-->2024-08-05 17:49:51
+319-->select * from app_movimientobancos where movban_id='902'-->2024-08-05 17:49:57
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='902')-->2024-08-05 17:50:00
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='902'-->2024-08-05 17:50:00
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A724061F9BE'-->2024-08-05 17:50:00
+319-->delete from app_movimientobancos where movban_id=902-->2024-08-05 17:50:00
+319-->select * from app_movimientobancos where movban_id='903'-->2024-08-05 17:50:05
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='903')-->2024-08-05 17:50:08
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='903'-->2024-08-05 17:50:08
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7245809C9A'-->2024-08-05 17:50:08
+319-->delete from app_movimientobancos where movban_id=903-->2024-08-05 17:50:08
+319-->select * from app_movimientobancos where movban_id='904'-->2024-08-05 17:50:23
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='904')-->2024-08-05 17:50:26
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='904'-->2024-08-05 17:50:26
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A724ABDA8A8'-->2024-08-05 17:50:26
+319-->delete from app_movimientobancos where movban_id=904-->2024-08-05 17:50:26
+319-->select * from app_movimientobancos where movban_id='905'-->2024-08-05 17:50:38
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='905')-->2024-08-05 17:50:40
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='905'-->2024-08-05 17:50:40
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A724FE213B1'-->2024-08-05 17:50:40
+319-->delete from app_movimientobancos where movban_id=905-->2024-08-05 17:50:40
+319-->select * from app_movimientobancos where movban_id='906'-->2024-08-05 17:50:48
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='906')-->2024-08-05 17:50:50
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='906'-->2024-08-05 17:50:50
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7254CBFB68'-->2024-08-05 17:50:50
+319-->delete from app_movimientobancos where movban_id=906-->2024-08-05 17:50:50
+319-->select * from app_movimientobancos where movban_id='907'-->2024-08-05 17:50:56
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='907')-->2024-08-05 17:50:59
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='907'-->2024-08-05 17:50:59
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A725A3DD034'-->2024-08-05 17:50:59
+319-->delete from app_movimientobancos where movban_id=907-->2024-08-05 17:50:59
+319-->select * from app_movimientobancos where movban_id='320'-->2024-08-05 17:55:19
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='320')-->2024-08-05 17:55:22
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='320'-->2024-08-05 17:55:22
+319-->delete  from lpin_movbancos where movban_enlace='2023-06-1919764906258AAA26'-->2024-08-05 17:55:22
+319-->delete from app_movimientobancos where movban_id=320-->2024-08-05 17:55:22
+319-->select * from app_movimientobancos where movban_id='908'-->2024-08-05 17:55:46
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='908')-->2024-08-05 17:55:48
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='908'-->2024-08-05 17:55:48
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72600A5898'-->2024-08-05 17:55:48
+319-->delete from app_movimientobancos where movban_id=908-->2024-08-05 17:55:48
+319-->select * from app_movimientobancos where movban_id='909'-->2024-08-05 17:55:56
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='909')-->2024-08-05 17:55:59
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='909'-->2024-08-05 17:55:59
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72666482EA'-->2024-08-05 17:55:59
+319-->delete from app_movimientobancos where movban_id=909-->2024-08-05 17:55:59
+319-->select * from app_movimientobancos where movban_id='910'-->2024-08-05 17:56:07
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='910')-->2024-08-05 17:56:10
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='910'-->2024-08-05 17:56:10
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A726B29EDB9'-->2024-08-05 17:56:10
+319-->delete from app_movimientobancos where movban_id=910-->2024-08-05 17:56:10
+319-->select * from app_movimientobancos where movban_id='911'-->2024-08-05 17:56:17
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='911')-->2024-08-05 17:56:19
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='911'-->2024-08-05 17:56:19
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72701846D9'-->2024-08-05 17:56:19
+319-->delete from app_movimientobancos where movban_id=911-->2024-08-05 17:56:19
+319-->select * from app_movimientobancos where movban_id='912'-->2024-08-05 17:56:25
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='912')-->2024-08-05 17:56:28
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='912'-->2024-08-05 17:56:28
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A727467A033'-->2024-08-05 17:56:28
+319-->delete from app_movimientobancos where movban_id=912-->2024-08-05 17:56:28
+319-->select * from app_movimientobancos where movban_id='913'-->2024-08-05 17:56:35
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='913')-->2024-08-05 17:56:37
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='913'-->2024-08-05 17:56:37
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72793EFED8'-->2024-08-05 17:56:37
+319-->delete from app_movimientobancos where movban_id=913-->2024-08-05 17:56:37
+319-->select * from app_movimientobancos where movban_id='914'-->2024-08-05 17:56:44
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='914')-->2024-08-05 17:56:47
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='914'-->2024-08-05 17:56:47
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7280889905'-->2024-08-05 17:56:47
+319-->delete from app_movimientobancos where movban_id=914-->2024-08-05 17:56:47
+319-->select * from app_movimientobancos where movban_id='915'-->2024-08-05 17:58:36
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='915')-->2024-08-05 17:58:39
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='915'-->2024-08-05 17:58:39
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7288EB333B'-->2024-08-05 17:58:39
+319-->delete from app_movimientobancos where movban_id=915-->2024-08-05 17:58:39
+319-->select * from app_movimientobancos where movban_id='916'-->2024-08-05 17:58:45
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='916')-->2024-08-05 17:58:48
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='916'-->2024-08-05 17:58:48
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A728FDCEAAC'-->2024-08-05 17:58:48
+319-->delete from app_movimientobancos where movban_id=916-->2024-08-05 17:58:48
+319-->select * from app_movimientobancos where movban_id='917'-->2024-08-05 17:58:55
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='917')-->2024-08-05 17:58:58
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='917'-->2024-08-05 17:58:58
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A729618D07A'-->2024-08-05 17:58:58
+319-->delete from app_movimientobancos where movban_id=917-->2024-08-05 17:58:58
+319-->select * from app_movimientobancos where movban_id='918'-->2024-08-05 18:08:34
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='918')-->2024-08-05 18:08:36
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='918'-->2024-08-05 18:08:36
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A729AF99E13'-->2024-08-05 18:08:36
+319-->delete from app_movimientobancos where movban_id=918-->2024-08-05 18:08:36
+319-->select * from app_movimientobancos where movban_id='919'-->2024-08-05 18:08:43
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='919')-->2024-08-05 18:08:46
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='919'-->2024-08-05 18:08:46
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A729FFBFD72'-->2024-08-05 18:08:46
+319-->delete from app_movimientobancos where movban_id=919-->2024-08-05 18:08:46
+319-->select * from app_movimientobancos where movban_id='920'-->2024-08-05 18:09:32
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='920')-->2024-08-05 18:09:35
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='920'-->2024-08-05 18:09:35
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72A519D82A'-->2024-08-05 18:09:35
+319-->delete from app_movimientobancos where movban_id=920-->2024-08-05 18:09:35
+319-->select * from app_movimientobancos where movban_id='921'-->2024-08-05 18:12:21
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='921')-->2024-08-05 18:12:23
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='921'-->2024-08-05 18:12:23
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72A9C1FCE5'-->2024-08-05 18:12:23
+319-->delete from app_movimientobancos where movban_id=921-->2024-08-05 18:12:23
+319-->select * from app_movimientobancos where movban_id='922'-->2024-08-05 18:12:29
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='922')-->2024-08-05 18:12:31
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='922'-->2024-08-05 18:12:31
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72AF2654BE'-->2024-08-05 18:12:31
+319-->delete from app_movimientobancos where movban_id=922-->2024-08-05 18:12:31
+319-->select * from app_movimientobancos where movban_id='923'-->2024-08-05 18:12:40
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='923')-->2024-08-05 18:12:42
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='923'-->2024-08-05 18:12:42
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72B3F9FC6E'-->2024-08-05 18:12:42
+319-->delete from app_movimientobancos where movban_id=923-->2024-08-05 18:12:42
+319-->select * from app_movimientobancos where movban_id='947'-->2024-08-05 18:12:51
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='947')-->2024-08-05 18:12:53
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='947'-->2024-08-05 18:12:53
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0627864A75D76E3CD7'-->2024-08-05 18:12:53
+319-->delete from app_movimientobancos where movban_id=947-->2024-08-05 18:12:53
+319-->select * from app_movimientobancos where movban_id='924'-->2024-08-05 18:13:13
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='924')-->2024-08-05 18:13:16
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='924'-->2024-08-05 18:13:16
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72B96AFA77'-->2024-08-05 18:13:16
+319-->delete from app_movimientobancos where movban_id=924-->2024-08-05 18:13:16
+319-->select * from app_movimientobancos where movban_id='925'-->2024-08-05 18:13:24
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='925')-->2024-08-05 18:13:26
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='925'-->2024-08-05 18:13:26
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72BD9D0EF0'-->2024-08-05 18:13:26
+319-->delete from app_movimientobancos where movban_id=925-->2024-08-05 18:13:26
+319-->select * from app_movimientobancos where movban_id='926'-->2024-08-05 18:13:35
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='926')-->2024-08-05 18:13:38
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='926'-->2024-08-05 18:13:38
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72C30D5DDE'-->2024-08-05 18:13:38
+319-->delete from app_movimientobancos where movban_id=926-->2024-08-05 18:13:38
+319-->select * from app_movimientobancos where movban_id='927'-->2024-08-05 18:13:44
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='927')-->2024-08-05 18:13:46
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='927'-->2024-08-05 18:13:46
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72C8157026'-->2024-08-05 18:13:46
+319-->delete from app_movimientobancos where movban_id=927-->2024-08-05 18:13:46
+319-->select * from app_movimientobancos where movban_id='928'-->2024-08-05 18:14:37
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='928')-->2024-08-05 18:14:39
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='928'-->2024-08-05 18:14:39
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72CC91E7BF'-->2024-08-05 18:14:39
+319-->delete from app_movimientobancos where movban_id=928-->2024-08-05 18:14:39
+319-->select * from app_movimientobancos where movban_id='929'-->2024-08-05 18:14:50
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='929')-->2024-08-05 18:14:52
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='929'-->2024-08-05 18:14:52
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72D117C2BE'-->2024-08-05 18:14:52
+319-->delete from app_movimientobancos where movban_id=929-->2024-08-05 18:14:52
+319-->select * from app_movimientobancos where movban_id='930'-->2024-08-05 18:14:59
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='930')-->2024-08-05 18:15:02
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='930'-->2024-08-05 18:15:02
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72D56D1916'-->2024-08-05 18:15:02
+319-->delete from app_movimientobancos where movban_id=930-->2024-08-05 18:15:02
+319-->select * from app_movimientobancos where movban_id='931'-->2024-08-05 18:15:14
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='931')-->2024-08-05 18:15:16
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='931'-->2024-08-05 18:15:16
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72D9CDDDC8'-->2024-08-05 18:15:16
+319-->delete from app_movimientobancos where movban_id=931-->2024-08-05 18:15:16
+319-->select * from app_movimientobancos where movban_id='932'-->2024-08-05 18:15:37
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='932')-->2024-08-05 18:15:40
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='932'-->2024-08-05 18:15:40
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72DF64C355'-->2024-08-05 18:15:40
+319-->delete from app_movimientobancos where movban_id=932-->2024-08-05 18:15:40
+319-->select * from app_movimientobancos where movban_id='933'-->2024-08-05 18:15:54
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='933')-->2024-08-05 18:15:57
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='933'-->2024-08-05 18:15:57
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72E499E7B6'-->2024-08-05 18:15:57
+319-->delete from app_movimientobancos where movban_id=933-->2024-08-05 18:15:57
+319-->select * from app_movimientobancos where movban_id='934'-->2024-08-05 18:16:07
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='934')-->2024-08-05 18:16:09
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='934'-->2024-08-05 18:16:09
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72E920040E'-->2024-08-05 18:16:09
+319-->delete from app_movimientobancos where movban_id=934-->2024-08-05 18:16:09
+319-->select * from app_movimientobancos where movban_id='935'-->2024-08-05 18:19:47
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='935')-->2024-08-05 18:19:49
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='935'-->2024-08-05 18:19:49
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72EE0B71FB'-->2024-08-05 18:19:49
+319-->delete from app_movimientobancos where movban_id=935-->2024-08-05 18:19:49
+319-->select * from app_movimientobancos where movban_id='936'-->2024-08-05 18:20:03
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='936')-->2024-08-05 18:20:06
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='936'-->2024-08-05 18:20:06
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72F353334C'-->2024-08-05 18:20:06
+319-->delete from app_movimientobancos where movban_id=936-->2024-08-05 18:20:06
+319-->select * from app_movimientobancos where movban_id='937'-->2024-08-05 18:20:16
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='937')-->2024-08-05 18:20:19
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='937'-->2024-08-05 18:20:19
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72F7D5BF00'-->2024-08-05 18:20:19
+319-->delete from app_movimientobancos where movban_id=937-->2024-08-05 18:20:19
+319-->select * from app_movimientobancos where movban_id='938'-->2024-08-05 18:20:28
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='938')-->2024-08-05 18:20:30
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='938'-->2024-08-05 18:20:30
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A72FD0F0A82'-->2024-08-05 18:20:30
+319-->delete from app_movimientobancos where movban_id=938-->2024-08-05 18:20:30
+319-->select * from app_movimientobancos where movban_id='939'-->2024-08-05 18:20:48
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='939')-->2024-08-05 18:20:51
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='939'-->2024-08-05 18:20:51
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A73019931A4'-->2024-08-05 18:20:51
+319-->delete from app_movimientobancos where movban_id=939-->2024-08-05 18:20:51
+319-->select * from app_movimientobancos where movban_id='941'-->2024-08-05 18:21:01
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='941')-->2024-08-05 18:21:03
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='941'-->2024-08-05 18:21:03
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A7306687A5D'-->2024-08-05 18:21:03
+319-->delete from app_movimientobancos where movban_id=941-->2024-08-05 18:21:03
+319-->select * from app_movimientobancos where movban_id='943'-->2024-08-05 18:21:14
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='943')-->2024-08-05 18:21:17
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='943'-->2024-08-05 18:21:17
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A730BDC8285'-->2024-08-05 18:21:17
+319-->delete from app_movimientobancos where movban_id=943-->2024-08-05 18:21:17
+319-->select * from app_movimientobancos where movban_id='944'-->2024-08-05 18:21:23
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='944')-->2024-08-05 18:21:26
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='944'-->2024-08-05 18:21:26
+319-->delete  from lpin_movbancos where movban_enlace='2023-07-0619764A731095229D'-->2024-08-05 18:21:26
+319-->delete from app_movimientobancos where movban_id=944-->2024-08-05 18:21:26

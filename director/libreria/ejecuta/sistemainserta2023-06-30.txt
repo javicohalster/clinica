@@ -1,0 +1,76 @@
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'lista_sinprecuenta','SELECT * FROM `lista_sinprecuenta` WHERE `cprecuenta1`=0 and `cprecuenta2`=0 and `tipocmp_codigo`!=\'04\' and `doccab_ndocumento` like \'001-002-%\'','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','doccab_id',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','tipocmp_codigo',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','doccab_ndocumento',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','doccab_rucci_cliente',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','doccab_nombrerazon_cliente',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','doccab_apellidorazon_cliente',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','doccab_identificacionpaciente',0,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','doccab_total',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','cprecuenta1',1,20)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','cprecuenta2',1,20)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','',1,1,'Facturas Sin Precuentas','649efdff368d720230630040831157','1',180)
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'lista_descargos_unidad','select dns_detalleprecuenta.detapre_id as detapre_id,
+dns_precuenta.precu_id as precu_id,
+app_cliente.clie_rucci as clie_rucci, 
+app_cliente.clie_nombre as clie_nombre, 
+app_cliente.clie_apellido as clie_apellido, 
+dns_detalleprecuenta.detapre_codigop as detapre_codigop,
+dns_detalleprecuenta.detapre_detalle as detapre_detalle,
+dns_detalleprecuenta.detapre_cantidad as detapre_cantidad,
+dns_detalleprecuenta.detapre_precio as detapre_precio,
+dns_detalleprecuenta.detapre_fecharegistro as detapre_fecharegistro,
+dns_detalleprecuenta.detapre_precioventa as detapre_precioventa,
+(detapre_cantidad*detapre_precioventa) as total,
+dns_movimientoinventario.unid_id,
+unid_nombre,
+dns_movimientoinventario.uniddesg_id,
+uniddesg_nombre,
+dns_movimientoinventario.cuadrobm_id,
+detapre_codigop
+from dns_detalleprecuenta 
+left join dns_centrosalud_ext on dns_detalleprecuenta.centrob_id=dns_centrosalud_ext.centro_id 
+left join app_cliente on dns_detalleprecuenta.clie_id=app_cliente.clie_id
+inner join  dns_precuenta on dns_detalleprecuenta.precu_id=dns_precuenta.precu_id
+left join dns_movimientoinventario on dns_detalleprecuenta.moviin_id=dns_movimientoinventario.moviin_id
+inner join dns_unidad on dns_movimientoinventario.unid_id=dns_unidad.unid_id
+inner join dns_unidad_vista on dns_movimientoinventario.uniddesg_id=dns_unidad_vista.uniddesg_id
+where detapre_tipo in (1,2)','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','detapre_id,',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','precu_id,',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','clie_rucci',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','clie_nombre',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','clie_apellido',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','detapre_codigop',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','detapre_detalle',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','detapre_cantidad',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','detapre_precio',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','detapre_fecharegistro',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','detapre_precioventa',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,12,'','total',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,13,'','unid_id',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,14,'','unid_nombre',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,15,'','uniddesg_id',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,16,'','uniddesg_nombre',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,17,'','cuadrobm_id',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,18,'','detapre_codigop',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,18,'','detapre_codigop',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,18,'','detapre_codigop',1,21)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,18,'','detapre_codigop',1,21)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','',1,1,'Lista Descargos con Unidades','649f08d6a366820230630045446401','1',180)
+insert into gogess_virtualtable (datab_id,sorload_id,virtual_activo,virtual_name,virtual_scriptalert,virtual_stringconection) values (1,0,1,'lista_compras_unidades','select dns_compras.compra_id,dns_compras.compra_nfactura,compra_fecha,dns_principalmovimientoinventario.cuadrobm_id,cuadrobm_principioactivo,moviin_nlote,dns_principalmovimientoinventario.unid_id,unid_nombre,dns_principalmovimientoinventario.uniddesg_id,uniddesg_nombre,moviin_totalenunidadconsumo from dns_compras inner join dns_principalmovimientoinventario on dns_compras.compra_id=dns_principalmovimientoinventario.compra_id inner join dns_cuadrobasicomedicamentos on dns_principalmovimientoinventario.cuadrobm_id=dns_cuadrobasicomedicamentos.cuadrobm_id  
+inner join dns_unidad on dns_principalmovimientoinventario.unid_id=dns_unidad.unid_id
+inner join dns_unidad_vista on dns_principalmovimientoinventario.uniddesg_id=dns_unidad_vista.uniddesg_id
+where tipdoc_id!=9 and compra_anulado=0 and dns_compras.compra_id>1','localhost,drodriguez,79Drodri$,pichinchahumana_original')
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,1,'','compra_id',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,2,'','compra_nfactura',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,3,'','compra_fecha',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,4,'','cuadrobm_id',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,5,'','cuadrobm_principioactivo',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,6,'','moviin_nlote',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,7,'','unid_id',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,8,'','unid_nombre',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,9,'','uniddesg_id',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,10,'','uniddesg_nombre',1,22)
+insert into gogess_virtualfields (virtfields_typefield,virtfields_active,virtfields_order,virtfields_script,virtfields_namefield,ftv_id,virtual_id) values ('',1,11,'','moviin_totalenunidadconsumo',1,22)
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','',1,1,'Campras con Unidades','649f0da5a624720230630051517392','1',180)

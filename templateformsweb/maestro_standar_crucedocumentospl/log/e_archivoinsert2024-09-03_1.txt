@@ -1,0 +1,4 @@
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='3312',cruant_anticipo='112',cruant_fechaemision='2023-12-08',cruant_valor='25',cruant_saldo='0',cruant_valorpago='25' where cruant_id='66'-->2024-09-03 10:49:20
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016616A437211AF45820240410093743192' and crucue_id=1011-->2024-09-03 12:21:40
+502-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.10',crucue_persona='605',crucue_valorpago='17.50' where crucue_id='994'-->2024-09-03 13:25:39
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166158720930424582024040901212012' and crucue_id=992-->2024-09-03 13:26:13

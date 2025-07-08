@@ -1,0 +1,10 @@
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166287CEE0B61F1972024042310305459' and crucue_id=1132-->2024-07-29 11:40:11
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166288959A121119720240423112353186' and crucue_id=1135-->2024-07-29 12:10:32
+502-->insert into pichinchahumana_extension.lpin_cruceanticipos (cruant_persona,cruant_anticipo,cruant_fechaemision,cruant_valor,cruant_saldo,cruant_valorpago,crudoc_enlace,cruant_fecharegistro,usua_id) values ('753','39','2023-07-07','4805','0','4805','0166286DDD6667719720240423092637355','2024-07-29 12:25:11','502')-->2024-07-29 12:25:11
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='305',cruant_anticipo='40',cruant_fechaemision='2023-08-22',cruant_valor='809.5',cruant_saldo='0',cruant_valorpago='809.5' where cruant_id='20'-->2024-07-29 12:36:18
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01659D7A1EF1B1219720240109115350423' and crucue_id=781-->2024-07-29 14:49:51
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01659D79F92E53719720240109115313402' and crucue_id=780-->2024-07-29 14:52:32
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='305',cruant_anticipo='42',cruant_fechaemision='2023-08-19',cruant_valor='974.76',cruant_saldo='0',cruant_valorpago='974.76' where cruant_id='22'-->2024-07-29 14:58:42
+502-->update pichinchahumana_extension.lpin_cruceanticipos set cruant_persona='305',cruant_anticipo='43',cruant_fechaemision='2023-08-08',cruant_valor='550',cruant_saldo='0',cruant_valorpago='550' where cruant_id='23'-->2024-07-29 15:24:00
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01666C842A5BDEE5022024061412555427' and crucue_id=1338-->2024-07-29 16:27:10
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01666C84AACAF0B50220240614125802229' and crucue_id=1339-->2024-07-29 16:27:36

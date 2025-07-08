@@ -1,0 +1,127 @@
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='form-control',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogrid',fie_lencampo='25',fie_name='prcomp_grproducto',tab_name='dns_compras',fie_title='PRODUCTOS',fie_type='campogrid',fie_tabledb='dns_compras',fie_datadb='',fie_active=1,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='7',fie_sql='',fie_sendvar='compra_enlacex',fie_tactive=1,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=1,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandarproducto.php',fie_groupprint='7',fie_anchocolomna='12',fie_tablasubgrid='lpin_productocompra',fie_campoenlacesub='compra_enlace',fie_tablasubgridcampos='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario,porcer_id,porcei_id,prcomp_descuento,prcomp_descuentodolar,prcomp_subtotal',fie_tablasubcampoid='prcomp_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='prcomp_fecharegistro',fie_tituloscamposgrid='Producto,Cantidad,Unidad,Precio U,Ret. IR,Ret. IVA,Desc,Desc $,Subtotal',fie_camposobligatoriosgrid='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario',fie_camposgridselect='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario,porcer_id,porcei_id,prcomp_descuento,prcomp_descuentodolar,prcomp_subtotal',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0 where fie_id=9652 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='form-control',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogrid',fie_lencampo='25',fie_name='prcomp_grproducto',tab_name='dns_compras',fie_title='PRODUCTOS',fie_type='campogrid',fie_tabledb='dns_compras',fie_datadb='',fie_active=1,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='7',fie_sql='',fie_sendvar='compra_enlacex',fie_tactive=1,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=1,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandarproducto.php',fie_groupprint='7',fie_anchocolomna='12',fie_tablasubgrid='lpin_productocompra',fie_campoenlacesub='compra_enlace',fie_tablasubgridcampos='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario,porcer_id,porcei_id,prcomp_descuento,prcomp_descuentodolar,prcomp_subtotal',fie_tablasubcampoid='prcomp_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='prcomp_fecharegistro',fie_tituloscamposgrid='Producto,Cantidad,Unidad,Precio U,Ret. IR,Ret. IVA,Desc,Desc $,Subtotal',fie_camposobligatoriosgrid='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario',fie_camposgridselect='cuadrobm_id,prcomp_cantidad,unid_id,prcomp_preciounitario,porcer_id,porcei_id,prcomp_descuento,prcomp_descuentodolar,prcomp_subtotal',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0 where fie_id=9652 
+update gogess_gridfield set fie_id=9652,gridfield_title='Impuesto',gridfield_nameid='prcomp_impucodigox',gridfield_tipo='hidden',gridfield_tablecmb='',gridfield_camposcmb='',gridfield_ordercmb='',gridfield_orden=10,gridfield_tamano='2',gridfield_extra='',gridfield_llenarconcombo='0',gridfield_editarengrid='0',gridfield_valordefault='',gridfield_campoafectacheck='',gridfield_orderecibe='0',gridfield_bloqueado='',gridfield_valordefecto='',gridfield_solotxtderecha='',gridfield_buscador=0,gridfield_campoextrasbuscado='',gridfield_filtrobuscador='' where gridfield_id=1901 
+update gogess_gridfield set fie_id=9652,gridfield_title='Tarifa',gridfield_nameid='prcomp_taricodigox',gridfield_tipo='hidden',gridfield_tablecmb='',gridfield_camposcmb='',gridfield_ordercmb='',gridfield_orden=11,gridfield_tamano='2',gridfield_extra='',gridfield_llenarconcombo='0',gridfield_editarengrid='0',gridfield_valordefault='',gridfield_campoafectacheck='',gridfield_orderecibe='0',gridfield_bloqueado='',gridfield_valordefecto='',gridfield_solotxtderecha='',gridfield_buscador=0,gridfield_campoextrasbuscado='',gridfield_filtrobuscador='' where gridfield_id=1902 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='form-control',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogrid',fie_lencampo='25',fie_name='prcomp_grcuenta',tab_name='dns_compras',fie_title='CUENTAS',fie_type='campogrid',fie_tabledb='dns_compras',fie_datadb='',fie_active=1,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='8',fie_sql='',fie_sendvar='compra_enlacex',fie_tactive=1,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=2,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandarcuenta.php',fie_groupprint='8',fie_anchocolomna='12',fie_tablasubgrid='lpin_cuentacompra',fie_campoenlacesub='compra_enlace',fie_tablasubgridcampos='planc_codigoc,cuecomp_cantidad,cuecomp_preciounitario,taric_id,cuecomp_ice,porcecr_id,porceci_id,cuecomp_descuento,cuecomp_descuentodolar,cuecomp_subtotal',fie_tablasubcampoid='cuecomp_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='cuecomp_fecharegistro',fie_tituloscamposgrid='Cuenta,Cantidad,Precio U,IVA,%ICE,Ret. IR,Ret. IVA,Desc,Desc $,Subtotal',fie_camposobligatoriosgrid='planc_codigoc,cuecomp_cantidad,cuecomp_preciounitario',fie_camposgridselect='planc_codigoc,cuecomp_cantidad,cuecomp_preciounitario,taric_id,cuecomp_ice,porcecr_id,porceci_id,cuecomp_descuento,cuecomp_descuentodolar,cuecomp_subtotal',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0 where fie_id=9654 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='caja_hospitalizacion',vardev_aleatunico='639b64632434120221215061603382' where vardev_id=3 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM `app_cliente` c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+where c.clie_id!=\'2\';',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=4 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM `app_cliente` c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+where c.clie_id!=\'2\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=4 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM `app_cliente` c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=4 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM `app_cliente` c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=4 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='caja_hospitalizacion1',vardev_aleatunico='639b64632434120221215061603382' where vardev_id=3 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='hospitalizacion caja',vardev_aleatunico='639b64632434120221215061603382' where vardev_id=3 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_traumatologia',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as trauma_consulta_anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+where c.clie_id!=\'2\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=5 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_traumatologia',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as trauma_consulta_anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=5 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Traumatologia Caja',vardev_aleatunico='639b6b7246c5220221215064610238' where vardev_id=4 

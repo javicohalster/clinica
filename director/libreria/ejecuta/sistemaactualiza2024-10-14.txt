@@ -1,0 +1,2 @@
+update efacsistema_cfgempresa set ambi_valor='2',cgfe_activo='1',cgfe_cedfirma='1711467884',cgfe_contabilidad='SI',cgfe_decimales=2,cgfe_especial='',cgfe_tiempoactivocierre=1,cgfe_tiempoclave=360,emp_id=1,tipoemi_codigo=1 where id_cgfe=4 
+update efacsistema_cfgempresa set ambi_valor='2',cgfe_activo='1',cgfe_cedfirma='1711467884',cgfe_contabilidad='SI',cgfe_decimales=2,cgfe_especial='',cgfe_tiempoactivocierre=4,cgfe_tiempoclave=360,emp_id=1,tipoemi_codigo=1 where id_cgfe=4 

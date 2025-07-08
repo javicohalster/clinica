@@ -1,0 +1,764 @@
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',12,1,'REGISTRADO',1,'EL BEATERIO','1102565841','SARANGO COLLAHUAZO','17',0,'1701','MARIANITA DE JESUS',0,'TURUBAMBA',6,'222222222','','1963-09-01',56,7,'222222','0981026483','F',4,4,'','','125','','2021-05-13 08:55:11','0117175924871252021051308551124199',NULL,'11','','2','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513085342395','0.00',10,6.00,'4.00',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060619','1768158840001','4.00','05','1102565841','MARIANITA DE JESUS','SARANGO COLLAHUAZO','EL BEATERIO','2021-05-13 08:53:42',10,'0981026483','','1102565841','','',125,1,3,0,'',11,'01')
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',4,1,'REGISTRADO',1,'EL BEATERIO','1753863313','YUPANGUI MOPOSITA','17',0,'1701','ANDERON STIVEN',0,'TURUBAMBA',1,'2222222222','','2008-07-28',56,5,'2222222','0997032760','M',4,5,'sandramoposita6@gmail.com','','125','','2021-05-13 09:06:30','0117175924871252021051309063012991',NULL,'11','','1','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513090456317','0.00',20,11.50,'8.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060620','1768158840001','8.50','05','1719886234','SANDRA VERONICA','MOPOSITA TORRES','EL BEATERIO','2021-05-13 09:04:56',10,'0997032760','sandramoposita6@gmail.com','1753863313','','',125,1,3,0,'',11,'01')
+124-->update dns_atencion set centro_id=11,clie_id=677,atenc_hc='1753863313-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 09:08:39',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 09:08:39',atenc_fechasalida='2021-05-13 09:08:39',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='1753863313',atenc_referencia='',atenc_archivo='',atenc_enlace='01677171759248712520210513090839143' where atenc_id=672 
+124-->update dns_atencion set centro_id=11,clie_id=673,atenc_hc='1102565841-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 08:57:34',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 08:57:34',atenc_fechasalida='2021-05-13 08:57:34',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='1102565841',atenc_referencia='',atenc_archivo='',atenc_enlace='01673171759248712520210513085734189' where atenc_id=668 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',12,1,'REGISTRADO',1,'EL BEATERIO','0601776768','AVALOS GAVILANES','17',0,'1701','GEORGINA OLIMPIA',0,'TURUBAMBA',2,'2222222222','','1961-02-22',56,7,'2222222222','0998987410','F',4,4,'','','125','','2021-05-13 09:30:09','0117175924871252021051309300923876',NULL,'11','','2','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0117175924871252021051309190912','0.00',1,0.00,'1.00',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060621','1768158840001','1.00','05','0601776768','GEORGINA OLIMPIA','AVALOS GAVILANES','EL BEATERIO','2021-05-13 09:19:09',10,'0998987410','','0601776768','','',125,1,3,0,'',11,'01')
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',12,1,'REGISTRADO',1,'GUAMANI','1714683511','NARANJO CARGUA','17',0,'1701','CECILIA MARIBEL',0,'GUAMANI',1,'222222222','','1986-09-22',56,7,'222222222','0993973207','F',4,4,'naranjocecilia778@gmail.com','','125','','2021-05-13 09:35:56','011717592487125202105130935561320',NULL,'11','','3','')
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_token='',grp_id=12,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='CHILLOGALLO',clie_rucci='1719746677',clie_apellido='CASTRO ULLOA',prob_codigo='17',tippo_id=3,cant_codigo='1701',clie_nombre='KERLY EDITH',conve_id=0,clie_parroquia='Chillogallo',civil_id=2,clie_telefono='2626410',clie_ocupacion='',clie_fechanacimiento='1994-11-27',nac_id=56,tarterial_id=7,clie_emergenciatelf='',clie_celular='0999073164',clie_genero='F',idgen_id=4,orien_id=4,clie_email='kerlycu@gmail.com',clie_emergenciacelu='',usua_id='82',clie_institucion='',clie_registro='2021-05-10 11:12:20',clie_enlace='011707963458822021051011122039152',clie_fechaingreso=NULL,centro_id='9',clie_seguromsparchivo='',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=440 
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_token='',grp_id=12,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='CHILLOGALLO',clie_rucci='1719746677',clie_apellido='CASTRO ULLOA',prob_codigo='17',tippo_id=3,cant_codigo='1701',clie_nombre='KERLY EDITH',conve_id=0,clie_parroquia='Chillogallo',civil_id=2,clie_telefono='2626410',clie_ocupacion='',clie_fechanacimiento='1994-11-27',nac_id=56,tarterial_id=7,clie_emergenciatelf='',clie_celular='0999073164',clie_genero='F',idgen_id=4,orien_id=4,clie_email='kerlycu@gmail.com',clie_emergenciacelu='',usua_id='82',clie_institucion='',clie_registro='2021-05-10 11:12:20',clie_enlace='011707963458822021051011122039152',clie_fechaingreso=NULL,centro_id='9',clie_seguromsparchivo='',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=440 
+122-->insert into dns_anamesisexamenfisico (anam_referencia,clie_id,usua_id,centro_id,atenc_id,tipoaler_id,anam_centrorefiere,anam_observacionaf,anam_emferpactual,anam_planes,estaatenc_id,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_partos,anam_observacionrespiratorio,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',677,122,11,672,'3','','','El paciente refiere que preseta cefalea tipo pulsatil de moderada intensidad desde hace 16 horas sin causa aparente por lo que se toma paracetamol 500 mg y ácido acetilsalicilico 100 mg via oral presetando hinchazón y prurito de los labios.','Medidas higienicodietéticas
+Dieta hipocalórica
+Dexametasona 4 mg intramuscular hoy 
+Loratadina 10 mg vía oral cada día durante 10 días',4,'','','0','Dolor de cabeza,','','','0','2021-05-13 09:17:13','','',0,'','','','','','6770106041279511222021051309171350','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)
+123-->insert into dns_anamesisexamenfisico (anam_referencia,clie_id,usua_id,centro_id,atenc_id,tipoaler_id,anam_centrorefiere,anam_observacionaf,anam_emferpactual,anam_planes,estaatenc_id,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_partos,anam_observacionrespiratorio,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',673,123,11,668,'1','','','PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.','',4,'NO REFIRE','','0','CONTROL DE DIABETES MELLITUS','','12','0','2021-05-13 09:24:17','9','',0,'NUNCA SE HA REALIZADO PAP TEST','55 AÑOS','','1','','67301171715940212320210513092417133','0','','5',NULL,NULL,'00000-00-00',0,'',0,'NO',0,'',0,'',0,'',0,0,0,0,0,0)
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_token='',grp_id=12,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='CHILLOGALLO',clie_rucci='1719746677',clie_apellido='CASTRO ULLOA',prob_codigo='17',tippo_id=3,cant_codigo='1701',clie_nombre='KERLY EDITH',conve_id=0,clie_parroquia='Chillogallo',civil_id=2,clie_telefono='2626410',clie_ocupacion='',clie_fechanacimiento='1994-11-27',nac_id=56,tarterial_id=7,clie_emergenciatelf='',clie_celular='0999073164',clie_genero='F',idgen_id=4,orien_id=4,clie_email='kerlycu@gmail.com',clie_emergenciacelu='',usua_id='82',clie_institucion='',clie_registro='2021-05-10 11:12:20',clie_enlace='011707963458822021051011122039152',clie_fechaingreso=NULL,centro_id='9',clie_seguromsparchivo='',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=440 
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=677,usua_id=122,centro_id=11,atenc_id=672,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='El paciente refiere que preseta cefalea tipo pulsatil de moderada intensidad desde hace 16 horas sin causa aparente por lo que se toma paracetamol 500 mg y ácido acetilsalicilico 100 mg via oral presetando hinchazón y prurito de los labios.',anam_planes='Medidas higienicodietéticas
+Dieta hipocalórica
+Dexametasona 4 mg intramuscular hoy 
+Loratadina 10 mg vía oral cada día durante 10 días',estaatenc_id=4,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='Dolor de cabeza, hinchazón y prurito de los labios',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:17:13',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='6770106041279511222021051309171350',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=152 
+125-->insert into dns_cierrecaja (cierr_ntransacciones,cierr_totaldinero,emp_id,cierr_anulados,estac_id,centro_id,cierr_valoranulado,cierr_efectivo,ctpc_id,cierr_cheque,cierr_fecha,cierr_tarjetacredito,cierr_observacion,cierr_credito,usua_id,cierr_transferencia,cierr_fecharegistro,cierr_otros,usuacierra_id,cierr_total,cierr_enlace) values ('3','0',1,'0',2,11,'','13.5',1,'','2021-05-13','','','',125,'','2021-05-13 09:53:39','',0,'13.5','17175924872021051309533926231')
+125-->update dns_cierrecaja set cierr_ntransacciones='3',cierr_totaldinero='13.5',emp_id=1,cierr_anulados='0',estac_id=3,centro_id=11,cierr_valoranulado='',cierr_efectivo='13.5',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='13.5',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+125-->update dns_cierrecaja set cierr_ntransacciones='3',cierr_totaldinero='13.5',emp_id=1,cierr_anulados='0',estac_id=3,centro_id=11,cierr_valoranulado='',cierr_efectivo='13.5',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='13.5',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA,',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='00000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA,',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='00000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA,',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='00000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='00000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=12,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='GUAMANI',clie_rucci='1714683511',clie_apellido='NARANJO CARGUA',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='CECLIA MARIBEL',conve_id=0,clie_parroquia='GUAMANI',civil_id=1,clie_telefono='222222222',clie_ocupacion='',clie_fechanacimiento='1986-09-22',nac_id=56,tarterial_id=7,clie_emergenciatelf='222222222',clie_celular='0993973207',clie_genero='F',idgen_id=4,orien_id=4,clie_email='naranjocecilia778@gmail.com',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 09:35:56',clie_enlace='011717592487125202105130935561320',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=688 
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513100122198','0.00',12.95,0.00,'12.95',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060622','1768158840001','12.95','05','1714683511','CECLIA MARIBEL','NARANJO CARGUA','GUAMANI','2021-05-13 10:01:22',10,'0993973207','naranjocecilia778@gmail.com','1714683511','','',125,4,3,0,'',11,'01')
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->insert into dns_laboratorio (clie_id,usua_id,atenc_id,lab_idexterno,centro_id,lab_hemabiometria,lab_quiglucosa,lab_copocopro,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_hiv,lab_tablaexterno,lab_hemaindices,lab_quitrans,lab_coposangre,lab_urogota,lab_bactziehl,lab_otros,lab_hepatitisa,lab_codigo,lab_servicio,lab_quihoras,lab_copoinv,lab_bacthongos,lab_hepatitisb,prob_codigo,lab_hemaplaquetas,lab_quioxa,lab_coporotavirus,lab_uroprueba,lab_bactfresco,lab_asto,lab_fechasolicitud,lab_hemat,lab_quiurea,lab_bactcultivo,lab_rflatex,lab_coproseriado,cant_codigo,lab_hemagrupo,lab_quifosfa,lab_bactmuestra,lab_pcr,lab_hora,lab_hematiempo,lab_quicreatina,lab_psa,lab_hemareticulocitos,lab_quiacidourico,lab_hepisuero,lab_parroquia,lab_hemadrepa,lab_hepihe,prio_id,lab_hemahematozoario,lab_quihdl,lab_dengue,lab_hemacoombs,lab_quibilirrubinas,lab_vdrl,lab_hemacelula,lab_quildl,lab_rpr,lab_quibilirrubinadirecta,lab_hemaindirecto,lab_quiproteinas,lab_febriles,lab_albumina,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_cama,lab_globulina,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (673,123,668,154,11,1,1,0,1,0,0,0,'dns_anamesisexamenfisico',0,1,0,0,0,'HEMOGLOBINA GLICOCILADA',0,'','MEDICINA GENERAL',1,0,0,0,'17',0,1,0,0,0,0,'2021-05-13 10:07:11',0,1,0,0,'','1701',0,0,'',0,'10:07',0,1,0,0,1,0,'TURUBAMBA',0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,'',0,'',0,'67301171715940212320210513100711163','2021-05-13 10:07:11',1,0,0,0)
+123-->update dns_laboratorio set clie_id=673,usua_id=123,atenc_id=668,lab_idexterno=154,centro_id=11,lab_hemabiometria=1,lab_quiglucosa=1,lab_copocopro=0,lab_uroelemental=1,lab_bactgram=0,lab_eosinofilosmoconasal=0,lab_hiv=0,lab_tablaexterno='dns_anamesisexamenfisico',lab_hemaindices=0,lab_quitrans=1,lab_coposangre=0,lab_urogota=0,lab_bactziehl=0,lab_otros='HEMOGLOBINA GLICOCILADA',lab_hepatitisa=0,lab_codigo='',lab_servicio='MEDICINA GENERAL',lab_quihoras=1,lab_copoinv=0,lab_bacthongos=0,lab_hepatitisb=0,prob_codigo='17',lab_hemaplaquetas=0,lab_quioxa=1,lab_coporotavirus=0,lab_uroprueba=0,lab_bactfresco=0,lab_asto=0,lab_fechasolicitud='2021-05-13 10:07:11',lab_hemat=0,lab_quiurea=1,lab_bactcultivo=0,lab_rflatex=0,lab_coproseriado='',cant_codigo='1701',lab_hemagrupo=0,lab_quifosfa=0,lab_bactmuestra='',lab_pcr=0,lab_hora='10:07',lab_hematiempo=0,lab_quicreatina=1,lab_psa=0,lab_hemareticulocitos=0,lab_quiacidourico=1,lab_hepisuero=0,lab_parroquia='TURUBAMBA',lab_hemadrepa=0,lab_hepihe=0,prio_id=2,lab_hemahematozoario=0,lab_quihdl=1,lab_dengue=0,lab_hemacoombs=0,lab_quibilirrubinas=0,lab_vdrl=0,lab_hemacelula=0,lab_quildl=1,lab_rpr=0,lab_quibilirrubinadirecta=0,lab_hemaindirecto=0,lab_quiproteinas=0,lab_febriles=0,lab_albumina=0,lab_quitrigliseridos=1,lab_hematocritohemoglobina=0,lab_cama='',lab_globulina=0,lab_sala='',lab_tiemposangria=0,lab_enlace='67301171715940212320210513100711163',lab_fecharegistro='2021-05-13 10:07:11',lab_quicolesterol=1,lab_fosfatasaacida=0,lab_hierroserico=0,lab_amilasa=0 where lab_id=83 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION PAROXIMAMDAMNTE . QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHAERES DOMESTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIAD DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICAPREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EL LA ACTULAIDA POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=4,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='EL BEATERIO',clie_rucci='1753863313',clie_apellido='YUPANGUI MOPOSITA',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='ANDERON STIVEN',conve_id=0,clie_parroquia='TURUBAMBA',civil_id=1,clie_telefono='2222222222',clie_ocupacion='',clie_fechanacimiento='2008-07-28',nac_id=56,tarterial_id=5,clie_emergenciatelf='2222222',clie_celular='0997032760',clie_genero='M',idgen_id=4,orien_id=5,clie_email='sandramoposita6@gmail.com',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 09:06:30',clie_enlace='0117175924871252021051309063012991',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='1',clie_seguroprivadoarchivo='' where clie_id=677 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE NVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',3,1,'REGISTRADO',1,'EL BEATERIO','2351797242','ZORRILLA ALAVA','17',0,'1701','KAISLEY SOHANNY',0,'TURUBAMBA',1,'023816860','','2019-10-30',56,2,'22222222','2222222','F',4,4,'','','125','','2021-05-13 10:23:38','011717592487125202105131023381873',NULL,'11','','1','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0117175924871252021051310204672','0.00',8.50,0.00,'8.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060623','1768158840001','8.50','05','0802728295','ERIKA JACQUELINE','ALAVA MERO','EL BEATERIO','2021-05-13 10:20:46',10,'0986544656','erika_women@hotmail.ec','2351797242','','',125,1,3,0,'',11,'01')
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',4,1,'REGISTRADO',1,'EL BEATERIO','1760662153','ORDOÑEZ ROMERO','17',0,'1701','ALAN SEBASTIAN',0,'TURUBAMBA',1,'023816791','','2021-04-04',56,1,'22222222','22222222','M',4,4,'','','125','','2021-05-13 10:31:08','0117175924871252021051310310828213',NULL,'11','','1','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513102827226','0.00',10,1.50,'8.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060624','1768158840001','8.50','05','1715798060','JESSICA PAULINA','ROMERO FLORES','TREBOLES DEL SUR','2021-05-13 10:28:27',10,'0990519891','jessipaulinaromer@gmail.com','1760662153','','',125,1,3,0,'',11,'01')
+124-->update dns_atencion set centro_id=11,clie_id=698,atenc_hc='2351797242-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 10:26:55',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 10:26:55',atenc_fechasalida='2021-05-13 10:26:55',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='2351797242',atenc_referencia='',atenc_archivo='',atenc_enlace='01698171759248712520210513102655222' where atenc_id=693 
+88-->insert into dns_laboratorio (clie_id,usua_id,atenc_id,lab_idexterno,centro_id,lab_hemabiometria,lab_quiglucosa,lab_copocopro,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_hiv,lab_tablaexterno,lab_hemaindices,lab_quitrans,lab_coposangre,lab_urogota,lab_bactziehl,lab_otros,lab_hepatitisa,lab_codigo,lab_servicio,lab_quihoras,lab_copoinv,lab_bacthongos,lab_hepatitisb,prob_codigo,lab_hemaplaquetas,lab_quioxa,lab_coporotavirus,lab_uroprueba,lab_bactfresco,lab_asto,lab_fechasolicitud,lab_hemat,lab_quiurea,lab_bactcultivo,lab_rflatex,lab_coproseriado,cant_codigo,lab_hemagrupo,lab_quifosfa,lab_bactmuestra,lab_pcr,lab_hora,lab_hematiempo,lab_quicreatina,lab_psa,lab_hemareticulocitos,lab_quiacidourico,lab_hepisuero,lab_parroquia,lab_hemadrepa,lab_hepihe,prio_id,lab_hemahematozoario,lab_quihdl,lab_dengue,lab_hemacoombs,lab_quibilirrubinas,lab_vdrl,lab_hemacelula,lab_quildl,lab_rpr,lab_quibilirrubinadirecta,lab_hemaindirecto,lab_quiproteinas,lab_febriles,lab_albumina,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_cama,lab_globulina,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (688,88,683,0,11,1,1,1,1,0,0,0,'',0,0,0,0,0,'',0,'','',0,0,0,0,'17',0,0,0,0,0,0,'2021-05-13 10:38:23',0,0,0,0,'','1701',0,0,'',0,'10:38',0,0,0,0,0,0,'GUAMANI',0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'',0,'',0,'6880117076047308820210513103823392','2021-05-13 10:38:23',1,0,0,0)
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center"><span style="font-size:16px"><strong>CERTIFICADO MEDICO DE REPOSO DOMICILIARIO</strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BETAERIO </strong></span></p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center"><span style="font-size:16px"><strong>CERTIFICADO MEDICO DE REPOSO DOMICILIARIO</strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BETAERIO </strong></span></p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',12,1,'REGISTRADO',1,'LA COCHA','1706645056','HERRERA LA VERDE','17',0,'1701','ROSARIO DEL TRANCITO',0,'TURUBAMBA',1,'222222222','','1962-08-15',56,7,'','0967250979','F',4,4,'','','125','','2021-05-13 10:48:13','011717592487125202105131048133060',NULL,'11','','2','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513104649240','0.00',1,0.00,'1.00',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060625','1768158840001','1.00','05','1706645056','ROSARIO DEL TRANCITO','HERRERA LA VERDE','LA COCHA','2021-05-13 10:46:49',10,'0967250979','','1706645056','','',125,1,3,0,'',11,'01')
+88-->insert into dns_laboratorioinforme (centro_id,clie_id,labinfor_enlace,labinfor_fecharecibo,usua_id,labinfor_observaquimica,labinfor_bacteriologia,labinfor_color,labinfor_hora,labinfor_vdrl,labinfor_hempglobina,labinfor_personarecibe,labinfor_aglufebriles,labinfor_esporas,labinfor_fecharegistro,labinfor_hc,labinfor_latex,labinfor_fibras,labinfor_asto,labinfor_serologia,labinfor_consist,labinfor_varios,lab_id,atenc_id,labinfor_densidad,labinfor_glob_rojos,labinfor_micelios,labinfor_phuro,labinfor_almidon,labinfor_proteina,labinfor_glucosa,labinfor_ph,labinfor_cetona,labinfor_polimorfos,prob_codigo,labinfor_hemoglobina,labinfor_moco,cant_codigo,labinfor_bilirrubina,labinfor_grasa,labinfor_parroquia,labinfor_urobilinogeno,labinfor_nitrito,labinfor_leucocitospc,labinfor_leucocitosem,labinfor_piocitospc,labinfor_eritrocitospc,labinfor_celulasaltas,labinfor_bacterias,labinfor_hongos,labinfor_moco1,labinfor_cristales,labinfor_cilindros,labinfor_parasitos,labinfor_coprolootros,labinfor_gram,labinfor_otros,labinfor_hematologicoobs) values (11,688,'6880117076047308820210513104336321','2021-05-13 10:43:36',88,'','','CAFE','10:43','','','','','','2021-05-13 10:43:36','1714683511-1','','','','','BLANDA','',85,683,'1.010','','','6','(+)','NEGATIVO','NEGATIVO','','NEGATIVO','','17','NEGATIVO','','1701','NEGATIVO','(+)','GUAMANI','NEGATIVO','NEGATIVO','NEGATIVO','3 - 6','NEGATIVO','0','3 - 6','(+)','NEGATIVO','(+)','NEGATIVO','NEGATIVO','NEGATIVO','','','','')
+88-->update dns_laboratorioinforme set centro_id=11,clie_id=688,labinfor_enlace='6880117076047308820210513104336321',labinfor_fecharecibo='2021-05-13 10:43:36',usua_id=88,labinfor_observaquimica='',labinfor_bacteriologia='',labinfor_color='CAFE',labinfor_hora='10:43',labinfor_vdrl='',labinfor_hempglobina='',labinfor_personarecibe='',labinfor_aglufebriles='',labinfor_esporas='',labinfor_fecharegistro='2021-05-13 10:43:36',labinfor_hc='1714683511-1',labinfor_latex='',labinfor_fibras='',labinfor_asto='',labinfor_serologia='',labinfor_consist='BLANDA',labinfor_varios='',lab_id=85,atenc_id=683,labinfor_densidad='1.010',labinfor_glob_rojos='',labinfor_micelios='',labinfor_phuro='6',labinfor_almidon='(+)',labinfor_proteina='NEGATIVO',labinfor_glucosa='NEGATIVO',labinfor_ph='',labinfor_cetona='NEGATIVO',labinfor_polimorfos='',prob_codigo='17',labinfor_hemoglobina='NEGATIVO',labinfor_moco='',cant_codigo='1701',labinfor_bilirrubina='NEGATIVO',labinfor_grasa='(+)',labinfor_parroquia='GUAMANI',labinfor_urobilinogeno='NEGATIVO',labinfor_nitrito='NEGATIVO',labinfor_leucocitospc='NEGATIVO',labinfor_leucocitosem='3 - 6',labinfor_piocitospc='NEGATIVO',labinfor_eritrocitospc='0',labinfor_celulasaltas='3 - 6',labinfor_bacterias='(+)',labinfor_hongos='NEGATIVO',labinfor_moco1='(+)',labinfor_cristales='NEGATIVO',labinfor_cilindros='NEGATIVO',labinfor_parasitos='NEGATIVO',labinfor_coprolootros='',labinfor_gram='',labinfor_otros='',labinfor_hematologicoobs='' where labinfor_id=33 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BETAERIO </strong></span></p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+88-->update dns_laboratorioinforme set centro_id=11,clie_id=688,labinfor_enlace='6880117076047308820210513104336321',labinfor_fecharecibo='2021-05-13 10:43:36',usua_id=88,labinfor_observaquimica='',labinfor_bacteriologia='',labinfor_color='CAFE',labinfor_hora='10:43',labinfor_vdrl='',labinfor_hempglobina='',labinfor_personarecibe='',labinfor_aglufebriles='',labinfor_esporas='',labinfor_fecharegistro='2021-05-13 10:43:36',labinfor_hc='1714683511-1',labinfor_latex='',labinfor_fibras='',labinfor_asto='',labinfor_serologia='',labinfor_consist='BLANDA',labinfor_varios='',lab_id=85,atenc_id=683,labinfor_densidad='1.010',labinfor_glob_rojos='',labinfor_micelios='',labinfor_phuro='6',labinfor_almidon='(+)',labinfor_proteina='NEGATIVO',labinfor_glucosa='NEGATIVO',labinfor_ph='',labinfor_cetona='NEGATIVO',labinfor_polimorfos='',prob_codigo='17',labinfor_hemoglobina='NEGATIVO',labinfor_moco='',cant_codigo='1701',labinfor_bilirrubina='NEGATIVO',labinfor_grasa='(+)',labinfor_parroquia='GUAMANI',labinfor_urobilinogeno='NEGATIVO',labinfor_nitrito='NEGATIVO',labinfor_leucocitospc='NEGATIVO',labinfor_leucocitosem='3 - 6',labinfor_piocitospc='NEGATIVO',labinfor_eritrocitospc='0',labinfor_celulasaltas='3 - 6',labinfor_bacterias='(+)',labinfor_hongos='NEGATIVO',labinfor_moco1='(+)',labinfor_cristales='NEGATIVO',labinfor_cilindros='NEGATIVO',labinfor_parasitos='NEGATIVO',labinfor_coprolootros='',labinfor_gram='',labinfor_otros='',labinfor_hematologicoobs='' where labinfor_id=33 
+88-->update dns_laboratorioinforme set centro_id=11,clie_id=688,labinfor_enlace='6880117076047308820210513104336321',labinfor_fecharecibo='2021-05-13 10:43:36',usua_id=88,labinfor_observaquimica='',labinfor_bacteriologia='',labinfor_color='CAFE',labinfor_hora='10:43',labinfor_vdrl='',labinfor_hempglobina='',labinfor_personarecibe='',labinfor_aglufebriles='',labinfor_esporas='',labinfor_fecharegistro='2021-05-13 10:43:36',labinfor_hc='1714683511-1',labinfor_latex='',labinfor_fibras='',labinfor_asto='',labinfor_serologia='',labinfor_consist='BLANDA',labinfor_varios='',lab_id=85,atenc_id=683,labinfor_densidad='1.010',labinfor_glob_rojos='',labinfor_micelios='',labinfor_phuro='6',labinfor_almidon='(+)',labinfor_proteina='NEGATIVO',labinfor_glucosa='NEGATIVO',labinfor_ph='',labinfor_cetona='NEGATIVO',labinfor_polimorfos='',prob_codigo='17',labinfor_hemoglobina='NEGATIVO',labinfor_moco='',cant_codigo='1701',labinfor_bilirrubina='NEGATIVO',labinfor_grasa='(+)',labinfor_parroquia='GUAMANI',labinfor_urobilinogeno='NEGATIVO',labinfor_nitrito='NEGATIVO',labinfor_leucocitospc='NEGATIVO',labinfor_leucocitosem='3 - 6',labinfor_piocitospc='NEGATIVO',labinfor_eritrocitospc='0',labinfor_celulasaltas='3 - 6',labinfor_bacterias='(+)',labinfor_hongos='NEGATIVO',labinfor_moco1='(+)',labinfor_cristales='NEGATIVO',labinfor_cilindros='NEGATIVO',labinfor_parasitos='NEGATIVO',labinfor_coprolootros='',labinfor_gram='',labinfor_otros='',labinfor_hematologicoobs='' where labinfor_id=33 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BEATERIO </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BEATERIO </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP: L23 F2 N005</p>
+
+<p>MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p>SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769</p>
+
+<p>MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+88-->update dns_laboratorioinforme set centro_id=11,clie_id=688,labinfor_enlace='6880117076047308820210513104336321',labinfor_fecharecibo='2021-05-13',usua_id=88,labinfor_observaquimica='',labinfor_bacteriologia='',labinfor_color='CAFE',labinfor_hora='10:43',labinfor_vdrl='',labinfor_hempglobina='',labinfor_personarecibe='',labinfor_aglufebriles='',labinfor_esporas='',labinfor_fecharegistro='2021-05-13 10:43:36',labinfor_hc='1714683511-1',labinfor_latex='',labinfor_fibras='',labinfor_asto='',labinfor_serologia='',labinfor_consist='BLANDA',labinfor_varios='',lab_id=85,atenc_id=683,labinfor_densidad='1.010',labinfor_glob_rojos='',labinfor_micelios='',labinfor_phuro='6',labinfor_almidon='(+)',labinfor_proteina='NEGATIVO',labinfor_glucosa='NEGATIVO',labinfor_ph='',labinfor_cetona='NEGATIVO',labinfor_polimorfos='',prob_codigo='17',labinfor_hemoglobina='NEGATIVO',labinfor_moco='',cant_codigo='1701',labinfor_bilirrubina='NEGATIVO',labinfor_grasa='(+)',labinfor_parroquia='GUAMANI',labinfor_urobilinogeno='NEGATIVO',labinfor_nitrito='NEGATIVO',labinfor_leucocitospc='NEGATIVO',labinfor_leucocitosem='3 - 6',labinfor_piocitospc='NEGATIVO',labinfor_eritrocitospc='0',labinfor_celulasaltas='3 - 6',labinfor_bacterias='(+)',labinfor_hongos='NEGATIVO',labinfor_moco1='(+)',labinfor_cristales='NEGATIVO',labinfor_cilindros='NEGATIVO',labinfor_parasitos='NEGATIVO',labinfor_coprolootros='',labinfor_gram='',labinfor_otros='',labinfor_hematologicoobs='' where labinfor_id=33 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BEATERIO </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-&nbsp; CIE 10</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP: L23 F2 N005</p>
+
+<p>MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p>SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769</p>
+
+<p>MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CENTRO DE SALUD BEATERIO </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-&nbsp; CIE 10</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP: L23 F2 N005</p>
+
+<p>MEDICO GENERAL CENTRO DE SALUD BEATERIO</p>
+
+<p>SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769</p>
+
+<p>MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></p>
+
+<p style="text-align:center">DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+122-->insert into dns_anamesisexamenfisico (anam_referencia,clie_id,usua_id,centro_id,atenc_id,tipoaler_id,anam_centrorefiere,anam_observacionaf,anam_emferpactual,anam_planes,estaatenc_id,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_partos,anam_observacionrespiratorio,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',698,122,11,693,'3','','','Desde hace 2 días presenta malestar generalizado caracterizado  por lagrimeo, coriza y estornudos acompañado de alza termica no cuantificada por o que administran paracetamol 5 ml cada 8 horas pero no mejora','Dieta general
+Líquidios abundantes',1,'','','','Alza termica, malestar generalizado','','','0','2021-05-13 10:36:50','','',0,'','','','','','698010604127951122202105131036502','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)
+123-->insert into dns_certificados (certif_titulo,emp_id,certif_contenido,certif_activo) values ('CERTIFICADO POR COVID 19',1,'<p style="text-align: center;">CENTRO DE SALUD BEATERIO</p>
+
+<p><span style="font-size:9px">SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769 </span></p>
+
+<p><span style="font-size:9px">MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></span></p>
+
+<p><span style="font-size:9px">Quito, de mayo del 2021</span></p>
+
+<p><span style="font-size:9px">Certifico haber examinado la&nbsp; Se&ntilde;or/ Se&ntilde;ora------ con c&eacute;dula de identidad :</span></p>
+
+<p><span style="font-size:9px">Instituci&oacute;n donde labora:</span></p>
+
+<p><span style="font-size:9px">Cargo que desempe&ntilde;a:</span></p>
+
+<p><span style="font-size:9px">Con diagn&oacute;stico de COVID 19 VIRUS IDENTIFICADO CIE 10 U071. S&iacute;ntomas: fiebre por 48h tos, congesti&oacute;n nasal y malestar general.</span></p>
+
+<p><span style="font-size:9px">PruebaRPT PCR SARS COV 2 POSITIVA , anexo documento.</span></p>
+
+<p><span style="font-size:9px">Reposo desde el&nbsp;&nbsp;&nbsp; mayo del 2021 hata el&nbsp;&nbsp; mayo del 2021 </span></p>
+
+<p><span style="font-size:9px">D&iacute;as de reposo: 7 ( siete) .</span></p>
+
+<p><span style="font-size:9px">No apto para teletrabajo.</span></p>
+
+<p>Atentamente.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP L23F2N005</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>',1)
+123-->update dns_certificados set certif_titulo='CERTIFICADO POR COVID 19',emp_id=1,certif_contenido='<p style="text-align: center;">CENTRO DE SALUD BEATERIO</p>
+
+<p><span style="font-size:9px">SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769 </span></p>
+
+<p><span style="font-size:9px">MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></span></p>
+
+<p><span style="font-size:9px">Quito, de mayo del 2021</span></p>
+
+<p><span style="font-size:9px">Certifico haber examinado la&nbsp; Se&ntilde;or/ Se&ntilde;ora------ con c&eacute;dula de identidad :</span></p>
+
+<p><span style="font-size:9px">Instituci&oacute;n donde labora:</span></p>
+
+<p><span style="font-size:9px">Cargo que desempe&ntilde;a:</span></p>
+
+<p><span style="font-size:9px">Con diagn&oacute;stico de COVID 19 VIRUS IDENTIFICADO CIE 10 U071. S&iacute;ntomas: fiebre por 48h tos, congesti&oacute;n nasal y malestar general.</span></p>
+
+<p><span style="font-size:9px">PruebaRPT PCR SARS COV 2 POSITIVA , anexo documento.</span></p>
+
+<p><span style="font-size:9px">Reposo desde el&nbsp;&nbsp;&nbsp; mayo del 2021 hata el&nbsp;&nbsp; mayo del 2021 </span></p>
+
+<p><span style="font-size:9px">D&iacute;as de reposo: 7 ( siete) .</span></p>
+
+<p><span style="font-size:9px">No apto para teletrabajo.</span></p>
+
+<p>Atentamente.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP L23F2N005</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>',certif_activo=1 where certif_id=4 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',12,1,'REGISTRADO',1,'CIUDAD JARDIN','1717159402','SALAZAR VELASCO','17',0,'1701','VERONICA ALEXANDRA',0,'TURUBAMBA',1,'2968035','','1981-09-06',56,7,'2222222','0996292624','F',3,4,'kobimed@yahoo.com.mx','','125','','2021-05-13 11:24:10','0117175924871252021051311241047772',NULL,'11','','4','')
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513112054146','0.00',5,0.50,'4.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060626','1768158840001','4.50','05','1717159402','VERONICA ALEXANDRA','SALAZAR VELASCO','CIUDAD JARDIN','2021-05-13 11:20:54',10,'0996292624','kobimed@yahoo.com.mx','1717159402','','',125,1,3,0,'',11,'01')
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=12,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='CIUDAD JARDIN',clie_rucci='1717159402',clie_apellido='SALAZAR VELASCO',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='VERONICA ALEXANDRA',conve_id=0,clie_parroquia='TURUBAMBA',civil_id=1,clie_telefono='2968035',clie_ocupacion='',clie_fechanacimiento='1981-09-06',nac_id=56,tarterial_id=7,clie_emergenciatelf='2222222',clie_celular='0996292624',clie_genero='F',idgen_id=3,orien_id=4,clie_email='kobimed@yahoo.com.mx',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 11:24:10',clie_enlace='0117175924871252021051311241047772',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=709 
+124-->update dns_atencion set centro_id=11,clie_id=709,atenc_hc='1717159402-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 11:26:09',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 11:26:09',atenc_fechasalida='2021-05-13 11:26:09',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='1717159402',atenc_referencia='',atenc_archivo='',atenc_enlace='0170917175924871252021051311260940' where atenc_id=704 
+124-->update dns_atencion set centro_id=11,clie_id=700,atenc_hc='1760662153-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 10:32:50',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 10:32:50',atenc_fechasalida='2021-05-13 10:32:50',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='1760662153',atenc_referencia='',atenc_archivo='',atenc_enlace='01700171759248712520210513103250253' where atenc_id=695 
+124-->update dns_atencion set centro_id=11,clie_id=704,atenc_hc='1706645056-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 10:49:59',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 10:49:59',atenc_fechasalida='2021-05-13 10:49:59',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='1706645056',atenc_referencia='',atenc_archivo='',atenc_enlace='01704171759248712520210513104959171' where atenc_id=699 
+122-->insert into dns_anamesisexamenfisico (anam_referencia,clie_id,usua_id,centro_id,atenc_id,tipoaler_id,anam_centrorefiere,anam_observacionaf,anam_emferpactual,anam_planes,estaatenc_id,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_partos,anam_observacionrespiratorio,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',700,122,11,695,'3','','','La madre del niño refiere que hace 10 días teniendo como causa aparente cambio de fórmula maternizada presenta dificultad para realizar la deposición con pujo y heces verdes por lo que acude.','Seno materno a libre demanda
+Fórmula maternizada por razones necesarias
+Control en 1 mes',1,'','','','Dificultad para realizar la deposición','','','0','2021-05-13 11:16:25','','',1,'','','','','','7000106041279511222021051311162558','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=700,usua_id=122,centro_id=11,atenc_id=695,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='La madre del niño refiere que hace 10 días teniendo como causa aparente cambio de fórmula maternizada presenta dificultad para realizar la deposición con pujo y heces verdes por lo que acude.',anam_planes='Seno materno a libre demanda
+Fórmula maternizada por razones necesarias
+Control en 1 mes',estaatenc_id=1,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='Dificultad para realizar la deposición',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 11:16:25',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='7000106041279511222021051311162558',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=163 
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=700,usua_id=122,centro_id=11,atenc_id=695,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='La madre del niño refiere que hace 10 días teniendo como causa aparente cambio de fórmula maternizada presenta dificultad para realizar la deposición con pujo y heces verdes por lo que acude.',anam_planes='Seno materno a libre demanda
+Fórmula maternizada por razones necesarias
+Control en 1 mes',estaatenc_id=1,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='Dificultad para realizar la deposición',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 11:16:25',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='7000106041279511222021051311162558',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=163 
+134-->insert into dns_odontologia (centro_id,clie_id,usua_id,odonto_archivo1,odonto_noaplica,odonto_archivo2,odonto_odontograma,odonto_periodontal,odonto_indicec,odonto_archivo3,odonto_maloclusion,odonto_indicep,atenc_id,rangoedad_id,odonto_fluorosis,odonto_indiceo,odonto_fecharegistro,odonto_total,odonto_indicec1,odonto_indicee,odonto_indiceo1,odonto_total1,odonto_motivoconsulta,odonto_emferpactual,odonto_fechaproximases,odonto_enlace) values (11,709,134,'','','','','2','1','','1','2',704,'7','1','4','2021-05-13 11:38:28','7','','','','NaN','REVISIÓN ODONTOLÓGICA','NINGUNO',NULL,'70901171229270313420210513113828386')
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='1',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='2',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='4',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='7',odonto_indicec1='',odonto_indicee='',odonto_indiceo1='',odonto_total1='NaN',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases=NULL,odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=700,usua_id=122,centro_id=11,atenc_id=695,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='La madre del niño refiere que hace 10 días teniendo como causa aparente cambio de fórmula maternizada presenta dificultad para realizar la deposición con pujo y heces verdes por lo que acude.',anam_planes='Seno materno a libre demanda
+Fórmula maternizada por razones necesarias
+Control en 1 mes',estaatenc_id=1,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='Dificultad para realizar la deposición',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 11:16:25',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_observacionap='Peso al nacer 2770 gramos
+Talla 46 cm
+Perímetro cefálico 33 cm
+Grupo sanguineo ORh positivo',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='7000106041279511222021051311162558',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=163 
+125-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,emp_id,clie_registrado,tipoci_id,clie_direccion,clie_rucci,clie_apellido,prob_codigo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',3,1,'REGISTRADO',1,'TREBOLES DEL SUR','0550222129','scarleth anahi','17',0,'1701','jorque tipan',0,'TURUBAMBA',1,'22222222','','2013-07-21',56,5,'22222222','','F',3,4,'sandritatipan@gmail.com','','125','','2021-05-13 12:49:46','0117175924871252021051312494648198',NULL,'11','','1','')
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=3,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='TREBOLES DEL SUR',clie_rucci='0550222129',clie_apellido='scarleth anahi',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='jorque tipan',conve_id=0,clie_parroquia='TURUBAMBA',civil_id=1,clie_telefono='22222222',clie_ocupacion='',clie_fechanacimiento='2013-07-21',nac_id=56,tarterial_id=5,clie_emergenciatelf='22222222',clie_celular='',clie_genero='F',idgen_id=3,orien_id=4,clie_email='sandritatipan@gmail.com',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 12:49:46',clie_enlace='0117175924871252021051312494648198',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='1',clie_seguroprivadoarchivo='' where clie_id=717 
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513124812266','0.00',8.50,0.00,'8.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060627','1768158840001','8.50','05','0503323065','SANDRA VERONICA','TIPAN REA','TREBOLES DEL SUR','2021-05-13 12:48:12',10,'0987735521','sandritatipan@gmail.com','0550222129','','',125,1,3,0,'',11,'01')
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=3,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='TREBOLES DEL SUR',clie_rucci='0550222129',clie_apellido='SCARLRTH ANAHI',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='JORQUE TIPAN',conve_id=0,clie_parroquia='TURUBAMBA',civil_id=1,clie_telefono='22222222',clie_ocupacion='',clie_fechanacimiento='2013-07-21',nac_id=56,tarterial_id=5,clie_emergenciatelf='22222222',clie_celular='',clie_genero='F',idgen_id=3,orien_id=4,clie_email='sandritatipan@gmail.com',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 12:49:46',clie_enlace='0117175924871252021051312494648198',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='1',clie_seguroprivadoarchivo='' where clie_id=717 
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0117175924871252021051312595638','0.00',4.50,0.00,'4.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060628','1768158840001','4.50','05','0503323065','SANDRA VERONICA','TIPAN REA','TREBOLES DEL SUR','2021-05-13 12:59:56',10,'0987735521','sandritatipan@gmail.com','0550222129','','',125,1,3,0,'',11,'01')
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=700,usua_id=122,centro_id=11,atenc_id=695,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='La madre del niño refiere que hace 10 días teniendo como causa aparente cambio de fórmula maternizada presenta dificultad para realizar la deposición con pujo y heces verdes por lo que acude.',anam_planes='Seno materno a libre demanda
+Fórmula maternizada por razones necesarias
+Control en 1 mes',estaatenc_id=1,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='Dificultad para realizar la deposición',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 11:16:25',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_observacionap='Peso al nacer 2770 gramos
+Talla 46 cm
+Perímetro cefálico 33 cm
+Grupo sanguineo ORh positivo',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='7000106041279511222021051311162558',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=163 
+122-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=698,usua_id=122,centro_id=11,atenc_id=693,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='Desde hace 2 días presenta malestar generalizado caracterizado  por lagrimeo, coriza y estornudos acompañado de alza termica no cuantificada por o que administran paracetamol 5 ml cada 8 horas pero no mejora',anam_planes='Dieta general
+Líquidios abundantes',estaatenc_id=1,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='Alza termica, malestar generalizado',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 10:36:50',anam_partos='',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='698010604127951122202105131036502',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=161 
+123-->insert into dns_referencia (referencia_tratamientos,clie_id,atenc_id,referencia_entidadcr,referencia_justificada,referencia_entidad,referencia_limitada,referencia_tipocr,referencia_tratamientorecomendado,referencia_tipo,referencia_ausenciaprofesional,referencia_serviciocr,referencia_distrito,referencia_especialidadcr,usua_id,referencia_faltaprofesional,referencia_saturacion,referencia_entidadinv,referencia_entidadr,referencia_otros,referencia_establecimientoinv,referencia_establecimientor,referencia_especifique,referencia_tipoinv,referencia_servicior,referencia_distritoinv,referencia_especialidadr,referencia_resumen,referencia_fechainv,referencia_fechar,referencia_hallazgos,referencia_enlace,referencia_fecharegistro,tipref_id,centro_id) values ('',673,668,'','','PICHINCHA HUMANA','','','','','','','09','',123,'','','','MSP','1','','','PACIENTE DE LIMITADOS INGRESOS ECONOMICOS','','CONSULTA EXTERNA','','MEDICINA INTERNA','PACIENTE DIABETICA POR 10 AÑOS SIN CONTROL METABOLICO','2021-05-13 13:07:50','2021-05-13 10:07:50','','6730117171594021232021051301075098','2021-05-13 13:07:50',1,11)
+124-->update dns_atencion set centro_id=11,clie_id=717,atenc_hc='0550222129-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 12:53:52',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 12:53:52',atenc_fechasalida='2021-05-13 12:53:52',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='0550222129',atenc_referencia='',atenc_archivo='',atenc_enlace='01717171759248712520210513125352231' where atenc_id=713 
+123-->update dns_referencia set referencia_tratamientos='',clie_id=673,atenc_id=668,referencia_entidadcr='',referencia_justificada='',referencia_entidad='PICHINCHA HUMANA',referencia_limitada='',referencia_tipocr='',referencia_tratamientorecomendado='',referencia_tipo='',referencia_ausenciaprofesional='',referencia_serviciocr='',referencia_distrito='09',referencia_especialidadcr='',usua_id=123,referencia_faltaprofesional='',referencia_saturacion='',referencia_entidadinv='',referencia_entidadr='MSP',referencia_otros='1',referencia_establecimientoinv='',referencia_establecimientor='',referencia_especifique='PACIENTE DE LIMITADOS INGRESOS ECONOMICOS',referencia_tipoinv='',referencia_servicior='CONSULTA EXTERNA',referencia_distritoinv='',referencia_especialidadr='MEDICINA INTERNA',referencia_resumen='PACIENTE DIABETICA POR 10 AÑOS SIN CONTROL METABOLICO',referencia_fechainv='2021-05-13 13:07:50',referencia_fechar='2021-05-13 10:07:50',referencia_hallazgos='',referencia_enlace='6730117171594021232021051301075098',referencia_fecharegistro='2021-05-13 13:07:50',tipref_id=1,centro_id=11 where referencia_id=19 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='1',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='2',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='4',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='7',odonto_indicec1='',odonto_indicee='',odonto_indiceo1='',odonto_total1='NaN',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='1',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='2',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='4',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='7',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+123-->update dns_referencia set referencia_tratamientos='',clie_id=673,atenc_id=668,referencia_entidadcr='',referencia_justificada='',referencia_entidad='PICHINCHA HUMANA',referencia_limitada='',referencia_tipocr='',referencia_tratamientorecomendado='',referencia_tipo='',referencia_ausenciaprofesional='',referencia_serviciocr='',referencia_distrito='09',referencia_especialidadcr='',usua_id=123,referencia_faltaprofesional='',referencia_saturacion='',referencia_entidadinv='',referencia_entidadr='MSP',referencia_otros='1',referencia_establecimientoinv='',referencia_establecimientor='',referencia_especifique='PACIENTE DE LIMITADOS INGRESOS ECONOMICOS',referencia_tipoinv='',referencia_servicior='CONSULTA EXTERNA',referencia_distritoinv='',referencia_especialidadr='MEDICINA INTERNA',referencia_resumen='PACIENTE DIABETICA POR 10 AÑOS SIN CONTROL METABOLICO',referencia_fechainv='2021-05-13 13:07:50',referencia_fechar='2021-05-13 10:07:50',referencia_hallazgos='',referencia_enlace='6730117171594021232021051301075098',referencia_fecharegistro='2021-05-13 13:07:50',tipref_id=1,centro_id=11 where referencia_id=19 
+124-->update dns_atencion set centro_id=11,clie_id=717,atenc_hc='0550222129-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 12:53:52',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 12:53:52',atenc_fechasalida='2021-05-13 12:53:52',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='0550222129',atenc_referencia='',atenc_archivo='',atenc_enlace='01717171759248712520210513125352231' where atenc_id=713 
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'GPC DIABETES MELLITUS 2017','MSP','',NULL,NULL,NULL,'')
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'GPC DIABETES MELLITUS 2017','MSP','',NULL,NULL,NULL,'')
+124-->update dns_atencion set centro_id=11,clie_id=687,atenc_hc='0601776768-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 09:31:06',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 09:31:06',atenc_fechasalida='2021-05-13 09:31:06',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='0601776768',atenc_referencia='',atenc_archivo='',atenc_enlace='01687171759248712520210513093106197' where atenc_id=682 
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'GPC DIABETES MELLITUS 2017','Esta guía de práctica clínica (GPC) ha sido adaptada de guías internacionales, por profesionales de las instituciones del Sistema Nacional de Salud y especialistas expertos en la materia, En ella se reúnen evidencias y recomendaciones científicas para asistir a profesionales de la salud en la toma de decisiones acerca del diagnóstico y tratamiento de esta patología. Estas recomendaciones son de carácter general y no definen un modo único de conducta procedimental o terapéutica, sino una orientación basada en evidencia científica para la misma.','',NULL,NULL,NULL,'')
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'GPC DIABETES MELLITUS 2017','Esta guía de práctica clínica (GPC) ha sido adaptada de guías internacionales, por profesionales de las instituciones del Sistema Nacional de Salud y especialistas expertos en la materia, En ella se reúnen evidencias y recomendaciones científicas para asistir a profesionales de la salud en la toma de decisiones acerca del diagnóstico y tratamiento de esta patología. Estas recomendaciones son de carácter general y no definen un modo único de conducta procedimental o terapéutica, sino una orientación basada en evidencia científica para la misma.','',NULL,NULL,NULL,'')
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'GPC DIABETES MELLITUS 2017','Esta guía de práctica clínica (GPC) ha sido adaptada de guías internacionales, por profesionales de las instituciones del Sistema Nacional de Salud y especialistas expertos en la materia, En ella se reúnen evidencias y recomendaciones científicas para asistir a profesionales de la salud en la toma de decisiones acerca del diagnóstico y tratamiento de esta patología. Estas recomendaciones son de carácter general y no definen un modo único de conducta procedimental o terapéutica, sino una orientación basada en evidencia científica para la misma.','',NULL,NULL,NULL,'')
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'DIABETES MELLITUS 2017','Esta guía de práctica clínica (GPC) ha sido adaptada de guías internacionales, por profesionales de las instituciones del Sistema Nacional de Salud y especialistas expertos en la materia, En ella se reúnen evidencias y recomendaciones científicas para asistir a profesionales de la salud en la toma de decisiones acerca del diagnóstico y tratamiento de esta patología. Estas recomendaciones son de carácter general y no definen un modo único de conducta procedimental o terapéutica, sino una orientación basada en evidencia científica para la misma.','',NULL,NULL,NULL,'')
+123-->insert into dns_protocolosyguias (emp_id,protogui_tema,protogui_normativa,protogui_numeroacuerdo,protogui_fechaemision,protogui_vigenciadesde,protogui_vigenciahasta,protogui_documento) values (1,'DIABETES MELLITUS 2017','Esta guía de práctica clínica (GPC) ha sido adaptada de guías internacionales, por profesionales de las instituciones del Sistema Nacional de Salud y especialistas expertos en la materia, En ella se reúnen evidencias y recomendaciones científicas para asistir a profesionales de la salud en la toma de decisiones acerca del diagnóstico y tratamiento de esta patología. Estas recomendaciones son de carácter general y no definen un modo único de conducta procedimental o terapéutica, sino una orientación basada en evidencia científica para la misma.','',NULL,NULL,NULL,'')
+123-->update dns_certificados set certif_titulo='CERTIFICADO DE PERMANENCIA',emp_id=1,certif_contenido='<p style="text-align:center"><span style="font-size:20px"><strong>CERTIFICADO DE PERMANENCIA</strong></span></p>
+
+<p style="text-align:center"><strong>CENTRO DE SALUD BEATERIO</strong></p>
+
+<p>Quito, 13 de mayo del 2021</p>
+
+<p style="text-align:right"><!--StartFragment--><!--EndFragment--></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:20px"><strong>Certifico que:</strong></span></p>
+
+<p>El Sr/a <!--StartFragment--><!--StartFragment-->-clie_nombre-<!--EndFragment--> <!--StartFragment-->-clie_apellido-<!--EndFragment--> <!--EndFragment--> con C.I. <!--StartFragment-->-clie_rucci-<!--EndFragment-->, acude a cita m&eacute;dica desde las ___ hasta las ____&nbsp; en Medicina General. Al momento presenta:</p>
+
+<p>-diagnostico-</p>
+
+<p>Observaciones:</p>
+
+<p><br />
+Atentamente;<br />
+<!--StartFragment-->Dra. Ver&oacute;nica Alexandra Salazar VELASCO<!--EndFragment--><!--EndFragment--></p>
+
+<p>MSP L23 F2 N005</p>
+
+<p>SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769</p>
+
+<p>MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></p>
+
+<p style="margin-left:40px; text-align:center">Este Certificado no es v&aacute;lido para tr&aacute;mites judiciales.</p>
+
+<p style="margin-left:40px; text-align:center"><span style="font-size:11px">DOCUMENTO GRATUITO</span><br />
+<!--EndFragment--></p>',certif_activo=1 where certif_id=2 
+123-->update dns_certificados set certif_titulo='CERTIFICADO DE PERMANENCIA',emp_id=1,certif_contenido='<p style="text-align:center"><span style="font-size:20px"><strong>CERTIFICADO DE PERMANENCIA</strong></span></p>
+
+<p style="text-align:center"><strong>CENTRO DE SALUD BEATERIO</strong></p>
+
+<p>Quito, 13 de mayo del 2021</p>
+
+<p style="text-align:right"><!--StartFragment--><!--EndFragment--></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:20px"><strong>Certifico que:</strong></span></p>
+
+<p>El Sr/a <!--StartFragment--><!--StartFragment-->-clie_nombre-<!--EndFragment--> <!--StartFragment-->-clie_apellido-<!--EndFragment--> <!--EndFragment--> con C.I. <!--StartFragment-->-clie_rucci-<!--EndFragment-->, acude a cita m&eacute;dica desde las ___ hasta las ____&nbsp; en Medicina General. Al momento presenta:</p>
+
+<p>-diagnostico-</p>
+
+<p>Observaciones:</p>
+
+<p><br />
+Atentamente;<br />
+<!--StartFragment-->Dra. Ver&oacute;nica Alexandra Salazar Velasco<!--EndFragment--><!--EndFragment--></p>
+
+<p>MSP L23 F2 N005</p>
+
+<p>SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769</p>
+
+<p>MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></p>
+
+<p style="margin-left:40px; text-align:center">Este Certificado no es v&aacute;lido para tr&aacute;mites judiciales.</p>
+
+<p style="margin-left:40px; text-align:center"><span style="font-size:11px">DOCUMENTO GRATUITO</span><br />
+<!--EndFragment--></p>',certif_activo=1 where certif_id=2 
+122-->insert into dns_pediatriaanamesis (usua_id,centro_id,atenc_id,anam_referencia,clie_id,anam_obsorganossistemas,anam_emferpactual,anam_obsexamenfisicoregional,anam_planes,pedia_edadpadre,pedia_lugarnacimiento,pedia_enfermedades,tipoaler_id,anam_centrorefiere,anam_observacionaf,estaatenc_id,pedia_edadmadre,pedia_fechanacimiento,pedia_intervenciones,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,pedia_instruccion,pedia_sexo,pedia_accidentes,anam_motivoconsulta,anam_menarquiaedad,pedia_prenatal,anam_vidasexualactivaobs,pedia_patologicosfamiliares,anam_respiratorio,anam_fecharegistro,anam_partos,pedia_economicas,anam_observacionrespiratorio,anam_menopausiaedad,pedia_tipoparto,anam_atpreventiva,anam_observacionap,anam_abortos,pedia_establecimiento,anam_nhoja,anam_ciclos,pedia_domicilio,anam_enlace,anam_cesareas,pedia_atencion,anam_gesta,pedia_profesional,anam_hijosvivos,pedia_edadgestacional,anam_fum,pedia_apgar1,anam_fup,pedia_apgar5,anam_fuc,pedia_peso,pedia_talla,anam_metodopfamiliar,pedia_pcefalico,pedia_ordennacimiento,anam_metodopfamiliartex,anam_terapiahormonal,pedia_observaciones,anam_terapiahormonaltext,anam_biopsia,pedia_lactanciamaterna,pedia_suplementaria,anam_biopsiatext,anam_colposcopia,pedia_complementaria,pedia_edadinicio,anam_colposcopiatext,anam_mamografia,pedia_vacunasrecibidas,pedia_psicomotriz,anam_mamografiatxt,pedia_personalidad,pedia_habitos,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (122,11,672,'LIBRE DEMANDA',677,'','El paciente refiere que hace 16 horas sin causa aparente presenta cefalea pulsatil, holocraneana de moderada intensidad por lo que recibe paracetamol en tabletas de 500 mg y ácido acetilsalicílico 100 mg por una ocasión presentando edema y prurito de los labios por lo que acude.','','','','','','3','','',4,'','','','','','','','M','','Dolor de cabeza, hinchazon y prurito de labios','','','','','0','2021-05-13 13:25:38','','','','','',0,'','','','','','','67701060412795112220210513012538470','','','','','','',NULL,'',NULL,'',NULL,'','',0,'','','',0,'','',0,'','','',0,'','','',0,'','','','','',0,0,0,0,0,0)
+122-->insert into dns_pediatriaanamesis (usua_id,centro_id,atenc_id,anam_referencia,clie_id,anam_obsorganossistemas,anam_emferpactual,anam_obsexamenfisicoregional,anam_planes,pedia_edadpadre,pedia_lugarnacimiento,pedia_enfermedades,tipoaler_id,anam_centrorefiere,anam_observacionaf,estaatenc_id,pedia_edadmadre,pedia_fechanacimiento,pedia_intervenciones,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,pedia_instruccion,pedia_sexo,pedia_accidentes,anam_motivoconsulta,anam_menarquiaedad,pedia_prenatal,anam_vidasexualactivaobs,pedia_patologicosfamiliares,anam_respiratorio,anam_fecharegistro,anam_partos,pedia_economicas,anam_observacionrespiratorio,anam_menopausiaedad,pedia_tipoparto,anam_atpreventiva,anam_observacionap,anam_abortos,pedia_establecimiento,anam_nhoja,anam_ciclos,pedia_domicilio,anam_enlace,anam_cesareas,pedia_atencion,anam_gesta,pedia_profesional,anam_hijosvivos,pedia_edadgestacional,anam_fum,pedia_apgar1,anam_fup,pedia_apgar5,anam_fuc,pedia_peso,pedia_talla,anam_metodopfamiliar,pedia_pcefalico,pedia_ordennacimiento,anam_metodopfamiliartex,anam_terapiahormonal,pedia_observaciones,anam_terapiahormonaltext,anam_biopsia,pedia_lactanciamaterna,pedia_suplementaria,anam_biopsiatext,anam_colposcopia,pedia_complementaria,pedia_edadinicio,anam_colposcopiatext,anam_mamografia,pedia_vacunasrecibidas,pedia_psicomotriz,anam_mamografiatxt,pedia_personalidad,pedia_habitos,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (122,11,693,'LIBRE DEMANDA',698,'','Los padres refieren que su hija desde hace 2 días sin causa aparente presenta malestar generalizado caracterizado por estornudos, lagrimeo y coriza acompañado de alza térmica no cuantificada pr lo que administran el paracetamol 150 mg  via oral cada 8 horas pero no mejora por lo que acude','','','','','','3','','',4,'','','','','','','','','','Alza térmica y malestar generalizado','','','','','','2021-05-13 13:37:13','','','','','',0,'','','','','','','6980106041279511222021051301371391','','','','','','',NULL,'',NULL,'',NULL,'','',0,'','','',0,'','',0,'','','',0,'','','',0,'','','','','',0,0,0,0,0,0)
+122-->update dns_pediatriaanamesis set usua_id=122,centro_id=11,atenc_id=693,anam_referencia='LIBRE DEMANDA',clie_id=698,anam_obsorganossistemas='',anam_emferpactual='Los padres refieren que su hija desde hace 2 días sin causa aparente presenta malestar generalizado caracterizado por estornudos, lagrimeo y coriza acompañado de alza térmica no cuantificada pr lo que administran el paracetamol 150 mg  via oral cada 8 horas pero no mejora por lo que acude',anam_obsexamenfisicoregional='',anam_planes='',pedia_edadpadre='',pedia_lugarnacimiento='',pedia_enfermedades='',tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,pedia_edadmadre='',pedia_fechanacimiento='',pedia_intervenciones='',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',pedia_instruccion='',pedia_sexo='',pedia_accidentes='',anam_motivoconsulta='Alza térmica y malestar generalizado',anam_menarquiaedad='',pedia_prenatal='',anam_vidasexualactivaobs='',pedia_patologicosfamiliares='',anam_respiratorio='',anam_fecharegistro='2021-05-13 13:37:13',anam_partos='',pedia_economicas='',anam_observacionrespiratorio='',anam_menopausiaedad='',pedia_tipoparto='',anam_atpreventiva=0,anam_observacionap='',anam_abortos='',pedia_establecimiento='',anam_nhoja='',anam_ciclos='',pedia_domicilio='',anam_enlace='6980106041279511222021051301371391',anam_cesareas='',pedia_atencion='',anam_gesta='',pedia_profesional='',anam_hijosvivos='',pedia_edadgestacional='',anam_fum=NULL,pedia_apgar1='',anam_fup=NULL,pedia_apgar5='',anam_fuc=NULL,pedia_peso='',pedia_talla='',anam_metodopfamiliar=0,pedia_pcefalico='',pedia_ordennacimiento='',anam_metodopfamiliartex='',anam_terapiahormonal=0,pedia_observaciones='',anam_terapiahormonaltext='',anam_biopsia=0,pedia_lactanciamaterna='',pedia_suplementaria='',anam_biopsiatext='',anam_colposcopia=0,pedia_complementaria='',pedia_edadinicio='',anam_colposcopiatext='',anam_mamografia=0,pedia_vacunasrecibidas='',pedia_psicomotriz='',anam_mamografiatxt='',pedia_personalidad='',pedia_habitos='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=20 
+122-->insert into dns_pediatriaanamesis (usua_id,centro_id,atenc_id,anam_referencia,clie_id,anam_obsorganossistemas,anam_emferpactual,anam_obsexamenfisicoregional,anam_planes,pedia_edadpadre,pedia_lugarnacimiento,pedia_enfermedades,tipoaler_id,anam_centrorefiere,anam_observacionaf,estaatenc_id,pedia_edadmadre,pedia_fechanacimiento,pedia_intervenciones,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,pedia_instruccion,pedia_sexo,pedia_accidentes,anam_motivoconsulta,anam_menarquiaedad,pedia_prenatal,anam_vidasexualactivaobs,pedia_patologicosfamiliares,anam_respiratorio,anam_fecharegistro,anam_partos,pedia_economicas,anam_observacionrespiratorio,anam_menopausiaedad,pedia_tipoparto,anam_atpreventiva,anam_observacionap,anam_abortos,pedia_establecimiento,anam_nhoja,anam_ciclos,pedia_domicilio,anam_enlace,anam_cesareas,pedia_atencion,anam_gesta,pedia_profesional,anam_hijosvivos,pedia_edadgestacional,anam_fum,pedia_apgar1,anam_fup,pedia_apgar5,anam_fuc,pedia_peso,pedia_talla,anam_metodopfamiliar,pedia_pcefalico,pedia_ordennacimiento,anam_metodopfamiliartex,anam_terapiahormonal,pedia_observaciones,anam_terapiahormonaltext,anam_biopsia,pedia_lactanciamaterna,pedia_suplementaria,anam_biopsiatext,anam_colposcopia,pedia_complementaria,pedia_edadinicio,anam_colposcopiatext,anam_mamografia,pedia_vacunasrecibidas,pedia_psicomotriz,anam_mamografiatxt,pedia_personalidad,pedia_habitos,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (122,11,695,'LIBRE DEMANDA',700,'','La madre refiere que su hijo presenta dificultad para realizar la deposición luego del cambio en la administración de la fórmula maternizada, se acompaña de deposiciones verdes por lo que acude','Sin patología aparente','','','','','3','','',4,'','','','','','','','','','Dificultad para realizar la deposición','','','','','','2021-05-13 13:42:56','','','','','',1,'','','','','','','70001060412795112220210513014256416','','','','','','',NULL,'',NULL,'',NULL,'','',0,'','','',0,'','',0,'','','',0,'','','',0,'','','','','',0,0,0,0,0,0)
+122-->update dns_pediatriaanamesis set usua_id=122,centro_id=11,atenc_id=695,anam_referencia='LIBRE DEMANDA',clie_id=700,anam_obsorganossistemas='',anam_emferpactual='La madre refiere que su hijo presenta dificultad para realizar la deposición luego del cambio en la administración de la fórmula maternizada, se acompaña de deposiciones verdes por lo que acude',anam_obsexamenfisicoregional='Sin patología aparente',anam_planes='',pedia_edadpadre='',pedia_lugarnacimiento='',pedia_enfermedades='',tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,pedia_edadmadre='',pedia_fechanacimiento='',pedia_intervenciones='',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',pedia_instruccion='',pedia_sexo='',pedia_accidentes='',anam_motivoconsulta='Dificultad para realizar la deposición',anam_menarquiaedad='',pedia_prenatal='',anam_vidasexualactivaobs='',pedia_patologicosfamiliares='',anam_respiratorio='',anam_fecharegistro='2021-05-13 13:42:56',anam_partos='',pedia_economicas='',anam_observacionrespiratorio='',anam_menopausiaedad='',pedia_tipoparto='',anam_atpreventiva=1,anam_observacionap='',anam_abortos='',pedia_establecimiento='',anam_nhoja='',anam_ciclos='',pedia_domicilio='',anam_enlace='70001060412795112220210513014256416',anam_cesareas='',pedia_atencion='',anam_gesta='',pedia_profesional='',anam_hijosvivos='',pedia_edadgestacional='',anam_fum=NULL,pedia_apgar1='',anam_fup=NULL,pedia_apgar5='',anam_fuc=NULL,pedia_peso='',pedia_talla='',anam_metodopfamiliar=0,pedia_pcefalico='',pedia_ordennacimiento='',anam_metodopfamiliartex='',anam_terapiahormonal=0,pedia_observaciones='',anam_terapiahormonaltext='',anam_biopsia=0,pedia_lactanciamaterna='',pedia_suplementaria='',anam_biopsiatext='',anam_colposcopia=0,pedia_complementaria='',pedia_edadinicio='',anam_colposcopiatext='',anam_mamografia=0,pedia_vacunasrecibidas='',pedia_psicomotriz='',anam_mamografiatxt='',pedia_personalidad='',pedia_habitos='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=21 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-&nbsp; CIE 10</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+123-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',emp_id=1,certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>PICHINCHA HUMANA </strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-&nbsp; CIE 10</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>DOCUMENTO GRATUITO</p>',certif_activo=1 where certif_id=3 
+123-->update dns_certificados set certif_titulo='CERTIFICADO DE PERMANENCIA',emp_id=1,certif_contenido='<p style="text-align:center"><span style="font-size:20px"><strong>CERTIFICADO DE PERMANENCIA</strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p>Quito, 13 de mayo del 2021</p>
+
+<p style="text-align:right"><!--StartFragment--><!--EndFragment--></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:20px"><strong>Certifico que:</strong></span></p>
+
+<p>El Sr/a <!--StartFragment--><!--StartFragment-->-clie_nombre-<!--EndFragment--> <!--StartFragment-->-clie_apellido-<!--EndFragment--> <!--EndFragment--> con C.I. <!--StartFragment-->-clie_rucci-<!--EndFragment-->, acude a cita m&eacute;dica desde las ___ hasta las ____&nbsp; en Medicina General. Al momento presenta:</p>
+
+<p>-diagnostico-</p>
+
+<p>Observaciones:</p>
+
+<p><br />
+Atentamente;<br />
+<!--StartFragment--></p>
+
+<p style="margin-left:40px; text-align:center">Este Certificado no es v&aacute;lido para tr&aacute;mites judiciales.</p>
+
+<p style="margin-left:40px; text-align:center"><span style="font-size:11px">DOCUMENTO GRATUITO</span><br />
+<!--EndFragment--></p>',certif_activo=1 where certif_id=2 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='1',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+123-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=673,usua_id=123,centro_id=11,atenc_id=668,tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',anam_emferpactual='PACIENTE DIABETICA TIPO 2 DE 10 AÑOS DE EVOLUCION APROXIMADAMENTE QUE TOMO ANTIDIABETICOS ORALES POR 2 MESES HACE 2 AÑOS, ABANDONÓ EL TRATAMIENTO POR EPIGASTRALGIA URENTE  CON LO QUE SEDIÓ LAS MOLESTIAS ABDOMINALES. 
+ACTIVIDAD FISICA; NO , SALVO LAS QUEHACERES DOMÉSTICOS .
+AUTOMONITOREO DE GLUCOSA: NINGUNO POR 2 AÑOS.
+PESO: PERDIDA DE UNA TALLA DE ROPA EN UN AÑO.
+ALCOHOL- CIGARILLO- DROGAS: NINGUNO. 
+CONTROL METABOLICO DE GLUCOSA Y LIPIDOS: NO EN 2 AÑOS.
+VALORACION OFTALMOLÓGICA PREVIA: HACE 10 AÑOS SIN FONDO DE OJO.
+EN LA ACTUALIDAD POLAQUIURIA Y POLIDIPSIA LEVE EN OCACIONES POLIFAGIA. CON MAREO SUBJETIVO QUE LO DESCRIBE COMO SENSACIÓN DE AGUA EN LA CABEZA.',anam_planes='ALIMENTACION : SE ENVIA HOJA DE ALIMENTOS A CONSUMIR Y EVITAR HASTA LA REVISION DE EXAMENES
+- ACTIVIDAD FISICA; CAMINTA 30 MIN DIARIO 5 VECES POR SEMANA 
+- EXAMENES DE LABORATORIO: BIOMETRIA, GLUCOSA, GLUCOSA POST PRANDIAL ,UREA,, CREATININA, ACIDO URICO , COLESTEROL, HDL, LDL TRIGLICERIDOS EMO , HEMOGLOBINA GLICOCILADA, ALT, AST 
+- REFERIDO A GINCOLOGIA, OFTALMOLOGIA',estaatenc_id=4,anam_txtalergias='NO REFIRE',anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE DIABETES MELLITUS',anam_vidasexualactivaobs='',anam_menarquiaedad='12',anam_respiratorio='0',anam_fecharegistro='2021-05-13 09:24:17',anam_partos='9',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_observacionap='NUNCA SE HA REALIZADO PAP TEST',anam_menopausiaedad='55 AÑOS',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='67301171715940212320210513092417133',anam_cesareas='0',anam_gesta='',anam_hijosvivos='5',anam_fum=NULL,anam_fup=NULL,anam_fuc='0000-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 
+134-->insert into dns_odontologia (centro_id,clie_id,usua_id,odonto_archivo1,odonto_noaplica,odonto_archivo2,odonto_odontograma,odonto_periodontal,odonto_indicec,odonto_archivo3,odonto_maloclusion,odonto_indicep,atenc_id,rangoedad_id,odonto_fluorosis,odonto_indiceo,odonto_fecharegistro,odonto_total,odonto_indicec1,odonto_indicee,odonto_indiceo1,odonto_total1,odonto_motivoconsulta,odonto_emferpactual,odonto_fechaproximases,odonto_enlace) values (11,717,134,'','','','','1','','','1','',713,'3','1','','2021-05-13 13:23:21','NaN','3','0','2','5','PARA QUE LE CALCE','NINGUNA',NULL,'717011712292703134202105130123215')
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='NaN',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='NaN',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+125-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_token='',grp_id=3,emp_id=1,clie_registrado='REGISTRADO',tipoci_id=1,clie_direccion='TREBOLES DEL SUR',clie_rucci='0550222129',clie_apellido='SCARLRTH ANAHI',prob_codigo='17',tippo_id=0,cant_codigo='1701',clie_nombre='JORQUE TIPAN',conve_id=0,clie_parroquia='TURUBAMBA',civil_id=1,clie_telefono='22222222',clie_ocupacion='',clie_fechanacimiento='2013-07-21',nac_id=56,tarterial_id=5,clie_emergenciatelf='22222222',clie_celular='',clie_genero='F',idgen_id=3,orien_id=4,clie_email='sandritatipan@gmail.com',clie_emergenciacelu='',usua_id='125',clie_institucion='',clie_registro='2021-05-13 12:49:46',clie_enlace='0117175924871252021051312494648198',clie_fechaingreso=NULL,centro_id='11',clie_seguromsparchivo='',clie_instruccion='1',clie_seguroprivadoarchivo='' where clie_id=717 
+125-->insert into beko_documentocabecera (doccab_id,doccab_subtotaliva,doccab_pagacon,doccab_cambio,doccab_subtotalsiniva,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,doccab_iva,emis_valor,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,doccab_fechaemision_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('01171759248712520210513021541497','0.00',10.50,0.00,'10.50',1,'0.00',1,2,'0.00','0.00',1,'01','','002-001-000060629','1768158840001','10.50','05','0503323065','SANDRA VERONICA','TIPAN REA','TREBOLES DEL SUR','2021-05-13 14:15:41',10,'0987735521','sandritatipan@gmail.com','0550222129','','',125,1,3,0,'',11,'01')
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='1',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='2',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='4',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='7',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+122-->update dns_pediatriaanamesis set usua_id=122,centro_id=11,atenc_id=672,anam_referencia='LIBRE DEMANDA',clie_id=677,anam_obsorganossistemas='',anam_emferpactual='El paciente refiere que hace 16 horas sin causa aparente presenta cefalea pulsatil, holocraneana de moderada intensidad por lo que recibe paracetamol en tabletas de 500 mg y ácido acetilsalicílico 100 mg por una ocasión presentando edema y prurito de los labios por lo que acude.',anam_obsexamenfisicoregional='',anam_planes='',pedia_edadpadre='',pedia_lugarnacimiento='',pedia_enfermedades='',tipoaler_id='3',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,pedia_edadmadre='',pedia_fechanacimiento='0000-00-00',pedia_intervenciones='',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',pedia_instruccion='',pedia_sexo='',pedia_accidentes='',anam_motivoconsulta='Dolor de cabeza, hinchazon y prurito de labios',anam_menarquiaedad='',pedia_prenatal='',anam_vidasexualactivaobs='',pedia_patologicosfamiliares='',anam_respiratorio='0',anam_fecharegistro='2021-05-13 13:25:38',anam_partos='',pedia_economicas='',anam_observacionrespiratorio='',anam_menopausiaedad='',pedia_tipoparto='',anam_atpreventiva=0,anam_observacionap='',anam_abortos='',pedia_establecimiento='',anam_nhoja='',anam_ciclos='',pedia_domicilio='',anam_enlace='67701060412795112220210513012538470',anam_cesareas='',pedia_atencion='',anam_gesta='',pedia_profesional='',anam_hijosvivos='',pedia_edadgestacional='',anam_fum=NULL,pedia_apgar1='',anam_fup=NULL,pedia_apgar5='',anam_fuc=NULL,pedia_peso='',pedia_talla='',anam_metodopfamiliar=0,pedia_pcefalico='',pedia_ordennacimiento='',anam_metodopfamiliartex='',anam_terapiahormonal=0,pedia_observaciones='',anam_terapiahormonaltext='',anam_biopsia=0,pedia_lactanciamaterna='',pedia_suplementaria='',anam_biopsiatext='',anam_colposcopia=0,pedia_complementaria='',pedia_edadinicio='',anam_colposcopiatext='',anam_mamografia=0,pedia_vacunasrecibidas='',pedia_psicomotriz='',anam_mamografiatxt='',pedia_personalidad='',pedia_habitos='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=19 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='6',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='14',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='20',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='6',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='14',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='20',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=717,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='1',odonto_indicec='0',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=713,rangoedad_id='3',odonto_fluorosis='1',odonto_indiceo='0',odonto_fecharegistro='2021-05-13 13:23:21',odonto_total='0',odonto_indicec1='3',odonto_indicee='0',odonto_indiceo1='2',odonto_total1='5',odonto_motivoconsulta='PARA QUE LE CALCE',odonto_emferpactual='NINGUNA',odonto_fechaproximases=NULL,odonto_enlace='717011712292703134202105130123215' where odonto_id=57 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='6',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='14',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='20',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+134-->update dns_odontologia set centro_id=11,clie_id=709,usua_id=134,odonto_archivo1='',odonto_noaplica='',odonto_archivo2='',odonto_odontograma='',odonto_periodontal='2',odonto_indicec='6',odonto_archivo3='',odonto_maloclusion='1',odonto_indicep='0',atenc_id=704,rangoedad_id='7',odonto_fluorosis='1',odonto_indiceo='14',odonto_fecharegistro='2021-05-13 11:38:28',odonto_total='20',odonto_indicec1='0',odonto_indicee='0',odonto_indiceo1='0',odonto_total1='0',odonto_motivoconsulta='REVISIÓN ODONTOLÓGICA',odonto_emferpactual='NINGUNO',odonto_fechaproximases='2021-05-13',odonto_enlace='70901171229270313420210513113828386' where odonto_id=55 
+125-->update dns_cierrecaja set cierr_ntransacciones='9',cierr_totaldinero='13.5',emp_id=1,cierr_anulados='2',estac_id=3,centro_id=11,cierr_valoranulado='21.45',cierr_efectivo='51',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='51',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+125-->update dns_cierrecaja set cierr_ntransacciones='9',cierr_totaldinero='13.5',emp_id=1,cierr_anulados='2',estac_id=1,centro_id=11,cierr_valoranulado='21.45',cierr_efectivo='51',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='51',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+124-->update dns_atencion set centro_id=11,clie_id=687,atenc_hc='0601776768-1',tiposerv_id='2',usua_id=125,atenc_fecharegistro='2021-05-13 09:31:06',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2021-05-13 09:31:06',atenc_fechasalida='2021-05-13 09:31:06',atenc_condiciondeegreso='VIVO',atenc_observacion='',emp_id=1,clie_ci='0601776768',atenc_referencia='',atenc_archivo='',atenc_enlace='01687171759248712520210513093106197' where atenc_id=682 
+125-->update dns_cierrecaja set cierr_ntransacciones='9',cierr_totaldinero='51',emp_id=1,cierr_anulados='2',estac_id=3,centro_id=11,cierr_valoranulado='21.45',cierr_efectivo='51',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='51',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+125-->update dns_cierrecaja set cierr_ntransacciones='9',cierr_totaldinero='51',emp_id=1,cierr_anulados='2',estac_id=3,centro_id=11,cierr_valoranulado='21.45',cierr_efectivo='51',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='51',cierr_enlace='17175924872021051309533926231' where cierr_id=39 
+125-->update dns_cierrecaja set cierr_ntransacciones='9',cierr_totaldinero='51',emp_id=1,cierr_anulados='2',estac_id=3,centro_id=11,cierr_valoranulado='21.45',cierr_efectivo='51',ctpc_id=1,cierr_cheque='',cierr_fecha='2021-05-13',cierr_tarjetacredito='',cierr_observacion='',cierr_credito='',usua_id=125,cierr_transferencia='',cierr_fecharegistro='2021-05-13 09:53:39',cierr_otros='',usuacierra_id=0,cierr_total='51',cierr_enlace='17175924872021051309533926231' where cierr_id=39 

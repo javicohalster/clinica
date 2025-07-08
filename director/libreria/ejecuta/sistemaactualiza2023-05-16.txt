@@ -1,0 +1,1 @@
+update cmb_camposarch set tiparch_id=13,crch_nombre='cuadrobm_pvp',crch_activo=1,crch_orden=10,tipc_id=1,crch_nameid='cuadrobm_pvp',tipda_id=3,crch_obligatorio=1,crch_patharchivo='',crch_columnaexcel='O' where crch_id=153 

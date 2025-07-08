@@ -1,0 +1,5 @@
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='2024051405531716',rept_archivopersonalizado='standarpersona_panel',rept_campos='',rept_nombre='LISTA PERSONA',rept_observacion='',rept_tabla='' where rept_id=57 
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='2024051405531716',rept_archivopersonalizado='standarpersona_panel',rept_campos='',rept_nombre='LISTA PERSONA',rept_observacion='',rept_tabla='' where rept_id=57 
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='2024051405531716',rept_archivopersonalizado='standarpersona_pane.php',rept_campos='',rept_nombre='LISTA PERSONA',rept_observacion='',rept_tabla='' where rept_id=57 
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='2024051405531716',rept_archivopersonalizado='standarpersona_pane.php',rept_campos='',rept_nombre='LISTA PERSONA',rept_observacion='LISTA PERSONAS',rept_tabla='' where rept_id=57 
+update sth_report set categr_id=17,rept_activo=1,rept_aleatunico='2024051405531716',rept_archivopersonalizado='standarpersona_panel.php',rept_campos='',rept_nombre='LISTA PERSONA',rept_observacion='LISTA PERSONAS',rept_tabla='' where rept_id=57 

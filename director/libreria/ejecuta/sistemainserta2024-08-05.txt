@@ -1,0 +1,1 @@
+insert into gogess_subtabla (sub_activo,sub_campoenlace,sub_filtro,sub_nameenlace,sub_nombreenlace,sub_orden,sub_tipoenlace,tab_id) values (1,'emp_id','','conco_cfgrol','Cfg Roles',15,'num',185)

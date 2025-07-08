@@ -1,0 +1,166 @@
+250-->update app_usuario set centro_id='1',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=0,usua_siglastitulo='LCDA',usua_ruc='',usua_ciruc='1720809738',usua_codigoiniciales='D.C',pemision_id=0,usua_nombreruc='',usua_carnetconadis='',usua_codigo='1720809738',usua_nombre='Diana Carolina',usua_msp='1720809738',usua_direccionruc='',usua_tipodiscapacidad='',estabr_id=0,usua_paisruc=0,usua_apellido='Cruz Minango',usua_porcentajediscapacidad='',pemisionr_id=0,usua_enlace='01172307462919420231005040743409',usua_archivocenecyt='',nac_id=56,usua_puedehacernc=0,usua_provinciaruc='',usua_cantonruc='',usua_fechanacimiento='1989-04-03',estabnc_id=0,etn_id=6,pemisionnc_id=0,usua_telefonoruc='',usua_archivoauxiliares='',usua_piefirma='LCDA.',usua_mailruc='',usua_celular='0984133489',usua_horascontrato='0',tipoh_id=1,civil_id=4,usua_fechaingrero='2023-10-05',usua_genero='FEMENINO',usua_fechasalida=NULL,usua_fecha_uingreso='2023-10-05 19:30:43',tipcont_id=2,usua_usuario='1720809738',especi_id=0,usua_hora_uingreso='19:30:43',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='quirofano@clinicalospinos.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0',usua_farmacia=0,usua_clvfirma='',usua_procesatomafisica=0,usua_puedeanularventa=0,usua_puedeanularcompra=0 where usua_id=417 -->2023-10-06 07:45:02
+250-->update dns_newhospitalizacionanamesis set atenc_id=5114,anam_pdfcirugia='',anam_referencia='LIBRE DEMANDA',centro_id=26,clie_id=6106,les_id='11',usua_id=267,anam_analisis='',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  ALMACHI.',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO 2 HORAS DE DOS DÍAS DE EVOLUCIÓN QUE SE EXACERBA HASTA ESTA ESTA MAÑANA DE DOLOR ABDOMINAL LOCALIZADO EN REGIÓN UMBILICAL DE MODERADA INTENSIDAD ACOMPAÑADO DE SENSACIÓN DE MASA POR LO QUE ACUDE A ESTA CASA DE SALUD EN DONDE ES VALORADA POR MEDICO ESPECILISTA EL CUAL DECIDE RESOLUCION QUIRURGICA.',anam_descripcionexafis='SE PALPA MASA, QUE PROTRUYE POSTERIOR A MANIOBRA DE VALSALVA.',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='HERNIOPLASTIA',anam_menarquiaedad='14',estaatenc_id=4,anam_partos='0',anam_motivoconsulta='DOLOR ABDOMINAL',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. ALMACHI',anam_fecharegistro='2023-10-03 08:46:07',anam_menopausiaedad='',anam_atpreventiva=1,anam_abortos='0',anam_ayudante='',anam_anestesiologo='DR. MANOLO CALERO',anam_nhoja='',anam_ciclos='REGULARES',anam_fechaingreso='2023-10-03',anam_cesareas='1',anam_enlace='61060117232002242672023100308460790',anam_gesta='1',anam_respiratorio='0',anam_hijosvivos='2',anam_observacionrespiratorio='',anam_fum='2016-02-09',anam_fup='2016-10-05',anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='HORMONAL DEPOSITO TRIMESTRAL HACE 7 AÑOS',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=66 -->2023-10-06 08:28:02
+250-->update dns_newprotocolooperatorio set usua_id=205,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5114',centro_id=26,clie_id=6106,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_idenlace='66',protoop_general='1',protoop_fecharegistro='2023-10-03 13:24:59',protoop_fechaoperacion='2023-10-03',protoop_biopsia='0',protoop_regional='',protoop_horainicio='10:19',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:19',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_dieresis='1, INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2, INCISION PARA ABDOMINOPLASTIA DE 40 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC JACKELINE TORRES',protoop_enlace='610601172001173120520231003012459314',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LIC IBRAILA MONCAYO',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL MAS FLACIDEZ ABDOMINAL IMPORTANTE
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 6000 CC COLGAJO DE 0,5KG
+5. INJERTO GRASO GLUTEO DE 600 CC',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL
+10. CONTROL DE HEMOSTASIA
+11. RECTIFICACION DE DIASTASIS DE RECTOS ABDOMINALES CON SUTURA HORIZONTAL TIPO TULUA
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+18. LIPOASPIRACION CON MICROAIRE
+19. CIERRE DE INCISIONES
+20. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+21. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+22. COLOCACION DE APOSITOS
+23. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='800',protoop_sangrado='800',protoop_protesico='0',anam_enlace='' where protoop_id=95 -->2023-10-06 08:28:10
+250-->update dns_newprotocolooperatorio set usua_id=205,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5114',centro_id=26,clie_id=6106,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_idenlace='66',protoop_general='1',protoop_fecharegistro='2023-10-03 13:24:59',protoop_fechaoperacion='2023-10-03',protoop_biopsia='0',protoop_regional='',protoop_horainicio='10:19',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:19',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_dieresis='1, INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2, INCISION PARA ABDOMINOPLASTIA DE 40 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC JACKELINE TORRES',protoop_enlace='610601172001173120520231003012459314',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LIC IBRAILA MONCAYO',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL MAS FLACIDEZ ABDOMINAL IMPORTANTE
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 6000 CC COLGAJO DE 0,5KG
+5. INJERTO GRASO GLUTEO DE 600 CC',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL
+10. CONTROL DE HEMOSTASIA
+11. RECTIFICACION DE DIASTASIS DE RECTOS ABDOMINALES CON SUTURA HORIZONTAL TIPO TULUA
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+18. LIPOASPIRACION CON MICROAIRE
+19. CIERRE DE INCISIONES
+20. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+21. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+22. COLOCACION DE APOSITOS
+23. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='800',protoop_sangrado='800',protoop_protesico='0',anam_enlace='' where protoop_id=95 -->2023-10-06 08:28:10
+250-->update dns_newhospitalizacionanamesis set atenc_id=5116,anam_pdfcirugia='',anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=6115,les_id='11',usua_id=362,anam_analisis='PACIENTE ADULTA SIN COMORBILIDADES DE IMORTANCIA QUE INGRESA PARA RESOLUCIÓN QUIRÚRGICA DE CIRUGÍA PLÁSTICA, AL MOMENTO EN CONDICIÓN ESTABLE, CUMPLIENDO HORAS DE AYUNO, A LA ESPERA DE LLAMADO A QUIRÓFANO.',anam_planes='INGRESO A HOSPITALIZACION HAB 302
+NADA POR VIA ORAL 
+CANALIZAR VIA PERIFERICA 
+CHEQUEO PREANESTÉSICO
+FIRMAR CONSETEMIENTOS INFORMADOS 
+CONTROL DE SIGNOS VITALES
+SUBIR A QUIRÓFANO AL LLAMADO
+ÓRDENES DEL DR. SANTIAGO PESANTEZ',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, NI COMORBILIDADES INGRESA PARA RECIBIR PROCEDIMIENTO QUIRÚRGICO ESTÉTICO PROGRAMADO. CUMPLE CON HORAS DE AYUNO, EXAMENES PREQUIRÚRGICOS DENTRO DE PARÁMETROS NORMALES. A LA ESPERA DE LLAMADO A QUIRÓFANO',anam_descripcionexafis='SUAVE DEPRESIBLE, NO DOLOROSO A LA PALAPCIÓN, SE EVIDENCIA PANICULO ADIPOSO EN MODERADA CANTIDAD',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='LIPOABDOMINOPLASTIA',anam_menarquiaedad='10',estaatenc_id=4,anam_partos='0',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_fecharegistro='2023-10-03 08:29:08',anam_menopausiaedad='0',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='DE TURNO',anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_nhoja='',anam_ciclos='28-30',anam_fechaingreso='2023-10-03',anam_cesareas='0',anam_enlace='611501100388420036220231003082908234',anam_gesta='0',anam_respiratorio='0',anam_hijosvivos='0',anam_observacionrespiratorio='',anam_fum='2023-09-30',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='ANTICONCEPTIVOS ORALES.',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=65 -->2023-10-06 08:31:25
+250-->update dns_newprotocolooperatorio set usua_id=218,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5116',centro_id=1,clie_id=6115,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_idenlace='65',protoop_general='1',protoop_fecharegistro='2023-10-03 14:12:01',protoop_fechaoperacion='2023-10-03',protoop_biopsia='0',protoop_regional='',protoop_horainicio='10:15',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR OSCAR MENEDEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:05',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='INCISIONES DORSALES , LUMBARES, QUE COMPROMETEN PIEL Y TCS
+INCISION PELVICA QUE COMPROMETE PIEL, TCS, HASTA APONEUROSIS MUSCULAR',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LCDA JIMENA',protoop_enlace='611501170921352221820231003021201231',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LCDO DENNIS',protoop_anestesiologo='DR BARRIONUEVO',protoop_exploracion='',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL  FRENTE 1300CC  ESPALDA 1600 CC TOTAL 2900 CC
+COLOCACION DE LIPOINJERTO EN GLUTEOS, DE 200 CC EN CADA LADO
+LEVANTAMIENTO DEL COLGAJO ABDOMINAL, Y EXTRACCION, PESO APORX. 1800KG
+REALIZACION DE NEOOMBLIGO
+COLOCACION DE DREN DE JACKSON PRAT Y SONDA VESICAL
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=97 -->2023-10-06 08:31:28
+250-->update dns_newprotocolooperatorio set usua_id=218,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5116',centro_id=1,clie_id=6115,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_idenlace='65',protoop_general='1',protoop_fecharegistro='2023-10-03 14:12:01',protoop_fechaoperacion='2023-10-03',protoop_biopsia='0',protoop_regional='',protoop_horainicio='10:15',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR OSCAR MENEDEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:05',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='INCISIONES DORSALES , LUMBARES, QUE COMPROMETEN PIEL Y TCS
+INCISION PELVICA QUE COMPROMETE PIEL, TCS, HASTA APONEUROSIS MUSCULAR',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LCDA JIMENA',protoop_enlace='611501170921352221820231003021201231',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LCDO DENNIS',protoop_anestesiologo='DR BARRIONUEVO',protoop_exploracion='',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL  FRENTE 1300CC  ESPALDA 1600 CC TOTAL 2900 CC
+COLOCACION DE LIPOINJERTO EN GLUTEOS, DE 200 CC EN CADA LADO
+LEVANTAMIENTO DEL COLGAJO ABDOMINAL, Y EXTRACCION, PESO APORX. 1800KG
+REALIZACION DE NEOOMBLIGO
+COLOCACION DE DREN DE JACKSON PRAT Y SONDA VESICAL
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=97 -->2023-10-06 08:31:28
+2-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,emp_id,clie_registrado,clie_especialidad,clie_tratante,tipoci_id,clie_rucci,clie_ayudante,clie_direccion,clie_anestesiologo,clie_apellido,prob_codigo,cant_codigo,tippo_id,clie_nombre,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,orien_id,idgen_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',3,'',1,'REGISTRADO','','',1,'1752252591','','SAN BARTOLO','','GALLARDO RUIZ','17','1701',3,'AILIN ANTONELLA',1,'',6,'','','','2012-02-13',56,5,'','0988169562','F',4,4,'cris_aracel10@hotmail.com','','2','2023-10-06 08:45:06','','01171490744922023100608450634116',NULL,'12','','5893','','','','')-->2023-10-06 08:47:35
+2-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (12,6151,'1752252591-1','2',2,'2023-10-06 08:47:41','','','2023-10-06 08:47:41','CIRUGIA','2023-10-06 08:47:41','1752252591','VIVO',1,'','','01171490744922023100608474116')-->2023-10-06 08:48:36
+2-->update dns_atencion set centro_id=12,clie_id=6151,atenc_hc='1752252591-1',tiposerv_id='2',usua_id=2,atenc_fecharegistro='2023-10-06 08:47:41',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2023-10-06 08:47:41',atenc_observacion='CIRUGIA',atenc_fechaingreso='2023-10-06 08:47:41',clie_ci='1752252591',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01171490744922023100608474116' where atenc_id=5166 -->2023-10-06 08:49:43
+250-->update dns_newhospitalizacionanamesis set atenc_id=5128,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6128,les_id='',usua_id=304,anam_analisis='',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CORPORAL Y FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='CAMBIO DE PROTESIS MAMARIA + RINOPLASTIA',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_partos='2',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_fecharegistro='2023-10-04 07:44:46',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='DRA. VILLACFRES',anam_anestesiologo='DR. BARRIONUEVO',anam_nhoja='',anam_ciclos='REGULARES',anam_fechaingreso='2023-10-04',anam_cesareas='0',anam_enlace='61280117257576353042023100407444620',anam_gesta='2',anam_respiratorio='0',anam_hijosvivos='2',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=67 -->2023-10-06 10:09:21
+250-->update dns_newhospitalizacionanamesis set atenc_id=5128,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6128,les_id='',usua_id=304,anam_analisis='',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CORPORAL Y FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='CAMBIO DE PROTESIS MAMARIA + RINOPLASTIA',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_partos='2',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_fecharegistro='2023-10-04 07:44:46',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='DRA. VILLACFRES',anam_anestesiologo='DR. BARRIONUEVO',anam_nhoja='',anam_ciclos='REGULARES',anam_fechaingreso='2023-10-04',anam_cesareas='0',anam_enlace='61280117257576353042023100407444620',anam_gesta='2',anam_respiratorio='0',anam_hijosvivos='2',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=67 -->2023-10-06 10:09:25
+250-->update dns_newhospitalizacionanamesis set atenc_id=5128,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6128,les_id='',usua_id=304,anam_analisis='',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CORPORAL Y FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='CAMBIO DE PROTESIS MAMARIA + RINOPLASTIA',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_partos='2',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_fecharegistro='2023-10-04 07:44:46',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='DRA. VILLACFRES',anam_anestesiologo='DR. BARRIONUEVO',anam_nhoja='',anam_ciclos='REGULARES',anam_fechaingreso='2023-10-04',anam_cesareas='0',anam_enlace='61280117257576353042023100407444620',anam_gesta='2',anam_respiratorio='0',anam_hijosvivos='2',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=67 -->2023-10-06 10:09:44
+250-->update dns_newhospitalizacionanamesis set atenc_id=5128,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6128,les_id='',usua_id=304,anam_analisis='',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CORPORAL Y FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='CAMBIO DE PROTESIS MAMARIA + RINOPLASTIA',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_partos='2',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_fecharegistro='2023-10-04 07:44:46',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='DRA. VILLACFRES',anam_anestesiologo='DR. BARRIONUEVO',anam_nhoja='',anam_ciclos='REGULARES',anam_fechaingreso='2023-10-04',anam_cesareas='0',anam_enlace='61280117257576353042023100407444620',anam_gesta='2',anam_respiratorio='0',anam_hijosvivos='2',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=67 -->2023-10-06 10:09:49
+250-->update dns_newhospitalizacionanamesis set atenc_id=5129,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6129,les_id='',usua_id=304,anam_analisis='PACIENTE ADULTA QUIEN INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO, SIGNOS VITALES DENTRO DE PARAMETROS, CUMPLE HORAS DE AYUNO',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  SANTIAGO PESANTES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CORPORAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='REDUCCION MAMARIA',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_partos='0',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. PESANTES',anam_fecharegistro='2023-10-04 08:09:58',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='0',anam_ayudante='',anam_anestesiologo='DR. SANTANA',anam_nhoja='',anam_ciclos='IRREGULARES',anam_fechaingreso='2023-10-04',anam_cesareas='0',anam_enlace='612901172575763530420231004080958489',anam_gesta='0',anam_respiratorio='0',anam_hijosvivos='0',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=68 -->2023-10-06 10:11:12
+250-->update dns_newprotocolooperatorio set usua_id=218,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5129',centro_id=1,clie_id=6129,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_idenlace='68',protoop_general='1',protoop_fecharegistro='2023-10-04 14:06:52',protoop_fechaoperacion='2023-10-04',protoop_biopsia='0',protoop_regional='',protoop_horainicio='09:20',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR OSCAR MENENDEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:50',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='REDUCCION MAMARIA',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='INCISIONES MAMARIAS QUE COMPROMETEN PIEL Y TCS HASTA FASCIA MUSCULAR DEL PECTORAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LACDA JAQUELINE TORRES',protoop_enlace='612901170921352221820231004020652351',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LCDA IBRAILA',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_exploracion='',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN EN MAMAS
+DESEPITELIZACION MAMARIA
+DISECCION Y EXTRACCION DE GLANDULA MAMARIA DERECHA 827 GR Y MAMA IZQUIERDA 661KG
+REALIZACION DE LIPO AXILAR IZQUIERDA 200CC Y DERECHA 300CC
+CIERRE POR PLANOS Y CONTROL DE HEMOSTASIA
+PASE A RECUPERACION',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=99 -->2023-10-06 10:11:15
+250-->update dns_newprotocolooperatorio set usua_id=218,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5129',centro_id=1,clie_id=6129,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_idenlace='68',protoop_general='1',protoop_fecharegistro='2023-10-04 14:06:52',protoop_fechaoperacion='2023-10-04',protoop_biopsia='0',protoop_regional='',protoop_horainicio='09:20',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR OSCAR MENENDEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:50',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='REDUCCION MAMARIA',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='INCISIONES MAMARIAS QUE COMPROMETEN PIEL Y TCS HASTA FASCIA MUSCULAR DEL PECTORAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LACDA JAQUELINE TORRES',protoop_enlace='612901170921352221820231004020652351',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LCDA IBRAILA',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_exploracion='',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN EN MAMAS
+DESEPITELIZACION MAMARIA
+DISECCION Y EXTRACCION DE GLANDULA MAMARIA DERECHA 827 GR Y MAMA IZQUIERDA 661KG
+REALIZACION DE LIPO AXILAR IZQUIERDA 200CC Y DERECHA 300CC
+CIERRE POR PLANOS Y CONTROL DE HEMOSTASIA
+PASE A RECUPERACION',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=99 -->2023-10-06 10:11:15
+250-->update dns_newhospitalizacionanamesis set atenc_id=5134,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6134,les_id='',usua_id=304,anam_analisis='PACIENTE ADULTO QUIEN INGRESA PARA CIRUGIA PROGRAMADA, AL MOMENTO SIGNOS VITALES DENTO DE PARAMETROS, CUMPLE HORAS DE AYUNO',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD  FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='BLEFAROPLASTIA',anam_menarquiaedad='',estaatenc_id=4,anam_partos='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES CHRISTIAN',anam_fecharegistro='2023-10-04 12:17:08',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='',anam_ayudante='DRA. VILLACRES DIANA',anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_nhoja='',anam_ciclos='',anam_fechaingreso='2023-10-04',anam_cesareas='',anam_enlace='613401172575763530420231004121708165',anam_gesta='',anam_respiratorio='0',anam_hijosvivos='',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=72 -->2023-10-06 10:14:39
+250-->update dns_newhospitalizacionanamesis set atenc_id=5134,anam_pdfcirugia='',anam_referencia='',centro_id=1,clie_id=6134,les_id='',usua_id=304,anam_analisis='PACIENTE ADULTO QUIEN INGRESA PARA CIRUGIA PROGRAMADA, AL MOMENTO SIGNOS VITALES DENTO DE PARAMETROS, CUMPLE HORAS DE AYUNO',anam_planes='1 INGRESO A HOSPITALIZACIÓN
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES CADA 8 HORAS 
+4 CHEQUEO PREANESTÉSICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR.  CHRISTIAN CACERES',anam_pdfconsentido='',anam_emferpactual='PACIENTE ADULTA SIN ANTECEDENTES DE IMPORTANCIA, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD  FACIAL, POR LO QUE CONSULTA  A  MÉDICO ESPECIALISTA QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_descripcionexafis='',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='BLEFAROPLASTIA',anam_menarquiaedad='',estaatenc_id=4,anam_partos='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES CHRISTIAN',anam_fecharegistro='2023-10-04 12:17:08',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='',anam_ayudante='DRA. VILLACRES DIANA',anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_nhoja='',anam_ciclos='',anam_fechaingreso='2023-10-04',anam_cesareas='',anam_enlace='613401172575763530420231004121708165',anam_gesta='',anam_respiratorio='0',anam_hijosvivos='',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=72 -->2023-10-06 10:14:41

@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_title='Entidad del Sistema:' where fie_id='9047';
+update gogess_sisfield set fie_title='Idexterno:' where fie_id='9096';

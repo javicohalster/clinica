@@ -1,0 +1,288 @@
+250-->update dns_newhospitalizacionanamesis set atenc_id=5022,anam_pdfcirugia='',anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=6031,les_id='15',usua_id=196,anam_analisis='PACIENTE ADULTO JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA CON DIAGNOSTICO DE ROTURA DE TALON DE AQUILES IZQUIERDO POR LO QUE SE PAUTA RESOLUCION QUIRURGICA.',anam_planes='1 INGRESO A HOSPITALIZACION HAB 305
+2 NADA POR VIA ORAL 
+3 FIRMAR CONSENTIMIENTOS INFORMADOS
+4 CONTROL DE SIGNOS VITALES
+5 SUBIR AL QUIROFANO AL LLAMADO',anam_pdfconsentido='',anam_emferpactual='PACIENTE MASCULINO DE 38 AÑOS NACIDO EN ESMERALDAS RESIDENTE EN MINDO, MESTIZO, SOLTERO, DE INSTRUCCION PRIMARIA, JORNALERO, ZURDO, CATOLICO, CON TIPO DE SANGRE ORH+. SIN ANTECEDENTES DE IMPORTANCIA REFIERE QUE EL DIA DE HPY MIENTRAS SE ENCONTRABA REALIZANDO ACTIVIDAD DEPORTIVA (FUTBOL), APARENTEMENTE REALIZA MOVIMIENTO BRUSCO PERDIENDO ESTABILIDAD EN PIERNA IZQUIERDA, INCAPACIDAD PARA MANTENERSE EN PIE Y DOLOR INTENSO POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN DIAGNOSTICA DE ROTURA DE TENDON DE AQUILES Y PAUTAN REUSOLUCION QUIRURGICA',anam_descripcionexafis='PIERNA IZQUIERDA: MANIOBRA THOMPSON POSITIVO',anam_centrorefiere='',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='PLASTIA DE TENDON DE AQUILES',anam_menarquiaedad='',estaatenc_id=4,anam_partos='',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_fecharegistro='2023-09-24 15:30:21',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='',anam_ayudante='DR. PEDRO PEREZ',anam_anestesiologo='DE TURNO',anam_nhoja='',anam_ciclos='',anam_fechaingreso='2023-09-24',anam_cesareas='',anam_enlace='603101131202875419620230924033021124',anam_gesta='',anam_respiratorio='0',anam_hijosvivos='',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=35 -->2023-09-25 08:01:49
+250-->update dns_newprotocolooperatorio set usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5022',centro_id=1,clie_id=6031,protoop_transquirurgico='NO',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR PEDRO PEREZ',protoop_idenlace='35',protoop_general='',protoop_fecharegistro='2023-09-24 17:58:01',protoop_fechaoperacion='2023-09-24',protoop_biopsia='0',protoop_regional='',protoop_horainicio='17:10',protoop_cirujanodos='',protoop_emergencia='1',protoop_ayudanteuno='DR FRANCISCO GUZMAN',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='18:10',protoop_otroanestesia='1',protoop_examen='0',protoop_proyectada='PLASTIA PERCUTANEA DE TENDON DE AQUILES',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='PERCUTANEO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='603101100258084118220230924055801123',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='RUBEN CHICAIZA',protoop_anestesiologo='',protoop_exploracion='1. ROTURA TOTAL DEL TENDON DE AQUILES IZQUIERDO',protoop_ayudanteanestesia='',protoop_otrointegrante='LOCAL',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOPS QUIRURGICOS
+3. COLOCACION DE ANESTESICO LOCAL (MARCAINA CON EPINEFRINA 10 CC)
+4. INSICIONES EN SITIO DE ROTURA
+5. PLASTIA PERCUTANEA CON SUTURAS DE ALTA RESISTENCIA (DOS)
+6. CIERRE DE HERIDAS
+7. COLOCACION DE VALVA POSTERIOR DE YESO EN EQUINO',protoop_complicaciones='NINGUNA',protoop_perdida='10 CC',protoop_sangrado='10 CC',protoop_protesico='0',anam_enlace='' where protoop_id=50 -->2023-09-25 08:02:06
+250-->update dns_newprotocolooperatorio set usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5022',centro_id=1,clie_id=6031,protoop_transquirurgico='NO',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR PEDRO PEREZ',protoop_idenlace='35',protoop_general='',protoop_fecharegistro='2023-09-24 17:58:01',protoop_fechaoperacion='2023-09-24',protoop_biopsia='0',protoop_regional='',protoop_horainicio='17:10',protoop_cirujanodos='',protoop_emergencia='1',protoop_ayudanteuno='DR FRANCISCO GUZMAN',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='18:10',protoop_otroanestesia='1',protoop_examen='0',protoop_proyectada='PLASTIA PERCUTANEA DE TENDON DE AQUILES',protoop_ayudantedos='',protoop_realizada='IDEM',protoop_dieresis='PERCUTANEO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='603101100258084118220230924055801123',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='RUBEN CHICAIZA',protoop_anestesiologo='',protoop_exploracion='1. ROTURA TOTAL DEL TENDON DE AQUILES IZQUIERDO',protoop_ayudanteanestesia='',protoop_otrointegrante='LOCAL',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOPS QUIRURGICOS
+3. COLOCACION DE ANESTESICO LOCAL (MARCAINA CON EPINEFRINA 10 CC)
+4. INSICIONES EN SITIO DE ROTURA
+5. PLASTIA PERCUTANEA CON SUTURAS DE ALTA RESISTENCIA (DOS)
+6. CIERRE DE HERIDAS
+7. COLOCACION DE VALVA POSTERIOR DE YESO EN EQUINO',protoop_complicaciones='NINGUNA',protoop_perdida='10 CC',protoop_sangrado='10 CC',protoop_protesico='0',anam_enlace='' where protoop_id=50 -->2023-09-25 08:02:06
+250-->insert into app_usuario (centro_id,usua_tiporuc,emp_id,conve_id,estab_id,usua_siglastitulo,usua_ruc,usua_ciruc,usua_codigoiniciales,pemision_id,usua_nombreruc,usua_carnetconadis,usua_codigo,usua_nombre,usua_msp,usua_direccionruc,usua_tipodiscapacidad,estabr_id,usua_paisruc,usua_apellido,usua_porcentajediscapacidad,pemisionr_id,usua_enlace,usua_archivocenecyt,nac_id,usua_puedehacernc,usua_provinciaruc,usua_cantonruc,usua_fechanacimiento,estabnc_id,etn_id,pemisionnc_id,usua_telefonoruc,usua_archivoauxiliares,usua_piefirma,usua_mailruc,usua_celular,usua_horascontrato,tipoh_id,civil_id,usua_fechaingrero,usua_genero,usua_fechasalida,usua_fecha_uingreso,tipcont_id,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion,usua_agenda,usua_farmacia,usua_clvfirma,usua_procesatomafisica,usua_puedeanularventa,usua_puedeanularcompra) values ('1',0,1,0,1,'','','1103734966','DR',1,'','','','CESAR','','','',1,0,'CASTILLO','',1,'01172287234625020230925084729384','',56,1,'','','1981-01-04',2,6,2,'','','DR','','','',1,2,'2023-09-25','MASCULINO',NULL,'0000-00-00',1,'1103734966',0,'00:00',0,'0000-00-00',0,'CEGARRINCHA2@HOTMAIL.COM','','',1,'',0,0,0,'0',0,'',0,0,0)-->2023-09-25 08:49:38
+250-->update dns_newhospitalizacionanamesis set atenc_id=4758,anam_pdfcirugia='',anam_referencia='REFERIDO',centro_id=1,clie_id=5741,les_id='14',usua_id=362,anam_analisis='PACIENTE PEDIÁTRICO SIN ANTECEDENTES RELEVANTES, CON PRESENCIA DE DEDO EN GATILLO DE PRIMER DEDO DE MANO DERECHA DESDE EL NACIMIENTO APARENTEMENTE SEGÚN INFORMACIÓN DE PADRES, INGRESA PARA RECIBIR TRATAMIENTO QUIRÚRGICO.',anam_planes='1.- INGRESO A HOSPITALIZACIÓN HABITACIÓN 306A
+2.- FIRMAR CONSENTIMIENTOS INFORMADOS.
+3.- CHEQUEO PREANESTÉSICO.
+4.- PASE A QUIRÓFANO AL LLAMADO. 
+5.- NOVEDADES.',anam_pdfconsentido='',anam_emferpactual='PACIENTE MASCULINO PEDIÁTRICO DE 3 AÑOS DE EDAD PRODUCTO DE 1° GESTA, SIN ANTECEDENTES PATOLÓGICOS RELEVANTES, CON ANTECEDENTE DE DEDO EN GATILLO DESDE EL NACIMIENTO, ES VALORADO POR ESPECIALIDAD DE TRAUMATOLOGÍA QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA.',anam_descripcionexafis='PRESENCIA DE DEDO EN GATILLO EN PRIMER DEDO DE MANO DERECHA.',anam_centrorefiere='ISSFA',anam_pdfanestesia='',anam_profesionarefiere='',anam_cirugia='LIBERACION DE DEDO EN GATILLO',anam_menarquiaedad='',estaatenc_id=4,anam_partos='',anam_motivoconsulta='CIRUGÍA PROGRAMADA PARA LIBERACIÓN DE DEDO EN GATILLO',anam_especialidad='TRAUAMTOLOGÍA',anam_tratante='DR. JORGE PARRA',anam_fecharegistro='2023-09-25 10:48:32',anam_menopausiaedad='',anam_atpreventiva=0,anam_abortos='',anam_ayudante='DE TURNO',anam_anestesiologo='DR. SANTANA EDUARDO',anam_nhoja='',anam_ciclos='',anam_fechaingreso='2023-09-25',anam_cesareas='',anam_enlace='574101100388420036220230925104832483',anam_gesta='',anam_respiratorio='0',anam_hijosvivos='',anam_observacionrespiratorio='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=38 -->2023-09-25 15:34:36
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-07 10:26:33',atenc_id=4840,centro_id=1,clie_id=5852,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='HIPOMASTIA MAMARIA BILATERAL						
+SE COLOCA PROTESIS MAMARIA DE 350 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4, INCISION DESCRITA 1 EN MAMA DERECHA 						
+5, FORMACION DE BOLSILLO EN PLANO SUBMAMARIO						
+6. REVISION DE HEMOSTASIA Y CONTROL						
+7. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA						
+8, FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0						
+9 COLOCACION DE PROTESIS DE 350 CC MOTIVA
+10. SUTURA POR PLANOS						
+11. COLOCACION DE STER STRIP Y TEGADERM						
+12, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA						
+13. COLOCACION DE BRASIER POSTQUIRURGICO						
+14, FIN DE CIRUGIA',protoop_proyectada='AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0						
+MONOCRYL 3/0						
+PROLENE 2/0						
+NYLON 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION INFRAMAMARIA DE 3,5  CM APROXIMADAMENTE',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1994',protoop_paleativa='',protoop_realizada='AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58520117200117312052023090710263387',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='08:50',protoop_horafin='10:16' where protoop_id=1559 -->2023-09-25 17:59:59
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-07 10:26:33',atenc_id=4840,centro_id=1,clie_id=5852,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='HIPOMASTIA MAMARIA BILATERAL						
+SE COLOCA PROTESIS MAMARIA DE 350 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4, INCISION DESCRITA 1 EN MAMA DERECHA 						
+5, FORMACION DE BOLSILLO EN PLANO SUBMAMARIO						
+6. REVISION DE HEMOSTASIA Y CONTROL						
+7. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA						
+8, FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0						
+9 COLOCACION DE PROTESIS DE 350 CC MOTIVA
+10. SUTURA POR PLANOS						
+11. COLOCACION DE STER STRIP Y TEGADERM						
+12, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA						
+13. COLOCACION DE BRASIER POSTQUIRURGICO						
+14, FIN DE CIRUGIA',protoop_proyectada='AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0						
+MONOCRYL 3/0						
+PROLENE 2/0						
+NYLON 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION INFRAMAMARIA DE 3,5  CM APROXIMADAMENTE',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1994',protoop_paleativa='',protoop_realizada='AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58520117200117312052023090710263387',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='08:50',protoop_horafin='10:16' where protoop_id=1559 -->2023-09-25 17:59:59
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4839,centro_id=1,clie_id=5851,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS NACIDA EN VENEZUELA Y RESIDENTE EN QUITO, MESTIZA,SOLTERA, BACHILLER, ASESORA ACADEMICA, DIESTRA, CRISTIANA, TIPO DE SANGRE BRH +, SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA AUMENTO MAMARIO CUMPLE CON HORAS DE AYUNO PROGRAMADO EXAMENES PREQUIRURGICOS DENTRO DE PARAMETROS NORMALES',anam_planes='1 INGRESO A HOSPITALIZACION HAB 302
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS VITALES CADA 6 HORAS
+4 CHEQUEO PREANESTESICO 
+5 CANALIZAR VIA PERIFERICA
+6 SUBIR A QUIROFANO AL LLAMADO
+7 ORDENES DR. CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='17 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='2',anam_fecharegistro='2023-09-07 08:51:46',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='58510113120287541962023090708514620',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='0',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CHRISTIAN CACERES',anam_hijosvivos='2',anam_ayudante='DRA. DIANA VILLACRES',anam_fum=NULL,anam_anestesiologo='DRA. ALEXANDRA NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-07',anam_metodopfamiliar=1,anam_metodopfamiliartex='IMPLANTE SUBDERMICO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1995 -->2023-09-25 18:03:31
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-07 13:06:17',atenc_id=4839,centro_id=1,clie_id=5851,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='HIPOMASTIA MAMARIA BILATERAL
+SE COLOCA PROTESIS MAMARIA DE 380 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4, INCISION DESCRITA 1 EN MAMA DERECHA
+5, FORMACION DE BOLSILLO EN PLANO SUBFACIAL
+6. REVISION DE HEMOSTASIA Y CONTROL
+7. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA
+8, FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0
+9 COLOCACION DE PROTESIS DE 380 CC MOTIVA
+10. SUTURA POR PLANOS
+11. COLOCACION DE STER STRIP Y TEGADERM
+12, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA
+13. COLOCACION DE BRASIER POSTQUIRURGICO
+14, FIN DE CIRUGIA',protoop_proyectada='AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0 MONOCRYL 3/0 PROLENE 2/0 NYLON 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION PERIAREOLAR DE 3,5 CM APROXIMADAMENTE',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1995',protoop_paleativa='',protoop_realizada='AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='585101172001173120520230907010617121',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='11:38',protoop_horafin='13:05' where protoop_id=1565 -->2023-09-25 18:03:38
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-07 13:06:17',atenc_id=4839,centro_id=1,clie_id=5851,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='HIPOMASTIA MAMARIA BILATERAL
+SE COLOCA PROTESIS MAMARIA DE 380 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4, INCISION DESCRITA 1 EN MAMA DERECHA
+5, FORMACION DE BOLSILLO EN PLANO SUBFACIAL
+6. REVISION DE HEMOSTASIA Y CONTROL
+7. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA
+8, FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0
+9 COLOCACION DE PROTESIS DE 380 CC MOTIVA
+10. SUTURA POR PLANOS
+11. COLOCACION DE STER STRIP Y TEGADERM
+12, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA
+13. COLOCACION DE BRASIER POSTQUIRURGICO
+14, FIN DE CIRUGIA',protoop_proyectada='AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0 MONOCRYL 3/0 PROLENE 2/0 NYLON 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION PERIAREOLAR DE 3,5 CM APROXIMADAMENTE',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1995',protoop_paleativa='',protoop_realizada='AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='585101172001173120520230907010617121',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='11:38',protoop_horafin='13:05' where protoop_id=1565 -->2023-09-25 18:03:38
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-07 12:43:18',atenc_id=1166,centro_id=1,clie_id=1937,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+ESQUELETIZACION OSEA
+FRACTURAS OSEAS LATERALES Y RASPADO
+LEVANTAMIENTO DE PUNTA Y AFINAMIENTO DEL DORSO
+CONTROL DE HEMOSTASIA
+LAVADO DE CAVIDAD Y COLOCACION DE BIGOTERA NASAL
+COLOCACION DE FERULAJE EXTERNO
+PASE A RECUPERACION',protoop_proyectada='RINOPASTIA TERCIARIA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION INTRANASAL QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='LCDA JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='DENNYS PILLISA',protoop_idenlace='1996',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='193701170921352221820230907124318264',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='11:20',protoop_horafin='12:20' where protoop_id=1561 -->2023-09-25 18:05:09
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-07 12:43:18',atenc_id=1166,centro_id=1,clie_id=1937,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+ESQUELETIZACION OSEA
+FRACTURAS OSEAS LATERALES Y RASPADO
+LEVANTAMIENTO DE PUNTA Y AFINAMIENTO DEL DORSO
+CONTROL DE HEMOSTASIA
+LAVADO DE CAVIDAD Y COLOCACION DE BIGOTERA NASAL
+COLOCACION DE FERULAJE EXTERNO
+PASE A RECUPERACION',protoop_proyectada='RINOPASTIA TERCIARIA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION INTRANASAL QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='LCDA JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='DENNYS PILLISA',protoop_idenlace='1996',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='193701170921352221820230907124318264',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-07',protoop_horainicio='11:20',protoop_horafin='12:20' where protoop_id=1561 -->2023-09-25 18:05:09
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4847,centro_id=1,clie_id=5867,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA 30 AÑOS, NACIDA Y RESIDENTE EN QUITO, MESTIZA, DIVORCIADA, DIRECTORA COMERCIAL, CRISTIANA, DIESTRA, TIPO DE SANGRE ORH +. PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-09-08 15:07:22',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='REGULARES',anam_enlace='58670117213010323652023090803072221',anam_cirugia='PROTESIS MAMARIA',anam_cesareas='2',anam_gesta='3',anam_especialidad='',anam_tratante='DR PESANTES',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-08',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2002 -->2023-09-25 18:20:21
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-08 15:08:39',atenc_id=4847,centro_id=1,clie_id=5867,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA-ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION DE SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL HD FRENTE 900CC  ESPALDA 1100CC
+COLOCACION DE LIPOINJERTO GLUTEO 105CC DERECHO Y 125CC IZQUIERDO
+RECAMBIO DE PROTESIS MAMARIAS DE 340CC A 445CC
+REVISION DE QUISTE MAMARIO DERECHO AVASCULAR, NO PALPABLE QUE NO SE ENCUENTRA EN EL TRAYECTO QUIRURGICO
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_proyectada='LIPOSUCCION CORPORAL HD + RECAMBIO DE PROTESIS MAMARIAS',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES DORSALES LUMBARES QUE COMPROMETEN PIEL Y TCS
+INCISON AREOLAR QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='INES CLERQUE',protoop_idenlace='2002',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='586701170921352221820230908030839292',protoop_ayudanteanestesia='DR. ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-08',protoop_horainicio='11:19',protoop_horafin='14:35' where protoop_id=1569 -->2023-09-25 18:20:28
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-08 15:08:39',atenc_id=4847,centro_id=1,clie_id=5867,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA-ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION DE SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL HD FRENTE 900CC  ESPALDA 1100CC
+COLOCACION DE LIPOINJERTO GLUTEO 105CC DERECHO Y 125CC IZQUIERDO
+RECAMBIO DE PROTESIS MAMARIAS DE 340CC A 445CC
+REVISION DE QUISTE MAMARIO DERECHO AVASCULAR, NO PALPABLE QUE NO SE ENCUENTRA EN EL TRAYECTO QUIRURGICO
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_proyectada='LIPOSUCCION CORPORAL HD + RECAMBIO DE PROTESIS MAMARIAS',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES DORSALES LUMBARES QUE COMPROMETEN PIEL Y TCS
+INCISON AREOLAR QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='INES CLERQUE',protoop_idenlace='2002',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='586701170921352221820230908030839292',protoop_ayudanteanestesia='DR. ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-08',protoop_horainicio='11:19',protoop_horafin='14:35' where protoop_id=1569 -->2023-09-25 18:20:29
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-09 11:34:46',atenc_id=4860,centro_id=1,clie_id=5879,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEICARTILAGINOSA GRANDE
+PIEL MUY GRUESA
+ALARES BULBOSOS CON PUNTA BULBOSA
+PUNTA HIPOPROYECTADA
+DESVIO SEPTAL AREA IV IZQUIERDO',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS CON PIEZOTOMO
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO
+13. FORMACION DE TUNELES SUPERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION
+18. FIJACION DE NEODOMOS A INJERTO
+19. COLOCACION DE TONGUE IN GROOVE
+20. COLOCACION DE PUNTO DE CRURAS
+21. CIERRE DE INCISIONES
+22. COLOCACION DE PLACAS SEPTALES
+23. COLOCACION DE FERULAJE BLANDO Y YESO
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0 PROLENE 5/0 VYCRIL 5/0 NYLON 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR , PARACOLUMELAR Y MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='MIRYAM',protoop_idenlace='2003',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5879011720011731205202309091134466',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-09',protoop_horainicio='09:10',protoop_horafin='11:23' where protoop_id=1571 -->2023-09-25 18:24:41
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-09 11:34:46',atenc_id=4860,centro_id=1,clie_id=5879,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEICARTILAGINOSA GRANDE
+PIEL MUY GRUESA
+ALARES BULBOSOS CON PUNTA BULBOSA
+PUNTA HIPOPROYECTADA
+DESVIO SEPTAL AREA IV IZQUIERDO',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS CON PIEZOTOMO
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO
+13. FORMACION DE TUNELES SUPERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION
+18. FIJACION DE NEODOMOS A INJERTO
+19. COLOCACION DE TONGUE IN GROOVE
+20. COLOCACION DE PUNTO DE CRURAS
+21. CIERRE DE INCISIONES
+22. COLOCACION DE PLACAS SEPTALES
+23. COLOCACION DE FERULAJE BLANDO Y YESO
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0 PROLENE 5/0 VYCRIL 5/0 NYLON 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR , PARACOLUMELAR Y MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='JAQUELINE MARTINEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='MIRYAM',protoop_idenlace='2003',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5879011720011731205202309091134466',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-09',protoop_horainicio='09:10',protoop_horafin='11:23' where protoop_id=1571 -->2023-09-25 18:24:41
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='REFERIDO',atenc_id=4868,centro_id=1,clie_id=5894,anam_centrorefiere='HUMANA',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO CON ANTECEDENTES DESCRITOS ACUDE A ESTA CASA DE SALUD POR PRESENTAR DOLOR E HINCHAZON EN REGIÓN DE MIEMBRO INFERIOR DERECHO, COMO ANTECEDENTE SE ENCONTRABA JUGANDO FÚTBOL Y DE FORMA SÚBITA PRESENTA DOLOR INTENSO CON POSTERIOR CAÍDA DE SU PROPIA ALTURA MÁS INCAPACIDAD A LA DEAMBULACIÓN. ACUDE A CASA DE SALUD PRIVADA DONDE REALIZAN ECOGRAFÍA QUE EVIDENCIA ZONA DE RUPTURA APROXIMDAMENTE DE 99% DE LAS FIBRAS, SE OBSERVAN LOS 2 EXTREMOS A UNA DISTANCIA DE 12 MM. SE REALIZA INMOVILIZACIÓN CON BOTA DE WALKER, Y SE ENVIA A DOMICILIO, SIN EMBARGO, EN HORAS DE LA NOCHE PRESENTA DOLOR INTENSO EVA APARENTE DE 10/10, MÁS EDEMA, POR LO QUE ACUDE A ESTA CASA DE SALUD EL DÍA DE HOY PARA VALORACIÓN POR ESPECILIDAD DE TRAUMATOLOGÍA, QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1.- INGRESO A HOSPITALIZACIÓN TRAUMATOLOGÍA HAB: 307
+2.- NPO
+3.- CONTROL DE SIGNOS VITALES 
+4.- CUIDADOS DE ENFERMERÍA.
+5.- CANALIZAR VÍA PERIFÉRICA. 
+6.- SOLUCION SALINA 0.9% 1000 ML IV PASAR A 80 ML/HORA.  
+7.- EXAMENES PREQUIRÚRGICOS: BH- QUIMICA
+8.- SUBIR A QUIRÓFANO AL LLAMADO
+9.-  ÓRDENES DE DR. FRANCISCO GUZMÁN.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='ROTURA DE TENDÓN DE AQUILES.',anam_partos='',anam_fecharegistro='2023-09-11 12:00:24',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='589401100388420036220230911120024361',anam_cirugia='PLASTIA DE TENDÓN DE AQUILES DERECHO',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGÍA',anam_tratante='DR. FRANCISCO GUZMÁN',anam_hijosvivos='',anam_ayudante='DR. SILVA FRANCISCO',anam_fum=NULL,anam_anestesiologo='DRA. ALEXANDRA NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2007 -->2023-09-25 18:30:56
+250-->update dns_protocolooperatorio set usua_id=206,protoop_fecharegistro='2023-09-11 15:35:11',atenc_id=4868,centro_id=1,clie_id=5894,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. ROTURA TOTAL DEL TENDON DE AQUILES DERECHO',protoop_examen='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA
+4. PROFUNDIZACION DE HERIDA
+5. IDENTIFICACION DE HALLAZGOS
+6. PLASTIA DE TENDON DE AQUILES UTILIZANDO SISTEMA PARS CON SUTURAS DE ALTA RESISTENCIA + INJERTO CON PALMAR DELGADO
+7. LAVADO DE HERIDA
+8. CIERRED E HERIDA
+9. COLOCACION DE VALVA ANTERIOR DE YESO',protoop_proyectada='PLASTIA DEL TENDON DE AQUILES DERECHO',protoop_sintesis='ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE TRANSVERSAL SOBRE TENDON DE AQUILES DERECHO DE 4 CM',protoop_selectiva='',protoop_instrumentista='DENNIS PILLIZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='JAVIER CORONEL',protoop_idenlace='2007',protoop_paleativa='',protoop_realizada='PLASTIA DEL TENDON DE AQUILES DERECHO',protoop_ayudanteuno='',protoop_anestesiologo='DR. OSWALDO TORRES',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='589401171119488420620230911033511439',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-09-11',protoop_horainicio='14:35',protoop_horafin='15:35' where protoop_id=1577 -->2023-09-25 18:31:00
+250-->update dns_protocolooperatorio set usua_id=206,protoop_fecharegistro='2023-09-11 15:35:11',atenc_id=4868,centro_id=1,clie_id=5894,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. ROTURA TOTAL DEL TENDON DE AQUILES DERECHO',protoop_examen='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA
+4. PROFUNDIZACION DE HERIDA
+5. IDENTIFICACION DE HALLAZGOS
+6. PLASTIA DE TENDON DE AQUILES UTILIZANDO SISTEMA PARS CON SUTURAS DE ALTA RESISTENCIA + INJERTO CON PALMAR DELGADO
+7. LAVADO DE HERIDA
+8. CIERRED E HERIDA
+9. COLOCACION DE VALVA ANTERIOR DE YESO',protoop_proyectada='PLASTIA DEL TENDON DE AQUILES DERECHO',protoop_sintesis='ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE TRANSVERSAL SOBRE TENDON DE AQUILES DERECHO DE 4 CM',protoop_selectiva='',protoop_instrumentista='DENNIS PILLIZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='JAVIER CORONEL',protoop_idenlace='2007',protoop_paleativa='',protoop_realizada='PLASTIA DEL TENDON DE AQUILES DERECHO',protoop_ayudanteuno='',protoop_anestesiologo='DR. OSWALDO TORRES',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='589401171119488420620230911033511439',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-09-11',protoop_horainicio='14:35',protoop_horafin='15:35' where protoop_id=1577 -->2023-09-25 18:31:00
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-12 12:24:02',atenc_id=4882,centro_id=13,clie_id=5906,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 5750
+5. INJERTO GRASO GLUTEO DE 660 CC
+6.HIPOMASTIA MAMARIA BILATERAL
+7. SE COLOCA PROTESIS MAMARIA DE 325 MOTIVA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. COLOCACION DE DRENAJES TIPO PEN ROSE EN INFERIOR DE ABDOMEN Y OMBLIGO
+9. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+10. LIPOASPIRACION CON MICROAIRE
+11. CIERRE DE INCISIONES
+12. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+13. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+14. INFILTRACION DE LIDOCAINA MAS EPINEFRINA PERIAREOLAR
+15. INCISION DESCRITA 2 EN MAMA DERECHA
+16. FORMACION DE BOLSILLO EN PLANO SUBMAMARIO
+17. REVISION DE HEMOSTASIA Y CONTROL
+18. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA
+19. FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0
+20. COLOCACION DE PROTESIS DE 325 CC MOTIVA
+21. SUTURA POR PLANOS
+22. COLOCACION DE STER STRIP Y TEGADERM
+23, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA
+24. COLOCACION DE BRASIER POSTQUIRURGICO
+25. COLOCACION DE APOSITOS
+26. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0 PROLENE 2/0 NYLON 5/0 SEDA 2/0 MONOCRYL 4/0 MONOCRYL 3/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2. INCISION PERIAREOLAR DE 3.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='2010',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_ayudanteuno='',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='590601172001173120520230912122402359',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-12',protoop_horainicio='08:45',protoop_horafin='12:00' where protoop_id=1579 -->2023-09-25 18:33:07
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-12 12:24:02',atenc_id=4882,centro_id=13,clie_id=5906,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 5750
+5. INJERTO GRASO GLUTEO DE 660 CC
+6.HIPOMASTIA MAMARIA BILATERAL
+7. SE COLOCA PROTESIS MAMARIA DE 325 MOTIVA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. COLOCACION DE DRENAJES TIPO PEN ROSE EN INFERIOR DE ABDOMEN Y OMBLIGO
+9. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+10. LIPOASPIRACION CON MICROAIRE
+11. CIERRE DE INCISIONES
+12. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+13. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+14. INFILTRACION DE LIDOCAINA MAS EPINEFRINA PERIAREOLAR
+15. INCISION DESCRITA 2 EN MAMA DERECHA
+16. FORMACION DE BOLSILLO EN PLANO SUBMAMARIO
+17. REVISION DE HEMOSTASIA Y CONTROL
+18. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA
+19. FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0
+20. COLOCACION DE PROTESIS DE 325 CC MOTIVA
+21. SUTURA POR PLANOS
+22. COLOCACION DE STER STRIP Y TEGADERM
+23, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA
+24. COLOCACION DE BRASIER POSTQUIRURGICO
+25. COLOCACION DE APOSITOS
+26. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_sintesis='DAFILON 2/0 PROLENE 2/0 NYLON 5/0 SEDA 2/0 MONOCRYL 4/0 MONOCRYL 3/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2. INCISION PERIAREOLAR DE 3.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='2010',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_ayudanteuno='',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='590601172001173120520230912122402359',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-12',protoop_horainicio='08:45',protoop_horafin='12:00' where protoop_id=1579 -->2023-09-25 18:33:07

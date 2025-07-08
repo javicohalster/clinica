@@ -1,0 +1,1 @@
+1-->insert into dns_consultaexterna (clie_id,conext_hc,usua_id,centro_id,atenc_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_horar,conext_fecharegistro,conext_enlace) values (8,'1710041615-1',1,1,9,'prueba','Dolor de cabeza',5,'2020-12-21',1,'02:47','2020-12-21 02:47:39','8011711467884120201221024739467')

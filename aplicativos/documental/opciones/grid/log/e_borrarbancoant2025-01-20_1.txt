@@ -1,0 +1,5 @@
+502-->select * from app_anticipos where anti_id='531'-->2025-01-20 12:36:33
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='531')-->2025-01-20 12:36:36
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='531'-->2025-01-20 12:36:36
+502-->delete  from lpin_movanticipos where anti_enlace='2025-01-1150267829103D80B4'-->2025-01-20 12:36:36
+502-->delete from app_anticipos where anti_id=531-->2025-01-20 12:36:36

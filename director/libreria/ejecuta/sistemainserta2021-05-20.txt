@@ -1,0 +1,1 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','0116','MONICA_PATRICIA_YANDUN_CHUQUIMARCA.p12','C:/firma/certificado/',1,'1714337258')

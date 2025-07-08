@@ -1,0 +1,10 @@
+update gogess_sisfield set fie_title='Historia Clinica Los Pinos:' where fie_id='8339';
+update gogess_sisfield set fie_title='Historia Clinica Los Pinos:' where fie_id='8339';
+update gogess_sisfield set fie_title='Historia Clinica Los Pinos:' where fie_id='8339';
+update gogess_sisfield set fie_title='Historia Clinica Los Pinos:' where fie_id='8339';
+update gogess_sisfield set fie_type='textpeke' where fie_id='8339';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='8339';
+update gogess_sisfield set fie_group='2' where fie_id='8339';
+update gogess_sisfield set fie_orden='27' where fie_id='8339';
+update gogess_sisfield set fie_groupprint='2' where fie_id='8339';
+update gogess_sisfield set fie_anchocolomna='1' where fie_id='8339';

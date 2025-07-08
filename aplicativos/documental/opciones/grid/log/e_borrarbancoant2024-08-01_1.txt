@@ -1,0 +1,5 @@
+319-->select * from app_anticipos where anti_id='68'-->2024-08-01 22:49:57
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='68')-->2024-08-01 22:50:00
+319-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='68'-->2024-08-01 22:50:00
+319-->delete  from lpin_movanticipos where anti_enlace='2024-08-0131966AC56C5C8A54'-->2024-08-01 22:50:00
+319-->delete from app_anticipos where anti_id=68-->2024-08-01 22:50:00

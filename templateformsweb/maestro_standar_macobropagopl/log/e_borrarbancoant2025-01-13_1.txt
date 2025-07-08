@@ -1,0 +1,11 @@
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2828-->2025-01-13 09:09:05
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2830-->2025-01-13 09:26:37
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2831-->2025-01-13 09:26:42
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2832-->2025-01-13 09:27:18
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2833-->2025-01-13 09:27:24
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-115026782B7F9094C5' and crpadet_id=2834-->2025-01-13 09:27:35
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-135076785362EB318B' and crpadet_id=2861-->2025-01-13 11:34:06
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-135076785362EB318B' and crpadet_id=2860-->2025-01-13 11:34:10
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-135076785362EB318B' and crpadet_id=2859-->2025-01-13 11:34:14
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-13502678540812064A' and crpadet_id=2882-->2025-01-13 12:02:54
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-01-1350267857268D6075' and crpadet_id=2943-->2025-01-13 16:23:21

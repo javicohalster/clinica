@@ -1,0 +1,92 @@
+update dns_formatoreceta set emp_id=1,forrect_nombre='RECETAS',forrect_texto='<table border="0" style="height:654px; width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<div style="text-align: center;">-grafico1-</div>
+			</td>
+			<td>
+			<div style="text-align: center;"><strong>CLINICA LOS PINOS</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div class="css_receta" style="text-align: right;"><span style="font-size:20px"><strong>No</strong> -codigo-</span></div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>UNIDAD DE SALUD:</strong> -centro-<br />
+			<strong>NOMBRE:</strong> -clie_nombre- -clie_apellido-<br />
+			<strong>EDAD:</strong> -edad-<br />
+			<strong>No. H.C.L o C.I.:</strong> -clie_rucci-<br />
+			<strong>FECHA:</strong> -fecha-</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>PRESENTACION</strong> (Nombre gen&eacute;rico, forma farmac&eacute;utica, concentaci&oacute;n, cantidad)<br />
+			-receta-</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><strong>M&eacute;dico:</strong> -usua_nombre- -usua_apellido-<br />
+			<strong>C&oacute;digo Profesional:</strong> -usua_msp-</p>
+
+			<p><br />
+			<strong>Firma:</strong>.........................................................</p>
+
+			<p><br />
+			<strong>Sello:</strong>..........................................................</p>
+
+			<p><br />
+			<strong>C.I.E:</strong>-diagnostico-<br />
+			<strong>Tipo de tratamiento:</strong> A( ) C( ) U( )<br />
+			<strong>D&iacute;as de tratamiento:</strong>..................................................</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div>______________________________________________________________________<br />
+			C.I.E.: Clasificaci&oacute;n Internacional de las Enfermedades<br />
+			A=Agudo, C=Cr&oacute;nico, U=Urgente<br />
+			<strong>FARMACIA - ORGINAL<br />
+			M&Eacute;DICO - COPIA </strong></div>
+			</td>
+		</tr>
+	</tbody>
+</table>',forrect_grafico1='47753VQFJS20200301.logoreceta.png',forrect_grafico2='',forrect_grafico3='',forrect_grafico4='' where forrect_id=1 
+update gogess_sys set sys_titulo='CLINICA LOS PINOS',sys_detalle='',sys_pathfavicon='',sys_texto1='',sys_texto2='',sys_texto3='',sys_texto4='',sys_texto5='',sys_texto6='',sys_texto7='',sys_texto8='',sys_facebook='#',sys_twiter='#',sys_google='' where sys_id=1 
+update gogess_ptemplate set sys_id='1',temp_nombre='CLINICA LOS PINOS',temp_autor='Franklin',temp_detalle='',temp_url='www.gogess.com',temp_active='1',temp_path='templates/page/',temp_fondo='.' where temp_id=1 
+update dns_planillasplantillas set plapln_nombre='OFICIO ISSPOL',plapln_plantilla='<div style="text-align: center;"><strong>CLINICA LOS PINOS<br />
+-centro-</strong></div>
+
+<div style="text-align: right;"><strong>OFICIO</strong>: -oficio-<br />
+-fecha-</div>
+
+<p>Se&ntilde;or</p>
+
+<p><br />
+<strong>DIRECTOR GENERAL DEL IESS</strong></p>
+
+<p>-ciudad-</p>
+
+<p><strong>ASUNTO:</strong>Remitiendo planillas por las atenciones prestadas a los beneficiarios del ISSPOL por el servicio <strong>AMBULATORIO</strong>, durante el mes de -durante-<br />
+De mis consideraciones:<br />
+<br />
+Adjunto al presente remito a su autoridad:<br />
+<br />
+Las planillas y documentaci&oacute;n habilitante de acuerdo a la Normativa vigente para ser sometida al proceso de Auditor&iacute;a de Calidad de Facturaci&oacute;n de Servicios de Salud, y su pago respectivo por el TR&Aacute;MITE N&deg;_________________________________, por el servicio Ambulatorio, correspondiente al -corresponde-, en total de -expediente- expedientes.<br />
+<br />
+Se adjunta la planilla consolidada y el respectivo respaldo magn&eacute;tico de la informaci&oacute;n de los usuarios/pacientes atendidos en el -centro-, por el monto total de $-entexto-<br />
+<br />
+PACIENTES BENEFICIARIOS ISSPOL 100%: Exp -expediente--numero ---------valor -totalsumado- d&oacute;lares<br />
+<br />
+<br />
+Que luego de la revisi&oacute;n y proceso correspondiente, sean depositados en la cuenta del Banco del Pac&iacute;fico N&deg; 0005161312 a nombre de la Direcci&oacute;n Nacional de Salud de la Polic&iacute;a Nacional.<br />
+<br />
+Particular que remito a usted, para los fines consiguientes.<br />
+Atentamente,</p>
+
+<p>-dr-<br />
+-crg-<br />
+JEFE DEL -centro-<br />
+&nbsp;</p>',plapln_grafico1='',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='' where plapln_id=2 
+update gogess_template set tem_nombre='ADMIN CLINICA LOS PINOS',tem_autor='Franklin Aguas',tem_detalle='Administrador',tem_url='www.gogess.com',tem_path='pantalla_maestra/tmp_gogess/',tem_active='1' where tem_id=1 
+update gogess_menupanel set mnupan_nombre='Pichincha Humana',opcionpa_id=8,con_id=0,mnupan_activo=1,mnupan_orden=10,mnupan_icono='fa fa-university',mnupan_archivo='datos_standarempresa.php',tab_id=185,mnupan_campoenlace='emp_id',mnupan_camposforma='',mnupan_templatetabla='maestro_standar_standarempresa',mnupan_campogrid='',mnupan_variablesession='datadarwin2679_sessid_emp_id',posp_id=1,mnupan_grafico='gogess_data30855IHBSP20200217.png',tabgrid_id=0,tabsecundario_id=0,mnupan_templatetablasec='',mnupan_camposformasecundaria='',mnupan_campoarchivo='',mnupan_nboton='',especi_id=0,tipofor_id=0,mnupan_nordengrid='0' where mnupan_id=32 

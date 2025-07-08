@@ -1,0 +1,52 @@
+update gogess_sisfield set fie_title='Horas contrato:' where fie_id='6171';
+update gogess_sisfield set fie_title='Horas contrato:' where fie_id='6171';
+update gogess_sisfield set fie_group='2' where fie_id='6171';
+update gogess_sisfield set fie_orden='10' where fie_id='6171';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='6171';
+update gogess_sisfield set fie_group='1' where fie_id='6173';
+update gogess_sisfield set fie_group='1' where fie_id='6174';
+update gogess_sisfield set fie_orden='7' where fie_id='6173';
+update gogess_sisfield set fie_orden='8' where fie_id='6174';
+update gogess_sisfield set fie_title='Instrucci&oacute;n:' where fie_id='4114';
+update gogess_sisfield set fie_title='Subir Anexo Accidente Tr&aacute;nsito:' where fie_id='6067';
+update gogess_sisfield set fie_title='Id:' where fie_id='6175';
+update gogess_sisfield set fie_title='Excepci&oacute;n de Cobertura:' where fie_id='6175';
+update gogess_sisfield set fie_orden='18' where fie_id='6175';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='6175';
+update gogess_sisfield set fie_title='SIGNOS VITALES' where fie_id='5569';
+update gogess_sisfield set fie_orden='211' where fie_id='4535';
+update gogess_sisfield set fie_orden='21' where fie_id='4574';
+update gogess_sisfield set fie_orden='21' where fie_id='4535';
+update gogess_sisfield set fie_orden='21' where fie_id='4094';
+update gogess_sisfield set fie_orden='22' where fie_id='4535';
+update gogess_sisfield set fie_orden='22' where fie_id='4574';
+update gogess_sisfield set fie_orden='22' where fie_id='4094';
+update gogess_sisfield set fie_orden='22' where fie_id='6176';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='6176';
+update gogess_sisfield set fie_title='Fecha y Hora registro:' where fie_id='3946';
+update gogess_sisfield set fie_title='Fecha y Hora Registro:' where fie_id='3946';
+update gogess_sisfield set fie_title='ANTECEDENTES PERSONALES GINECO OBSTETRICOS' where fie_id='4789';
+update gogess_sisfield set fie_title='ANTECEDENTES PERSONALES GINECO OBSTETRICOS' where fie_id='4789';
+update gogess_sisfield set fie_group='3' where fie_id='6177';
+update gogess_sisfield set fie_group='3' where fie_id='6178';
+update gogess_sisfield set fie_orden='2' where fie_id='6177';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='6177';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='6178';
+update gogess_sisfield set fie_groupprint='3' where fie_id='6177';
+update gogess_sisfield set fie_groupprint='3' where fie_id='6178';
+update gogess_sisfield set fie_title='Alergias:' where fie_id='6177';
+update gogess_sisfield set fie_title='Especifique el medicamento(Alergia):' where fie_id='6178';
+update gogess_sisfield set fie_type='textareapeke' where fie_id='6178';
+update gogess_sisfield set fie_typeweb='textareapeke' where fie_id='6178';
+update gogess_sisfield set fie_type='selectpeke' where fie_id='6177';
+update gogess_sisfield set fie_typeweb='selectpeke' where fie_id='6177';
+update gogess_sisfield set fie_orden='3' where fie_id='6178';
+update gogess_sisfield set fie_orden='4' where fie_id='4793';
+update gogess_sisfield set fie_orden='5' where fie_id='5813';
+update gogess_sisfield set fie_orden='6' where fie_id='4807';
+update gogess_sisfield set fie_orden='7' where fie_id='4809';
+update gogess_sisfield set fie_orden='8' where fie_id='4785';
+update gogess_sisfield set fie_orden='9' where fie_id='4810';
+update gogess_sisfield set fie_orden='4' where fie_id='4793';
+update gogess_sisfield set fie_orden='4' where fie_id='4793';
+update gogess_sisfield set fie_title='CONSULTA EXTERNA - EVOLUCION / SOLO LLENAR EN CASO DE PACIENTES QUE RETORNAN CON RESULTADOS DE EXAMENES EL MISMO DIA' where fie_id='4853';

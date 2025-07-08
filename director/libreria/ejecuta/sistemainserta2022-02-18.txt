@@ -1,0 +1,8 @@
+insert into gogess_sistable (ayu_id,datab_id,instan_id,st_id,tab_actv,tab_archivo,tab_archivoimp,tab_bextras,tab_campogeneracion,tab_campoorden,tab_campoprimario,tab_camposecsri,tab_camposgrid,tab_codigo,tab_compilar,tab_crel,tab_datosf,tab_estructura,tab_formatotabla,tab_historialmedico,tab_information,tab_mdobuscar,tab_name,tab_nlista,tab_rel,tab_scriptorden,tab_sqlimp,tab_sri,tab_stringconection,tab_sysmedico,tab_tablaregreso,tab_tipocampoprimariio,tab_tipoimp,tab_title,tab_trel,tab_valextguardar) values (0,0,2,7,1,0,'','','','','suba_id','','suba_id,mnupan_id,suba_nombre','',0,'',0,0,1,0,'','','dns_subarea',30,'','order by suba_id desc','',0,'',0,'','int',0,'Sub Area',0,'')
+insert into gogess_subtabla (sub_activo,sub_campoenlace,sub_filtro,sub_nameenlace,sub_nombreenlace,sub_orden,sub_tipoenlace,tab_id) values (1,'mnupan_id','','dns_subarea','Sub Area',1,'num',247)
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'MEDICINA INTERNA','')
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'NUTRICION','')
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'CIRUGIA GENERAL','')
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'CIRUJUA VASCULAR','')
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'NEUROCIRUGIA','')
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'NEFROLOGIA','')

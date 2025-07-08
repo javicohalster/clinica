@@ -1,0 +1,71 @@
+264-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (6640,264,1,5666,'REFERIDO','PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL','','',4,'','','CHEQUEO PREQUIRURGICO','','0','2023-11-26 18:52:12','',0,'','664001171044278926420231126065212232')-->2023-11-26 18:57:04
+264-->update dns_newconsultaexternaanamesis set clie_id=6640,usua_id=264,centro_id=1,atenc_id=5666,anam_referencia='REFERIDO',anam_emferpactual='PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL',anam_planes='HTA CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN MAS HCT 100/25  1 TABLETA 7 AM 
+AMLODIPINA 10 MG PM 
+PRACETAMOL 1 GR TID 
+TRAMADOL  10 GOTAS BID
+CICLOBENZAPRINA 10 MG HS .',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-26 18:52:12',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='664001171044278926420231126065212232' where anam_id=409 -->2023-11-26 19:01:03
+264-->update dns_newconsultaexternaanamesis set clie_id=6640,usua_id=264,centro_id=1,atenc_id=5666,anam_referencia='REFERIDO',anam_emferpactual='PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL',anam_planes='HTA CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN MAS HCT 100/25  1 TABLETA 7 AM 
+AMLODIPINA 10 MG PM 
+PRACETAMOL 1 GR TID 
+TRAMADOL  10 GOTAS BID
+CICLOBENZAPRINA 10 MG HS .',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-26 18:52:12',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='664001171044278926420231126065212232' where anam_id=409 -->2023-11-26 19:01:14
+264-->update dns_newconsultaexternaanamesis set clie_id=6640,usua_id=264,centro_id=1,atenc_id=5666,anam_referencia='REFERIDO',anam_emferpactual='PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL',anam_planes='HTA CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN MAS HCT 100/25  1 TABLETA 7 AM 
+AMLODIPINA 10 MG PM 
+PRACETAMOL 1 GR TID 
+TRAMADOL  10 GOTAS BID
+CICLOBENZAPRINA 10 MG HS .',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-26 18:52:12',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='664001171044278926420231126065212232' where anam_id=409 -->2023-11-26 19:01:19
+264-->update dns_newconsultaexternaanamesis set clie_id=6640,usua_id=264,centro_id=1,atenc_id=5666,anam_referencia='REFERIDO',anam_emferpactual='PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL',anam_planes='HTA CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN MAS HCT 100/25  1 TABLETA 7 AM 
+AMLODIPINA 10 MG PM 
+PRACETAMOL 1 GR TID 
+TRAMADOL  10 GOTAS BID
+CICLOBENZAPRINA 10 MG HS .',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-26 18:52:12',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='664001171044278926420231126065212232' where anam_id=409 -->2023-11-26 19:04:00
+264-->update dns_newconsultaexternaanamesis set clie_id=6640,usua_id=264,centro_id=1,atenc_id=5666,anam_referencia='REFERIDO',anam_emferpactual='PCTE CON CUADRO DE HTA DE NOVO DIAGNOSTICO  ASINTOMATIC CARDIOVASCULAR NO TOS , NO DISNEA NO DOLOR TORACICO ,  NO SINCOPE , NO LIPOTIMIA, , NO PALPITACIONES  
+EXAMENES.-   HCTO 49   HB 16.3   GB 7510 PLAQ 324000 TP 14 SEG INE 1.04  TTP 34.7   GLUC 95 CREAT 0.99+
+ELECTROCARDIOGRAMA.-   RITMO SINUSAL FCRECUENCIA CARDIACA 96 EJE 60 GRADOS  INTERVALÑO  P-R  0.16  MMS  QRS 0.09 MMS, SEGMNETO S-T NORMAL ., NO SIUPRA NI IINFRADESNIVEL  ONDA T NORMAL',anam_planes='HTA CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN MAS HCT 100/25  1 TABLETA 7 AM 
+AMLODIPINA 10 MG PM 
+PRACETAMOL 1 GR TID 
+TRAMADOL  10 GOTAS BID
+CICLOBENZAPRINA 10 MG HS .',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-26 18:52:12',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='664001171044278926420231126065212232' where anam_id=409 -->2023-11-26 19:04:04
+201-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=1021,usua_id=222,centro_id=1,atenc_id=677,anam_centrorefiere='',anam_observacionaf='APF: MADRE HTA PADRE FALLECE CON CA PULMON',anam_emferpactual='PACIENTE PRESENTA DISFAGIA Y CEFALEA HOLOCRANEANA DE MODERADA INTENSIDAD SE ACOMPAÑA DE TOS RINORREA Y MALESTAR GENERAL PACIENTE SE REALIZAR PRUEBA 2CR EL DIA DE AYER POSITIVO PARA COVID 19, PARA LO CUAL TOMA PARACETAMOL CON LO CUAL EL CUADRO PERSISTE POR LO QUE ACUDE',anam_planes='KETOROLACO 20MG 1 TABLETA CADA 12 HORAS POR 5 DIAS
+ALERCET D CETIRIZINA+SEUDOEFEDRINA 1 TABLETA CADA 12 HORAS POR 5 DIAS
+BROMURO DE IPRATROPIO 1 PUFF CADA 8 HORAS POR 3 DIAS
+CONTROL 4 DIAS',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR DEGARGANTA, DOLOR DE CABEZA TOS',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='1',anam_fecharegistro='2022-03-24 14:21:29',anam_partos='',anam_observacionrespiratorio='DG COVID-19',anam_atpreventiva=0,anam_observacionap='APP: CLINICOS: RINITIS ALERGICA QX: RINOPLASTIA/FISTULA PERIANAL/HEMORROIDECTOMIA/HERNIOPLASTIA UMBILICAL',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='10210117165041782222022032402212974',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=71 -->2023-11-26 22:01:34
+201-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=1021,usua_id=222,centro_id=1,atenc_id=677,anam_centrorefiere='',anam_observacionaf='APF: MADRE HTA PADRE FALLECE CON CA PULMON',anam_emferpactual='PACIENTE PRESENTA DISFAGIA Y CEFALEA HOLOCRANEANA DE MODERADA INTENSIDAD SE ACOMPAÑA DE TOS RINORREA Y MALESTAR GENERAL PACIENTE SE REALIZAR PRUEBA 2CR EL DIA DE AYER POSITIVO PARA COVID 19, PARA LO CUAL TOMA PARACETAMOL CON LO CUAL EL CUADRO PERSISTE POR LO QUE ACUDE',anam_planes='KETOROLACO 20MG 1 TABLETA CADA 12 HORAS POR 5 DIAS
+ALERCET D CETIRIZINA+SEUDOEFEDRINA 1 TABLETA CADA 12 HORAS POR 5 DIAS
+BROMURO DE IPRATROPIO 1 PUFF CADA 8 HORAS POR 3 DIAS
+CONTROL 4 DIAS',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR DEGARGANTA, DOLOR DE CABEZA TOS',anam_vidasexualactivaobs='',anam_menarquiaedad='',anam_respiratorio='1',anam_fecharegistro='2022-03-24 14:21:29',anam_partos='',anam_observacionrespiratorio='DG COVID-19',anam_atpreventiva=0,anam_observacionap='APP: CLINICOS: RINITIS ALERGICA QX: RINOPLASTIA/FISTULA PERIANAL/HEMORROIDECTOMIA/HERNIOPLASTIA UMBILICAL',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='10210117165041782222022032402212974',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=71 -->2023-11-26 22:01:34

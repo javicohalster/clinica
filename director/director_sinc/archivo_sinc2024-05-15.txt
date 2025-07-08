@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_title='Fecha fin:' where fie_id='11896';
+update gogess_sisfield set fie_title='Fecha Inicio:' where fie_id='7204';
+update gogess_sisfield set fie_title='Fecha Fin:' where fie_id='11896';
+update gogess_sisfield set fie_orden='7' where fie_id='7205';
+update gogess_sisfield set fie_group='1' where fie_id='7733';
+update gogess_sisfield set fie_orden='8' where fie_id='7733';
+update gogess_sisfield set fie_orden='9' where fie_id='7743';
+update gogess_sisfield set fie_orden='6' where fie_id='11896';
+update gogess_sisfield set fie_ordengrid='6' where fie_id='11896';
+update gogess_sisfield set fie_ordengrid='8' where fie_id='7733';
+update gogess_sisfield set fie_ordengrid='9' where fie_id='7743';

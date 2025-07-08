@@ -1,0 +1,2 @@
+insert into dns_subarea (mnupan_id,suba_nombre,suba_observacion) values (44,'MEDICINA GENERAL','')
+insert into gogess_validaciones (fie_id,prgv_id,valid_extradata,valid_mensaje_error,valid_parametro) values (8482,1,'','Campo Obligatorio','true')

@@ -1,0 +1,17 @@
+507-->select * from lpin_cobropago where crb_id='5148'-->2024-09-16 09:34:24
+507-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='6216')-->2024-09-16 09:34:27
+507-->delete from lpin_comprobantecontable where crpadet_id='6216'-->2024-09-16 09:34:27
+507-->delete  from lpin_cobropagodetalle where crb_enlace='2024-07-11507669055763EFBF'-->2024-09-16 09:34:27
+507-->delete from lpin_cobropago where crb_id=5148-->2024-09-16 09:34:27
+502-->select * from lpin_cobropago where crb_id='5512'-->2024-09-16 10:53:57
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='6590')-->2024-09-16 10:54:00
+502-->delete from lpin_comprobantecontable where crpadet_id='6590'-->2024-09-16 10:54:00
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-07-2931966A87345A6F41'-->2024-09-16 10:54:00
+502-->delete from lpin_cobropago where crb_id=5512-->2024-09-16 10:54:00
+507-->select * from lpin_cobropago where crb_id='7537'-->2024-09-16 15:35:31
+507-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='8725')-->2024-09-16 15:35:34
+507-->delete from lpin_comprobantecontable where crpadet_id='8725'-->2024-09-16 15:35:34
+507-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='8726')-->2024-09-16 15:35:36
+507-->delete from lpin_comprobantecontable where crpadet_id='8726'-->2024-09-16 15:35:36
+507-->delete  from lpin_cobropagodetalle where crb_enlace='2024-09-1650766E895FB3F793'-->2024-09-16 15:35:36
+507-->delete from lpin_cobropago where crb_id=7537-->2024-09-16 15:35:36

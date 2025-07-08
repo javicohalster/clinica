@@ -1,0 +1,9 @@
+update gogess_sisfield set fie_title='Leucocitos:' where fie_id='5085';
+update gogess_sisfield set fie_title='Eritrocitos:' where fie_id='5058';
+update gogess_sisfield set fie_title='Piocitos PC:' where fie_id='5097';
+update gogess_sisfield set fie_title='VSG:' where fie_id='5109';
+update gogess_sisfield set fie_title='Eritrocitos:' where fie_id='5050';
+update gogess_sisfield set fie_title='Factorh:' where fie_id='5063';
+update gogess_sisfield set fie_title='TTP:' where fie_id='5111';
+update gogess_sisfield set fie_title='Factor Rh:' where fie_id='5063';
+update gogess_sisfield set fie_title='Drepanocitos:' where fie_id='5056';

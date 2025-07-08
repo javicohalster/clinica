@@ -1,0 +1,1 @@
+update conco_tiporub set tiporub_nombre='FARMACIA',tiparch_id=0,tiporub_campocedula='',tiporub_campovalor='' where tiporub_id=10 

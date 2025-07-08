@@ -1,0 +1,1 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','Sandra061183','SANDRA_DE_LOS_ANGELES_REMACHE_CRUZ.p12','C:/firma/certificado/',1,'1712431269')

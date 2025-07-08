@@ -1,0 +1,5 @@
+-->update dns_newconsultaexternaanamesis set clie_id=9591,usua_id=416,centro_id=1,atenc_id=8431,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE ACUDE PARA CONTROL DE DOLOR DE PIE DERECHO E IZQUIERDO, USA PLANTILLAS ORTOPEDICAS POR ESTOS MESES, LE DULEN CON LAS PLANTILLAS, Y MADRE REFIERE QUE PRIMER DEDO CON DESVIACION, POR LO QUE ACUDE.',anam_planes='RX AP Y LATERAL DE PIE DERECHO E IZQUIERDO
+EJERCICIOS DE FORTALECIMIENTO EN CASA
+USO DE PLANTILLAS POR UNOS MESES HASTA QUE EL DOLOR DESAPAREZCA
+NOVEDADES
+CONTROL CON IMAGENES',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='DOLOR DE PIE BILATERAL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-18 17:19:28',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='959101110373496641620240918051928468' where anam_id=2423 -->2024-09-18 18:03:56

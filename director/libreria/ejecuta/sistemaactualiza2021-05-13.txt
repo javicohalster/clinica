@@ -1,0 +1,5 @@
+update efacsistema_establecimiento set emp_id=1,estab_codigo='001',estab_estado=1,estab_nivel='0',centro_id=11 where estab_id=2 
+update efacsistema_establecimiento set emp_id=1,estab_codigo='002',estab_estado=1,estab_nivel='0',centro_id=11 where estab_id=2 
+update efacsistema_puntoemision set pemision_num='001',pemision_sino='1',estab_id=2,pemision_inicia='1' where pemision_id=2 
+update efacsistema_puntoemision set pemision_num='001',pemision_sino='1',estab_id=2,pemision_inicia='60619' where pemision_id=2 
+update efacsistema_puntoemision set pemision_num='001',pemision_sino='1',estab_id=6,pemision_inicia='50118' where pemision_id=6 

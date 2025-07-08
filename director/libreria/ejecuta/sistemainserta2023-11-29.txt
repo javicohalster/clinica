@@ -1,0 +1,1 @@
+insert into sth_report (rept_aleatunico,rept_nombre,rept_activo,rept_tabla,rept_campos,rept_archivopersonalizado,categr_id,rept_observacion) values ('171490744920231129041022349','REPORTE PRECUENTAS',1,'','','standarprecuenta_panel.php',17,'Reporte y listado de precuentas')

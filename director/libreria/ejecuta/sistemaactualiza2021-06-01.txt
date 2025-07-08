@@ -1,0 +1,3 @@
+update factura_cerficado set cert_activo='1',cert_clv='jack1981',cert_nombre='NELLY_JACQUELINE_MOSQUERA_NARVAEZ_310521105614.p12',cert_path='C:/firma/certificado/',tcert_id=1,usua_ciruc='1712431269' where cert_id=21 
+update factura_cerficado set cert_activo='1',cert_clv='jack1981',cert_nombre='NELLY_JACQUELINE_MOSQUERA_NARVAEZ_310521105614.p12',cert_path='C:/firma/certificado/',tcert_id=1,usua_ciruc='1712431269' where cert_id=21 
+update factura_cerficado set cert_activo='1',cert_clv='jack1981',cert_nombre='NELLY_JACQUELINE_MOSQUERA_NARVAEZ_310521105614.p12',cert_path='C:/firma/certificado/',tcert_id=1,usua_ciruc='1712431269' where cert_id=21 

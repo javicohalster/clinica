@@ -1,0 +1,3 @@
+update gogess_sisfield set fie_title='Fecha Toma:' where fie_id='3965';
+update gogess_sisfield set fie_title='Fecha de Toma:' where fie_id='3965';
+update gogess_sisfield set fie_title='Fecha Toma:' where fie_id='3965';

@@ -1,0 +1,1 @@
+339-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('QUIROFANO','2024-05-27','2024-05-27','1','6','3','23','8521','0117140187754722024052706274560','2024-05-27 07:25:07','339')-->2024-05-27 07:25:07

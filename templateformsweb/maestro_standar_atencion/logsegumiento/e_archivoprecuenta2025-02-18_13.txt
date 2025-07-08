@@ -1,0 +1,1 @@
+339-->update dns_precuenta set precu_observacion='CONSULTA',precu_fechainicio='2025-02-11',precu_fechafinal='',precu_activo='1',convepr_id='7',categesp_id='2',especipr_id='16',clie_id='9858' where precu_id='14174'-->2025-02-18 08:50:53

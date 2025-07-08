@@ -1,0 +1,6 @@
+427-->select * from lpin_cobropago where crb_id='3448'-->2024-04-07 14:16:39
+427-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-074276612E1444A033'-->2024-04-07 14:16:39
+427-->delete from lpin_cobropago where crb_id=3448-->2024-04-07 14:16:39
+427-->select * from lpin_cobropago where crb_id='3528'-->2024-04-07 22:12:29
+427-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-0742766135FFC0B2C0'-->2024-04-07 22:12:29
+427-->delete from lpin_cobropago where crb_id=3528-->2024-04-07 22:12:29

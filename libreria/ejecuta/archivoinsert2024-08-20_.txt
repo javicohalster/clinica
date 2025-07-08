@@ -1,0 +1,12 @@
+-->update dns_newconsultaexternaanamesis set clie_id=9300,usua_id=264,centro_id=1,atenc_id=8174,anam_referencia='',anam_emferpactual='HACE  2 SEMANAS  LUEGO DE VIAJE CORTO PREENTA EPISODIOS DE CEFALEAS   INTENSAS  , AL 7MO DIA FIEBRE INTENSA HACE 6 DIAS , SI MIALGIAS   24 HORAS DESPUES , LEVE ODINOFAGIA , SI FIBERES HASTA 39 GRADOS   , 38,6  HACE 24 HORAS   LE PRESCRIBIERON CLARITORMICINA AL TERCER DIA PERSITIA CON SNTOMAS  RECIBIO  AZITROMICINA  POSTERIORMETE  5 DIAS,  AYER AUN MATIEN DOLOR INTENSO DE GARGANTA Y OIDO IZQUIERDO   AUN TIENE DISFONIA
+RAS  EPIGASTYRALGIA DISTENSION  ABDOMINAL',anam_planes='LEVOFLOXACINO 500 MG QD X 10 DIAS. 
+ALERCOT TID
+ESOMEPRAZOL 20 MG BID 
+MELOXICAN 15 MG QD X 7 DIAS 
+BETAMETASONA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='ONIDOFAGIA .',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-08-19 18:39:44',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='930001171044278926420240819063944322' where anam_id=2211 -->2024-08-20 12:52:53
+-->update dns_newconsultaexternaanamesis set clie_id=9300,usua_id=264,centro_id=1,atenc_id=8174,anam_referencia='',anam_emferpactual='HACE  2 SEMANAS  LUEGO DE VIAJE CORTO PREENTA EPISODIOS DE CEFALEAS   INTENSAS  , AL 7MO DIA FIEBRE INTENSA HACE 6 DIAS , SI MIALGIAS   24 HORAS DESPUES , LEVE ODINOFAGIA , SI FIBERES HASTA 39 GRADOS   , 38,6  HACE 24 HORAS   LE PRESCRIBIERON CLARITORMICINA AL TERCER DIA PERSITIA CON SNTOMAS  RECIBIO  AZITROMICINA  POSTERIORMETE  5 DIAS,  AYER AUN MATIEN DOLOR INTENSO DE GARGANTA Y OIDO IZQUIERDO   AUN TIENE DISFONIA
+RAS  EPIGASTYRALGIA DISTENSION  ABDOMINAL',anam_planes='LEVOFLOXACINO 500 MG QD X 10 DIAS. 
+ALERCOT TID
+ESOMEPRAZOL 20 MG BID 
+MELOXICAN 15 MG QD X 7 DIAS 
+BETAMETASONA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='ONIDOFAGIA .',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-08-19 18:39:44',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='930001171044278926420240819063944322' where anam_id=2211 -->2024-08-20 12:52:56

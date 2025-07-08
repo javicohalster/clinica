@@ -1,0 +1,2 @@
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016614866A203A545820240408070602108' and crucue_id=956-->2024-08-14 16:57:01
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4560','20','0166BD4B35D983850220240814072629384','2024-08-14 19:26:56','502')-->2024-08-14 19:26:56

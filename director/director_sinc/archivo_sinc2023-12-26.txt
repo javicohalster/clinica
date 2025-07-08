@@ -1,0 +1,9 @@
+update gogess_sisfield set fie_title='Usuario Laboratorio:' where fie_id='11710';
+update gogess_sisfield set fie_type='select' where fie_id='11710';
+update gogess_sisfield set fie_typeweb='select' where fie_id='11710';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11710';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11709';
+update gogess_sisfield set fie_title='Laboratorio:' where fie_id='11711';
+update gogess_sisfield set fie_type='hidden2peke2' where fie_id='11711';
+update gogess_sisfield set fie_typeweb='hidden2peke2' where fie_id='11711';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11711';

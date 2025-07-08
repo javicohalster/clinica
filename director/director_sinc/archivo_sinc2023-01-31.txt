@@ -1,0 +1,18 @@
+update gogess_sisfield set fie_orden='8' where fie_id='10466';
+update gogess_sisfield set fie_orden='5' where fie_id='10466';
+update gogess_sisfield set fie_orden='6' where fie_id='10462';
+update gogess_sisfield set fie_orden='7' where fie_id='10463';
+update gogess_sisfield set fie_orden='8' where fie_id='10464';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10466';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='10466';
+update gogess_sisfield set fie_anchocolomna='1' where fie_id='10466';
+update gogess_sisfield set fie_title='Asiento Ingreso:' where fie_id='10467';
+update gogess_sisfield set fie_title='Generar Asiento Ingreso (Cta. Contable):' where fie_id='10467';
+update gogess_sisfield set fie_title='Generar Asiento Egreso (Cta. Contable):' where fie_id='10468';
+update gogess_sisfield set fie_group='1' where fie_id='10467';
+update gogess_sisfield set fie_group='8' where fie_id='10467';
+update gogess_sisfield set fie_orden='1' where fie_id='10467';
+update gogess_sisfield set fie_orden='2' where fie_id='10468';
+update gogess_sisfield set fie_group='8' where fie_id='10468';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10467';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10468';

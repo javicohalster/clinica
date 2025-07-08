@@ -1,0 +1,5 @@
+502-->select * from lpin_cobropago where crb_id='3681'-->2024-08-16 11:40:12
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='4615')-->2024-08-16 11:40:15
+502-->delete from lpin_comprobantecontable where crpadet_id='4615'-->2024-08-16 11:40:15
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-04-0945866155F9D35AB8'-->2024-08-16 11:40:15
+502-->delete from lpin_cobropago where crb_id=3681-->2024-08-16 11:40:15

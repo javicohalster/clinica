@@ -1,0 +1,10 @@
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10040';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10041';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10870';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10869';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='11248';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='11249';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='11125';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='11126';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10992';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10993';

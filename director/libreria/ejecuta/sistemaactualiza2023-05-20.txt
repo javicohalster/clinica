@@ -1,0 +1,1 @@
+update sth_report set rept_aleatunico='171490744920230419035654476',rept_nombre='BALANCE DE COMPROBACION',rept_activo=0,rept_tabla='',rept_campos='',rept_archivopersonalizado='standarbc_panel.php',categr_id=18,rept_observacion='' where rept_id=39 

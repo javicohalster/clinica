@@ -1,0 +1,86 @@
+1-->update app_empresa set temp_id=4,emp_ruc='1792935261001',emp_nombre='CLINICA LOS PINOS',emp_direccion='ELIA LIUT N45-10 Y TELEGRAFO PRIMERO',pais_id=1,prob_codigo='17',cant_codigo='1701',emp_telefono='(593)',emp_email='gerencia@clinicalospinos.com',emp_estado=1,emp_logo='05541TXKJ20210712.png',emp_restaporcentaje='6.5',emp_valorgastosadm='10',emp_valoriva='12' where emp_id=1 
+1-->update dns_centrosalud set emp_id=1,centro_consultaexternamedicina='0',zona_id=9,centro_consultaexternapsicologia='0',centro_laboratorio='0',distrito_id='97',centro_odontologia='0',centro_imagenologia='0',tipolo_id=10,centro_fisioterapia='0',centro_ruc='1792935261001',centro_numeroestablecimiento='001',centro_invasivos='0',centro_enfermeria='0',centro_nombre='CLINICA LOS PINOS PINOSMED CIA.LTDA.',permif_id='1',centro_activo=1,centro_numerofuncionamiento='Q86200102',centro_direccion='ELIA LIUT N45-10 Y TELEGRAFO PRIMERO',prob_codigo='17',cant_codigo='1701',centro_parroquia='RUMIPAMBA',centro_vigenciadelpermisodesde=NULL,centro_telefono='',centro_vigenciadelpermisohasta=NULL,centro_codigo='00000',centro_nombrejefe='ING. GUZMAN BRAVO PATRICIO JAVIER',centro_cargo='GENERAL INSPECTOR',centro_activosistema=1,centro_horaslaborables=8,centro_nombreprint='CLINICA LOS PINOS',centro_enlace='1',centro_iniciales='CLP' where centro_id=1 
+1-->update app_usuario set centro_id='1',usua_carnetconadis='',emp_id=1,usua_siglastitulo='Dra.',usua_tipodiscapacidad='',estab_id=7,usua_porcentajediscapacidad='',usua_codigo='dd',pemision_id=12,usua_ciruc='1711467884',usua_fechaingrero='0000-00-00',usua_msp='333',usua_enlace='1',usua_codigoiniciales='FA',usua_nombre='DIGITADOR (DATOS INICIALES)',usua_fechasalida='0000-00-00',tipcont_id=3,nac_id=56,usua_fechanacimiento='1976-02-15',usua_archivocenecyt='27019SWSLJ20190215.pdf',etn_id=6,usua_apellido='.',usua_celular='093889223',usua_archivoauxiliares='',usua_piefirma='USUARIO TEST',usua_horascontrato='160',civil_id=1,tipoh_id=1,usua_genero='MASCULINO',usua_fecha_uingreso='2021-07-13 12:15:03',usua_usuario='1711467884',especi_id=0,usua_hora_uingreso='12:15:03',subespeci_id=0,usua_fecha_cambioclv='2019-07-30 09:57:58',jobt_id=1,usua_email='falider@hotmail.com',usua_code='10154744376937296',usua_archivo='gogess_data83167NANOG20180212.png',usua_estado=1,usua_nacionalidad='',usua_adm=1,usua_subadm=1,usua_admrecaudacion=1 where usua_id=1 
+1-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,clie_registrado,emp_id,tipoci_id,clie_rucci,clie_direccion,clie_apellido,prob_codigo,cant_codigo,clie_nombre,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',1,'REGISTRADO',1,1,'1212121212','Napo Tena','Test','17','1701','Paciente',0,1,'',0,'','',56,'1979-01-26','',7,'0992524221','M',5,'viky@gmail.com','',4,'1','2021-07-13 12:44:40','','01171146788412021071312444027493',NULL,'1','','4','')
+1-->insert into beko_documentocabecera (doccab_subtotaliva,doccab_pagacon,doccab_id,doccab_subtotalsiniva,doccab_cambio,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,emis_valor,doccab_iva,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,tipase_id,doccab_fechaemision_cliente,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0.00',20,'01171146788412021071312424641','2.50',17.50,1,'0.00',1,2,'0.00',1,'0.00','01','','012-002-000202370','1792935261001','2.50','05','1212121212','Paciente','Test','Napo Tena',10,'2021-07-13 12:42:46','0992524221','viky@gmail.com','1212121212','','',1,2,3,0,'',1,'01')
+1-->update efacsistema_producto set emp_id=1,prod_nivel=1,tipp_id='2',catgp_id=1,prod_codigo='99201',prod_nombre='MEDICINA GENERAL',prod_codproducto='2.01.0022',prod_codigotarifario='99201',prod_nombredespliegue='VISITA EN LA OFICINA DE UN NUEVO PACIENTE QUE REQUIERE DE TRES COMPONENTES:  1.- HISTORIA FOCALIZADA AL PROBLEMA   2.- EXAMEN FOCALIZADO AL PROBLEMA    3.- DECISIÓN MEDICA ÚNICA Y DIRECTA, TIEMPO DE DURACION10 MINUTOS.',impu_codigo='2',tari_codigo='0',prod_precio='4',prod_preciotarifarionacional='8.13',sisu_id=4,prod_activo='1',prod_fecharegistro='0000-00-00 00:00:00',prod_enlace='011711467884120200309031209315' where prod_id=1 
+1-->update app_usuario set centro_id='1',usua_carnetconadis='',emp_id=1,usua_siglastitulo='Dra.',usua_tipodiscapacidad='',estab_id=1,usua_porcentajediscapacidad='',usua_codigo='dd',pemision_id=1,usua_ciruc='1711467884',usua_fechaingrero='0000-00-00',usua_msp='333',usua_enlace='1',usua_codigoiniciales='FA',usua_nombre='DIGITADOR (DATOS INICIALES)',usua_fechasalida='0000-00-00',tipcont_id=3,nac_id=56,usua_fechanacimiento='1976-02-15',usua_archivocenecyt='27019SWSLJ20190215.pdf',etn_id=6,usua_apellido='.',usua_celular='093889223',usua_archivoauxiliares='',usua_piefirma='USUARIO TEST',usua_horascontrato='160',civil_id=1,tipoh_id=1,usua_genero='MASCULINO',usua_fecha_uingreso='2021-07-13 12:15:03',usua_usuario='1711467884',especi_id=0,usua_hora_uingreso='12:15:03',subespeci_id=0,usua_fecha_cambioclv='2019-07-30 09:57:58',jobt_id=1,usua_email='falider@hotmail.com',usua_code='10154744376937296',usua_archivo='gogess_data83167NANOG20180212.png',usua_estado=1,usua_nacionalidad='',usua_adm=1,usua_subadm=1,usua_admrecaudacion=1 where usua_id=1 
+1-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_token,grp_id,clie_registrado,emp_id,tipoci_id,clie_rucci,clie_direccion,clie_apellido,prob_codigo,cant_codigo,clie_nombre,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'',1,'REGISTRADO',1,1,'1212121212','Napo Tena','Test','17','1701','Paciente',0,2,'',0,'','',56,'1979-01-26','',7,'0992524221','M',5,'viky@gmail.com','',4,'1','2021-07-13 14:21:50','','01171146788412021071302215032384',NULL,'1','','4','')
+1-->insert into beko_documentocabecera (doccab_subtotaliva,doccab_pagacon,doccab_id,doccab_subtotalsiniva,doccab_cambio,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,emis_valor,doccab_iva,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,tipase_id,doccab_fechaemision_cliente,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0.00',20,'01171146788412021071302210325','4.50',15.50,1,'0.00',1,2,'0.00',1,'0.00','01','','001-001-000000001','1792935261001','4.50','05','1212121212','Paciente','Test','Napo Tena',10,'2021-07-13 14:21:03','0992524221','viky@gmail.com','1212121212','','',1,2,3,0,'',1,'01')
+1-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,2,'1212121212-1','2',1,'2021-07-13 14:25:48','','','1212121212',1,'','2021-07-13 14:25:48','2021-07-13 14:25:48','VIVO','','01171146788412021071302254880','')
+1-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,2,'1212121212-1','2',1,'2021-07-13 14:30:00','','','1212121212',1,'','2021-07-13 14:30:00','2021-07-13 14:30:00','VIVO','','011711467884120210713023000274','')
+1-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,2,'1212121212-1','2',1,'2021-07-13 14:30:41','','','1212121212',1,'','2021-07-13 14:30:41','2021-07-13 14:30:41','VIVO','','011711467884120210713023041386','')
+1-->update dns_atencion set centro_id=1,clie_id=2,atenc_hc='1212121212-1',tiposerv_id='2',usua_id=1,atenc_fecharegistro='2021-07-13 14:30:41',esept_id='0',atenc_condiciondeingreso='',clie_ci='1212121212',emp_id=1,atenc_observacion='',atenc_fechasalida='2021-07-13 14:30:41',atenc_fechaingreso='2021-07-13 14:30:41',atenc_condiciondeegreso='VIVO',atenc_referencia='',atenc_enlace='011711467884120210713023041386',atenc_archivo='' where atenc_id=5 
+1-->insert into dns_anamesisexamenfisico (clie_id,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_planes,tipoaler_id,anam_centrorefiere,anam_emferpactual,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (2,'LIBRE DEMANDA',5,1,1,'',4,'','3','','OTRO','','','','','Test','','0','2021-07-13 14:31:31','','',1,'','','','','2011711467884120210713023131169','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)
+1-->update dns_anamesisexamenfisico set clie_id=2,anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',tipoaler_id='3',anam_centrorefiere='',anam_emferpactual='OTRO',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='Test',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-07-13 14:31:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='2011711467884120210713023131169',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1 
+1-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (1,5,1,1,2,1,0,1,0,0,0,0,'dns_anamesisexamenfisico',0,0,0,0,'',0,0,'',0,0,0,'',0,0,'17',0,0,0,0,0,0,1,'2021-07-13 14:34:58',0,0,'',0,'',0,0,'1701',0,'14:34',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'','',0,'2011711467884120210713023458386','2021-07-13 14:34:58',0,0,0,0)
+1-->update dns_certificados set certif_titulo='CERTIFICADO POR COVID 19',certif_contenido='<p style="text-align:center">CLINICA LOS PINOS</p>
+
+<p><span style="font-size:9px">SECTOR EL BEATERIO BARRIO EL CONDE N1 FONO: 3816769 </span></p>
+
+<p><span style="font-size:9px">MAIL: <a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">pichinchahumana_</a><a href="mailto:pichinchahumana_beaterio@pichincha.gob.ec">beaterio@pichincha.gob.ec</a></span></p>
+
+<p><span style="font-size:9px">Quito, de mayo del 2021</span></p>
+
+<p><span style="font-size:9px">Certifico haber examinado la&nbsp; Se&ntilde;or/ Se&ntilde;ora------ con c&eacute;dula de identidad :</span></p>
+
+<p><span style="font-size:9px">Instituci&oacute;n donde labora:</span></p>
+
+<p><span style="font-size:9px">Cargo que desempe&ntilde;a:</span></p>
+
+<p><span style="font-size:9px">Con diagn&oacute;stico de COVID 19 VIRUS IDENTIFICADO CIE 10 U071. S&iacute;ntomas: fiebre por 48h tos, congesti&oacute;n nasal y malestar general.</span></p>
+
+<p><span style="font-size:9px">PruebaRPT PCR SARS COV 2 POSITIVA , anexo documento.</span></p>
+
+<p><span style="font-size:9px">Reposo desde el&nbsp;&nbsp;&nbsp; mayo del 2021 hata el&nbsp;&nbsp; mayo del 2021 </span></p>
+
+<p><span style="font-size:9px">D&iacute;as de reposo: 7 ( siete) .</span></p>
+
+<p><span style="font-size:9px">No apto para teletrabajo.</span></p>
+
+<p>Atentamente.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Dra. Ver&oacute;nica Alexandra Salazar Velasco</p>
+
+<p>MSP L23F2N005</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=4 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MÉDICO DE REPOSO',certif_contenido='<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>CLINICA LOS PINOS</strong></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:right">Quito, de mayo del 2021<!--EndFragment--><!--EndFragment--></p>
+
+<p style="text-align:justify">Certific&oacute; que atend&iacute; a la Sr./Sra. -clie_apellido- -clie_nombre- con n&uacute;mero de identificacion -clie_rucci-, fue atendido en este consultorio por presentar:&nbsp;</p>
+
+<p style="text-align:justify">-diagnostico-&nbsp; CIE 10</p>
+
+<p>Desde el: -desde- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>Hasta el: -hasta-</p>
+
+<p><strong>OBSERVACIONES:</strong> EL/LA PACIENTE REQUIERE REPOSO Y MEDICACION PARA SU PATOLOGIA</p>
+
+<p><strong>DIAS OTORGADOS:</strong> -dias- D&iacute;as.</p>
+
+<p>&nbsp;</p>
+
+<p>Atentamente,</p>
+
+<p>_______________________________</p>
+
+<p>DOCUMENTO GRATUITO</p>',emp_id=1,certif_activo=1 where certif_id=3 

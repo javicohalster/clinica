@@ -1,0 +1,1 @@
+select 	doccab_ndocumento from beko_documentocabecera where tipocmp_codigo='01' and doccab_ndocumento like '--%' order by doccab_ndocumento desc limit 1

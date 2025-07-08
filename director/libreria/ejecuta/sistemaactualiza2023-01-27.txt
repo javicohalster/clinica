@@ -1,0 +1,97 @@
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='cssobj',fie_sqlorder='',fie_activarprt=0,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=4,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='campogrid',fie_lencampo='25',fie_name='anam_gridglasgow',tab_name='dns_newemergenciaanamesis',fie_title='GLASGOW INICIAL',fie_type='campogrid',fie_tabledb='',fie_datadb='',fie_active=1,fie_activesearch=0,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='8',fie_sql='',fie_sendvar='anam_enlacex',fie_tactive=0,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=0,fie_xmlformato='',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=3,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=0,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='gridstandar.php',fie_groupprint='8',fie_anchocolomna='12',fie_tablasubgrid='pichinchahumana_extension.dns_gridglasgow2008',fie_campoenlacesub='anam_enlace',fie_tablasubgridcampos='glas_ocular,glas_versal,glas_motora,glas_total,glas_pupilarder,glas_pupilarizq,glas_capilar',fie_tablasubcampoid='glas_id',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='glas_fecharegistro',fie_tituloscamposgrid='Ocular,Vesal,Motora,Total,Pupilar Derecha,Pupilar Izquierda,Capilar,Fecha de Registro',fie_camposobligatoriosgrid='glas_ocular,glas_versal,glas_motora,glas_total,glas_pupilarder,glas_pupilarizq,glas_capilar',fie_camposgridselect='glas_ocular,glas_versal,glas_motora,glas_total,glas_pupilarder,glas_pupilarizq,glas_capilar,glas_fecharegistro',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0,fie_scriptbuscador='' where fie_id=10141 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_especialidades',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+us.usua_piefirma as medico,
+pr.prof_nombre as especialidad,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+left join app_usuario us on us.usua_id=a.usua_id
+left join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+left join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id 
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=11 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_especialidades',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre_paciente,
+c.clie_apellido as apellido_paciente,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+us.usua_piefirma as medico,
+pr.prof_nombre as especialidad,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+left join app_usuario us on us.usua_id=a.usua_id
+left join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+left join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id 
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=11 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_especialidades',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre_paciente,
+c.clie_apellido as apellido_paciente,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+us.usua_piefirma as medico,
+pr.prof_nombre as especialidad,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+a.atenc_observacion as observacion_atencion,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+left join app_usuario us on us.usua_id=a.usua_id
+left join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+left join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id 
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=11 
+update gogess_menupanel set mnupan_nombre='Compra/Proveedores',opcionpa_id=1,con_id=0,mnupan_activo=1,mnupan_orden=34,mnupan_icono='fa fa-list',mnupan_archivo='panel_standar.php',tab_id=518,mnupan_campoenlace='',mnupan_camposforma='compra_recibe,hidden3;compra_rtecnico,hidden3;compra_rtecnico,hidden3;compra_fechaaprobacion,hidden3;',mnupan_templatetabla='maestro_standar_compras',mnupan_campogrid='\'compra_id\',\'compra_fecha\',\'provee_nombre\',\'compra_nfactura\',\'compra_descripcion\',\'neto\',\'compra_iva\',\'compra_total\',\'compra_anulado\',\'totalret\'',mnupan_variablesession='',posp_id=1,mnupan_grafico='',tabgrid_id=522,tabsecundario_id=0,mnupan_templatetablasec='',mnupan_camposformasecundaria='',mnupan_campoarchivo='',mnupan_nboton='',especi_id=0,tipofor_id=0,mnupan_nordengrid='',mnupan_codigoproducto='',tomad_id=0,react_id=0 where mnupan_id=174 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Convenios Especialidades',vardev_aleatunico='63d4083cb029d202301270522045',rept_publicado='1',mnupan_id=180 where vardev_id=10 

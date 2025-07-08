@@ -1,0 +1,1 @@
+update efacsistema_puntoemision set pemision_num='001',pemision_sino='1',estab_id=11,pemision_inicia='45861' where pemision_id=11 

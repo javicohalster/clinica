@@ -1,0 +1,1 @@
+insert into efacsistema_puntoemision (pemision_num,pemision_sino,estab_id,pemision_inicia) values ('003','1',1,'1')

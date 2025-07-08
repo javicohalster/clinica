@@ -1,0 +1,2 @@
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-02502674DE5F2EBF6B' and crpadet_id=1570-->2024-12-02 12:20:53
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-02502674DEEF91B4F7' and crpadet_id=1581-->2024-12-02 12:53:36

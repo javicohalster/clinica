@@ -1,0 +1,5 @@
+295-->select * from lpin_cobropago where crb_id='8386'-->2024-10-16 15:29:27
+295-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9628')-->2024-10-16 15:29:29
+295-->delete from lpin_comprobantecontable where crpadet_id='9628'-->2024-10-16 15:29:29
+295-->delete  from lpin_cobropagodetalle where crb_enlace='2024-10-1629567101B617B563'-->2024-10-16 15:29:29
+295-->delete from lpin_cobropago where crb_id=8386-->2024-10-16 15:29:29

@@ -1,0 +1,4 @@
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-24507676B0D9418F06' and crpadet_id=2418-->2024-12-26 10:13:36
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-24507676B0D9418F06' and crpadet_id=2427-->2024-12-26 12:28:45
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-24507676B0D9418F06' and crpadet_id=2426-->2024-12-26 12:28:51
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-12-24507676B0D9418F06' and crpadet_id=2425-->2024-12-26 12:28:54

@@ -1,0 +1,1 @@
+2-->update dns_hill set emp_id=1,hill_codigo='99238',hill_descripcion='ALTA DE PACIENTE',hill_medicos=18,hill_anestesia=0,hill_observacion='',hill_enlace='63E42852A8D41172110981520120230208055514',hill_impucodigo='2',hill_taricodigo='0' where hill_id=5556 -->2023-02-11 09:51:04

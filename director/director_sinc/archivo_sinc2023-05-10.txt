@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_type='fechabloqueo' where fie_id='9904';
+update gogess_sisfield set fie_typeweb='fechabloqueo' where fie_id='9904';

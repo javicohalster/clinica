@@ -1,0 +1,2 @@
+update gogess_sisfield set field_type='' where fie_id='5489';
+update gogess_sisfield set field_type='' where fie_id='5489';

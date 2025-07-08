@@ -1,0 +1,10 @@
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-315026723C989386E3' and crpadet_id=1031-->2024-10-31 13:22:14
+502-->select * from app_anticipos where anti_id='217'-->2024-10-31 13:22:18
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='217')-->2024-10-31 13:22:21
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='217'-->2024-10-31 13:22:21
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-315026723CA6A088C6'-->2024-10-31 13:22:21
+502-->delete from app_anticipos where anti_id=217-->2024-10-31 13:22:21
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-315026723C989386E3' and crpadet_id=1032-->2024-10-31 13:22:21
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-315026723D8C242F3F' and crpadet_id=1034-->2024-10-31 14:25:03
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-315026723DBEADD7B3' and crpadet_id=1040-->2024-10-31 14:46:51
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-315026723E9AB352D3' and crpadet_id=1062-->2024-10-31 15:36:39

@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_title='Lugar de Nacimiento:' where fie_id='11705';
+update gogess_sisfield set fie_type='textpeke' where fie_id='11705';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='11705';
+update gogess_sisfield set fie_orden='10' where fie_id='11705';
+update gogess_sisfield set fie_title='Direcci&oacute;n Contacto:' where fie_id='11706';
+update gogess_sisfield set fie_title='Direcci&oacute;n Contacto:' where fie_id='11706';
+update gogess_sisfield set fie_type='textpeke' where fie_id='11706';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='11706';
+update gogess_sisfield set fie_group='2' where fie_id='11706';
+update gogess_sisfield set fie_orden='12' where fie_id='11706';
+update gogess_sisfield set fie_title='Dirección del Contacto:' where fie_id='11706';

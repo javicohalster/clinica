@@ -1,0 +1,1 @@
+insert into sth_report (categr_id,rept_activo,rept_aleatunico,rept_archivopersonalizado,rept_campos,rept_nombre,rept_observacion,rept_tabla) values (20,1,'171490744920250214074428141','standarissfavarios_panel.php','','LISTA SEGUROS','','')

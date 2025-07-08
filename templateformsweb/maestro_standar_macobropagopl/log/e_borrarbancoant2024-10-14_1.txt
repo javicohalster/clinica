@@ -1,0 +1,15 @@
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-14502670D52469AB6F' and crpadet_id=924-->2024-10-14 13:10:26
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-14502670D52469AB6F' and crpadet_id=926-->2024-10-14 15:14:40
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-14502670D52469AB6F' and crpadet_id=913-->2024-10-14 15:41:10
+502-->select * from app_anticipos where anti_id='203'-->2024-10-14 17:28:59
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='203')-->2024-10-14 17:29:02
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='203'-->2024-10-14 17:29:02
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-14502670D9AA869588'-->2024-10-14 17:29:02
+502-->delete from app_anticipos where anti_id=203-->2024-10-14 17:29:02
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-14502670D93EAA3C00' and crpadet_id=950-->2024-10-14 17:29:02
+502-->select * from app_anticipos where anti_id='202'-->2024-10-14 17:32:56
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='202')-->2024-10-14 17:32:59
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='202'-->2024-10-14 17:32:59
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-14502670D9AA867D24'-->2024-10-14 17:32:59
+502-->delete from app_anticipos where anti_id=202-->2024-10-14 17:32:59
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-14502670D93EAA3C00' and crpadet_id=946-->2024-10-14 17:32:59

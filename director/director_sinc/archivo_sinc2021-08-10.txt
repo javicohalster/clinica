@@ -1,0 +1,5 @@
+update gogess_sisfield set fie_title='Identidad de Genero:' where fie_id='6250';
+update gogess_sisfield set fie_title='Orientacion Sexual:' where fie_id='6251';
+update gogess_sisfield set fie_groupprint='0' where fie_id='6251';
+update gogess_sisfield set fie_groupprint='0' where fie_id='6250';
+update gogess_sisfield set fie_title='Emergencia celular:' where fie_id='3513';

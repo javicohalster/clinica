@@ -1,0 +1,3 @@
+update gogess_sisfield set fie_title='Función:' where fie_id='5277';
+update gogess_sisfield set fie_title='Funci&óacute;n:' where fie_id='5277';
+update gogess_sisfield set fie_title='Funcion:' where fie_id='5277';

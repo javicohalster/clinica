@@ -1,0 +1,1031 @@
+501-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,1,'05','','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA','','','0986942608','monicapabon@gmail.com',0,'2024-09-22 02:00:26')-->2024-09-22 02:01:00
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFBFF32180E50120240922015755496',46.89,6280,NULL,'',1091.85,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',7.03,1,0,'','001-002-000010265','1792935261001',1145.77,'05','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA',10,'0986942608','monicapabon@gmail.com','1001589801','','',501,3,6,1,'01',1.145.77,0,'HOSPITALIZACION 
+DR ESPINOSA',1)-->2024-09-22 02:01:09
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFBFF32180E50120240922015755496',46.89,6280,NULL,'',1091.85,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',7.03,1,0,'','001-002-000010265','1792935261001',1145.77,'05','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA',10,'0986942608','monicapabon@gmail.com','1001589801','','',501,3,6,1,'01',1.145.77,0,'HOSPITALIZACION 
+DR ESPINOSA',1)-->2024-09-22 02:01:22
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFBFF32180E50120240922015755496',46.89,6280,NULL,'',1091.85,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',7.03,1,0,'','001-002-000010265','1792935261001',1145.77,'05','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA',10,'0986942608','monicapabon@gmail.com','1001589801','','',501,3,6,1,'01',1.145.77,0,'HOSPITALIZACION 
+DR ESPINOSA',1)-->2024-09-22 02:01:27
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFBFF32180E50120240922015755496',46.89,6280,NULL,'',1091.85,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',7.03,1,0,'','001-002-000010265','1792935261001',1145.77,'05','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA',10,'0986942608','monicapabon@gmail.com','1001589801','','',501,3,6,1,'01',1.145.77,0,'HOSPITALIZACION 
+DR ESPINOSA',1)-->2024-09-22 02:01:39
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFC0FEB75DF50120240922020222283',46.89,6280,NULL,'',1091.85,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',7.03,1,0,'','001-002-000010265','1792935261001',1145.77,'05','1001589801','MONICA ELIZABETH PABON CARRASCO','IBARRA',10,'0986942608','monicapabon@gmail.com','1001589801','','',501,3,6,1,'01',1145.77,0.00,'HOSPITALIZACION
+DR ESPINOSA',1)-->2024-09-22 02:04:01
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFD9048FEB750120240922034452266',0,243,NULL,'',520.49,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',0,1,0,'','001-002-000010266','1792935261001',520.49,'04','1714745476001','ESCUDERO LAVERDE FREDDY JAVIER','Via Quito del Bco. Fomento',10,'23795314','dr.fjescuderocp@gmail.com','1900124825','','',501,3,6,1,'01',520.49,0.00,'BLEFAROPLASTIA 
+1H5m
+PCTE ARMIJOS QUEZADA LUZ 
+GERMANIA',0)-->2024-09-22 03:48:50
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFEF0FAB0CE50120240922051855421',0,3376,NULL,'',5,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',0,1,0,'','001-002-000010267','1792935261001',5,'05','1717918880','CARVAJAL ALCIVAR IRINA JACQUELINE','BRASIL Y NICOLAS LOPEZ',10,'0983439900','jaqui.carvajal1223@gmail.com','1721627519','','',501,3,6,1,'01',5,0.00,'ARREINDDO 
+DR CARVAJAL 
+ENDOCRINOLOGIqaa',0)-->2024-09-22 05:20:06
+501-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,1,'04','1756744650001','','ISABEL ECHEVARRIA','PINAR ALTO','','','0984207206','isabelf@yahoo.com',0,'2024-09-22 05:28:30')-->2024-09-22 05:31:59
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFF0A8E557C50120240922052544212',0,6281,NULL,'',5,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',0,1,0,'','001-002-000010268','1792935261001',5,'04','1756744650001','ISABEL ECHEVARRIA','PINAR ALTO',10,'0984207206','isabelf@yahoo.com','1801136043','','',501,3,6,1,'01',5,0.00,'ARREINDO 
+CONSULTORIO
+DRA ECHEVARRIA',0)-->2024-09-22 05:32:03
+501-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,1,0,'2024-09-22',6281,'','1.1.1.1','factura','',NULL,0,0,501,'2024-09-22 05:32:05',1,'COBRO','2024-09-2250166EFF22558704','0166EFF0A8E557C50120240922052544212',0)-->2024-09-22 05:32:32
+501-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2024-09-22',proveep_id=6281,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='factura',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=501,crb_fecharegistro='2024-09-22 05:32:05',crb_efectivo=1,crb_descripcion='COBRO',crb_enlace='2024-09-2250166EFF22558704',doccab_id='0166EFF0A8E557C50120240922052544212',compra_id=0 where crb_id=7700 -->2024-09-22 05:32:35
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFF3081317650120240922053552479',0,6275,NULL,'',3,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',0,1,0,'','001-002-000010269','1792935261001',3,'05','1704401817','JAIME RODRIGO RIQUETTI OCHOA','QUITO TENNIS',10,'0999829429','jriquetti@hotmail.com','1704401817','','',501,3,6,1,'01',3,0.00,'COLOCACION DE INYECCION',0)-->2024-09-22 05:36:23
+501-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,1,'05','','1712923075','ORLANDO ANTONIO RUIZ BUSTAMANTE','SANTA BARBARA BAJA','','','0987300409','anruiz1977@hotmail.com',0,'2024-09-22 06:47:44')-->2024-09-22 06:47:51
+501-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166EFF7A0A397650120240922055528402',186.91,6282,NULL,'',973.05,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',28.04,1,0,'','001-002-000010270','1792935261001',1188,'05','1712923075','ORLANDO ANTONIO RUIZ BUSTAMANTE','SANTA BARBARA BAJA',10,'0987300409','anruiz1977@hotmail.com','1712923075','','',501,3,6,1,'01',1188,0.00,'RUIZ BUSTAMANTE ORLANDO
+DRA JAIME ACOSTA',0)-->2024-09-22 06:48:52
+501-->insert into lpin_lote (lottar_recap,redc_id,lottar_fechai,lottar_fechaf,lottar_fecharegistro) values ('1256',1,'2024-09-21','2024-09-21','2024-09-22 06:53:29')-->2024-09-22 06:53:39
+501-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-09-22',6282,'','1.1.2.5.5','6970','',NULL,0,748,501,'2024-09-22 06:52:53',0,'FACTURA','2024-09-2250166F00515681FD','0166EFF7A0A397650120240922055528402',0)-->2024-09-22 06:53:56
+501-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-09-22',proveep_id=6282,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6970',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=748,usua_id=501,crb_fecharegistro='2024-09-22 06:52:53',crb_efectivo=0,crb_descripcion='FACTURA',crb_enlace='2024-09-2250166F00515681FD',doccab_id='0166EFF7A0A397650120240922055528402',compra_id=0 where crb_id=7701 -->2024-09-22 06:54:00
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFC0FEB75DF50120240922020222283',doccab_subtotaliva=46.89,proveeve_id=6280,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1091.85,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=7.03,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102650001026516',doccab_ndocumento='001-002-000010265',doccab_rucempresa='1792935261001',doccab_total=1145.77,tipoident_codigo='05',doccab_rucci_cliente='1001589801',doccab_nombrerazon_cliente='MONICA ELIZABETH PABON CARRASCO',doccab_direccion_cliente='IBARRA',tipase_id=10,doccab_telefono_cliente='0986942608',doccab_email_cliente='monicapabon@gmail.com',doccab_identificacionpaciente='1001589801',doccab_nautorizacion='2209202401179293526100120010020000102650001026516',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1145.77,doccab_cambio=0,doccab_adicional='HOSPITALIZACION
+DR ESPINOSA',doccab_pgacont=1 where doccab_id='0166EFC0FEB75DF50120240922020222283' -->2024-09-22 06:55:58
+501-->insert into lpin_lote (lottar_recap,redc_id,lottar_fechai,lottar_fechaf,lottar_fecharegistro) values ('1256',1,'2024-09-21','2024-09-21','2024-09-22 06:56:26')-->2024-09-22 06:56:37
+501-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-09-22',6280,'','1.1.2.5.5','6969','',NULL,0,749,501,'2024-09-22 06:56:11',0,'FACTURA','2024-09-2250166F005DBD855E','0166EFC0FEB75DF50120240922020222283',0)-->2024-09-22 06:57:07
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFD9048FEB750120240922034452266',doccab_subtotaliva=0,proveeve_id=243,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=520.49,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102660001026619',doccab_ndocumento='001-002-000010266',doccab_rucempresa='1792935261001',doccab_total=520.49,tipoident_codigo='04',doccab_rucci_cliente='1714745476001',doccab_nombrerazon_cliente='ESCUDERO LAVERDE FREDDY JAVIER',doccab_direccion_cliente='Via Quito del Bco. Fomento',tipase_id=10,doccab_telefono_cliente='23795314',doccab_email_cliente='dr.fjescuderocp@gmail.com',doccab_identificacionpaciente='1900124825',doccab_nautorizacion='2209202401179293526100120010020000102660001026619',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=520.49,doccab_cambio=0,doccab_adicional='BLEFAROPLASTIA 
+1H5m
+PCTE ARMIJOS QUEZADA LUZ 
+GERMANIA',doccab_pgacont=0 where doccab_id='0166EFD9048FEB750120240922034452266' -->2024-09-22 06:59:19
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFD9048FEB750120240922034452266',doccab_subtotaliva=0,proveeve_id=243,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=520.49,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102660001026619',doccab_ndocumento='001-002-000010266',doccab_rucempresa='1792935261001',doccab_total=520.49,tipoident_codigo='04',doccab_rucci_cliente='1714745476001',doccab_nombrerazon_cliente='ESCUDERO LAVERDE FREDDY JAVIER',doccab_direccion_cliente='Via Quito del Bco. Fomento',tipase_id=10,doccab_telefono_cliente='23795314',doccab_email_cliente='dr.fjescuderocp@gmail.com',doccab_identificacionpaciente='1900124825',doccab_nautorizacion='2209202401179293526100120010020000102660001026619',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=520.49,doccab_cambio=0,doccab_adicional='BLEFAROPLASTIA 
+1H5m
+PCTE ARMIJOS QUEZADA LUZ 
+GERMANIA',doccab_pgacont=0 where doccab_id='0166EFD9048FEB750120240922034452266' -->2024-09-22 07:11:42
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFD9048FEB750120240922034452266',doccab_subtotaliva=0,proveeve_id=243,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=520.49,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102660001026619',doccab_ndocumento='001-002-000010266',doccab_rucempresa='1792935261001',doccab_total=520.49,tipoident_codigo='04',doccab_rucci_cliente='1714745476001',doccab_nombrerazon_cliente='ESCUDERO LAVERDE FREDDY JAVIER',doccab_direccion_cliente='Via Quito del Bco. Fomento',tipase_id=10,doccab_telefono_cliente='23795314',doccab_email_cliente='dr.fjescuderocp@gmail.com',doccab_identificacionpaciente='1900124825',doccab_nautorizacion='2209202401179293526100120010020000102660001026619',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=520.49,doccab_cambio=0,doccab_adicional='BLEFAROPLASTIA 
+1H5m
+PCTE ARMIJOS QUEZADA LUZ 
+GERMANIA',doccab_pgacont=0 where doccab_id='0166EFD9048FEB750120240922034452266' -->2024-09-22 07:11:57
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF7A0A397650120240922055528402',doccab_subtotaliva=186.91,proveeve_id=6282,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=973.05,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=28.04,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102700001027013',doccab_ndocumento='001-002-000010270',doccab_rucempresa='1792935261001',doccab_total=1188,tipoident_codigo='05',doccab_rucci_cliente='1712923075',doccab_nombrerazon_cliente='ORLANDO ANTONIO RUIZ BUSTAMANTE',doccab_direccion_cliente='SANTA BARBARA BAJA',tipase_id=10,doccab_telefono_cliente='0987300409',doccab_email_cliente='anruiz1977@hotmail.com',doccab_identificacionpaciente='1712923075',doccab_nautorizacion='2209202401179293526100120010020000102700001027013',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1188,doccab_cambio=0,doccab_adicional='RUIZ BUSTAMANTE ORLANDO
+DRA JAIME ACOSTA',doccab_pgacont=0 where doccab_id='0166EFF7A0A397650120240922055528402' -->2024-09-22 07:18:40
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF7A0A397650120240922055528402',doccab_subtotaliva=186.91,proveeve_id=6282,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=973.05,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=28.04,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102700001027013',doccab_ndocumento='001-002-000010270',doccab_rucempresa='1792935261001',doccab_total=1188,tipoident_codigo='05',doccab_rucci_cliente='1712923075',doccab_nombrerazon_cliente='ORLANDO ANTONIO RUIZ BUSTAMANTE',doccab_direccion_cliente='SANTA BARBARA BAJA',tipase_id=10,doccab_telefono_cliente='0987300409',doccab_email_cliente='anruiz1977@hotmail.com',doccab_identificacionpaciente='1712923075',doccab_nautorizacion='2209202401179293526100120010020000102700001027013',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1188,doccab_cambio=0,doccab_adicional='RUIZ BUSTAMANTE ORLANDO
+DRA JAIME ACOSTA',doccab_pgacont=0 where doccab_id='0166EFF7A0A397650120240922055528402' -->2024-09-22 07:20:30
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF7A0A397650120240922055528402',doccab_subtotaliva=186.91,proveeve_id=6282,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=973.05,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=28.04,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102700001027013',doccab_ndocumento='001-002-000010270',doccab_rucempresa='1792935261001',doccab_total=1188,tipoident_codigo='05',doccab_rucci_cliente='1712923075',doccab_nombrerazon_cliente='ORLANDO ANTONIO RUIZ BUSTAMANTE',doccab_direccion_cliente='SANTA BARBARA BAJA',tipase_id=10,doccab_telefono_cliente='0987300409',doccab_email_cliente='anruiz1977@hotmail.com',doccab_identificacionpaciente='1712923075',doccab_nautorizacion='2209202401179293526100120010020000102700001027013',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1188,doccab_cambio=0,doccab_adicional='RUIZ BUSTAMANTE ORLANDO
+DRA JAIME ACOSTA',doccab_pgacont=0 where doccab_id='0166EFF7A0A397650120240922055528402' -->2024-09-22 07:20:34
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF3081317650120240922053552479',doccab_subtotaliva=0,proveeve_id=6275,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102690001026917',doccab_ndocumento='001-002-000010269',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='1704401817',doccab_nombrerazon_cliente='JAIME RODRIGO RIQUETTI OCHOA',doccab_direccion_cliente='QUITO TENNIS',tipase_id=10,doccab_telefono_cliente='0999829429',doccab_email_cliente='jriquetti@hotmail.com',doccab_identificacionpaciente='1704401817',doccab_nautorizacion='2209202401179293526100120010020000102690001026917',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='COLOCACION DE INYECCION',doccab_pgacont=0 where doccab_id='0166EFF3081317650120240922053552479' -->2024-09-22 07:24:54
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF3081317650120240922053552479',doccab_subtotaliva=0,proveeve_id=6275,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102690001026917',doccab_ndocumento='001-002-000010269',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='1704401817',doccab_nombrerazon_cliente='JAIME RODRIGO RIQUETTI OCHOA',doccab_direccion_cliente='QUITO TENNIS',tipase_id=10,doccab_telefono_cliente='0999829429',doccab_email_cliente='jriquetti@hotmail.com',doccab_identificacionpaciente='1704401817',doccab_nautorizacion='2209202401179293526100120010020000102690001026917',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='COLOCACION DE INYECCION',doccab_pgacont=0 where doccab_id='0166EFF3081317650120240922053552479' -->2024-09-22 07:25:24
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF0A8E557C50120240922052544212',doccab_subtotaliva=0,proveeve_id=6281,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102680001026814',doccab_ndocumento='001-002-000010268',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='04',doccab_rucci_cliente='1756744650001',doccab_nombrerazon_cliente='ISABEL ECHEVARRIA',doccab_direccion_cliente='PINAR ALTO',tipase_id=10,doccab_telefono_cliente='0984207206',doccab_email_cliente='isabelf@yahoo.com',doccab_identificacionpaciente='1801136043',doccab_nautorizacion='2209202401179293526100120010020000102680001026814',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0,doccab_adicional='ARREINDO 
+CONSULTORIO
+DRA ECHEVARRIA',doccab_pgacont=0 where doccab_id='0166EFF0A8E557C50120240922052544212' -->2024-09-22 07:26:52
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFF0A8E557C50120240922052544212',doccab_subtotaliva=0,proveeve_id=6281,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102680001026814',doccab_ndocumento='001-002-000010268',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='04',doccab_rucci_cliente='1756744650001',doccab_nombrerazon_cliente='ISABEL ECHEVARRIA',doccab_direccion_cliente='PINAR ALTO',tipase_id=10,doccab_telefono_cliente='0984207206',doccab_email_cliente='isabelf@yahoo.com',doccab_identificacionpaciente='1801136043',doccab_nautorizacion='2209202401179293526100120010020000102680001026814',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0,doccab_adicional='ARREINDO 
+CONSULTORIO
+DRA ECHEVARRIA',doccab_pgacont=0 where doccab_id='0166EFF0A8E557C50120240922052544212' -->2024-09-22 07:27:39
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFEF0FAB0CE50120240922051855421',doccab_subtotaliva=0,proveeve_id=3376,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102670001026711',doccab_ndocumento='001-002-000010267',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='05',doccab_rucci_cliente='1717918880',doccab_nombrerazon_cliente='CARVAJAL ALCIVAR IRINA JACQUELINE',doccab_direccion_cliente='BRASIL Y NICOLAS LOPEZ',tipase_id=10,doccab_telefono_cliente='0983439900',doccab_email_cliente='jaqui.carvajal1223@gmail.com',doccab_identificacionpaciente='1721627519',doccab_nautorizacion='2209202401179293526100120010020000102670001026711',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0,doccab_adicional='ARREINDDO 
+DR CARVAJAL 
+ENDOCRINOLOGIqaa',doccab_pgacont=0 where doccab_id='0166EFEF0FAB0CE50120240922051855421' -->2024-09-22 07:30:10
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFEF0FAB0CE50120240922051855421',doccab_subtotaliva=0,proveeve_id=3376,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102670001026711',doccab_ndocumento='001-002-000010267',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='05',doccab_rucci_cliente='1717918880',doccab_nombrerazon_cliente='CARVAJAL ALCIVAR IRINA JACQUELINE',doccab_direccion_cliente='BRASIL Y NICOLAS LOPEZ',tipase_id=10,doccab_telefono_cliente='0983439900',doccab_email_cliente='jaqui.carvajal1223@gmail.com',doccab_identificacionpaciente='1721627519',doccab_nautorizacion='2209202401179293526100120010020000102670001026711',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0,doccab_adicional='ARREINDDO 
+DR CARVAJAL 
+ENDOCRINOLOGIqaa',doccab_pgacont=0 where doccab_id='0166EFEF0FAB0CE50120240922051855421' -->2024-09-22 07:30:42
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFEF0FAB0CE50120240922051855421',doccab_subtotaliva=0,proveeve_id=3376,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102670001026711',doccab_ndocumento='001-002-000010267',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='05',doccab_rucci_cliente='1717918880',doccab_nombrerazon_cliente='CARVAJAL ALCIVAR IRINA JACQUELINE',doccab_direccion_cliente='BRASIL Y NICOLAS LOPEZ',tipase_id=10,doccab_telefono_cliente='0983439900',doccab_email_cliente='jaqui.carvajal1223@gmail.com',doccab_identificacionpaciente='1721627519',doccab_nautorizacion='2209202401179293526100120010020000102670001026711',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0,doccab_adicional='ARREINDDO 
+DR CARVAJAL 
+ENDOCRINOLOGIqaa',doccab_pgacont=0 where doccab_id='0166EFEF0FAB0CE50120240922051855421' -->2024-09-22 07:31:45
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFC0FEB75DF50120240922020222283',doccab_subtotaliva=46.89,proveeve_id=6280,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1091.85,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=7.03,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102650001026516',doccab_ndocumento='001-002-000010265',doccab_rucempresa='1792935261001',doccab_total=1145.77,tipoident_codigo='05',doccab_rucci_cliente='1001589801',doccab_nombrerazon_cliente='MONICA ELIZABETH PABON CARRASCO',doccab_direccion_cliente='IBARRA',tipase_id=10,doccab_telefono_cliente='0986942608',doccab_email_cliente='monicapabon@gmail.com',doccab_identificacionpaciente='1001589801',doccab_nautorizacion='2209202401179293526100120010020000102650001026516',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1145.77,doccab_cambio=0,doccab_adicional='HOSPITALIZACION
+DR ESPINOSA',doccab_pgacont=1 where doccab_id='0166EFC0FEB75DF50120240922020222283' -->2024-09-22 07:36:16
+501-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166EFC0FEB75DF50120240922020222283',doccab_subtotaliva=46.89,proveeve_id=6280,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1091.85,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=7.03,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102650001026516',doccab_ndocumento='001-002-000010265',doccab_rucempresa='1792935261001',doccab_total=1145.77,tipoident_codigo='05',doccab_rucci_cliente='1001589801',doccab_nombrerazon_cliente='MONICA ELIZABETH PABON CARRASCO',doccab_direccion_cliente='IBARRA',tipase_id=10,doccab_telefono_cliente='0986942608',doccab_email_cliente='monicapabon@gmail.com',doccab_identificacionpaciente='1001589801',doccab_nautorizacion='2209202401179293526100120010020000102650001026516',doccab_fechaaut='',usua_id=501,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=1145.77,doccab_cambio=0,doccab_adicional='HOSPITALIZACION
+DR ESPINOSA',doccab_pgacont=1 where doccab_id='0166EFC0FEB75DF50120240922020222283' -->2024-09-22 07:36:48
+501-->insert into dns_cierrecaja (cierr_ntransacciones,cierr_totaldinero,emp_id,cierr_anulados,estac_id,centro_id,cierr_valoranulado,cierr_efectivo,ctpc_id,cierr_cheque,cierr_fecha,cierr_tarjetacredito,cierr_fechafin,cierr_credito,cierr_transferencia,cierr_observacion,cierr_cuentaxcobrar,cierr_otros,usua_id,cierr_tarjetadebito,cierr_fecharegistro,cierr_total,usuacierra_id,cierr_enlace) values ('6','5',1,'0',2,1,'','5',1,'','2024-09-21','2333.77','2024-09-22','','528.49','','','',501,'','2024-09-22 07:43:24','2867.26',0,'17234113422024092207432442253')-->2024-09-22 07:44:21
+501-->update dns_cierrecaja set cierr_ntransacciones='6',cierr_totaldinero='5',emp_id=1,cierr_anulados='0',estac_id=3,centro_id=1,cierr_valoranulado='',cierr_efectivo='5',ctpc_id=1,cierr_cheque='',cierr_fecha='2024-09-21',cierr_tarjetacredito='2333.77',cierr_fechafin='2024-09-22',cierr_credito='',cierr_transferencia='528.49',cierr_observacion='',cierr_cuentaxcobrar='',cierr_otros='',usua_id=501,cierr_tarjetadebito='',cierr_fecharegistro='2024-09-22 07:43:24',cierr_total='2867.26',usuacierra_id=0,cierr_enlace='17234113422024092207432442253' where cierr_id=364 -->2024-09-22 07:44:37
+196-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (4475,196,13,3278,'LIBRE DEMANDA','PACIENTE FEMENINA DE 1 AÑO 11 MESES TRAIDA POR SU MADRE QUIEN REFIERE QUE DESDE HACE 5 DIAS CAMILA PRESENTA RINORREA HIALINA ABUNDANTE QUE SE HOY SE ACOMPAÑA DE TOS PRODUCTIVA NO REFIERE ALZA TERMICA NO VOMITOS NO DIARREAS. EN CASA FAMILIARES CON IGUAL SINTOMATOLOGIA','','',4,'','','TOS + RINORREA','','1','2024-09-22 10:58:54','',0,'','447501131202875419620240922105854140')-->2024-09-22 11:10:35
+196-->update dns_newconsultaexternaanamesis set clie_id=4475,usua_id=196,centro_id=13,atenc_id=3278,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE FEMENINA DE 1 AÑO 11 MESES TRAIDA POR SU MADRE QUIEN REFIERE QUE DESDE HACE 5 DIAS CAMILA PRESENTA RINORREA HIALINA ABUNDANTE QUE SE HOY SE ACOMPAÑA DE TOS PRODUCTIVA NO REFIERE ALZA TERMICA NO VOMITOS NO DIARREAS. EN CASA FAMILIARES CON IGUAL SINTOMATOLOGIA',anam_planes='1. PARACETAMOL 6 ML VIA ORAL CADA 6 HORAS POR 3 DIAS 
+2. IBUPROFENO 3 ML VIA ORAL CADA 8 HORAS POR 3 DIAS 
+3. LAVADOS NASALES CADA 4 HORAS CON SUERO FISIOLOGICO 
+4. AFRIN INFANTIL 1 PUFF EN CADA FOSA NASAL CADA 12 HORAS 
+5. BETAMETASONA MAS DEXCLORFENIRAMINA 2.5 ML VIA ORAL CADA 12 HORAS POR 7 DIAS 
+6. LEVODROPROPIZINA 2 ML VIA ORAL CADA 8 HORAS POR 7 DIAS 
+4. AMOXICILINA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='TOS + RINORREA',anam_vidasexualactivaobs='',anam_respiratorio='1',anam_fecharegistro='2024-09-22 10:58:54',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='447501131202875419620240922105854140' where anam_id=2445 -->2024-09-22 11:26:02
+196-->update dns_newconsultaexternaanamesis set clie_id=4475,usua_id=196,centro_id=13,atenc_id=3278,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE FEMENINA DE 1 AÑO 11 MESES TRAIDA POR SU MADRE QUIEN REFIERE QUE DESDE HACE 5 DIAS CAMILA PRESENTA RINORREA HIALINA ABUNDANTE QUE SE HOY SE ACOMPAÑA DE TOS PRODUCTIVA NO REFIERE ALZA TERMICA NO VOMITOS NO DIARREAS. EN CASA FAMILIARES CON IGUAL SINTOMATOLOGIA',anam_planes='1. PARACETAMOL 6 ML VIA ORAL CADA 6 HORAS POR 3 DIAS 
+2. IBUPROFENO 3 ML VIA ORAL CADA 8 HORAS POR 3 DIAS 
+3. LAVADOS NASALES CADA 4 HORAS CON SUERO FISIOLOGICO 
+4. AFRIN INFANTIL 1 PUFF EN CADA FOSA NASAL CADA 12 HORAS 
+5. BETAMETASONA MAS DEXCLORFENIRAMINA 2.5 ML VIA ORAL CADA 12 HORAS POR 7 DIAS 
+6. LEVODROPROPIZINA 2 ML VIA ORAL CADA 8 HORAS POR 7 DIAS 
+4. AMOXICILINA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='TOS + RINORREA',anam_vidasexualactivaobs='',anam_respiratorio='1',anam_fecharegistro='2024-09-22 10:58:54',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='447501131202875419620240922105854140' where anam_id=2445 -->2024-09-22 11:26:06
+196-->update dns_newconsultaexternaanamesis set clie_id=4475,usua_id=196,centro_id=13,atenc_id=3278,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE FEMENINA DE 1 AÑO 11 MESES TRAIDA POR SU MADRE QUIEN REFIERE QUE DESDE HACE 5 DIAS CAMILA PRESENTA RINORREA HIALINA ABUNDANTE QUE SE HOY SE ACOMPAÑA DE TOS PRODUCTIVA NO REFIERE ALZA TERMICA NO VOMITOS NO DIARREAS. EN CASA FAMILIARES CON IGUAL SINTOMATOLOGIA',anam_planes='1. PARACETAMOL 6 ML VIA ORAL CADA 6 HORAS POR 3 DIAS 
+2. IBUPROFENO 3 ML VIA ORAL CADA 8 HORAS POR 3 DIAS 
+3. LAVADOS NASALES CADA 4 HORAS CON SUERO FISIOLOGICO 
+4. AFRIN INFANTIL 1 PUFF EN CADA FOSA NASAL CADA 12 HORAS 
+5. BETAMETASONA MAS DEXCLORFENIRAMINA 2.5 ML VIA ORAL CADA 12 HORAS POR 7 DIAS 
+6. LEVODROPROPIZINA 2 ML VIA ORAL CADA 8 HORAS POR 7 DIAS 
+4. AMOXICILINA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='TOS + RINORREA',anam_vidasexualactivaobs='',anam_respiratorio='1',anam_fecharegistro='2024-09-22 10:58:54',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='447501131202875419620240922105854140' where anam_id=2445 -->2024-09-22 11:46:09
+196-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (8570,196,1,7465,'LIBRE DEMANDA','PACIENTE TRAIDA POR SU MADRE A CONTROL DE SALUD, COMO ANTECEDENTE, PREMATURA, ADEMAS A LOS 11 MESES NEUMONIA COMPLICADA CON NECESIDAD DE HOSPITALIZACION. HACE 2 MESES INFECCION INTESTINAL, HACE 3 SEMANAS INFECCION RESPIRATORIA ALTA MANEJADA CON ANTIBIOTICOTERAPIA VIA ORAL. 
+HOY ASINTOMATICA.','','',4,'','','CONTROL','','0','2024-09-22 11:46:37','',1,'','857001131202875419620240922114637450')-->2024-09-22 11:56:56
+196-->update dns_newconsultaexternaanamesis set clie_id=8570,usua_id=196,centro_id=1,atenc_id=7465,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE TRAIDA POR SU MADRE A CONTROL DE SALUD, COMO ANTECEDENTE, PREMATURA, ADEMAS A LOS 11 MESES NEUMONIA COMPLICADA CON NECESIDAD DE HOSPITALIZACION. HACE 2 MESES INFECCION INTESTINAL, HACE 3 SEMANAS INFECCION RESPIRATORIA ALTA MANEJADA CON ANTIBIOTICOTERAPIA VIA ORAL. 
+HOY ASINTOMATICA.',anam_planes='1 VITAMINAS Y MINERALES TRIVISOL 2 ML VIA ORAL CADA DIA 
+2 ALIMENTACION COMPLEMENTARIA
+3 ESTIMULACION VISUAL AUDITIVA Y MOTORA
+4 SIGNOS DE ALARMA 
+5 CERTIFICADO MEDICO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 11:46:37',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_nhoja='',anam_enlace='857001131202875419620240922114637450' where anam_id=2446 -->2024-09-22 12:13:28
+196-->update dns_newconsultaexternaanamesis set clie_id=8570,usua_id=196,centro_id=1,atenc_id=7465,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE TRAIDA POR SU MADRE A CONTROL DE SALUD, COMO ANTECEDENTE, PREMATURA, ADEMAS A LOS 11 MESES NEUMONIA COMPLICADA CON NECESIDAD DE HOSPITALIZACION. HACE 2 MESES INFECCION INTESTINAL, HACE 3 SEMANAS INFECCION RESPIRATORIA ALTA MANEJADA CON ANTIBIOTICOTERAPIA VIA ORAL. 
+HOY ASINTOMATICA.',anam_planes='1 VITAMINAS Y MINERALES TRIVISOL 2 ML VIA ORAL CADA DIA 
+2 ALIMENTACION COMPLEMENTARIA
+3 ESTIMULACION VISUAL AUDITIVA Y MOTORA
+4 SIGNOS DE ALARMA 
+5 CERTIFICADO MEDICO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 11:46:37',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_nhoja='',anam_enlace='857001131202875419620240922114637450' where anam_id=2446 -->2024-09-22 12:19:37
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=9032,atenc_id='7945',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-08-01 13:18:00',protoop_selectiva='1',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-08-01',protoop_sintesis='',protoop_idenlace='1163',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='12:00',protoop_sintesisimagen='05868EHTEI20240801.jpg',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. JAVIER TORRES',protoop_horafin='14:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='REVISION + RETIRO DE MATERIAL +PLASTIA DE LIGAMENTO CRUZADO ANTERIOR',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM + PLASTIA MENISCAL LATERAL CON SUTURAS MENISCALES',protoop_dieresis='PORTALES ANTERIORES MEDIAL Y LATERAL INCISION MEDIAL PROXIMAL DE RODILLA DERECHA, INCISION MEDIAL RODILLA IZQUIERDA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRA. XIMENA',protoop_enlace='90320117144202781812024080101180073',protoop_circulante='SRA SUSANA',protoop_exposicion='TORRE DE ARTROSCOPIA, BOMBA DE IRRIGACION CON KIT DESCARTABLE DE MANGUERAAS Y SS 0,9% 15000CC',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_exploracion='AUSENCIA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR Y EN LECHO SUTURAS DE IMPLANTE PREVIO
+ROTURA LONGITUDINAL INFERIOR DE MENISCO LATERAL DE CUERNO ANTERIOR CUERPO Y CUERNO POSTERIOR',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DECUBITO SUPINO
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	INFILTRACION DE MARCAINA CON EPINEFRINA 10CC
+5.	PORTAL ANTERO LATERAL DE RODILLA DERECHA
+6.	ARTROSCOPIA DIAGNOSTICA 
+7.	SINOVECTOMIA EXTENSA CON SHAVER Y RADIOFRECUENCIA 
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	LIMPIEZA DE RESTOS DE LCA Y MATERIAL DE CIRUGIA PREVIA
+10.	INCISION MEDIAL DE TIBIA PROXIMALIZQUIERDA Y DERECHA 
+11.	COSECHA DE INJERTO DE ISQUIOTIBIALES
+12.	PREPARACION DE INJERTOS CON DOS SUPERSUTURAS FIBER LOOP 
+13.	FABRICACION DE TUNEL FEMORAL 8MM Y TIBIAL 8MM CON GUIAS DE CASA COMERCIAL
+14.	PASO DE INJERTO DE FORMA RETROGRADA CON SISTEMA DE ENDOBOTOM ANCLAJE EN CORTICAL FEMORAL EXTERNA 
+15.	COLOCACION DE TORNILLO DE INTERFERENCIA 9*25MM EN TIBIA 
+16.	CRUENTEADO DE LECHO TRAUMATICO DE MENISCO LATERAL
+17.	REINSERCION DE MENISCO CON TRES SUTURAS TODO DENTRO UNA EN CUERNO POSTERIOR UNA EC CUERPO Y OTRA EN CUERNO ANTERIOR
+18.	REVISION Y CONTROL DE HEMOSTASIA CON RADIOFRECUENCIA
+19.	SINTESIS',protoop_complicaciones='NO',protoop_perdida='',protoop_sangrado='100CC',protoop_protesico='0',anam_enlace='' where protoop_id=1364 -->2024-09-22 12:23:27
+196-->update dns_newconsultaexternaanamesis set clie_id=8570,usua_id=196,centro_id=1,atenc_id=7465,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE TRAIDA POR SU MADRE A CONTROL DE SALUD, COMO ANTECEDENTE, PREMATURA, ADEMAS A LOS 11 MESES NEUMONIA COMPLICADA CON NECESIDAD DE HOSPITALIZACION. HACE 2 MESES INFECCION INTESTINAL, HACE 3 SEMANAS INFECCION RESPIRATORIA ALTA MANEJADA CON ANTIBIOTICOTERAPIA VIA ORAL. 
+HOY ASINTOMATICA.',anam_planes='1 VITAMINAS Y MINERALES TRIVISOL 2 ML VIA ORAL CADA DIA 
+2 ALIMENTACION COMPLEMENTARIA
+3 ESTIMULACION VISUAL AUDITIVA Y MOTORA
+4 SIGNOS DE ALARMA 
+5 CERTIFICADO MEDICO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 11:46:37',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_nhoja='',anam_enlace='857001131202875419620240922114637450' where anam_id=2446 -->2024-09-22 12:26:10
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0166F06D70373C242720240922021808244',0,305,NULL,'',1930.6,1,'01','',NULL,'2024-09-22','',1,'','',2,'','','',0,1,0,'','001-002-000010271','1792935261001',1930.6,'04','1713935003001','GUERRERO MENDEZ SANTIAGO','VICENTE ROCAFUERTE E-68',10,'984678376','sjosueth@hotmail.com','1713935003001','','',427,3,0,1,'01',1930.6,0.00,'PAGO DE CIRUGIA DE LOS PACIENTES CALDERON RAMIREZ DIANA ANGELICA, GUERRERO TATIANA, ACOSTA ERIKA.
+DR GUERRERO SANTIAGO',0)-->2024-09-22 14:20:27
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166F06D70373C242720240922021808244',doccab_subtotaliva=0,proveeve_id=305,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1930.6,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102710001027116',doccab_ndocumento='001-002-000010271',doccab_rucempresa='1792935261001',doccab_total=1930.6,tipoident_codigo='04',doccab_rucci_cliente='1713935003001',doccab_nombrerazon_cliente='GUERRERO MENDEZ SANTIAGO',doccab_direccion_cliente='VICENTE ROCAFUERTE E-68',tipase_id=10,doccab_telefono_cliente='984678376',doccab_email_cliente='sjosueth@hotmail.com',doccab_identificacionpaciente='1713935003001',doccab_nautorizacion='2209202401179293526100120010020000102710001027116',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=1930.6,doccab_cambio=0.00,doccab_adicional='PAGO DE CIRUGIA DE LOS PACIENTES CALDERON RAMIREZ DIANA ANGELICA, GUERRERO TATIANA, ACOSTA ERIKA.
+DR GUERRERO SANTIAGO
+PAGO SE REALIZO EL 13/6/2024',doccab_pgacont=0 where doccab_id='0166F06D70373C242720240922021808244' -->2024-09-22 14:20:55
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166F06D70373C242720240922021808244',doccab_subtotaliva=0,proveeve_id=305,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1930.6,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102710001027116',doccab_ndocumento='001-002-000010271',doccab_rucempresa='1792935261001',doccab_total=1930.6,tipoident_codigo='04',doccab_rucci_cliente='1713935003001',doccab_nombrerazon_cliente='GUERRERO MENDEZ SANTIAGO',doccab_direccion_cliente='VICENTE ROCAFUERTE E-68',tipase_id=10,doccab_telefono_cliente='984678376',doccab_email_cliente='sjosueth@hotmail.com',doccab_identificacionpaciente='1713935003001',doccab_nautorizacion='2209202401179293526100120010020000102710001027116',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=1930.6,doccab_cambio=0.00,doccab_adicional='PAGO DE CIRUGIA DE LOS PACIENTES CALDERON RAMIREZ DIANA ANGELICA, GUERRERO TATIANA, ACOSTA ERIKA.
+DR GUERRERO SANTIAGO
+PAGO SE REALIZO EL 13/6/2024',doccab_pgacont=0 where doccab_id='0166F06D70373C242720240922021808244' -->2024-09-22 14:20:58
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0166F06D70373C242720240922021808244',doccab_subtotaliva=0,proveeve_id=305,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1930.6,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-09-22',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2209202401179293526100120010020000102710001027116',doccab_ndocumento='001-002-000010271',doccab_rucempresa='1792935261001',doccab_total=1930.6,tipoident_codigo='04',doccab_rucci_cliente='1713935003001',doccab_nombrerazon_cliente='GUERRERO MENDEZ SANTIAGO',doccab_direccion_cliente='VICENTE ROCAFUERTE E-68',tipase_id=10,doccab_telefono_cliente='984678376',doccab_email_cliente='sjosueth@hotmail.com',doccab_identificacionpaciente='1713935003001',doccab_nautorizacion='2209202401179293526100120010020000102710001027116',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=1930.6,doccab_cambio=0.00,doccab_adicional='PAGO DE CIRUGIA DE LOS PACIENTES CALDERON RAMIREZ DIANA ANGELICA, GUERRERO TATIANA, ACOSTA ERIKA.
+DR GUERRERO SANTIAGO
+PAGO SE REALIZO EL 13/6/2024',doccab_pgacont=0 where doccab_id='0166F06D70373C242720240922021808244' -->2024-09-22 14:21:00
+196-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=5876,anam_nhoja='',anam_fecharegistro='2024-08-02 14:49:29',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN TULCAN, RESIDENTE EN QUITO, MESTIZO, DOCENTE, CATOLICO, TIPO DE SANGRE O RH+, NIEGA TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: GOTA EN TRATAMIENTO CON ARTRICHINE 50MG SUSPENDIO HACE 1 MES
+APQX: APENDICECTOMIA HACE 20 AÑOS, FISTULA RECTAL HACE 16 AÑOS
+HÁBITOS: ALIMENTACION 3 VECES/DIA MICCION 8 VECES/DIA DEFECACION 1 VECES/DIA ALCOHOL NIEGA TABACO NIEGA OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 3 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: PROBLEMAS URINARIOS
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE DISURIA Y POLAQUIURIA DESDE HACE 7 MESES APROXIMADAMENTE, POR LO QUE ACUDIO A VALORACION CON UROLOGIA QUIEN POSTERIOR A REALIZACION DE CISTISCOPIA INDICO HIPERPLASIA PROSTATICA CON RESOLUCION QUIRURGICA POR LO QUE ES DERIVADO A ESTA CASA DE SALUD PARA INTERVENCION QUIRURGICO PARA LO QUE ACUDE
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: DIURESIS ESPONTÁNEA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO SIN ANTECEDENTES CLINICOS DE IMPORTANCIA, ACUDE PARA INTERVENCION POR UROLOGIA, CUMPLE HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADO A QUIROFANO. 
+
+IDG: 
+HIPERPLASIA DE LA PROSTATA  CIE 10 N40X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/02 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE PARA INTERVENCION CON UROLOGIA. SE REALIZA RESECCION TRANSURETRAL DE PROSTATA, PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA VESICAL DE TRES VIAS CON IRRIGACION CONTINUA Y SE OBSERVA DE COLORACION SANGUINOLENTO, PENDIENTE DEAMBULACION, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/03: PACIENTE  ADULTO CURSANDO POST QUIRÚRGICO INMEDIATO DESCRITO, AL MOMENTO CON EVOLUCIÓN FAVORABLE, CON PRESENCIA DE SONDA VESICAL PERMEABLE PRODUCTIVA CON TINTE HEMÁTICO, NO HA PRESENTADO TAPONAMIENTO EN NINGUN MOMENTO, ADEMÁS PACIENTE CON DOLOR CONTROLADO CON ANALGESIA PAUTADA. TOLERANCIA ORAL ADECUADA, MÉDICO TRATANTE DECIDE EL ALTA CON INDICACIONES.',anam_hallazgos='LABORATORIO
+2024/07/06 HEMOGLOBINA 21   HEMATOCRITO 63.2   LEUCOCITOS 6060   NEUTROFILOS 53.6    LINFOCITOS  38   PLAQUETAS  287000   TP  11.6  TTP 30.4   INR   1.01  GLUCOSA  84.4   UREA  49.6  CREATININA  1.5  PSA 6 PSA LIBRE 1.44  VDRL REACTIVO EMO NO INFECCIOSO',anam_resumentratamiento='INDICACIONES DE INGRESO
+
+INGRESO A  UROLOGIA HAB 304A
+NADA POR VIA ORAL
+CONTROL DE SIGNOS VITALES
+CANALIZAR VIA PERIFERICA
+FIRMAR CONSENTIMIENTOS INFORMADOS
+COMUNICAR NOVEDADES
+CHEQUEO PREANASTESICO
+ORDENES DR. ORTEGA
+
+2024/08/02 PROCEDIMIENTO: RESECCION TRANSURETRAL DE PROSTATA
+HALLAZGOS: ADENOMA INCREMENTADO DE TAMAÑO OBSTRUCCTIVO UN 80%
+URETRA PERMEABLE ESTRECHA SE DILATA HASTA 30F 
+VEJIGA TRABECULADA GII
+MEATOS URETERALES ORTOTOPICOS
+COMPLICACIONES: NINGUNA
+ANESTESIA: RAQUIDEA
+
+INDICACIONES POSQUIRURGICAS
+NADA POR VIA ORAL Y INICIAR DIETA BLANDA A TOLERANCIA 4 HORAS POSTQUIRURGICAS
+CONTROL DE SIGNOS VITALES CADA 6 HORAS
+CONTROL DE INGESTA Y EXCRETA 
+REPOSO RELATIVO POSICION SEMIFOWLER, CABECERA 45°
+LEVANTAR A SILLA PM Y BAÑO DIARIO AM 
+IRRIGACION VESICAL A GOTEO CONTINUO Y DISMINUIR PRN
+LAVADO VESICAL PRN 
+CLORURO DE SODIO LIQUIDO PARENTERAL 0.9% 1000 ML PASAR IV A 100 ML/HORA.
+CEFAZOLINA 1000 MG CADA 12 HORAS
+ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV CADA 12 HORA
+PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS POR EQUIPO DE VENOCLISIS. 
+KETOROLACO LIQUIDO PARENTERAL 30 MG/ ML PASAR IV CADA 8 HORAS. 
+NOVEDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE.',anam_altadefinitiva='1',protoop_idenlace='1167',anam_control=NULL,anam_fechaalta='2024-08-03',atenc_id='4873',anam_altatransitoria='',anam_horaalta='15:00',anam_enlace='587601100317451151120240802024929316',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='',anam_diasincapacidad='',usua2_id=393 where anam_id=590 -->2024-09-22 15:54:31
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5876,atenc_id='4873',usua_id=393,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-08-02 19:00:21',protoop_selectiva='',protoop_cirujanouno='DR DAVID ORTEGA',protoop_fechaoperacion='2024-08-02',protoop_sintesis='',protoop_idenlace='1167',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='LIC JESSICA MIRANDA',protoop_horainicio='17:30',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='LIC MIRANDA',protoop_horafin='19:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='rtu de prostata',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='RESECCION TRANSURETRAL DE PROSTATA BIPOLAR 52601 52500- DILATACION URETRAL - CISTOSCOPIA 52000 - MEATOTOMIA 53020 - COLOCACION DE SONDA DIFICIL 51702',protoop_dieresis='NA',protoop_examendetalle='PROSTATA',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC DENNIS PILLISA',protoop_enlace='58760111042629833932024080207002146',protoop_circulante='',protoop_exposicion='VISION DIRECTA OPTICA 30 GRADOS - RESECCTOSCOPIO',protoop_anestesiologo='',protoop_exploracion='ADENOMA INCREMENTADO DE TAMAÑO OBSTRUCCTIVO UN 80%
+URETRA PERMEABLE ESTRECHA SE DILATA HASTA 30F 
+VEJIGA TRABECULADA GII
+MEATOS URETERALES ORTOTOPICOS',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS OPERATORIOS 
+3. DILATACION URETRAL HASTA 30F CON MEATOTOMIA URETRAL  
+4. CISTOSCOPIA CON VISUALIZACION DE URETRA - VEJIGA Y MEATOS URETERALES 
+5. RESECCION CON EQUIPO BIPOLAR DE ADENOMA SEGUN CUADRANTES ASA DE CORTE PARA COAGULACION 
+6. HEMOSTASIA CON ASA DE COAGULACION 
+7. EVACUACION DE FRAGMENTOS CON PERA DE SUCCION TIPO ELLICK 
+8. SONDAJE CON GUIA DE SONDA 3VIAS 22F SONDA SILICONADA 
+9. COLOCACION DE IRRIGACION CONTINUA PARA LAVADO VESICAL 
+
+EQUIPO
+LENTE DE RESECCTOSCOPIO 30GRADOS 100USD
+CISTOSCOPIO 100USD
+SET DE RESECCION 400USD
+GENERADOR BIPOLAR 200
+ASAS MULTIPLES MODELOS 100
+PANTALLAS DE UROLOGIA 100',protoop_complicaciones='NO',protoop_perdida='1CC',protoop_sangrado='1CC',protoop_protesico='0',anam_enlace='' where protoop_id=1367 -->2024-09-22 15:55:05
+264-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (4261,264,13,3082,'','REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA','','',4,'','','control da falla renal  cronica','','','2024-09-22 16:11:42','',0,'','426101171044278926420240922041142425')-->2024-09-22 16:12:51
+196-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=5876,anam_nhoja='',anam_fecharegistro='2024-08-02 14:49:29',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN TULCAN, RESIDENTE EN QUITO, MESTIZO, DOCENTE, CATOLICO, TIPO DE SANGRE O RH+, NIEGA TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: GOTA EN TRATAMIENTO CON ARTRICHINE 50MG SUSPENDIO HACE 1 MES
+APQX: APENDICECTOMIA HACE 20 AÑOS, FISTULA RECTAL HACE 16 AÑOS
+HÁBITOS: ALIMENTACION 3 VECES/DIA MICCION 8 VECES/DIA DEFECACION 1 VECES/DIA ALCOHOL NIEGA TABACO NIEGA OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 3 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: PROBLEMAS URINARIOS
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE DISURIA Y POLAQUIURIA DESDE HACE 7 MESES APROXIMADAMENTE, POR LO QUE ACUDIO A VALORACION CON UROLOGIA QUIEN POSTERIOR A REALIZACION DE CISTISCOPIA INDICO HIPERPLASIA PROSTATICA CON RESOLUCION QUIRURGICA POR LO QUE ES DERIVADO A ESTA CASA DE SALUD PARA INTERVENCION QUIRURGICO PARA LO QUE ACUDE
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: DIURESIS ESPONTÁNEA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO SIN ANTECEDENTES CLINICOS DE IMPORTANCIA, ACUDE PARA INTERVENCION POR UROLOGIA, CUMPLE HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADO A QUIROFANO. 
+
+IDG: 
+HIPERPLASIA DE LA PROSTATA  CIE 10 N40X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/02 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE A PROCEDIMIENTO QUIRURGICO PROGRMADO, SE TOMAN EXÁMENES PRE QUIRURGICOS Y SE REALIZA CHEQUEO DE MEDICINA INTERNA. PROCEDIMIENTO QUIRURGICO REALIZADO RESECCION TRANSURETRAL DE PROSTATA, PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA VESICAL DE TRES VIAS CON IRRIGACION CONTINUA Y SE OBSERVA DE COLORACION SANGUINOLENTO, PENDIENTE DEAMBULACION, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/03: PACIENTE  ADULTO CURSANDO POST QUIRÚRGICO INMEDIATO DESCRITO, AL MOMENTO CON EVOLUCIÓN FAVORABLE, CON PRESENCIA DE SONDA VESICAL PERMEABLE PRODUCTIVA CON TINTE HEMÁTICO, NO HA PRESENTADO TAPONAMIENTO EN NINGUN MOMENTO, ADEMÁS PACIENTE CON DOLOR CONTROLADO CON ANALGESIA PAUTADA. TOLERANCIA ORAL ADECUADA, MÉDICO TRATANTE DECIDE EL ALTA CON INDICACIONES.',anam_hallazgos='LABORATORIO
+2024/08/02: HEMOGLOBINA 21   HEMATOCRITO 63.2   LEUCOCITOS 6060   NEUTROFILOS 53.6    LINFOCITOS  38   PLAQUETAS  287000   TP  11.6  TTP 30.4   INR   1.01  GLUCOSA  84.4   UREA  49.6  CREATININA  1.5  PSA 6 PSA LIBRE 1.44  VDRL REACTIVO EMO NO INFECCIOSO
+
+2024/08/02 ELECTROCARDIOGRAMA: RITMO SINUSAL, FRECUENCIA CARDIACA 75 LATIDOS POR MINUTO, EJE 0 GRADOS, IMTERVALO P-R 0.20, QRS 0.09 MMS, SEGMENTO S-T NORMAL, ONDA T NORMAL EN ALTURA Y TAMAÑO. NO ARRITMIAS, NO ISQUEMIA, NO CRECIMIENTO VENTRICULAR. 
+
+2024/08/02 ECOGRAFÍA VESICO-PROTÁTICA: VEJIGA EN REPLECIÓN DE PAREDES DELGADAS, PRÓSTATA SU ECOESTRUCTURA LEVEMENTE HETEROGÉNEA, BORDES DEFINIDOS. LA PRÓSTATA MIDE 3.4 X 5.5 X 3.9 CM Y VOLUMEN APROXIMADO DE 40.3 CC. INDICE DE PROTRUSIÓN PROSTÁTICO DE 1.6 CM. VESÍCULAS SEMINALES DE APARIENCIA NORMALES. VOLUMEN PREMICCIÓN DE 276 CC. RESIDUO POSTMICCIÓN DE 76.1 CC. (27 %)
+IDG: PRÓSTATA DE TAMAÑO INCREMENTADO. RESIDUO POST-MICCIÓN PATOLÓGICO',anam_resumentratamiento='INDICACIONES DE INGRESO
+
+INGRESO A  UROLOGIA HAB 304A
+NADA POR VIA ORAL
+CONTROL DE SIGNOS VITALES
+CANALIZAR VIA PERIFERICA
+EXÁMENES PREQUIRURGICOS, ELECTROCARDIOGRAMA, ECOGRAFIA VEISCO PROSTATICA 
+FIRMAR CONSENTIMIENTOS INFORMADOS
+CHEQUEO POR MEDICINA INTERNA 
+CHEQUEO PREANASTESICO
+COMUNICAR NOVEDADES
+ORDENES DR. ORTEGA
+
+2024/08/02 PROCEDIMIENTO: RESECCION TRANSURETRAL DE PROSTATA + RESECCION DE CUELLO VESICAL 
+HALLAZGOS: ADENOMA INCREMENTADO DE TAMAÑO OBSTRUCCTIVO UN 80%
+URETRA PERMEABLE ESTRECHA SE DILATA HASTA 30F 
+VEJIGA TRABECULADA GII
+MEATOS URETERALES ORTOTOPICOS
+COMPLICACIONES: NINGUNA
+ANESTESIA: RAQUIDEA
+
+INDICACIONES POSQUIRURGICAS
+NADA POR VIA ORAL E INICIAR DIETA BLANDA A TOLERANCIA 4 HORAS POSTQUIRURGICAS
+CONTROL DE SIGNOS VITALES CADA 6 HORAS
+CONTROL DE INGESTA Y EXCRETA 
+REPOSO RELATIVO POSICION SEMIFOWLER, CABECERA 45°
+LEVANTAR A SILLA PM Y BAÑO DIARIO AM 
+IRRIGACION VESICAL A GOTEO CONTINUO Y DISMINUIR PRN
+LAVADO VESICAL PRN 
+CLORURO DE SODIO LIQUIDO PARENTERAL 0.9% 1000 ML PASAR IV A 100 ML/HORA. DESDE 2024/08/02 HASTA 2024/08/03
+CEFAZOLINA 1000 MG CADA 12 HORAS  DESDE 2024/08/02 HASTA 2024/08/03
+ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV CADA 12 HORA  DESDE 2024/08/02 HASTA 2024/08/03
+PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS POR EQUIPO DE VENOCLISIS.  DESDE 2024/08/02 HASTA 2024/08/03
+KETOROLACO LIQUIDO PARENTERAL 30 MG/ ML PASAR IV CADA 8 HORAS.  DESDE 2024/08/02 HASTA 2024/08/03
+NOVEDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE.',anam_altadefinitiva='1',protoop_idenlace='1167',anam_control=NULL,anam_fechaalta='2024-08-03',atenc_id='4873',anam_altatransitoria='',anam_horaalta='15:00',anam_enlace='587601100317451151120240802024929316',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='',anam_diasincapacidad='',usua2_id=393 where anam_id=590 -->2024-09-22 16:12:56
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA',anam_planes='',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:13:04
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SIORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CRATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:20:58
+196-->insert into dns_newlaboratorio (centro_id,clie_id,usua_id,atenc_id,lab_idexterno,lab_micromuestra,lab_otros,lab_coagulacionhemostacia,lab_quimicasanguinea,lab_inmunologiainfecc,lab_orina,lab_eosinofilosmoconasal,lab_heces,lab_tablaexterno,lab_citoquimicos,lab_cvasculares,lab_inmunos,lab_nivelfarmatera,lab_hormonas,lab_gaselectro,lab_serologia,lab_medicinatransfu,lab_moleculargenetica,lab_micrositioana,lab_otros2,lab_microseleccionuno,lab_codigo,serlab_id,lab_estudiokoh,prob_codigo,lab_hematologia,lab_cultivomico,lab_fechasolicitud,lab_uno,cant_codigo,lab_dos,lab_hora,lab_tres,lab_microselecciondos,lab_parroquia,prio_id,lab_especialidad,lab_cama,lab_sala,lab_enlace,lab_fecharegistro,lab_nombretomamuestra,lab_tratamiento) values (1,5876,196,4873,1167,'','','1,2,0,4,0,0,0,0,0,0,','1,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,7,8,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,','dns_newhospitalizacionanamesis','0,0,0,0,0,0,','0,0,0,0,0,0,0,','0,0,0,0,','0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,','0,0,0,','','','','0,0,0,0,','',3,'','17','1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','','2024-08-02','','1701','','16:19','','0,0,0,','LA CONCEPCION',2,'','','','587601131202875419620240922041921177','2024-09-22 16:19:21','LIC. JESSICA YEPEZ','')-->2024-09-22 16:23:17
+196-->insert into dns_newimagenologia (clie_id,atenc_id,imgag_idexterno,centro_id,imgag_fechatoma,imgag_rxconvencional,imgag_resumenclinico,imgag_fecharegistro,imgag_tablaexterno,imgag_emergencia,usua_id,prob_codigo,imgag_consulta,imgag_rxportatil,imgag_contaminado,cant_codigo,imgag_tomografia,imgag_motivo,imgag_hospital,imgag_parroquia,imgag_servicio,imgag_resonacia,imgag_cama,imgag_ecografia,imgag_sala,imgag_mamografia,prio_id,imgag_procedimiento,imgag_otros,imgag_sedacion,imgag_describir,imgag_enlace) values (5876,4873,1167,1,NULL,'','PACIENTE CON CUADRO DE HIPERPLASIA PROSTATICA SE SOLICITA EKG PARA VALORACION PRE QUIRURGICA','2024-09-22 16:27:31','dns_newhospitalizacionanamesis','',196,'17','','','0','1701','','CHEQUEO PRE QUIRURGICO','1','LA CONCEPCION','','','','','','','1','','1','0','ELECTROCARDIOGRAMA','58760113120287541962024092204273144')-->2024-09-22 16:28:20
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SIORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CRATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:28:57
+196-->insert into dns_newimagenologia (clie_id,atenc_id,imgag_idexterno,centro_id,imgag_fechatoma,imgag_rxconvencional,imgag_resumenclinico,imgag_fecharegistro,imgag_tablaexterno,imgag_emergencia,usua_id,prob_codigo,imgag_consulta,imgag_rxportatil,imgag_contaminado,cant_codigo,imgag_tomografia,imgag_motivo,imgag_hospital,imgag_parroquia,imgag_servicio,imgag_resonacia,imgag_cama,imgag_ecografia,imgag_sala,imgag_mamografia,prio_id,imgag_procedimiento,imgag_otros,imgag_sedacion,imgag_describir,imgag_enlace) values (5876,4873,1167,1,NULL,'','PACIENTE CON CUADRO DE HIPERPLASIA PROSTATICA SE SOLICITA ECOGRAFIA VESICO PROSTATICA','2024-09-22 16:30:50','dns_newhospitalizacionanamesis','',196,'17','','','','1701','','CHEQUEO PRE QUIRURGICO','1','LA CONCEPCION','','','','1','','','1','','','0','ECOGRAFIA VESICO PROSTATICA','587601131202875419620240922043050200')-->2024-09-22 16:32:05
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SIORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CREATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:32:12
+196-->update dns_newimagenologia set clie_id=5876,atenc_id=4873,imgag_idexterno=1167,centro_id=1,imgag_fechatoma=NULL,imgag_rxconvencional='',imgag_resumenclinico='PACIENTE CON CUADRO DE HIPERPLASIA PROSTATICA SE SOLICITA ECOGRAFIA VESICO PROSTATICA',imgag_fecharegistro='2024-09-22 16:30:50',imgag_tablaexterno='dns_newhospitalizacionanamesis',imgag_emergencia='',usua_id=196,prob_codigo='17',imgag_consulta='',imgag_rxportatil='',imgag_contaminado='',cant_codigo='1701',imgag_tomografia='',imgag_motivo='CHEQUEO PRE QUIRURGICO',imgag_hospital='1',imgag_parroquia='LA CONCEPCION',imgag_servicio='',imgag_resonacia='',imgag_cama='',imgag_ecografia='1',imgag_sala='',imgag_mamografia='',prio_id='1',imgag_procedimiento='',imgag_otros='',imgag_sedacion='0',imgag_describir='ECOGRAFIA VESICO PROSTATICA',imgag_enlace='587601131202875419620240922043050200' where imgag_id=1172 -->2024-09-22 16:33:20
+196-->insert into dns_newinterconsulta (clie_id,atenc_id,intercon_hc,enlace_idexterno,centro_id,intercon_clinicoactual,intercon_pruebasdiagnosticas,intercon_planterapeutico,enlace_tablaexterno,intercon_emergencia,intercon_normal,intercon_hospital,usua_id,intercon_especialidad,intercon_cama,intercon_sala,intercon_urgente,intercon_servconsultado,intercon_servsolicita,intercon_enlace,intercon_fecharegistro) values (5876,4873,'1001233251-1','1167',1,'PACIENTE MASCULINO DE 64 AÑOS CON CUADRO DE HIPERPLASIA PROSTATICA EN SEGUIMIENTO POR UROLOGIA QUE PAUTA PROCEDIMIENTO QUIRURGICO, CON ANTECEDENTES DE GOTA, SE SOLICITA CHEQUEO PREQUIRRUGICO','VER HCL','INTERCONSULTA MEDICINA INTERNA','dns_newhospitalizacionanamesis','','','1',196,'','','','1','MEDICINA INTERNA','CHEQUEO PRE QUIRURGICO','58760113120287541962024092204371886','2024-09-22 16:37:18')-->2024-09-22 16:39:33
+196-->update dns_newinterconsulta set clie_id=5876,atenc_id=4873,intercon_hc='1001233251-1',enlace_idexterno='1167',centro_id=1,intercon_clinicoactual='PACIENTE MASCULINO DE 64 AÑOS CON CUADRO DE HIPERPLASIA PROSTATICA EN SEGUIMIENTO POR UROLOGIA QUE PAUTA PROCEDIMIENTO QUIRURGICO, CON ANTECEDENTES DE GOTA, SE SOLICITA CHEQUEO PREQUIRRUGICO',intercon_pruebasdiagnosticas='VER HCL',intercon_planterapeutico='INTERCONSULTA MEDICINA INTERNA',enlace_tablaexterno='dns_newhospitalizacionanamesis',intercon_emergencia='',intercon_normal='',intercon_hospital='1',usua_id=196,intercon_especialidad='',intercon_cama='',intercon_sala='',intercon_urgente='1',intercon_servconsultado='MEDICINA INTERNA',intercon_servsolicita='CHEQUEO PRE QUIRURGICO',intercon_enlace='58760113120287541962024092204371886',intercon_fecharegistro='2024-09-22 16:37:18' where intercon_id=502 -->2024-09-22 16:42:50
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SI ORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CREATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUMINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='ALOPURINOL 300 MG QD  
+AMLODIPINA 5 MG BID  
+CARVEDILOL 12.5 MG QD
+DOXAZOCINA 4 MG BID 
+ FUROSEMIDA 40 MG QD
+CALCIO QD
+COMPLEJO B QD
+QUETIAPINA 25 MG HS. 
+FERRUM HAUSMAN QD
+BUSCAPINA SIMPLE TID 
+CIPROFLOXACINO 500 MG QD X 5 DIAS  
+CONTROL EN 4 SEMANAS  
+VALORACION POR NUTRICION 
+DE ACUERDO NUEVO CONTROL EN 1 SEMANA  MANEJO POR NEFROLOGIA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:51:06
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SI ORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CREATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUMINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='ALOPURINOL 300 MG QD  
+AMLODIPINA 5 MG BID  
+CARVEDILOL 12.5 MG QD
+DOXAZOCINA 4 MG BID 
+ FUROSEMIDA 40 MG QD
+CALCIO QD
+COMPLEJO B QD
+QUETIAPINA 25 MG HS. 
+FERRUM HAUSMAN QD
+BUSCAPINA SIMPLE TID 
+CIPROFLOXACINO 500 MG QD X 5 DIAS  
+CONTROL EN 4 SEMANAS  
+VALORACION POR NUTRICION 
+DE ACUERDO NUEVO CONTROL EN 1 SEMANA  MANEJO POR NEFROLOGIA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:51:11
+264-->update dns_newconsultaexternaanamesis set clie_id=4261,usua_id=264,centro_id=13,atenc_id=3082,anam_referencia='',anam_emferpactual='REFIERE EPISODIOS DE DIARREAS  LUEGO DEL DESAYUNO .  ASI TAMBIENM MARESO Y DEBILIDAD  ASI COMO PARESTESIAS .  2 DIARREAS POR DIA   SI ORINA CON ESPUMA 
+EXAMENES.-   ACIDO URIICO  10.80  CREATININA  4,55 GLUCOSA 232   UREA 246  COLESTEROL 315  TRIGLICERIDOS 176  HDL 69 LDL 210   ALBUMINA 4.05  SODIO 131 POTASIO 5,32   CLORO  98 ,  TSH  7,45  CLEARANCE DE CREATININA 11 ML MIN .',anam_planes='ALOPURINOL 300 MG QD  
+AMLODIPINA 5 MG BID  
+CARVEDILOL 12.5 MG QD
+DOXAZOCINA 4 MG BID 
+ FUROSEMIDA 40 MG QD
+CALCIO QD
+COMPLEJO B QD
+QUETIAPINA 25 MG HS. 
+FERRUM HAUSMAN QD
+BUSCAPINA SIMPLE TID 
+CIPROFLOXACINO 500 MG QD X 5 DIAS  
+CONTROL EN 4 SEMANAS  
+VALORACION POR NUTRICION 
+DE ACUERDO NUEVO CONTROL EN 1 SEMANA  MANEJO POR NEFROLOGIA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control da falla renal  cronica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-22 16:11:42',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='426101171044278926420240922041142425' where anam_id=2447 -->2024-09-22 16:51:17
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=9207,atenc_id='8087',usua_id=393,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-08-15 11:56:25',protoop_selectiva='1',protoop_cirujanouno='DR. DAVID ORTEGA',protoop_fechaoperacion='2024-08-15',protoop_sintesis='',protoop_idenlace='1184',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='10:00',protoop_sintesisimagen='58948JSPLF20240815.jpg',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. DANIEL ROMERO',protoop_horafin='12:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RTU BIPOLAR DE PRÓSTATA',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='RTU BIPOLAR DE PRÓSTATA 52601 + DILATACIÓN URETRAL 53605 + CISTOURETROSCOPÍA 52000 + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL 52500',protoop_dieresis='N/A',protoop_examendetalle='PRÓSTATA',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SR. LENIN CLAVIJO',protoop_enlace='920701110426298339320240815115625223',protoop_circulante='LIC HEIDY ERAZO',protoop_exposicion='VISIÓN DIRECTA CON ÓPTICA 30 GRADOS MAS RESECTOSCOPIO',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_exploracion='1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACIÓN DE CAMPOS OPERATORIOS 
+3. DILATACIÓN URETRAL HASTA 30 FR
+4. PASO DE CAMISA DE RECETOSCOPIO 26 FR CON OBTURADOR PREVIO A LUBRICACIÓN
+5. CISTOSCOPÍA DIAGNÓSTICA 
+6. RESECCIÓN DE PRÓSTATA SEGUN LÓBULOS HASTA LÍMITES DE CÁPSULA CON MÓDULO BIPOLAR DE RESECCIÓN-RECECTOSCOPIO CON ASA DE CORTE BIPOLAR
+7. HEMOSTASIA DE VASOS EN LECHO PROSTÁTICO
+8. EVACUACIÓN DE TEJIDO RESECADO POR BOMBA DE SUCCIÓN
+9. REVISIÓN DE HEMOSTASIA EN LECHO PROSTÁTICO, CUELLO Y APEX
+10. LLENADO DE VEJIGA PARA RETIRO DEL EQUIPO
+11. COLOCACIÓN DE SONDA VESICAL DIFÍCIL CON GUÍA 
+12. INSTAURACIÓN DE IRRIGACIÓN CONTINUA PARA LAVADO',protoop_complicaciones='EQUIPOS DE UROLOGÍA:
+- RECECTOSCOPIO 
+- CISTOSCOPIO
+- CONSOLA DE RECECTOSCOPÍA BIPOLAR
+- ÓPTICA 30° PARA CISTOSCOPIO Y RECETOSCOPIO
+- DILATADORES URETRALES BENIQUE
+
+INSUMOS:
+- ASA DE CORTE BIPOLAR
+- IRRIGAFIX
+- SONDA FOLEY 23 FR 3 VÍAS',protoop_perdida='150',protoop_sangrado='150',protoop_protesico='0',anam_enlace='' where protoop_id=1399 -->2024-09-22 16:59:55
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=9207,anam_nhoja='',anam_fecharegistro='2024-08-08 02:24:47',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN BOLIVAR, RESIDE EN QUITO, MESTIZO, POLICIA JUBILADO, CATOLIDOC, DIESTRO, TIPO DE SANGRE O RH+, NO REFIERE TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: INSUFICIENCIA RENAL, REFIERE EN PRIMER ESTADIO NO REFIERE TRATAMIENTO DESDE HACE 2 AÑOS, DIABETES MELLITUS TIPO DOS DESDE HACE 2 AÑOS EN TRATAMIENTO CON MEDICACION QUE NO ESPECIFICA, HIPERTENSION ARTERIAL EN TRATAMIENTO CON MEDICACION QUE NO RECUERDA
+APQX: CIRUGIA PARA CALCULOS RENALES QUE NO ESPECIFICA HACE 1 AÑO, CATETER DOBLE J NO ESPECIFICA HACE CUANTO 
+HÁBITOS: ALIMENTACION 3 VECES AL DIA, MICCION 12 VECES AL DIA, DEPOSICION 1 VEZ AL DIA, ALCOHOL NIEGA, TABACO NIEGA, OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 5 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE ES DERIVADO DE ISSPOL POR PRESENTAR SINTOMATOLOGIA URINARIA BAJA DESDE HACE 1 AÑO Y RETENCION URINARIA A REPETICION CON COLCACION DE SONDA POR VARIAS OCASIONES, REALIZARON ECOGRAFIA DE PROSTATA EL 06/08/2024 DONDE SE EVIDENCIA PROSTATA DE 77 GRAMOS, POR TACTO RECTAL REPORTAN LOBULO MEDIO IMPORTANTE IMPRONTA HACIA VEJIGA, POR LO QUE DERIVAN PARA RESECCION TRANSURETRAL DE PROSTATA, ES VALORADO POR MEDICO ESPECIALISTA EN UROLOGIA QUIEN INGRESA PARA MANEJO INTERDISCIPLINARIO
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: PRESENCIA DE SONDA VESICOURETRAL CON PRODUCCION DE ORINA CLARA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA CIRUGIA POR PARTE DE UROLOGIA, SE REALIZA INTERCONSULTA A MEDICOS ESPECIALISTAS PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO
+
+IDG: 
+HIPERPLASIA DE LA PRÓSTATA  CIE 10 N40X
+HIPERTENSIÓN ESENCIAL (PRIMARIA) CIE 10: I10X
+DIABETES MELLITUS, NO ESPECIFICADA CIE 10: E14
+INSUFICIENCIA RENAL NO ESPECIFICADA  CIE 10: N19X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/07 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA INTERVENCION CON UROLOGIA. AL PRESENTAR MULTIPLES COMORBILIDADES SE REALIZA INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO, POR LO QUE PASA A HOSPITALIZACION, PERMANECE CON SIGNOS VITALES DENTRO DE PARAMETROS NORMALES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, SE MANTIENE CON SONDA VESICAL CON ORINA CLARA, PENDIENTE INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/08  PACIENTE  ADULTO EN SU PRIMER DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. SE REALIZA INTERCONSULTA DE MEDICINA INTERNA QUIEN INDICA ANTIBIOTICOTERAPIA Y CONTROL DE COMORBILIDADES, ADEMAS NEFROLOGIA SOLICITA EXAMENES DE CONTROL. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/09 PACIENTE CON ANTECEDENTES DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, EL DIA DE HOY PACIENTE REALIZA PICOS FEBRILES Y CRISIS HIPERTENSIVA CONTROLADOS CON ANTIPIRETICOS Y MEDIOS FISICOS CON POSTERIOR MEJORIA, ADEMAS SE AÑADE ANTIHIPERTENSIVO CON ARA II, CON BUENA RESPUESTA AL MOMENTO NORMOTENSO, ADICIONALMENTE AZOADOS ELEVADOS SIN ALTERACION ELECTROLITICA POR LO QUE SE OPTIMIZA HIDRATACION, PERFIL FERROCINETICO DISMINUIDO, SE MANTIENE CON HIERRO VIA ORAL, ADEMAS DEFICIT DE VITAMINA D, SE MANTIENE CON ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINA, PENDIENTE RESULTADO DE UROCULTIVO Y REALIZAR ECOGRAFIA RENAL, MAÑANA EXAMENES DE CONTROL, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/10: PACIENTE MASCULINO EN SU TERCER DÍA DE HOSPITALIZACIÓN, CON ANTECEDENTES CLÍNICOS DE IMPORTANCIA DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, AL MOMENTO CONTROLADOS. SE MANTIENE CON ANTIHIPERTENSIVOS ARA II Y CALCIO ANTAGONISTA, Y DESDE INSTAURACIÓN DE TERAPIA DOBLE SE MANTIENE NORMOTENSO. ADEMÁS HA MANTENIDO GLICEMIAS POR DEBAJO DE 100 MG/DL SIN NECESIDAD DE MEDICACIÓN ANTIDIABÉTICA. SE REALIZA ECOGRAFÍA RENAL EN DONDE SE EVIDENCIA RIÑON IZQUIERDO DE MENOR TAMAÑO, CON DISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA Y PRESENTA ECTASIA PIELOCALICIAL Y URETERAL. SE OBTIENE PROTEÍNAS EN ORINA EN 24 HORAS DE 401. SE SUSPENDE POR INDICACIÓN DE NEFROLOGÍA COLECALCIFEROL HASTA NUEVO AVISO. NO HA REALIZADO NUEVOS PICOS FEBRILES Y SE MANTIENE CON CURVA TÉRMICA CADA 2 HORAS. SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/11 PACIENTE  ADULTO EN SU CUARTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, PRESION ARTERIAL SOBRE PARAMETROS NORMALES A PESAR DE MEDICACION PRESCRITA DURANTE LA NOCHE, NO REALIZA PICOS FEBRILES. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. MEDICINA INTERNA INDICA EXAMENES DE CONTROL PARA EL DIA DE MAÑANA. NEFROLOGIA PRESCRIBE CAMBIO EN HIDRATACION INTRAVENOSA CON VIGILANCIA DE PICOS FEBRILES. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/12 PACIENTE  ADULTO CURSANDO QUINTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. EN SU SEXTO DIA DE ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINAS. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL,  AMBULATORIO.NO SE REPORTA CRECIMIENTO BACTERIANO EN CULTIVO DESPUES DE 48 HORAS, EXAMENES DE LABORATORIO SOLICITADOS POR PARTE DE MEDICINA INTERNA DENTRO DE PARAMETROS NORMALES, SE CONTINUA CON ANTIBIOTICOTERAPIA ESTABLECIDA. NUEVOS EXAMENES DE LABORATORIO EL 2024/08/14, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/13: PACIENTE  ADULTO CURSANDO SEXTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU SEXTO DIA A BASE DE CEFALOSPORINAS, OXEMIAS SOBRE 90% AIRE AMBIENTE, ADECUADA TOLERANCIA ORAL,  AMBULATORIO, SIN PROBLEMAS. UROCULTIVO DEL 2024/08/08 SIN CRECIMIENTO BACTERIANO, MAÑANA EXAMENES DE LABORATORIO DE CONTROL, ADEMAS PROCEDIMIENTO QUIRURGICO PROGRAMADO PARA EL 2024/08/15, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/14: PACIENTE  ADULTO CURSANDO SÉPTIMO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES, GLICEMIAS DENTRO DE LA NORMALIDAD. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU ÚLTIMO DIA A BASE DE CEFALOSPORINAS, ADECUADA TOLERANCIA ORAL. SE EVIDENCIA EN EXAMENES DE LABORATORIO MEJORÍA DE FUNCIÓN RENAL CON CREATININA DE 1.05 Y UREA DE 57.5. PACIENTE SERÁ INTERVENIDO QUIRÚRGICAMENTE EL 2024/08/15. SE DEJAN INDICACIONES PREQUIRÚRGICAS POR PARTE DE UROLOGÍA Y NEFROLOGÍA. ADEMÁS SE COLOCA ENOXAPARINA A LAS 6PM, Y SE SUSPENDE HASTA NUEVO AVISO.
+
+2024/08/15: PACIENTE  ADULTO CURSANDO OCTAVO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. SE REALIZA PROCEDIMIENTO QUIRURGICO DE RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL,  PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA TRANSURETRAL CON IRRIGACION CONTINUA CON COLORACION CLARA SANGUINOLENTA, EN HORAS DE LA MADRUGADA SE DETIENE FLUJO DE SONDA TRANSURETRAL POR LO QUE ES NECESARIO REALIZAR UN LAVADO DEL SONDAJE, AMBULATORIO, EN SEGUIMIENTO POR NEFROLOGIA Y MEDICINA INTERNA, EXAMENES DE LABORATORIO EL 16/08/2024, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/16 PACIENTE MASCULINO DE 64 AÑOS, EN SU PRIMER DIA POSQUIRURGICO, OCTAVO DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. PERMANECE HEMODINAMICAMENTE ESTABLE, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, ADECUADA TOLERANCIA ORAL, AMBULATORIO. SE RETIRA IRRIGACION CONTINUA DE SONDA VESICAL TRAS LO CUAL SE OBSERVA ORINA ROSADA SIN COAGULOS. SE RECIBEN INDICACIONES DE UROLOGIA, MEDICINA INTERNA Y NEFROLOGIA, POR LO QUE SE DECIDE ALTA MEDICA.',anam_hallazgos='LABORATORIO
+2024/08/08: HEMOGLOBINA 10.3   HEMATOCRITO 32.8   LEUCOCITOS 5080   NEUTROFILOS 52.9    LINFOCITOS 35    PLAQUETAS 339000    TP 12.6   TTP 36.9   INR 1.14    GLUCOSA  88.8   UREA  42.5  CREATININA 1.31 NA 143.4 K 3.47 CA 1.29 CL 104.6 PCR 62.2 
+EMO PH 6 LEUCOCITOS +++ HEMATIES + NITRITO - PIOCITOS MAS DE 100/CAMPO BACTERIAS ++ 
+
+2024/08/08 UROCULTIVO: SIN CRECIMIENTO BACTERIANO EN 48 HORAS
+
+2024/08/08: ELECTROCARDIOGRAMA:  RITMO SINUSAL, FC 60 LPM, EJE 0 GRADOS, INTERVALO PR 0.18,    QRS 0.09 MMS   , SEGMENTO S-T NORMAL, NO ARRITMIAS NO ISQUEMIAS, NO CRECIMIENTO VENTRICULAR
+
+2024/08/09 UREA 36.6   CREATININA 1.42   GASOMETRIA VENOSA PH 7.36  PO2 41    PCP2 41.8    HCO3  23.4  BE -2.0 LACTATO 1.4
+CA 8.93    P 4.0  HIERRO SERICO 28;  CAPACIDAD FIJACION DEL HIERRO 210     INDICE DE TRANSFERRINA 13 ; TRASFERRINA 165     HORMONA PARATIROIDEA 17.9      VITAMINA D 20
+
+2024/08/10: HEMOGLOBINA 10.7   HEMATOCRITO 30.8   LEUCOCITOS 4090 NEUTROFILOS 70    LINFOCITOS 18.1  PLAQUETAS 322000 GLUCOSA  77.9   UREA  44.6  CREATININA 1.58 NA 141.5 K 2.93 CA 1.29 CL 104.5
+PROTEÍNAS EN ORINA EN 24 HORAS: 401 
+
+2024/08/11: HEMOGLOBINA 10.6   HEMATOCRITO 29.9  LEUCOCITOS 4300 NEUTROFILOS 42.8    LINFOCITOS 44.1 PLAQUETAS 315000 GLUCOSA  90.5   UREA  40.5  CREATININA 1.32 NA 142.9 K 3.69 CA 1.35 CL 106.8
+
+2024/08/12: GLUCOSA  110  UREA  46.6  CREATININA 1.41   NA 143.1 K 3.54  CA 1.34   CL 104.1
+
+2024/08/14: HEMOGLOBINA 12.7. HCTO 37.7%, LEUCOCITOS 8430, SEGMENTADOS 36.2%, LINFOCITOS 51%, PLAQUETAS 452000, GLUCOSA 103.4, UREA 57.5, CREATININA 1.05 
+
+2024/08/16: HEMOGLOBINA 11 HCTO 32.7%, LEUCOCITOS 10310, SEGMENTADOS 70.7%, LINFOCITOS 19%, PLAQUETAS 341000, UREA 45.9, CREATININA 1.6  NA 142.2 K 4.45  CA 1.38   CL 104.2
+
+IMAGEN:
+2024/08/10: ECOGRAFÍA RENAL: RIÑON IZQUIERDO DE MENOR TAMAÑO, CONDISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA. PRESENTA ECTASIA PIELOCALICIAL Y URETERAL, CON DIÁMETRO DE CÁLICE DE HASTA 15 MM Y DEL URÉTER PROXIMAL DE HASTA 13 MM.',anam_resumentratamiento='INDICACIONES DE INGRESO
+.
+-INGRESO A  UROLOGIA HAB 304A
+-DIETA GENERAL
+-CONTROL DE SIGNOS VITALES
+-CANALIZAR VIA PERIFERICA
+
+2024/08/12: PROCEDIMIENTO: RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL
+HALLAZGO: 1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+HIDRATACION
+-SOLUCION SALINA AL 0,9% PASAR A 40CC IV CADA HORA DESDE 2024/08/07 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% PASAR A 100CC IV CADA HORA DESDE 2024/08/09 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% 1000 ML + 10 ML ELECTROSOL POTASIO PASAR A 100ML/HORA DESDE EL 2024/08/10 AL 2024/08/12
+-SOLUCIÓN SALINA 300 ML + 30 MEQ DE SOLETROL POTASIO PASAR EN 3 HORAS EL 2024/08/10 
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA CUANDO INICIE NADA POR VIA ORAL EL 2024/08/14 AL 2024/08/15
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA DESDE 204/08/15 AL 2024/08/16
+
+ANALGESIA
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS DESDE 2024/08/07 AL 2024/08/09
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS Y PRN DESDE 2024/08/09 AL 2024/08/12
+-PARACETAMOL 1 GRAMO INTRAVENOSO POR RAZONES NECESARIAS DESDE 2024/08/12 HASTA 2024/08/15
+-PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS DESDE 2024/08/15 AL 2024/08/16
+-TRAMADOL 100MG IV DILUIDO LENTO POR RAZONES NECESARIAS CON METOCLOPRAMIDA 10MG IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16
+
+ANTIBIOTICOTERAPIA
+- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA DESDE 2024/08/08 AL 2024/08/14
+- CEFTRIAXONA 2 GRAMOS INTRAVENOSO 30 MINUTOS PREVIO A QUIRÓFANO EL 2024/08/15
+
+ANTIHIPERTENSIVOS
+- AMLODIPINO 5 MILIGRAMOS VIA ORAL CADA DIA 2024/08/08 AL 2024/08/09
+- AMLODIPINO 10 MILIGRAMOS VIA ORAL CADA DIA 2024/08/09 AL 2024/08/16
+- LOSARTAN 100 MILIGRAMOS VIA ORAL CADA DIA (19H00) DESDE EL 2024/08/09 AL 2024/08/16
+
+OTROS
+- SULFATO FERROSO 50 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL 2024/08/09
+- SULFATO FERROSO 100 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL2024/08/16
+- OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS EL 2024/08/07
+- COMPLEJO B 1 TABLETA CADA DIA DESDE 2024/08/08 AL 2024/08/16
+- ENOXAPARINA 40 MILIGRAMOS SUBCUTANEA CADA DIA SUSPENDER 12 HORAS PREVIO A CIRUGIA DESDE EL  2024/08/09 HASTA 2024/08/15
+- COLECALCIFEROL 40000 UNIDADES VÍA ORAL SEMANAL POR 4 SEMANAS DESDE EL 2024/08/09 AL 2024/08/10
+-ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16 
+- AGUA ESTERIL 3000 ML PASAR POR SONDA VESICAL PARA IRRIGACION CONTINUA DESDE 2024/08/15 AL 2024/08/16
+
+
+- GLICEMIAS CAPILARES CADA 6 HORAS DESDE 2024/08/08 AL 2024/08/16
+- INSULINA CRISTALINA ACORDE ESQUEMA DESDE 2024/08/08 AL 2024/08/16
+180-220.- 2 UNIDADES
+221-260 .- 4 UNIDADES
+261 -300 6 UNIDADES
+MAYOR A 301 .- 8 UNIDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE. 
+
+RECETA MEDICA 
+- PARACETAMOL 1GRAMO VO C8H 5 DIAS 
+- LEVOFLOXACINA 500MG VO QD POR 5 DIAS
+-VENIR EL PRÓXIMO JUEVES 11:00 A RETIRO DE SONDA',anam_altadefinitiva='1',protoop_idenlace='1184',anam_control='2024-08-16',anam_fechaalta='2024-08-16',atenc_id='8087',anam_altatransitoria='',anam_horaalta='17:30',anam_enlace='92070110031745115112024080802244724',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='8',anam_diasincapacidad='',usua2_id=393 where anam_id=605 -->2024-09-22 18:22:41
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=9207,anam_nhoja='',anam_fecharegistro='2024-08-08 02:24:47',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN BOLIVAR, RESIDE EN QUITO, MESTIZO, POLICIA JUBILADO, CATOLIDOC, DIESTRO, TIPO DE SANGRE O RH+, NO REFIERE TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: INSUFICIENCIA RENAL, REFIERE EN PRIMER ESTADIO NO REFIERE TRATAMIENTO DESDE HACE 2 AÑOS, DIABETES MELLITUS TIPO DOS DESDE HACE 2 AÑOS EN TRATAMIENTO CON MEDICACION QUE NO ESPECIFICA, HIPERTENSION ARTERIAL EN TRATAMIENTO CON MEDICACION QUE NO RECUERDA
+APQX: CIRUGIA PARA CALCULOS RENALES QUE NO ESPECIFICA HACE 1 AÑO, CATETER DOBLE J NO ESPECIFICA HACE CUANTO 
+HÁBITOS: ALIMENTACION 3 VECES AL DIA, MICCION 12 VECES AL DIA, DEPOSICION 1 VEZ AL DIA, ALCOHOL NIEGA, TABACO NIEGA, OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 5 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE ES DERIVADO DE ISSPOL POR PRESENTAR SINTOMATOLOGIA URINARIA BAJA DESDE HACE 1 AÑO Y RETENCION URINARIA A REPETICION CON COLCACION DE SONDA POR VARIAS OCASIONES, REALIZARON ECOGRAFIA DE PROSTATA EL 06/08/2024 DONDE SE EVIDENCIA PROSTATA DE 77 GRAMOS, POR TACTO RECTAL REPORTAN LOBULO MEDIO IMPORTANTE IMPRONTA HACIA VEJIGA, POR LO QUE DERIVAN PARA RESECCION TRANSURETRAL DE PROSTATA, ES VALORADO POR MEDICO ESPECIALISTA EN UROLOGIA QUIEN INGRESA PARA MANEJO INTERDISCIPLINARIO
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: PRESENCIA DE SONDA VESICOURETRAL CON PRODUCCION DE ORINA CLARA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA CIRUGIA POR PARTE DE UROLOGIA, SE REALIZA INTERCONSULTA A MEDICOS ESPECIALISTAS PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO
+
+IDG: 
+HIPERPLASIA DE LA PRÓSTATA  CIE 10 N40X
+HIPERTENSIÓN ESENCIAL (PRIMARIA) CIE 10: I10X
+DIABETES MELLITUS, NO ESPECIFICADA CIE 10: E14
+INSUFICIENCIA RENAL NO ESPECIFICADA  CIE 10: N19X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/07 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA INTERVENCION CON UROLOGIA. AL PRESENTAR MULTIPLES COMORBILIDADES SE REALIZA INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO, POR LO QUE PASA A HOSPITALIZACION, PERMANECE CON SIGNOS VITALES DENTRO DE PARAMETROS NORMALES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, SE MANTIENE CON SONDA VESICAL CON ORINA CLARA, PENDIENTE INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/08  PACIENTE  ADULTO EN SU PRIMER DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. SE REALIZA INTERCONSULTA DE MEDICINA INTERNA QUIEN INDICA ANTIBIOTICOTERAPIA Y CONTROL DE COMORBILIDADES, ADEMAS NEFROLOGIA SOLICITA EXAMENES DE CONTROL. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/09 PACIENTE CON ANTECEDENTES DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, EL DIA DE HOY PACIENTE REALIZA PICOS FEBRILES Y CRISIS HIPERTENSIVA CONTROLADOS CON ANTIPIRETICOS Y MEDIOS FISICOS CON POSTERIOR MEJORIA, ADEMAS SE AÑADE ANTIHIPERTENSIVO CON ARA II, CON BUENA RESPUESTA AL MOMENTO NORMOTENSO, ADICIONALMENTE AZOADOS ELEVADOS SIN ALTERACION ELECTROLITICA POR LO QUE SE OPTIMIZA HIDRATACION, PERFIL FERROCINETICO DISMINUIDO, SE MANTIENE CON HIERRO VIA ORAL, ADEMAS DEFICIT DE VITAMINA D, SE MANTIENE CON ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINA, PENDIENTE RESULTADO DE UROCULTIVO Y REALIZAR ECOGRAFIA RENAL, MAÑANA EXAMENES DE CONTROL, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/10: PACIENTE MASCULINO EN SU TERCER DÍA DE HOSPITALIZACIÓN, CON ANTECEDENTES CLÍNICOS DE IMPORTANCIA DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, AL MOMENTO CONTROLADOS. SE MANTIENE CON ANTIHIPERTENSIVOS ARA II Y CALCIO ANTAGONISTA, Y DESDE INSTAURACIÓN DE TERAPIA DOBLE SE MANTIENE NORMOTENSO. ADEMÁS HA MANTENIDO GLICEMIAS POR DEBAJO DE 100 MG/DL SIN NECESIDAD DE MEDICACIÓN ANTIDIABÉTICA. SE REALIZA ECOGRAFÍA RENAL EN DONDE SE EVIDENCIA RIÑON IZQUIERDO DE MENOR TAMAÑO, CON DISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA Y PRESENTA ECTASIA PIELOCALICIAL Y URETERAL. SE OBTIENE PROTEÍNAS EN ORINA EN 24 HORAS DE 401. SE SUSPENDE POR INDICACIÓN DE NEFROLOGÍA COLECALCIFEROL HASTA NUEVO AVISO. NO HA REALIZADO NUEVOS PICOS FEBRILES Y SE MANTIENE CON CURVA TÉRMICA CADA 2 HORAS. SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/11 PACIENTE  ADULTO EN SU CUARTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, PRESION ARTERIAL SOBRE PARAMETROS NORMALES A PESAR DE MEDICACION PRESCRITA DURANTE LA NOCHE, NO REALIZA PICOS FEBRILES. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. MEDICINA INTERNA INDICA EXAMENES DE CONTROL PARA EL DIA DE MAÑANA. NEFROLOGIA PRESCRIBE CAMBIO EN HIDRATACION INTRAVENOSA CON VIGILANCIA DE PICOS FEBRILES. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/12 PACIENTE  ADULTO CURSANDO QUINTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. EN SU SEXTO DIA DE ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINAS. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL,  AMBULATORIO.NO SE REPORTA CRECIMIENTO BACTERIANO EN CULTIVO DESPUES DE 48 HORAS, EXAMENES DE LABORATORIO SOLICITADOS POR PARTE DE MEDICINA INTERNA DENTRO DE PARAMETROS NORMALES, SE CONTINUA CON ANTIBIOTICOTERAPIA ESTABLECIDA. NUEVOS EXAMENES DE LABORATORIO EL 2024/08/14, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/13: PACIENTE  ADULTO CURSANDO SEXTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU SEXTO DIA A BASE DE CEFALOSPORINAS, OXEMIAS SOBRE 90% AIRE AMBIENTE, ADECUADA TOLERANCIA ORAL,  AMBULATORIO, SIN PROBLEMAS. UROCULTIVO DEL 2024/08/08 SIN CRECIMIENTO BACTERIANO, MAÑANA EXAMENES DE LABORATORIO DE CONTROL, ADEMAS PROCEDIMIENTO QUIRURGICO PROGRAMADO PARA EL 2024/08/15, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/14: PACIENTE  ADULTO CURSANDO SÉPTIMO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES, GLICEMIAS DENTRO DE LA NORMALIDAD. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU ÚLTIMO DIA A BASE DE CEFALOSPORINAS, ADECUADA TOLERANCIA ORAL. SE EVIDENCIA EN EXAMENES DE LABORATORIO MEJORÍA DE FUNCIÓN RENAL CON CREATININA DE 1.05 Y UREA DE 57.5. PACIENTE SERÁ INTERVENIDO QUIRÚRGICAMENTE EL 2024/08/15. SE DEJAN INDICACIONES PREQUIRÚRGICAS POR PARTE DE UROLOGÍA Y NEFROLOGÍA. ADEMÁS SE COLOCA ENOXAPARINA A LAS 6PM, Y SE SUSPENDE HASTA NUEVO AVISO.
+
+2024/08/15: PACIENTE  ADULTO CURSANDO OCTAVO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. SE REALIZA PROCEDIMIENTO QUIRURGICO DE RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL,  PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA TRANSURETRAL CON IRRIGACION CONTINUA CON COLORACION CLARA SANGUINOLENTA, EN HORAS DE LA MADRUGADA SE DETIENE FLUJO DE SONDA TRANSURETRAL POR LO QUE ES NECESARIO REALIZAR UN LAVADO DEL SONDAJE, AMBULATORIO, EN SEGUIMIENTO POR NEFROLOGIA Y MEDICINA INTERNA, EXAMENES DE LABORATORIO EL 16/08/2024, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/16 PACIENTE MASCULINO DE 64 AÑOS, EN SU PRIMER DIA POSQUIRURGICO, OCTAVO DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. PERMANECE HEMODINAMICAMENTE ESTABLE, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, ADECUADA TOLERANCIA ORAL, AMBULATORIO. SE RETIRA IRRIGACION CONTINUA DE SONDA VESICAL TRAS LO CUAL SE OBSERVA ORINA ROSADA SIN COAGULOS. SE RECIBEN INDICACIONES DE UROLOGIA, MEDICINA INTERNA Y NEFROLOGIA, POR LO QUE SE DECIDE ALTA MEDICA.',anam_hallazgos='LABORATORIO
+2024/08/08: HEMOGLOBINA 10.3   HEMATOCRITO 32.8   LEUCOCITOS 5080   NEUTROFILOS 52.9    LINFOCITOS 35    PLAQUETAS 339000    TP 12.6   TTP 36.9   INR 1.14    GLUCOSA  88.8   UREA  42.5  CREATININA 1.31 NA 143.4 K 3.47 CA 1.29 CL 104.6 PCR 62.2 
+EMO PH 6 LEUCOCITOS +++ HEMATIES + NITRITO - PIOCITOS MAS DE 100/CAMPO BACTERIAS ++ 
+
+2024/08/08 UROCULTIVO: SIN CRECIMIENTO BACTERIANO EN 48 HORAS
+
+2024/08/08: ELECTROCARDIOGRAMA:  RITMO SINUSAL, FC 60 LPM, EJE 0 GRADOS, INTERVALO PR 0.18,    QRS 0.09 MMS   , SEGMENTO S-T NORMAL, NO ARRITMIAS NO ISQUEMIAS, NO CRECIMIENTO VENTRICULAR
+
+2024/08/09 UREA 36.6   CREATININA 1.42   GASOMETRIA VENOSA PH 7.36  PO2 41    PCP2 41.8    HCO3  23.4  BE -2.0 LACTATO 1.4
+CA 8.93    P 4.0  HIERRO SERICO 28;  CAPACIDAD FIJACION DEL HIERRO 210     INDICE DE TRANSFERRINA 13 ; TRASFERRINA 165     HORMONA PARATIROIDEA 17.9      VITAMINA D 20
+
+2024/08/10: HEMOGLOBINA 10.7   HEMATOCRITO 30.8   LEUCOCITOS 4090 NEUTROFILOS 70    LINFOCITOS 18.1  PLAQUETAS 322000 GLUCOSA  77.9   UREA  44.6  CREATININA 1.58 NA 141.5 K 2.93 CA 1.29 CL 104.5
+PROTEÍNAS EN ORINA EN 24 HORAS: 401 
+
+2024/08/11: HEMOGLOBINA 10.6   HEMATOCRITO 29.9  LEUCOCITOS 4300 NEUTROFILOS 42.8    LINFOCITOS 44.1 PLAQUETAS 315000 GLUCOSA  90.5   UREA  40.5  CREATININA 1.32 NA 142.9 K 3.69 CA 1.35 CL 106.8
+
+2024/08/12: GLUCOSA  110  UREA  46.6  CREATININA 1.41   NA 143.1 K 3.54  CA 1.34   CL 104.1
+
+2024/08/14: HEMOGLOBINA 12.7. HCTO 37.7%, LEUCOCITOS 8430, SEGMENTADOS 36.2%, LINFOCITOS 51%, PLAQUETAS 452000, GLUCOSA 103.4, UREA 57.5, CREATININA 1.05 
+
+2024/08/16: HEMOGLOBINA 11 HCTO 32.7%, LEUCOCITOS 10310, SEGMENTADOS 70.7%, LINFOCITOS 19%, PLAQUETAS 341000, UREA 45.9, CREATININA 1.6  NA 142.2 K 4.45  CA 1.38   CL 104.2
+
+IMAGEN:
+2024/08/10: ECOGRAFÍA RENAL: RIÑON IZQUIERDO DE MENOR TAMAÑO, CONDISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA. PRESENTA ECTASIA PIELOCALICIAL Y URETERAL, CON DIÁMETRO DE CÁLICE DE HASTA 15 MM Y DEL URÉTER PROXIMAL DE HASTA 13 MM.',anam_resumentratamiento='INDICACIONES DE INGRESO
+.
+-INGRESO A  UROLOGIA HAB 304A
+-DIETA GENERAL
+-CONTROL DE SIGNOS VITALES
+-CANALIZAR VIA PERIFERICA
+
+2024/08/12: PROCEDIMIENTO: RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL
+HALLAZGO: 1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+HIDRATACION
+-SOLUCION SALINA AL 0,9% PASAR A 40CC IV CADA HORA DESDE 2024/08/07 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% PASAR A 100CC IV CADA HORA DESDE 2024/08/09 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% 1000 ML + 10 ML ELECTROSOL POTASIO PASAR A 100ML/HORA DESDE EL 2024/08/10 AL 2024/08/12
+-SOLUCIÓN SALINA 300 ML + 30 MEQ DE SOLETROL POTASIO PASAR EN 3 HORAS EL 2024/08/10 
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA CUANDO INICIE NADA POR VIA ORAL EL 2024/08/14 AL 2024/08/15
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA DESDE 204/08/15 AL 2024/08/16
+
+ANALGESIA
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS DESDE 2024/08/07 AL 2024/08/09
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS Y PRN DESDE 2024/08/09 AL 2024/08/12
+-PARACETAMOL 1 GRAMO INTRAVENOSO POR RAZONES NECESARIAS DESDE 2024/08/12 HASTA 2024/08/15
+-PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS DESDE 2024/08/15 AL 2024/08/16
+-TRAMADOL 100MG IV DILUIDO LENTO POR RAZONES NECESARIAS CON METOCLOPRAMIDA 10MG IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16
+
+ANTIBIOTICOTERAPIA
+- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA DESDE 2024/08/08 AL 2024/08/14
+- CEFTRIAXONA 2 GRAMOS INTRAVENOSO 30 MINUTOS PREVIO A QUIRÓFANO EL 2024/08/15
+
+ANTIHIPERTENSIVOS
+- AMLODIPINO 5 MILIGRAMOS VIA ORAL CADA DIA 2024/08/08 AL 2024/08/09
+- AMLODIPINO 10 MILIGRAMOS VIA ORAL CADA DIA 2024/08/09 AL 2024/08/16
+- LOSARTAN 100 MILIGRAMOS VIA ORAL CADA DIA (19H00) DESDE EL 2024/08/09 AL 2024/08/16
+
+OTROS
+- SULFATO FERROSO 50 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL 2024/08/09
+- SULFATO FERROSO 100 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL2024/08/16
+- OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS EL 2024/08/07
+- COMPLEJO B 1 TABLETA CADA DIA DESDE 2024/08/08 AL 2024/08/16
+- ENOXAPARINA 40 MILIGRAMOS SUBCUTANEA CADA DIA SUSPENDER 12 HORAS PREVIO A CIRUGIA DESDE EL  2024/08/09 HASTA 2024/08/15
+- COLECALCIFEROL 40000 UNIDADES VÍA ORAL SEMANAL POR 4 SEMANAS DESDE EL 2024/08/09 AL 2024/08/10
+-ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16 
+- AGUA ESTERIL 3000 ML PASAR POR SONDA VESICAL PARA IRRIGACION CONTINUA DESDE 2024/08/15 AL 2024/08/16
+
+
+- GLICEMIAS CAPILARES CADA 6 HORAS DESDE 2024/08/08 AL 2024/08/16
+- INSULINA CRISTALINA ACORDE ESQUEMA DESDE 2024/08/08 AL 2024/08/16
+180-220.- 2 UNIDADES
+221-260 .- 4 UNIDADES
+261 -300 6 UNIDADES
+MAYOR A 301 .- 8 UNIDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE. 
+
+RECETA MEDICA 
+- PARACETAMOL 1GRAMO VO C8H 5 DIAS 
+- LEVOFLOXACINA 500MG VO QD POR 5 DIAS
+-VENIR EL PRÓXIMO JUEVES 11:00 A RETIRO DE SONDA',anam_altadefinitiva='1',protoop_idenlace='1184',anam_control='2024-08-16',anam_fechaalta='2024-08-16',atenc_id='8087',anam_altatransitoria='',anam_horaalta='17:30',anam_enlace='92070110031745115112024080802244724',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='8',anam_diasincapacidad='',usua2_id=393 where anam_id=605 -->2024-09-22 18:22:41
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=9207,anam_nhoja='',anam_fecharegistro='2024-08-08 02:24:47',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN BOLIVAR, RESIDE EN QUITO, MESTIZO, POLICIA JUBILADO, CATOLIDOC, DIESTRO, TIPO DE SANGRE O RH+, NO REFIERE TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: INSUFICIENCIA RENAL, REFIERE EN PRIMER ESTADIO NO REFIERE TRATAMIENTO DESDE HACE 2 AÑOS, DIABETES MELLITUS TIPO DOS DESDE HACE 2 AÑOS EN TRATAMIENTO CON MEDICACION QUE NO ESPECIFICA, HIPERTENSION ARTERIAL EN TRATAMIENTO CON MEDICACION QUE NO RECUERDA
+APQX: CIRUGIA PARA CALCULOS RENALES QUE NO ESPECIFICA HACE 1 AÑO, CATETER DOBLE J NO ESPECIFICA HACE CUANTO 
+HÁBITOS: ALIMENTACION 3 VECES AL DIA, MICCION 12 VECES AL DIA, DEPOSICION 1 VEZ AL DIA, ALCOHOL NIEGA, TABACO NIEGA, OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 5 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE ES DERIVADO DE ISSPOL POR PRESENTAR SINTOMATOLOGIA URINARIA BAJA DESDE HACE 1 AÑO Y RETENCION URINARIA A REPETICION CON COLCACION DE SONDA POR VARIAS OCASIONES, REALIZARON ECOGRAFIA DE PROSTATA EL 06/08/2024 DONDE SE EVIDENCIA PROSTATA DE 77 GRAMOS, POR TACTO RECTAL REPORTAN LOBULO MEDIO IMPORTANTE IMPRONTA HACIA VEJIGA, POR LO QUE DERIVAN PARA RESECCION TRANSURETRAL DE PROSTATA, ES VALORADO POR MEDICO ESPECIALISTA EN UROLOGIA QUIEN INGRESA PARA MANEJO INTERDISCIPLINARIO
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: PRESENCIA DE SONDA VESICOURETRAL CON PRODUCCION DE ORINA CLARA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA CIRUGIA POR PARTE DE UROLOGIA, SE REALIZA INTERCONSULTA A MEDICOS ESPECIALISTAS PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO
+
+IDG: 
+HIPERPLASIA DE LA PRÓSTATA  CIE 10 N40X
+HIPERTENSIÓN ESENCIAL (PRIMARIA) CIE 10: I10X
+DIABETES MELLITUS, NO ESPECIFICADA CIE 10: E14
+INSUFICIENCIA RENAL NO ESPECIFICADA  CIE 10: N19X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/07 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA INTERVENCION CON UROLOGIA. AL PRESENTAR MULTIPLES COMORBILIDADES SE REALIZA INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO, POR LO QUE PASA A HOSPITALIZACION, PERMANECE CON SIGNOS VITALES DENTRO DE PARAMETROS NORMALES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, SE MANTIENE CON SONDA VESICAL CON ORINA CLARA, PENDIENTE INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/08  PACIENTE  ADULTO EN SU PRIMER DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. SE REALIZA INTERCONSULTA DE MEDICINA INTERNA QUIEN INDICA ANTIBIOTICOTERAPIA Y CONTROL DE COMORBILIDADES, ADEMAS NEFROLOGIA SOLICITA EXAMENES DE CONTROL. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/09 PACIENTE CON ANTECEDENTES DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, EL DIA DE HOY PACIENTE REALIZA PICOS FEBRILES Y CRISIS HIPERTENSIVA CONTROLADOS CON ANTIPIRETICOS Y MEDIOS FISICOS CON POSTERIOR MEJORIA, ADEMAS SE AÑADE ANTIHIPERTENSIVO CON ARA II, CON BUENA RESPUESTA AL MOMENTO NORMOTENSO, ADICIONALMENTE AZOADOS ELEVADOS SIN ALTERACION ELECTROLITICA POR LO QUE SE OPTIMIZA HIDRATACION, PERFIL FERROCINETICO DISMINUIDO, SE MANTIENE CON HIERRO VIA ORAL, ADEMAS DEFICIT DE VITAMINA D, SE MANTIENE CON ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINA, PENDIENTE RESULTADO DE UROCULTIVO Y REALIZAR ECOGRAFIA RENAL, MAÑANA EXAMENES DE CONTROL, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/10: PACIENTE MASCULINO EN SU TERCER DÍA DE HOSPITALIZACIÓN, CON ANTECEDENTES CLÍNICOS DE IMPORTANCIA DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, AL MOMENTO CONTROLADOS. SE MANTIENE CON ANTIHIPERTENSIVOS ARA II Y CALCIO ANTAGONISTA, Y DESDE INSTAURACIÓN DE TERAPIA DOBLE SE MANTIENE NORMOTENSO. ADEMÁS HA MANTENIDO GLICEMIAS POR DEBAJO DE 100 MG/DL SIN NECESIDAD DE MEDICACIÓN ANTIDIABÉTICA. SE REALIZA ECOGRAFÍA RENAL EN DONDE SE EVIDENCIA RIÑON IZQUIERDO DE MENOR TAMAÑO, CON DISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA Y PRESENTA ECTASIA PIELOCALICIAL Y URETERAL. SE OBTIENE PROTEÍNAS EN ORINA EN 24 HORAS DE 401. SE SUSPENDE POR INDICACIÓN DE NEFROLOGÍA COLECALCIFEROL HASTA NUEVO AVISO. NO HA REALIZADO NUEVOS PICOS FEBRILES Y SE MANTIENE CON CURVA TÉRMICA CADA 2 HORAS. SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/11 PACIENTE  ADULTO EN SU CUARTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, PRESION ARTERIAL SOBRE PARAMETROS NORMALES A PESAR DE MEDICACION PRESCRITA DURANTE LA NOCHE, NO REALIZA PICOS FEBRILES. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. MEDICINA INTERNA INDICA EXAMENES DE CONTROL PARA EL DIA DE MAÑANA. NEFROLOGIA PRESCRIBE CAMBIO EN HIDRATACION INTRAVENOSA CON VIGILANCIA DE PICOS FEBRILES. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/12 PACIENTE  ADULTO CURSANDO QUINTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. EN SU SEXTO DIA DE ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINAS. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL,  AMBULATORIO.NO SE REPORTA CRECIMIENTO BACTERIANO EN CULTIVO DESPUES DE 48 HORAS, EXAMENES DE LABORATORIO SOLICITADOS POR PARTE DE MEDICINA INTERNA DENTRO DE PARAMETROS NORMALES, SE CONTINUA CON ANTIBIOTICOTERAPIA ESTABLECIDA. NUEVOS EXAMENES DE LABORATORIO EL 2024/08/14, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/13: PACIENTE  ADULTO CURSANDO SEXTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU SEXTO DIA A BASE DE CEFALOSPORINAS, OXEMIAS SOBRE 90% AIRE AMBIENTE, ADECUADA TOLERANCIA ORAL,  AMBULATORIO, SIN PROBLEMAS. UROCULTIVO DEL 2024/08/08 SIN CRECIMIENTO BACTERIANO, MAÑANA EXAMENES DE LABORATORIO DE CONTROL, ADEMAS PROCEDIMIENTO QUIRURGICO PROGRAMADO PARA EL 2024/08/15, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/14: PACIENTE  ADULTO CURSANDO SÉPTIMO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES, GLICEMIAS DENTRO DE LA NORMALIDAD. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU ÚLTIMO DIA A BASE DE CEFALOSPORINAS, ADECUADA TOLERANCIA ORAL. SE EVIDENCIA EN EXAMENES DE LABORATORIO MEJORÍA DE FUNCIÓN RENAL CON CREATININA DE 1.05 Y UREA DE 57.5. PACIENTE SERÁ INTERVENIDO QUIRÚRGICAMENTE EL 2024/08/15. SE DEJAN INDICACIONES PREQUIRÚRGICAS POR PARTE DE UROLOGÍA Y NEFROLOGÍA. ADEMÁS SE COLOCA ENOXAPARINA A LAS 6PM, Y SE SUSPENDE HASTA NUEVO AVISO.
+
+2024/08/15: PACIENTE  ADULTO CURSANDO OCTAVO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. SE REALIZA PROCEDIMIENTO QUIRURGICO DE RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL,  PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA TRANSURETRAL CON IRRIGACION CONTINUA CON COLORACION CLARA SANGUINOLENTA, EN HORAS DE LA MADRUGADA SE DETIENE FLUJO DE SONDA TRANSURETRAL POR LO QUE ES NECESARIO REALIZAR UN LAVADO DEL SONDAJE, AMBULATORIO, EN SEGUIMIENTO POR NEFROLOGIA Y MEDICINA INTERNA, EXAMENES DE LABORATORIO EL 16/08/2024, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/16 PACIENTE MASCULINO DE 64 AÑOS, EN SU PRIMER DIA POSQUIRURGICO, OCTAVO DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. PERMANECE HEMODINAMICAMENTE ESTABLE, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, ADECUADA TOLERANCIA ORAL, AMBULATORIO. SE RETIRA IRRIGACION CONTINUA DE SONDA VESICAL TRAS LO CUAL SE OBSERVA ORINA ROSADA SIN COAGULOS. SE RECIBEN INDICACIONES DE UROLOGIA, MEDICINA INTERNA Y NEFROLOGIA, POR LO QUE SE DECIDE ALTA MEDICA.',anam_hallazgos='LABORATORIO
+2024/08/08: HEMOGLOBINA 10.3   HEMATOCRITO 32.8   LEUCOCITOS 5080   NEUTROFILOS 52.9    LINFOCITOS 35    PLAQUETAS 339000    TP 12.6   TTP 36.9   INR 1.14    GLUCOSA  88.8   UREA  42.5  CREATININA 1.31 NA 143.4 K 3.47 CA 1.29 CL 104.6 PCR 62.2 
+EMO PH 6 LEUCOCITOS +++ HEMATIES + NITRITO - PIOCITOS MAS DE 100/CAMPO BACTERIAS ++ 
+
+2024/08/08 UROCULTIVO: SIN CRECIMIENTO BACTERIANO EN 48 HORAS
+
+2024/08/08: ELECTROCARDIOGRAMA:  RITMO SINUSAL, FC 60 LPM, EJE 0 GRADOS, INTERVALO PR 0.18,    QRS 0.09 MMS   , SEGMENTO S-T NORMAL, NO ARRITMIAS NO ISQUEMIAS, NO CRECIMIENTO VENTRICULAR
+
+2024/08/09 UREA 36.6   CREATININA 1.42   GASOMETRIA VENOSA PH 7.36  PO2 41    PCP2 41.8    HCO3  23.4  BE -2.0 LACTATO 1.4
+CA 8.93    P 4.0  HIERRO SERICO 28;  CAPACIDAD FIJACION DEL HIERRO 210     INDICE DE TRANSFERRINA 13 ; TRASFERRINA 165     HORMONA PARATIROIDEA 17.9      VITAMINA D 20
+
+2024/08/10: HEMOGLOBINA 10.7   HEMATOCRITO 30.8   LEUCOCITOS 4090 NEUTROFILOS 70    LINFOCITOS 18.1  PLAQUETAS 322000 GLUCOSA  77.9   UREA  44.6  CREATININA 1.58 NA 141.5 K 2.93 CA 1.29 CL 104.5
+PROTEÍNAS EN ORINA EN 24 HORAS: 401 
+
+2024/08/11: HEMOGLOBINA 10.6   HEMATOCRITO 29.9  LEUCOCITOS 4300 NEUTROFILOS 42.8    LINFOCITOS 44.1 PLAQUETAS 315000 GLUCOSA  90.5   UREA  40.5  CREATININA 1.32 NA 142.9 K 3.69 CA 1.35 CL 106.8
+
+2024/08/12: GLUCOSA  110  UREA  46.6  CREATININA 1.41   NA 143.1 K 3.54  CA 1.34   CL 104.1 EMO NO INFECCIOSO
+
+2024/08/14: HEMOGLOBINA 12.7. HCTO 37.7%, LEUCOCITOS 8430, SEGMENTADOS 36.2%, LINFOCITOS 51%, PLAQUETAS 452000, GLUCOSA 103.4, UREA 57.5, CREATININA 1.05 
+
+2024/08/16: HEMOGLOBINA 11 HCTO 32.7%, LEUCOCITOS 10310, SEGMENTADOS 70.7%, LINFOCITOS 19%, PLAQUETAS 341000, UREA 45.9, CREATININA 1.6  NA 142.2 K 4.45  CA 1.38   CL 104.2
+
+IMAGEN:
+2024/08/10: ECOGRAFÍA RENAL: RIÑON IZQUIERDO DE MENOR TAMAÑO, CONDISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA. PRESENTA ECTASIA PIELOCALICIAL Y URETERAL, CON DIÁMETRO DE CÁLICE DE HASTA 15 MM Y DEL URÉTER PROXIMAL DE HASTA 13 MM.',anam_resumentratamiento='INDICACIONES DE INGRESO
+.
+-INGRESO A  UROLOGIA HAB 304A
+-DIETA GENERAL
+-CONTROL DE SIGNOS VITALES
+-CANALIZAR VIA PERIFERICA
+
+2024/08/12: PROCEDIMIENTO: RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL
+HALLAZGO: 1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+HIDRATACION
+-SOLUCION SALINA AL 0,9% PASAR A 40CC IV CADA HORA DESDE 2024/08/07 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% PASAR A 100CC IV CADA HORA DESDE 2024/08/09 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% 1000 ML + 10 ML ELECTROSOL POTASIO PASAR A 100ML/HORA DESDE EL 2024/08/10 AL 2024/08/12
+-SOLUCIÓN SALINA 300 ML + 30 MEQ DE SOLETROL POTASIO PASAR EN 3 HORAS EL 2024/08/10 
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA CUANDO INICIE NADA POR VIA ORAL EL 2024/08/14 AL 2024/08/15
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA DESDE 204/08/15 AL 2024/08/16
+
+ANALGESIA
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS DESDE 2024/08/07 AL 2024/08/09
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS Y PRN DESDE 2024/08/09 AL 2024/08/12
+-PARACETAMOL 1 GRAMO INTRAVENOSO POR RAZONES NECESARIAS DESDE 2024/08/12 HASTA 2024/08/15
+-PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS DESDE 2024/08/15 AL 2024/08/16
+-TRAMADOL 100MG IV DILUIDO LENTO POR RAZONES NECESARIAS CON METOCLOPRAMIDA 10MG IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16
+
+ANTIBIOTICOTERAPIA
+- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA DESDE 2024/08/08 AL 2024/08/14
+- CEFTRIAXONA 2 GRAMOS INTRAVENOSO 30 MINUTOS PREVIO A QUIRÓFANO EL 2024/08/15
+
+ANTIHIPERTENSIVOS
+- AMLODIPINO 5 MILIGRAMOS VIA ORAL CADA DIA 2024/08/08 AL 2024/08/09
+- AMLODIPINO 10 MILIGRAMOS VIA ORAL CADA DIA 2024/08/09 AL 2024/08/16
+- LOSARTAN 100 MILIGRAMOS VIA ORAL CADA DIA (19H00) DESDE EL 2024/08/09 AL 2024/08/16
+
+OTROS
+- SULFATO FERROSO 50 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL 2024/08/09
+- SULFATO FERROSO 100 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL2024/08/16
+- OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS EL 2024/08/07
+- COMPLEJO B 1 TABLETA CADA DIA DESDE 2024/08/08 AL 2024/08/16
+- ENOXAPARINA 40 MILIGRAMOS SUBCUTANEA CADA DIA SUSPENDER 12 HORAS PREVIO A CIRUGIA DESDE EL  2024/08/09 HASTA 2024/08/15
+- COLECALCIFEROL 40000 UNIDADES VÍA ORAL SEMANAL POR 4 SEMANAS DESDE EL 2024/08/09 AL 2024/08/10
+-ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16 
+- AGUA ESTERIL 3000 ML PASAR POR SONDA VESICAL PARA IRRIGACION CONTINUA DESDE 2024/08/15 AL 2024/08/16
+
+
+- GLICEMIAS CAPILARES CADA 6 HORAS DESDE 2024/08/08 AL 2024/08/16
+- INSULINA CRISTALINA ACORDE ESQUEMA DESDE 2024/08/08 AL 2024/08/16
+180-220.- 2 UNIDADES
+221-260 .- 4 UNIDADES
+261 -300 6 UNIDADES
+MAYOR A 301 .- 8 UNIDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE. 
+
+RECETA MEDICA 
+- PARACETAMOL 1GRAMO VO C8H 5 DIAS 
+- LEVOFLOXACINA 500MG VO QD POR 5 DIAS
+-VENIR EL PRÓXIMO JUEVES 11:00 A RETIRO DE SONDA',anam_altadefinitiva='1',protoop_idenlace='1184',anam_control='2024-08-16',anam_fechaalta='2024-08-16',atenc_id='8087',anam_altatransitoria='',anam_horaalta='17:30',anam_enlace='92070110031745115112024080802244724',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='8',anam_diasincapacidad='',usua2_id=393 where anam_id=605 -->2024-09-22 18:23:12
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=9207,anam_nhoja='',anam_fecharegistro='2024-08-08 02:24:47',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN BOLIVAR, RESIDE EN QUITO, MESTIZO, POLICIA JUBILADO, CATOLIDOC, DIESTRO, TIPO DE SANGRE O RH+, NO REFIERE TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: INSUFICIENCIA RENAL, REFIERE EN PRIMER ESTADIO NO REFIERE TRATAMIENTO DESDE HACE 2 AÑOS, DIABETES MELLITUS TIPO DOS DESDE HACE 2 AÑOS EN TRATAMIENTO CON MEDICACION QUE NO ESPECIFICA, HIPERTENSION ARTERIAL EN TRATAMIENTO CON MEDICACION QUE NO RECUERDA
+APQX: CIRUGIA PARA CALCULOS RENALES QUE NO ESPECIFICA HACE 1 AÑO, CATETER DOBLE J NO ESPECIFICA HACE CUANTO 
+HÁBITOS: ALIMENTACION 3 VECES AL DIA, MICCION 12 VECES AL DIA, DEPOSICION 1 VEZ AL DIA, ALCOHOL NIEGA, TABACO NIEGA, OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 5 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE ES DERIVADO DE ISSPOL POR PRESENTAR SINTOMATOLOGIA URINARIA BAJA DESDE HACE 1 AÑO Y RETENCION URINARIA A REPETICION CON COLCACION DE SONDA POR VARIAS OCASIONES, REALIZARON ECOGRAFIA DE PROSTATA EL 06/08/2024 DONDE SE EVIDENCIA PROSTATA DE 77 GRAMOS, POR TACTO RECTAL REPORTAN LOBULO MEDIO IMPORTANTE IMPRONTA HACIA VEJIGA, POR LO QUE DERIVAN PARA RESECCION TRANSURETRAL DE PROSTATA, ES VALORADO POR MEDICO ESPECIALISTA EN UROLOGIA QUIEN INGRESA PARA MANEJO INTERDISCIPLINARIO
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: PRESENCIA DE SONDA VESICOURETRAL CON PRODUCCION DE ORINA CLARA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA CIRUGIA POR PARTE DE UROLOGIA, SE REALIZA INTERCONSULTA A MEDICOS ESPECIALISTAS PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO
+
+IDG: 
+HIPERPLASIA DE LA PRÓSTATA  CIE 10 N40X
+HIPERTENSIÓN ESENCIAL (PRIMARIA) CIE 10: I10X
+DIABETES MELLITUS, NO ESPECIFICADA CIE 10: E14
+INSUFICIENCIA RENAL NO ESPECIFICADA  CIE 10: N19X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/07 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA INTERVENCION CON UROLOGIA. AL PRESENTAR MULTIPLES COMORBILIDADES SE REALIZA INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO, POR LO QUE PASA A HOSPITALIZACION, PERMANECE CON SIGNOS VITALES DENTRO DE PARAMETROS NORMALES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, SE MANTIENE CON SONDA VESICAL CON ORINA CLARA, PENDIENTE INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/08  PACIENTE  ADULTO EN SU PRIMER DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. SE REALIZA INTERCONSULTA DE MEDICINA INTERNA QUIEN INDICA ANTIBIOTICOTERAPIA Y CONTROL DE COMORBILIDADES, ADEMAS NEFROLOGIA SOLICITA EXAMENES DE CONTROL. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/09 PACIENTE CON ANTECEDENTES DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, EL DIA DE HOY PACIENTE REALIZA PICOS FEBRILES Y CRISIS HIPERTENSIVA CONTROLADOS CON ANTIPIRETICOS Y MEDIOS FISICOS CON POSTERIOR MEJORIA, ADEMAS SE AÑADE ANTIHIPERTENSIVO CON ARA II, CON BUENA RESPUESTA AL MOMENTO NORMOTENSO, ADICIONALMENTE AZOADOS ELEVADOS SIN ALTERACION ELECTROLITICA POR LO QUE SE OPTIMIZA HIDRATACION, PERFIL FERROCINETICO DISMINUIDO, SE MANTIENE CON HIERRO VIA ORAL, ADEMAS DEFICIT DE VITAMINA D, SE MANTIENE CON ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINA, PENDIENTE RESULTADO DE UROCULTIVO Y REALIZAR ECOGRAFIA RENAL, MAÑANA EXAMENES DE CONTROL, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/10: PACIENTE MASCULINO EN SU TERCER DÍA DE HOSPITALIZACIÓN, CON ANTECEDENTES CLÍNICOS DE IMPORTANCIA DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, AL MOMENTO CONTROLADOS. SE MANTIENE CON ANTIHIPERTENSIVOS ARA II Y CALCIO ANTAGONISTA, Y DESDE INSTAURACIÓN DE TERAPIA DOBLE SE MANTIENE NORMOTENSO. ADEMÁS HA MANTENIDO GLICEMIAS POR DEBAJO DE 100 MG/DL SIN NECESIDAD DE MEDICACIÓN ANTIDIABÉTICA. SE REALIZA ECOGRAFÍA RENAL EN DONDE SE EVIDENCIA RIÑON IZQUIERDO DE MENOR TAMAÑO, CON DISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA Y PRESENTA ECTASIA PIELOCALICIAL Y URETERAL. SE OBTIENE PROTEÍNAS EN ORINA EN 24 HORAS DE 401. SE SUSPENDE POR INDICACIÓN DE NEFROLOGÍA COLECALCIFEROL HASTA NUEVO AVISO. NO HA REALIZADO NUEVOS PICOS FEBRILES Y SE MANTIENE CON CURVA TÉRMICA CADA 2 HORAS. SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/11 PACIENTE  ADULTO EN SU CUARTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, PRESION ARTERIAL SOBRE PARAMETROS NORMALES A PESAR DE MEDICACION PRESCRITA DURANTE LA NOCHE, NO REALIZA PICOS FEBRILES. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. MEDICINA INTERNA INDICA EXAMENES DE CONTROL PARA EL DIA DE MAÑANA. NEFROLOGIA PRESCRIBE CAMBIO EN HIDRATACION INTRAVENOSA CON VIGILANCIA DE PICOS FEBRILES. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/12 PACIENTE  ADULTO CURSANDO QUINTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. EN SU SEXTO DIA DE ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINAS. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL,  AMBULATORIO.NO SE REPORTA CRECIMIENTO BACTERIANO EN CULTIVO DESPUES DE 48 HORAS, EXAMENES DE LABORATORIO SOLICITADOS POR PARTE DE MEDICINA INTERNA DENTRO DE PARAMETROS NORMALES, SE CONTINUA CON ANTIBIOTICOTERAPIA ESTABLECIDA. NUEVOS EXAMENES DE LABORATORIO EL 2024/08/14, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/13: PACIENTE  ADULTO CURSANDO SEXTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU SEXTO DIA A BASE DE CEFALOSPORINAS, OXEMIAS SOBRE 90% AIRE AMBIENTE, ADECUADA TOLERANCIA ORAL,  AMBULATORIO, SIN PROBLEMAS. UROCULTIVO DEL 2024/08/08 SIN CRECIMIENTO BACTERIANO, MAÑANA EXAMENES DE LABORATORIO DE CONTROL, ADEMAS PROCEDIMIENTO QUIRURGICO PROGRAMADO PARA EL 2024/08/15, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/14: PACIENTE  ADULTO CURSANDO SÉPTIMO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES, GLICEMIAS DENTRO DE LA NORMALIDAD. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU ÚLTIMO DIA A BASE DE CEFALOSPORINAS, ADECUADA TOLERANCIA ORAL. SE EVIDENCIA EN EXAMENES DE LABORATORIO MEJORÍA DE FUNCIÓN RENAL CON CREATININA DE 1.05 Y UREA DE 57.5. PACIENTE SERÁ INTERVENIDO QUIRÚRGICAMENTE EL 2024/08/15. SE DEJAN INDICACIONES PREQUIRÚRGICAS POR PARTE DE UROLOGÍA Y NEFROLOGÍA. ADEMÁS SE COLOCA ENOXAPARINA A LAS 6PM, Y SE SUSPENDE HASTA NUEVO AVISO.
+
+2024/08/15: PACIENTE  ADULTO CURSANDO OCTAVO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. SE REALIZA PROCEDIMIENTO QUIRURGICO DE RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL,  PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA TRANSURETRAL CON IRRIGACION CONTINUA CON COLORACION CLARA SANGUINOLENTA, EN HORAS DE LA MADRUGADA SE DETIENE FLUJO DE SONDA TRANSURETRAL POR LO QUE ES NECESARIO REALIZAR UN LAVADO DEL SONDAJE, AMBULATORIO, EN SEGUIMIENTO POR NEFROLOGIA Y MEDICINA INTERNA, EXAMENES DE LABORATORIO EL 16/08/2024, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/16 PACIENTE MASCULINO DE 64 AÑOS, EN SU PRIMER DIA POSQUIRURGICO, OCTAVO DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. PERMANECE HEMODINAMICAMENTE ESTABLE, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, ADECUADA TOLERANCIA ORAL, AMBULATORIO. SE RETIRA IRRIGACION CONTINUA DE SONDA VESICAL TRAS LO CUAL SE OBSERVA ORINA ROSADA SIN COAGULOS. SE RECIBEN INDICACIONES DE UROLOGIA, MEDICINA INTERNA Y NEFROLOGIA, POR LO QUE SE DECIDE ALTA MEDICA.',anam_hallazgos='LABORATORIO
+2024/08/08: HEMOGLOBINA 10.3   HEMATOCRITO 32.8   LEUCOCITOS 5080   NEUTROFILOS 52.9    LINFOCITOS 35    PLAQUETAS 339000    TP 12.6   TTP 36.9   INR 1.14    GLUCOSA  88.8   UREA  42.5  CREATININA 1.31 NA 143.4 K 3.47 CA 1.29 CL 104.6 PCR 62.2 
+EMO PH 6 LEUCOCITOS +++ HEMATIES + NITRITO - PIOCITOS MAS DE 100/CAMPO BACTERIAS ++ 
+
+2024/08/08 UROCULTIVO: SIN CRECIMIENTO BACTERIANO EN 48 HORAS
+
+2024/08/08: ELECTROCARDIOGRAMA:  RITMO SINUSAL, FC 60 LPM, EJE 0 GRADOS, INTERVALO PR 0.18,    QRS 0.09 MMS   , SEGMENTO S-T NORMAL, NO ARRITMIAS NO ISQUEMIAS, NO CRECIMIENTO VENTRICULAR
+
+2024/08/09 UREA 36.6   CREATININA 1.42   GASOMETRIA VENOSA PH 7.36  PO2 41    PCP2 41.8    HCO3  23.4  BE -2.0 LACTATO 1.4
+CA 8.93    P 4.0  HIERRO SERICO 28;  CAPACIDAD FIJACION DEL HIERRO 210     INDICE DE TRANSFERRINA 13 ; TRASFERRINA 165     HORMONA PARATIROIDEA 17.9      VITAMINA D 20
+
+2024/08/10: HEMOGLOBINA 10.7   HEMATOCRITO 30.8   LEUCOCITOS 4090 NEUTROFILOS 70    LINFOCITOS 18.1  PLAQUETAS 322000 GLUCOSA  77.9   UREA  44.6  CREATININA 1.58 NA 141.5 K 2.93 CA 1.29 CL 104.5
+PROTEÍNAS EN ORINA EN 24 HORAS: 401 
+
+2024/08/11: HEMOGLOBINA 10.6   HEMATOCRITO 29.9  LEUCOCITOS 4300 NEUTROFILOS 42.8    LINFOCITOS 44.1 PLAQUETAS 315000 GLUCOSA  90.5   UREA  40.5  CREATININA 1.32 NA 142.9 K 3.69 CA 1.35 CL 106.8
+
+2024/08/12: GLUCOSA  110  UREA  46.6  CREATININA 1.41   NA 143.1 K 3.54  CA 1.34   CL 104.1 EMO NO INFECCIOSO
+
+2024/08/14: HEMOGLOBINA 12.7. HCTO 37.7%, LEUCOCITOS 8430, SEGMENTADOS 36.2%, LINFOCITOS 51%, PLAQUETAS 452000, GLUCOSA 103.4, UREA 57.5, CREATININA 1.05 
+
+2024/08/16: HEMOGLOBINA 11 HCTO 32.7%, LEUCOCITOS 10310, SEGMENTADOS 70.7%, LINFOCITOS 19%, PLAQUETAS 341000, UREA 45.9, CREATININA 1.6  NA 142.2 K 4.45  CA 1.38   CL 104.2
+
+IMAGEN:
+2024/08/10: ECOGRAFÍA RENAL: RIÑON IZQUIERDO DE MENOR TAMAÑO, CONDISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA. PRESENTA ECTASIA PIELOCALICIAL Y URETERAL, CON DIÁMETRO DE CÁLICE DE HASTA 15 MM Y DEL URÉTER PROXIMAL DE HASTA 13 MM.',anam_resumentratamiento='INDICACIONES DE INGRESO
+.
+-INGRESO A  UROLOGIA HAB 304A
+-DIETA GENERAL
+-CONTROL DE SIGNOS VITALES
+-CANALIZAR VIA PERIFERICA
+
+2024/08/12: PROCEDIMIENTO: RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL
+HALLAZGO: 1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+HIDRATACION
+-SOLUCION SALINA AL 0,9% PASAR A 40CC IV CADA HORA DESDE 2024/08/07 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% PASAR A 100CC IV CADA HORA DESDE 2024/08/09 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% 1000 ML + 10 ML ELECTROSOL POTASIO PASAR A 100ML/HORA DESDE EL 2024/08/10 AL 2024/08/12
+-SOLUCIÓN SALINA 300 ML + 30 MEQ DE SOLETROL POTASIO PASAR EN 3 HORAS EL 2024/08/10 
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA CUANDO INICIE NADA POR VIA ORAL EL 2024/08/14 AL 2024/08/15
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA DESDE 204/08/15 AL 2024/08/16
+
+ANALGESIA
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS DESDE 2024/08/07 AL 2024/08/09
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS Y PRN DESDE 2024/08/09 AL 2024/08/12
+-PARACETAMOL 1 GRAMO INTRAVENOSO POR RAZONES NECESARIAS DESDE 2024/08/12 HASTA 2024/08/15
+-PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS DESDE 2024/08/15 AL 2024/08/16
+-TRAMADOL 100MG IV DILUIDO LENTO POR RAZONES NECESARIAS CON METOCLOPRAMIDA 10MG IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16
+
+ANTIBIOTICOTERAPIA
+- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA DESDE 2024/08/08 AL 2024/08/14
+- CEFTRIAXONA 2 GRAMOS INTRAVENOSO 30 MINUTOS PREVIO A QUIRÓFANO EL 2024/08/15
+
+ANTIHIPERTENSIVOS
+- AMLODIPINO 5 MILIGRAMOS VIA ORAL CADA DIA 2024/08/08 AL 2024/08/09
+- AMLODIPINO 10 MILIGRAMOS VIA ORAL CADA DIA 2024/08/09 AL 2024/08/16
+- LOSARTAN 100 MILIGRAMOS VIA ORAL CADA DIA (19H00) DESDE EL 2024/08/09 AL 2024/08/16
+
+OTROS
+- SULFATO FERROSO 50 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL 2024/08/09
+- SULFATO FERROSO 100 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL2024/08/16
+- OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS EL 2024/08/07
+- COMPLEJO B 1 TABLETA CADA DIA DESDE 2024/08/08 AL 2024/08/16
+- ENOXAPARINA 40 MILIGRAMOS SUBCUTANEA CADA DIA SUSPENDER 12 HORAS PREVIO A CIRUGIA DESDE EL  2024/08/09 HASTA 2024/08/15
+- COLECALCIFEROL 40000 UNIDADES VÍA ORAL SEMANAL POR 4 SEMANAS DESDE EL 2024/08/09 AL 2024/08/10
+-ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16 
+- AGUA ESTERIL 3000 ML PASAR POR SONDA VESICAL PARA IRRIGACION CONTINUA DESDE 2024/08/15 AL 2024/08/16
+
+
+- GLICEMIAS CAPILARES CADA 6 HORAS DESDE 2024/08/08 AL 2024/08/16
+- INSULINA CRISTALINA ACORDE ESQUEMA DESDE 2024/08/08 AL 2024/08/16
+180-220.- 2 UNIDADES
+221-260 .- 4 UNIDADES
+261 -300 6 UNIDADES
+MAYOR A 301 .- 8 UNIDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE. 
+
+RECETA MEDICA 
+- PARACETAMOL 1GRAMO VO C8H 5 DIAS 
+- LEVOFLOXACINA 500MG VO QD POR 5 DIAS
+-VENIR EL PRÓXIMO JUEVES 11:00 A RETIRO DE SONDA',anam_altadefinitiva='1',protoop_idenlace='1184',anam_control='2024-08-16',anam_fechaalta='2024-08-16',atenc_id='8087',anam_altatransitoria='',anam_horaalta='17:30',anam_enlace='92070110031745115112024080802244724',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='09',anam_diasincapacidad='',usua2_id=393 where anam_id=605 -->2024-09-22 18:25:49
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=511,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=9207,anam_nhoja='',anam_fecharegistro='2024-08-08 02:24:47',anam_resumenclinico='NOTA DE INGRESO
+UROLOGIA
+
+PACIENTE MASCULINO DE 63 AÑOS DE EDAD, NACIDO EN BOLIVAR, RESIDE EN QUITO, MESTIZO, POLICIA JUBILADO, CATOLIDOC, DIESTRO, TIPO DE SANGRE O RH+, NO REFIERE TRANSFUSIONES ANTERIORES
+
+ALERGIAS: NO REFIERE
+APP: INSUFICIENCIA RENAL, REFIERE EN PRIMER ESTADIO NO REFIERE TRATAMIENTO DESDE HACE 2 AÑOS, DIABETES MELLITUS TIPO DOS DESDE HACE 2 AÑOS EN TRATAMIENTO CON MEDICACION QUE NO ESPECIFICA, HIPERTENSION ARTERIAL EN TRATAMIENTO CON MEDICACION QUE NO RECUERDA
+APQX: CIRUGIA PARA CALCULOS RENALES QUE NO ESPECIFICA HACE 1 AÑO, CATETER DOBLE J NO ESPECIFICA HACE CUANTO 
+HÁBITOS: ALIMENTACION 3 VECES AL DIA, MICCION 12 VECES AL DIA, DEPOSICION 1 VEZ AL DIA, ALCOHOL NIEGA, TABACO NIEGA, OTRAS DROGAS NIEGA
+VACUNA SARS COV 2: 5 DOSIS
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE ES DERIVADO DE ISSPOL POR PRESENTAR SINTOMATOLOGIA URINARIA BAJA DESDE HACE 1 AÑO Y RETENCION URINARIA A REPETICION CON COLCACION DE SONDA POR VARIAS OCASIONES, REALIZARON ECOGRAFIA DE PROSTATA EL 06/08/2024 DONDE SE EVIDENCIA PROSTATA DE 77 GRAMOS, POR TACTO RECTAL REPORTAN LOBULO MEDIO IMPORTANTE IMPRONTA HACIA VEJIGA, POR LO QUE DERIVAN PARA RESECCION TRANSURETRAL DE PROSTATA, ES VALORADO POR MEDICO ESPECIALISTA EN UROLOGIA QUIEN INGRESA PARA MANEJO INTERDISCIPLINARIO
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS. BOCA: MUCOSAS ORALES HÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RITMICO, NORMOFONETICO, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: RUIDOS HIDROAEREOS PRESENTES, BLANDO, DEPRESIBLE, NO DOLOROSO A LA PALPACION.  REGION GENITAL: PRESENCIA DE SONDA VESICOURETRAL CON PRODUCCION DE ORINA CLARA.  EXTREMIDADES: NEUROVASCULAR CONSERVADO, SIMETRICAS, MOVILES, LLENADO CAPILAR DE 2 SEGUNDOS.
+
+ANALISIS: PACIENTE ADULTO CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA CIRUGIA POR PARTE DE UROLOGIA, SE REALIZA INTERCONSULTA A MEDICOS ESPECIALISTAS PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO
+
+IDG: 
+HIPERPLASIA DE LA PRÓSTATA  CIE 10 N40X
+HIPERTENSIÓN ESENCIAL (PRIMARIA) CIE 10: I10X
+DIABETES MELLITUS, NO ESPECIFICADA CIE 10: E14
+INSUFICIENCIA RENAL NO ESPECIFICADA  CIE 10: N19X
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/08/07 PACIENTE MASCULINO DE 63 AÑOS CON ANTECEDENTES DESCRITOS, ACUDE DERIVADO DE ISSPOL PARA INTERVENCION CON UROLOGIA. AL PRESENTAR MULTIPLES COMORBILIDADES SE REALIZA INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA PARA MANEJO INTERDISCIPLINARIO PREVIO A PROCEDIMIENTO QUIRURGICO, POR LO QUE PASA A HOSPITALIZACION, PERMANECE CON SIGNOS VITALES DENTRO DE PARAMETROS NORMALES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, SE MANTIENE CON SONDA VESICAL CON ORINA CLARA, PENDIENTE INTERCONSULTA CON MEDICINA INTERNA Y NEFROLOGIA, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/08  PACIENTE  ADULTO EN SU PRIMER DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. SE REALIZA INTERCONSULTA DE MEDICINA INTERNA QUIEN INDICA ANTIBIOTICOTERAPIA Y CONTROL DE COMORBILIDADES, ADEMAS NEFROLOGIA SOLICITA EXAMENES DE CONTROL. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/09 PACIENTE CON ANTECEDENTES DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, EL DIA DE HOY PACIENTE REALIZA PICOS FEBRILES Y CRISIS HIPERTENSIVA CONTROLADOS CON ANTIPIRETICOS Y MEDIOS FISICOS CON POSTERIOR MEJORIA, ADEMAS SE AÑADE ANTIHIPERTENSIVO CON ARA II, CON BUENA RESPUESTA AL MOMENTO NORMOTENSO, ADICIONALMENTE AZOADOS ELEVADOS SIN ALTERACION ELECTROLITICA POR LO QUE SE OPTIMIZA HIDRATACION, PERFIL FERROCINETICO DISMINUIDO, SE MANTIENE CON HIERRO VIA ORAL, ADEMAS DEFICIT DE VITAMINA D, SE MANTIENE CON ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINA, PENDIENTE RESULTADO DE UROCULTIVO Y REALIZAR ECOGRAFIA RENAL, MAÑANA EXAMENES DE CONTROL, BAJO VIGILANCIA ESTRICTA.
+
+2024/08/10: PACIENTE MASCULINO EN SU TERCER DÍA DE HOSPITALIZACIÓN, CON ANTECEDENTES CLÍNICOS DE IMPORTANCIA DE HIPERTENSION ARTERIAL Y DIABETES MELLITUS, AL MOMENTO CONTROLADOS. SE MANTIENE CON ANTIHIPERTENSIVOS ARA II Y CALCIO ANTAGONISTA, Y DESDE INSTAURACIÓN DE TERAPIA DOBLE SE MANTIENE NORMOTENSO. ADEMÁS HA MANTENIDO GLICEMIAS POR DEBAJO DE 100 MG/DL SIN NECESIDAD DE MEDICACIÓN ANTIDIABÉTICA. SE REALIZA ECOGRAFÍA RENAL EN DONDE SE EVIDENCIA RIÑON IZQUIERDO DE MENOR TAMAÑO, CON DISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA Y PRESENTA ECTASIA PIELOCALICIAL Y URETERAL. SE OBTIENE PROTEÍNAS EN ORINA EN 24 HORAS DE 401. SE SUSPENDE POR INDICACIÓN DE NEFROLOGÍA COLECALCIFEROL HASTA NUEVO AVISO. NO HA REALIZADO NUEVOS PICOS FEBRILES Y SE MANTIENE CON CURVA TÉRMICA CADA 2 HORAS. SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/11 PACIENTE  ADULTO EN SU CUARTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS, AL MOMENTO SIGNOS VITALES ESTABLES, PRESION ARTERIAL SOBRE PARAMETROS NORMALES A PESAR DE MEDICACION PRESCRITA DURANTE LA NOCHE, NO REALIZA PICOS FEBRILES. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL, DOLOR CONTROLADO CON ANALGESIA PRESCRITA, AMBULATORIO. MEDICINA INTERNA INDICA EXAMENES DE CONTROL PARA EL DIA DE MAÑANA. NEFROLOGIA PRESCRIBE CAMBIO EN HIDRATACION INTRAVENOSA CON VIGILANCIA DE PICOS FEBRILES. BAJO VIGILANCIA ESTRICTA.
+
+2024/08/12 PACIENTE  ADULTO CURSANDO QUINTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. EN SU SEXTO DIA DE ANTIBIOTICOTERAPIA A BASE DE CEFALOSPORINAS. SIN NECESIDAD DE OXIGENO SUPLEMENTARIO, ADECUADA TOLERANCIA ORAL,  AMBULATORIO.NO SE REPORTA CRECIMIENTO BACTERIANO EN CULTIVO DESPUES DE 48 HORAS, EXAMENES DE LABORATORIO SOLICITADOS POR PARTE DE MEDICINA INTERNA DENTRO DE PARAMETROS NORMALES, SE CONTINUA CON ANTIBIOTICOTERAPIA ESTABLECIDA. NUEVOS EXAMENES DE LABORATORIO EL 2024/08/14, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/13: PACIENTE  ADULTO CURSANDO SEXTO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU SEXTO DIA A BASE DE CEFALOSPORINAS, OXEMIAS SOBRE 90% AIRE AMBIENTE, ADECUADA TOLERANCIA ORAL,  AMBULATORIO, SIN PROBLEMAS. UROCULTIVO DEL 2024/08/08 SIN CRECIMIENTO BACTERIANO, MAÑANA EXAMENES DE LABORATORIO DE CONTROL, ADEMAS PROCEDIMIENTO QUIRURGICO PROGRAMADO PARA EL 2024/08/15, SE MANTIENE BAJO VIGILANCIA ESTRICTA.
+
+2024/08/14: PACIENTE  ADULTO CURSANDO SÉPTIMO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. AL MOMENTO SIGNOS VITALES ESTABLES, PRESIONES ARTERIALES SOBRE PARAMETROS NORMALES CON MEDICACION ANTIHIPERTENSIVA PAUTADA, NO REALIZA PICOS FEBRILES, GLICEMIAS DENTRO DE LA NORMALIDAD. SE MANTIENE ANTIBIOTICOTERAPIA HOY EN SU ÚLTIMO DIA A BASE DE CEFALOSPORINAS, ADECUADA TOLERANCIA ORAL. SE EVIDENCIA EN EXAMENES DE LABORATORIO MEJORÍA DE FUNCIÓN RENAL CON CREATININA DE 1.05 Y UREA DE 57.5. PACIENTE SERÁ INTERVENIDO QUIRÚRGICAMENTE EL 2024/08/15. SE DEJAN INDICACIONES PREQUIRÚRGICAS POR PARTE DE UROLOGÍA Y NEFROLOGÍA. ADEMÁS SE COLOCA ENOXAPARINA A LAS 6PM, Y SE SUSPENDE HASTA NUEVO AVISO.
+
+2024/08/15: PACIENTE  ADULTO CURSANDO OCTAVO DIA DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. SE REALIZA PROCEDIMIENTO QUIRURGICO DE RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL,  PROCEDIMIENTO SIN COMPLICACIONES. PACIENTE HEMODINAMICAMENTE ESTABLE EN RECUPERACION POR LO QUE SE DECIDE PASE A HOSPITALIZACION, EN DONDE PERMANECE CON SIGNOS VITALES ESTABLES, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, INICIA TOLERANCIA ORAL, PRESENCIA DE SONDA TRANSURETRAL CON IRRIGACION CONTINUA CON COLORACION CLARA SANGUINOLENTA, EN HORAS DE LA MADRUGADA SE DETIENE FLUJO DE SONDA TRANSURETRAL POR LO QUE ES NECESARIO REALIZAR UN LAVADO DEL SONDAJE, AMBULATORIO, EN SEGUIMIENTO POR NEFROLOGIA Y MEDICINA INTERNA, EXAMENES DE LABORATORIO EL 16/08/2024, SE MANTIENE BAJO VIGILANCIA ESTRICTA. 
+
+2024/08/16 PACIENTE MASCULINO DE 64 AÑOS, EN SU PRIMER DIA POSQUIRURGICO, OCTAVO DE HOSPITALIZACION CON DIAGNOSTICOS DESCRITOS. PERMANECE HEMODINAMICAMENTE ESTABLE, SIN REQUERIMIENTO DE OXIGENO SUPLEMENTARIO, DOLOR CONTROLADO CON ANALGESIA PAUTADA, ADECUADA TOLERANCIA ORAL, AMBULATORIO. SE RETIRA IRRIGACION CONTINUA DE SONDA VESICAL TRAS LO CUAL SE OBSERVA ORINA ROSADA SIN COAGULOS. SE RECIBEN INDICACIONES DE UROLOGIA, MEDICINA INTERNA Y NEFROLOGIA, POR LO QUE SE DECIDE ALTA MEDICA.',anam_hallazgos='LABORATORIO
+2024/08/08: HEMOGLOBINA 10.3   HEMATOCRITO 32.8   LEUCOCITOS 5080   NEUTROFILOS 52.9    LINFOCITOS 35    PLAQUETAS 339000    TP 12.6   TTP 36.9   INR 1.14    GLUCOSA  88.8   UREA  42.5  CREATININA 1.31 NA 143.4 K 3.47 CA 1.29 CL 104.6 PCR 62.2 
+EMO PH 6 LEUCOCITOS +++ HEMATIES + NITRITO - PIOCITOS MAS DE 100/CAMPO BACTERIAS ++ 
+
+2024/08/08 UROCULTIVO: SIN CRECIMIENTO BACTERIANO EN 48 HORAS
+
+2024/08/08: ELECTROCARDIOGRAMA:  RITMO SINUSAL, FC 60 LPM, EJE 0 GRADOS, INTERVALO PR 0.18,    QRS 0.09 MMS   , SEGMENTO S-T NORMAL, NO ARRITMIAS NO ISQUEMIAS, NO CRECIMIENTO VENTRICULAR
+
+2024/08/09 UREA 36.6   CREATININA 1.42   GASOMETRIA VENOSA PH 7.36  PO2 41    PCP2 41.8    HCO3  23.4  BE -2.0 LACTATO 1.4
+CA 8.93    P 4.0  HIERRO SERICO 28;  CAPACIDAD FIJACION DEL HIERRO 210     INDICE DE TRANSFERRINA 13 ; TRASFERRINA 165     HORMONA PARATIROIDEA 17.9      VITAMINA D 20
+
+2024/08/10: HEMOGLOBINA 10.7   HEMATOCRITO 30.8   LEUCOCITOS 4090 NEUTROFILOS 70    LINFOCITOS 18.1  PLAQUETAS 322000 GLUCOSA  77.9   UREA  44.6  CREATININA 1.58 NA 141.5 K 2.93 CA 1.29 CL 104.5
+PROTEÍNAS EN ORINA EN 24 HORAS: 401 
+
+2024/08/11: HEMOGLOBINA 10.6   HEMATOCRITO 29.9  LEUCOCITOS 4300 NEUTROFILOS 42.8    LINFOCITOS 44.1 PLAQUETAS 315000 GLUCOSA  90.5   UREA  40.5  CREATININA 1.32 NA 142.9 K 3.69 CA 1.35 CL 106.8
+
+2024/08/12: GLUCOSA  110  UREA  46.6  CREATININA 1.41   NA 143.1 K 3.54  CA 1.34   CL 104.1 EMO NO INFECCIOSO
+
+2024/08/14: HEMOGLOBINA 12.7. HCTO 37.7%, LEUCOCITOS 8430, SEGMENTADOS 36.2%, LINFOCITOS 51%, PLAQUETAS 452000, GLUCOSA 103.4, UREA 57.5, CREATININA 1.05 
+
+2024/08/16: HEMOGLOBINA 11 HCTO 32.7%, LEUCOCITOS 10310, SEGMENTADOS 70.7%, LINFOCITOS 19%, PLAQUETAS 341000, UREA 45.9, CREATININA 1.6  NA 142.2 K 4.45  CA 1.38   CL 104.2
+
+IMAGEN:
+2024/08/10: ECOGRAFÍA RENAL: RIÑON IZQUIERDO DE MENOR TAMAÑO, CONDISMINUCIÓN EN LA DIFERENCIACIÓN ENTRE SENO Y PARÉNQUIMA. PRESENTA ECTASIA PIELOCALICIAL Y URETERAL, CON DIÁMETRO DE CÁLICE DE HASTA 15 MM Y DEL URÉTER PROXIMAL DE HASTA 13 MM.',anam_resumentratamiento='INDICACIONES DE INGRESO
+.
+-INGRESO A  UROLOGIA HAB 304A
+-DIETA GENERAL
+-CONTROL DE SIGNOS VITALES
+-CANALIZAR VIA PERIFERICA
+
+2024/08/12: PROCEDIMIENTO: RTU BIPOLAR DE PRÓSTATA + DILATACIÓN URETRAL + CISTOURETROSCOPÍA + RESECCIÓN TRANSURETRAL DE CUELLO VESICAL SIN COMPLICACIONES   Y POSTERIOR SONDAJE DIFICIL
+HALLAZGO: 1. ADENOMA INCREMENTADO DE TAMAÑO CON OBSTRUCCIÓN DE LUZ URETRAL 90% DE SU LUZ, A EXPENSAS DE LÓBULO MEDIO Y LÓBULO IZQUIERDO. LÓBULO MEDIO PROTRUIDO HACIA VEJIGA
+2. URETRA PERMEABLE EN TODO SU TRAYECTO
+3. VEJIGA TRABECULADA GRADO III
+4. MEATOS URETERALES ORTOTÓPICOS
+5. DISTANCIA DE 3 CM DE CUELLO
+6. SIGNOS INFLAMATORIOS DE MUCOSA PROSTÁTICA
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+HIDRATACION
+-SOLUCION SALINA AL 0,9% PASAR A 40CC IV CADA HORA DESDE 2024/08/07 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% PASAR A 100CC IV CADA HORA DESDE 2024/08/09 AL 2024/08/09
+-SOLUCION SALINA AL 0,9% 1000 ML + 10 ML ELECTROSOL POTASIO PASAR A 100ML/HORA DESDE EL 2024/08/10 AL 2024/08/12
+-SOLUCIÓN SALINA 300 ML + 30 MEQ DE SOLETROL POTASIO PASAR EN 3 HORAS EL 2024/08/10 
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA CUANDO INICIE NADA POR VIA ORAL EL 2024/08/14 AL 2024/08/15
+-SOLUCIÓN SALINA 0.9 % 1000CC PASAR A 80 CC/HORA DESDE 204/08/15 AL 2024/08/16
+
+ANALGESIA
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS DESDE 2024/08/07 AL 2024/08/09
+-PARACETAMOL 1 GRAMO INTRAVENOSO CADA 8 HORAS Y PRN DESDE 2024/08/09 AL 2024/08/12
+-PARACETAMOL 1 GRAMO INTRAVENOSO POR RAZONES NECESARIAS DESDE 2024/08/12 HASTA 2024/08/15
+-PARACETAMOL LIQUIDO PARENTERAL 1000 MG/ 100 ML PASAR IV CADA 8 HORAS DESDE 2024/08/15 AL 2024/08/16
+-TRAMADOL 100MG IV DILUIDO LENTO POR RAZONES NECESARIAS CON METOCLOPRAMIDA 10MG IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16
+
+ANTIBIOTICOTERAPIA
+- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA DESDE 2024/08/08 AL 2024/08/14
+- CEFTRIAXONA 2 GRAMOS INTRAVENOSO 30 MINUTOS PREVIO A QUIRÓFANO EL 2024/08/15
+
+ANTIHIPERTENSIVOS
+- AMLODIPINO 5 MILIGRAMOS VIA ORAL CADA DIA 2024/08/08 AL 2024/08/09
+- AMLODIPINO 10 MILIGRAMOS VIA ORAL CADA DIA 2024/08/09 AL 2024/08/16
+- LOSARTAN 100 MILIGRAMOS VIA ORAL CADA DIA (19H00) DESDE EL 2024/08/09 AL 2024/08/16
+
+OTROS
+- SULFATO FERROSO 50 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL 2024/08/09
+- SULFATO FERROSO 100 MILIGRAMOS VIA ORAL CADA DIA DESDE 2024/08/08 AL2024/08/16
+- OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS EL 2024/08/07
+- COMPLEJO B 1 TABLETA CADA DIA DESDE 2024/08/08 AL 2024/08/16
+- ENOXAPARINA 40 MILIGRAMOS SUBCUTANEA CADA DIA SUSPENDER 12 HORAS PREVIO A CIRUGIA DESDE EL  2024/08/09 HASTA 2024/08/15
+- COLECALCIFEROL 40000 UNIDADES VÍA ORAL SEMANAL POR 4 SEMANAS DESDE EL 2024/08/09 AL 2024/08/10
+-ACIDO TRANEXAMICO LIQUIDO PARENTERAL 500 MG/5ML PASAR IV POR RAZONES NECESARIAS DESDE 2024/08/15 AL 2024/08/16 
+- AGUA ESTERIL 3000 ML PASAR POR SONDA VESICAL PARA IRRIGACION CONTINUA DESDE 2024/08/15 AL 2024/08/16
+
+
+- GLICEMIAS CAPILARES CADA 6 HORAS DESDE 2024/08/08 AL 2024/08/16
+- INSULINA CRISTALINA ACORDE ESQUEMA DESDE 2024/08/08 AL 2024/08/16
+180-220.- 2 UNIDADES
+221-260 .- 4 UNIDADES
+261 -300 6 UNIDADES
+MAYOR A 301 .- 8 UNIDADES',anam_condicionegreso='INDICACIONES DE ALTA ENTREGADAS POR MEDICO TRATANTE. PACIENTE EGRESA EN CONDICIÓN ESTABLE, SE ENTREGA INDICACIONES DE ALTA. RECETA MÉDICA SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA, PACIENTE ACEPTA Y ENTIENDE INDICACIONES DADAS, PRONÓSTICO FAVORABLE. 
+
+RECETA MEDICA 
+- PARACETAMOL 1GRAMO VO C8H 5 DIAS 
+- LEVOFLOXACINA 500MG VO QD POR 5 DIAS
+-VENIR EL PRÓXIMO JUEVES 11:00 A RETIRO DE SONDA',anam_altadefinitiva='1',protoop_idenlace='1184',anam_control='2024-08-16',anam_fechaalta='2024-08-16',atenc_id='8087',anam_altatransitoria='',anam_horaalta='17:30',anam_enlace='92070110031745115112024080802244724',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='09',anam_diasincapacidad='',usua2_id=393 where anam_id=605 -->2024-09-22 18:35:29
+427-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechaingreso,atenc_fechasalida,atenc_condiciondeegreso,atenc_observacion,emp_id,clie_ci,atenc_referencia,atenc_archivo,atenc_enlace) values (1,9617,'1702203967-1','2',427,'2024-09-22 23:19:05','','','2024-09-22 23:19:05','2024-09-22 23:19:05','VIVO','consulta',1,'1702203967','','','01172509115942720240922111905390')-->2024-09-22 23:19:47

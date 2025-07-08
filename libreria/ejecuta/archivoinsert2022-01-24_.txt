@@ -1,0 +1,3 @@
+-->update dns_traumatologiaconsultaexterna set atenc_id=186,usua_id=182,centro_id=1,clie_id=247,conext_notasdeevolucion='CONTROL POSTQUIRURGICO
+PACIENTE CON ANTECEDENTES DE PTR IZQUIERDA HACE 3 MESES, AL MOMENTO EN PERIODO DE REHABILITACION CON LO QUE REFIERE MEJORIA DE UN 70%.
+AL EXAMEN FISICO: FLEXION 90º, EXTENSION -5º, NO DOLOR, HIPOTROFIA DEL CUADRICEPS, MARCHA LEVEMENTE DISBASICA.',anam_id=97,conext_fechar='2022-01-21',estaatenc_id=1,conext_fecharegistro='2022-01-21 13:08:24',conext_horar='13:08',conext_prescripciones='1. CONTINUAR CON FISIOTERAPIA',conext_enlace='24701100258084118220220121010824317' where conext_id=48 -->2022-01-24 13:13:23

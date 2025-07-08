@@ -1,0 +1,1 @@
+update sth_report set rept_aleatunico='171490744920230303027777777',rept_nombre='REPORTE VENTAS TODOS LOS DOCUMENTOS',rept_activo=1,rept_tabla='',rept_campos='',rept_archivopersonalizado='standarventasall_panel.php',categr_id=17,rept_observacion='Reporte Ventas' where rept_id=53 

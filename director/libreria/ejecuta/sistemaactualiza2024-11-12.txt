@@ -1,0 +1,1 @@
+update sth_report set categr_id=20,rept_activo=1,rept_aleatunico='171490744920230807114237374',rept_archivopersonalizado='standarretenciones_panel.php',rept_campos='',rept_nombre='REPORTE RETENCIONES',rept_observacion='',rept_tabla='' where rept_id=45 

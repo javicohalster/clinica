@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        					<autorizacion>
+        					<estado>AUTORIZADO</estado>
+        					<numeroAutorizacion>2810202301179293526100120010020000065260000652619</numeroAutorizacion>
+        					<fechaAutorizacion>2023-11-29T12:54:11-05:00</fechaAutorizacion>
+        					<ambiente>PRODUCCION</ambiente>
+        					<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CLINICA LOS PINOS</razonSocial>
+<nombreComercial>CLINICA LOS PINOS</nombreComercial>
+<ruc>1792935261001</ruc>
+<claveAcceso>2810202301179293526100120010020000065260000652619</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000006526</secuencial>
+<dirMatriz>ELIA LIUT N45-10 Y TELEGRAFO PRIMERO</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>28/10/2023</fechaEmision>
+<dirEstablecimiento>ELIA LIUT N45-10 Y TELEGRAFO PRIMERO</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>FANNY MAGDALENA SAAVEDRA LASSO </razonSocialComprador>
+<identificacionComprador>1700525189</identificacionComprador>
+<totalSinImpuestos>79.52</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>67.48</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>12.04</baseImponible>
+<valor>1.44</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>80.96</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos><pago><formaPago>20</formaPago><total>80.96</total></pago></pagos></infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>EM8</codigoPrincipal>
+<codigoAuxiliar>EM8</codigoAuxiliar>
+<descripcion>DERECHO USO DE SALA  EMERGENCIA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>33.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>33.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>33.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>EM9</codigoPrincipal>
+<codigoAuxiliar>EM9</codigoAuxiliar>
+<descripcion>ATENCION EMERGENCIA TIPO A</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>22.2750</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>22.28</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>22.28</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>SER-UM</codigoPrincipal>
+<codigoAuxiliar>SER-UM</codigoAuxiliar>
+<descripcion>MATERIAL DE USO MENOR EMERGENCIA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.5000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.50</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.50</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7707141301258</codigoPrincipal>
+<codigoAuxiliar>7707141301258</codigoAuxiliar>
+<descripcion>CLORURO DE SODIO 0,9% 100ML. BAX</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.3090</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.31</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>1.31</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861150303297</codigoPrincipal>
+<codigoAuxiliar>7861150303297</codigoAuxiliar>
+<descripcion>HEMOBLOCK (acido tranexamico)</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.3900</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.39</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4022495112514</codigoPrincipal>
+<codigoAuxiliar>4022495112514</codigoAuxiliar>
+<descripcion>INTROCAN No. 22 BRAUN</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.4740</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.47</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.47</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4046719388936</codigoPrincipal>
+<codigoAuxiliar>4046719388936</codigoAuxiliar>
+<descripcion>TEGADERM 6.5 X 7  1683</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>3.7290</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>3.73</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>3.73</baseImponible>
+<valor>0.45</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4968420508451</codigoPrincipal>
+<codigoAuxiliar>4968420508451</codigoAuxiliar>
+<descripcion>LLAVE DE TRES VIAS NIPRO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.7370</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.74</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.74</baseImponible>
+<valor>0.09</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4968420726954</codigoPrincipal>
+<codigoAuxiliar>4968420726954</codigoAuxiliar>
+<descripcion>JERINGUILLA DE 10CC 21X11/2</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.1980</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.20</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.20</baseImponible>
+<valor>0.02</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>786800079 0054</codigoPrincipal>
+<codigoAuxiliar>786800079 0054</codigoAuxiliar>
+<descripcion>GASA TARRINA SIMPLE</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>4.3890</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>4.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>4.39</baseImponible>
+<valor>0.53</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>BRA43</codigoPrincipal>
+<codigoAuxiliar>BRA43</codigoAuxiliar>
+<descripcion>INTRAFIX EQUIPO DE SUERO BRAUN *</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.5070</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.51</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.51</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Agente de Retencion">RESOLUCION: NAC-DNCRASC20-00000001</campoAdicional>
+<campoAdicional nombre="direccionComprador">PASAJE 6 N44-13 Y EDMUNDO CARVAJAL, EDIFICIO BOSQUE PLAZA</campoAdicional>
+<campoAdicional nombre="telefonoComprador">0999104525</campoAdicional>
+<campoAdicional nombre="Tipo">SEGUROS</campoAdicional>
+<campoAdicional nombre="Convenio">CONFIAMED </campoAdicional>
+<campoAdicional nombre="adicionalfac">ATENCION POR EMERGENCIA</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature94657">
+<ds:SignedInfo Id="Signature-SignedInfo764895">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID902055" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature94657-SignedProperties677661">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>u8Z3GpKvacpZPVM1OQXHYewoFxw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1675553">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6GGJL1j63a2nDyqC/1y92hd21cA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-586424" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CkEup2iwlWzp1SamoeUrO0a/ml0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue674447">
+HEcrTQM+AnkjlJIUMmryETwko2Z8SwU4oRmb+xXeiWqEq8crk3bQpT9XwxUI9UqZI8cE/o8SmiWe
+zbOFUywv0V+Z5kUbi0v/rngGFOoaDENf7aWVuF3nxBQViDgLYJ6ugY+/2GzQLwDRUg8wmdKk+Fl7
+suiM1NipoTB0fhRsQ9bFBgmBgqxb6wTjRQLx2KgR8RlxjqwWzCWonh+5T4veWwuJimwbevKbCT76
+9ASN2US7tM3Ql3C09wm5oxcMZ6ufkhXQh2CCaJ7nM4FAPFEEgR4QsP7Nq5TMQqT686yymgfn69Hk
+xf14DdxpxOFEjGL04PQGLi7Cj3CtIBkQhvZPqA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1675553">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMJjCCCg6gAwIBAgIEOcD4SDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA2MjMyMTU3MTRaFw0yNTA2MjIyMTU3MTRaMIGcMSUw
+IwYDVQQDDBxQQVRSSUNJTyBKQVZJRVIgR1VaTUFOIEJSQVZPMRUwEwYDVQQFEwwyMzA2MjMxNzA2
+NDExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA0hGsFn5Dct8uUQV9zZcMFT6AgSoSQKL/kv2798BIsYJCBUHGqu4hKuhK
+inJysqWUWW26dEG5DDicdWa8v6AJsAd3UF9rUVVlVv0dVuA9y60ILafnKxWbJ7bTHVNR/meul2ce
+NEu7x0xXor3fmIP4q4I4unHps8W2cV+uB4+ify62qnhbQ7E24QxypjdW1ccsu7eHNQ8DEnEkBMtV
+22p3Rccht50C3L0JvLqg59FmxlvH4ophtxs6TFKywlkkw1nlPGYO/EeSoMYgBS92UJbNHboCVcnZ
+ccbc8u4CbZVGyOCeX+jW5SkdpgZ4S87UEtL7IG9f5krjVAKQxEGuv7GKDwIDAQABo4IHbzCCB2sw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJwYDVR0RBCAwHoEcZ2VyZW5jaWFAY2xpbmljYWxvc3Bpbm9zLmNvbTCCARUGA1UdIASC
+AQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYB
+BAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCC
+ApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8v
+cG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJk
+aXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTgNJKApQQijCT7
+tqSrul7w+80gmTArBgNVHRAEJDAigA8yMDIzMDYyMzIxNTcxNFqBDzIwMjUwNjIyMjE1NzE0WjAL
+BgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnID
+AQQMDAoxMDAyNTIxNjEzMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEu
+MDQGCisGAQQBgqZyAwcEJgwkRUxJQSBMSVVUIE40NSAxMCBZIFRFTEVHUkFGTyBQUklNRVJPMB8G
+CisGAQQBgqZyAwIEEQwPUEFUUklDSU8gSkFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAw
+NjQyMjc5MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgor
+BgEEAYKmcgMDBAgMBkdVWk1BTjBBBgorBgEEAYKmcgMKBDMMMUNMSU5JQ0EgTE9TIFBJTk9TIEdV
+RVJSQSBHVVpNQU4gUElOT1NNRUQgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0xNzkyOTM1MjYx
+MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFQYKKwYBBAGCpnIDBAQHDAVCUkFWTzAaBgorBgEEAYKm
+cgMIBAwMCjA5ODcyNzcxMDQwDQYJKoZIhvcNAQELBQADggIBAGp+9DZ+K3Jg/bZzOLtk+ZqfWXgu
+n1pqQkKW3ZRnRatxgv8N0vvkRvpLTtsO7KcuzPm427KKX80650M7VSg3ZIFRzfuArq/8ySW8ebmk
+FGIeo/8FP96Nh5Ze9DJAMpo+al7zLGbIEooyZLNAK1kEH9PEQ6AdTlvLkhtaNcWpN3Tigdz5CKtS
+MPIcHyhm6gy8razD2OKWO7e/NZAcQYe3HKVnv1nDykmxX6CpsMEL08aSaiQz5I+rx46SVXrwDkme
+BpNn8ct++oR2IM9A9SVCSII5KibHTQoxXxdY4phcpUCNvJFJtfuXe6vTLgj96VyHoFYJK7/RgzaE
+yAsLn70iAc7QCKEovZckAX1LT6RQ/Xry/eTQkLYjX9mLEZmDM7dtqKKpScrK/bm4behAE361cv9Z
+47lWFADgWSke+SW3E0BEbGELH1RDryqUhyEHnT00ycE35JRhBCM5uD/fUVsol3lgejzH2omuKQSD
+LT4Qd7MT5/o4WPf2zBQBOyg5O9S9kGT0Hq6k5T/EJhm3etkSAA3tyL4FqtKjNA9n5C7/jqBicSXA
+KcPTsioTY0Jr05m8ZG7CAnnIrSE73eV2fT8DyG7Z1AOENbmW2vV7dW/ZcGS9K7rej+2ihDVtyC+3
+4Qnyi433ysBXbxQOjihweOUD4W3pQ1THG4jAoYAoqWm7akx4
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0hGsFn5Dct8uUQV9zZcMFT6AgSoSQKL/kv2798BIsYJCBUHGqu4hKuhKinJysqWUWW26dEG5DDic
+dWa8v6AJsAd3UF9rUVVlVv0dVuA9y60ILafnKxWbJ7bTHVNR/meul2ceNEu7x0xXor3fmIP4q4I4
+unHps8W2cV+uB4+ify62qnhbQ7E24QxypjdW1ccsu7eHNQ8DEnEkBMtV22p3Rccht50C3L0JvLqg
+59FmxlvH4ophtxs6TFKywlkkw1nlPGYO/EeSoMYgBS92UJbNHboCVcnZccbc8u4CbZVGyOCeX+jW
+5SkdpgZ4S87UEtL7IG9f5krjVAKQxEGuv7GKDw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature94657-Object456304"><etsi:QualifyingProperties Target="#Signature94657"><etsi:SignedProperties Id="Signature94657-SignedProperties677661"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-29T12:54:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>FOGJushzYonMseMVdIONxadd0nk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>968947784</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-586424"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+        					</autorizacion>

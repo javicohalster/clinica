@@ -1,0 +1,10 @@
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4753','335.2','01662BE70C8A79245820240426124028427','2024-04-26 12:41:08','458')-->2024-04-26 12:41:08
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4753','335.2','01662BE7601AB0E4582024042612415284','2024-04-26 12:42:15','458')-->2024-04-26 12:42:15
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4753','335.2','01662BE7A7EF14745820240426124303482','2024-04-26 12:43:25','458')-->2024-04-26 12:43:25
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4753','335.2','01662BE7FAABEBA45820240426124426184','2024-04-26 12:44:58','458')-->2024-04-26 12:44:58
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','4753','190','01662BE841967FB45820240426124537140','2024-04-26 12:45:56','458')-->2024-04-26 12:45:56
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01662BE70C8A79245820240426124028427' and crucue_id=1161-->2024-04-26 13:01:10
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01662BE841967FB45820240426124537140' and crucue_id=1165-->2024-04-26 13:03:31
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01662BE7FAABEBA45820240426124426184' and crucue_id=1164-->2024-04-26 13:04:48
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01662BE7A7EF14745820240426124303482' and crucue_id=1163-->2024-04-26 13:06:17
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01662BE7601AB0E4582024042612415284' and crucue_id=1162-->2024-04-26 13:07:49

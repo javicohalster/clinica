@@ -1,0 +1,1 @@
+insert into gogess_virtualfields (ftv_id,virtfields_active,virtfields_namefield,virtfields_order,virtfields_script,virtfields_typefield,virtual_id) values (2,1,'doccab_pgacont',16,'','',24)

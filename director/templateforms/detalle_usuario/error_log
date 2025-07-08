@@ -1,0 +1,1 @@
+[27-Mar-2018 12:11:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ussliec/public_html/faesa/director/adodb/drivers/adodb-mysql.inc.php on line 365

@@ -1,0 +1,1 @@
+insert into rose_variabledeveloper (vardev_applydistinct,vardev_order,vardev_union,vardev_group,vardev_restrictions,sisu_id,rept_activo,vardev_nombre,vardev_aleatunico,rept_publicado,mnupan_id) values (0,'','','','compra_fecha>=\'-datestart-\' and compra_fecha<=\'-dateend-\'',1,1,'Lista Compras con Asientos','647761f00609f20230531030416383','1',0)

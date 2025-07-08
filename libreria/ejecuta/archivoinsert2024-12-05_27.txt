@@ -1,0 +1,2 @@
+423-->insert into dns_enfermeria (atenc_id,centro_id,clie_id,usua_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (9049,27,10232,423,'','2024-12-05 17:50:00','','1023201096280225242320241205055000360','')-->2024-12-05 17:55:30
+423-->update dns_enfermeria set atenc_id=9049,centro_id=27,clie_id=10232,usua_id=423,protoop_tblprincipal='',enferm_fecharegistro='2024-12-05 17:50:00',protoop_idenlace='0',enferm_enlace='1023201096280225242320241205055000360',enferm_archivo='' where enferm_id=737 -->2024-12-05 18:03:18

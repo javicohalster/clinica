@@ -1,0 +1,7 @@
+-->update dns_newconsultaexternaanamesis set clie_id=8710,usua_id=446,centro_id=1,atenc_id=7605,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE FEMENINA DE 12 AÑOS, MADRE REFIERE QUE HACE 48 HORAS Y SIN CAUSA APARENTE PRESENTA DOLOR DE GARGANTA QUE SE ACOMPAÑA DE DISFAGIA, MALESTAR GENERAL Y TOS SECA PARA LO CUAL AUTOMEDICAN IBUPROFENO 10 ML VO 3 DOSIS Y TUSSOVINA 5 ML 3 DOSIS, SIN MOSTRAR MEJORIA RAZON POR LA CUAL ACUDE. REFIERE 2 DOSIS DE VACUNA COVID-19.',anam_planes='RECETA MEDICA: 
+
+- IBUPROFENO 200 MG/5 ML: TOMAR 15 ML CADA 8 HORAS POR 3 DIAS
+- AZITROMICINA 200 MG/5 ML: TOMAR 12 ML CADA DIA POR 3 DIAS 
+- SALES DE REHIDRATACION ORAL: TOMAR A LIBRE DEMANDA 
+- SIGNOS DE ALARMA 
+- REPOSO POR 2 DIAS CON CERTIFICADO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='DOLOR DE GARGANTA',anam_vidasexualactivaobs='',anam_respiratorio='1',anam_fecharegistro='2024-06-16 17:15:30',anam_observacionrespiratorio='TOS, DOLOR DE GARGANTA',anam_atpreventiva=0,anam_nhoja='',anam_enlace='871001010676117444620240616051530171' where anam_id=1734 -->2024-06-16 17:43:12

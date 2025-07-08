@@ -1,0 +1,615 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO','','LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. CHRISTIAN CACERES',2,'DRA DIANA VILLACRES','LOMAS DE MONTESERRIN 
+GONZALO ENDARA CROW','910415429','DE ALMEIDA','17','DR. MARCO BARRIONUEVO','1701','CEZALTINA ROMAO',3,6,2,'','','','',56,'1984-01-08','',7,'0993572364','F',4,4,'Ciazalmeida@gmail.com','','177','2022-05-22 06:59:38','','0117270565071772022052206593838666',NULL,'1','','1917','','')-->2022-05-22 07:13:33
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO',clie_token='',clie_cirugia='LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. CHRISTIAN CACERES',tipoci_id=2,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='LOMAS DE MONTESERRIN 
+GONZALO ENDARA CROW',clie_rucci='910415429',clie_apellido='DE ALMEIDA',prob_codigo='17',clie_anestesiologo='DR. MARCO BARRIONUEVO',cant_codigo='1701',clie_nombre='CEZALTINA ROMAO',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='',nac_id=56,clie_fechanacimiento='1984-01-08',clie_emergenciatelf='',tarterial_id=7,clie_celular='0993572364',clie_genero='F',idgen_id=4,orien_id=4,clie_email='Ciazalmeida@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-05-22 06:59:38',clie_institucion='',clie_enlace='0117270565071772022052206593838666',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='1917',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1599 -->2022-05-22 07:13:34
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO',clie_token='',clie_cirugia='LIPOABDOMINOPLASTIA MAS AUMENTO MAMARIO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. CHRISTIAN CACERES',tipoci_id=2,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='LOMAS DE MONTESERRIN 
+GONZALO ENDARA CROW',clie_rucci='910415429',clie_apellido='DE ALMEIDA',prob_codigo='17',clie_anestesiologo='DR. MARCO BARRIONUEVO',cant_codigo='1701',clie_nombre='CEZALTINA ROMAO',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='',nac_id=56,clie_fechanacimiento='1984-01-08',clie_emergenciatelf='',tarterial_id=7,clie_celular='0993572364',clie_genero='F',idgen_id=4,orien_id=4,clie_email='Ciazalmeida@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-05-22 06:59:38',clie_institucion='',clie_enlace='0117270565071772022052206593838666',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='1917',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1599 -->2022-05-22 07:13:59
+189-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1599,'910415429-1','2',189,'2022-05-22 08:05:56','','','2022-05-22 08:05:56','CIRUGIA PROGRAMADA','2022-05-22 08:05:56','910415429','VIVO',1,'','','01172300165518920220522080556131')-->2022-05-22 08:06:02
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',960,1,1599,'','','PACIENTE FEMENINA DE 38 AÑOS DE EDAD, NACIDA EN MOZAMBIQUE Y RESIDENTE EN QUITO, CASADA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN RECURSOS HUMANOS, DIESTRA, TIPO DE SANGRE O-. PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE DOS MESES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.','','','','',4,'','CIRUGIA PROGRAMADA','0','2022-05-22 08:06:07','','','','1','CMI','159901172300165518920220522080607484','LIPOABDOMINOPLASTIA + PROTESIS MAMARIAS','1','2','CIRUGIA PLASTICA','DR. CACERES','1','DRA. VILLACRES',NULL,'DR. BARRIONUEVO',NULL,NULL,'2022-05-22',1,'NINGUNO',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-05-22 08:08:53
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=960,centro_id=1,clie_id=1599,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 38 AÑOS DE EDAD, NACIDA EN MOZAMBIQUE Y RESIDENTE EN QUITO, CASADA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN RECURSOS HUMANOS, DIESTRA, TIPO DE SANGRE O-. PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE DOS MESES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-05-22 08:06:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='159901172300165518920220522080607484',anam_cirugia='LIPOABDOMINOPLASTIA + PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-22',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=531 -->2022-05-22 08:09:00
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=960,centro_id=1,clie_id=1599,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 38 AÑOS DE EDAD, NACIDA EN MOZAMBIQUE Y RESIDENTE EN QUITO, CASADA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN RECURSOS HUMANOS, DIESTRA, TIPO DE SANGRE O-. PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE DOS MESES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-05-22 08:06:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='159901172300165518920220522080607484',anam_cirugia='LIPOABDOMINOPLASTIA + PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-22',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=531 -->2022-05-22 08:10:44
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=960,centro_id=1,clie_id=1599,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 38 AÑOS DE EDAD, NACIDA EN MOZAMBIQUE Y RESIDENTE EN QUITO, CASADA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN RECURSOS HUMANOS, DIESTRA, TIPO DE SANGRE O-. PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE DOS MESES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-05-22 08:06:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='159901172300165518920220522080607484',anam_cirugia='LIPOABDOMINOPLASTIA + PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-22',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=531 -->2022-05-22 08:13:28
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=956,centro_id=1,clie_id=1577,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_planes='1. INGRESO A HOSPITALIZACIÓN
+2. NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='1',anam_fecharegistro='2022-05-21 08:21:38',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='157701172173839917820220521082138487',anam_cirugia='',anam_cesareas='',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum='2022-05-01',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-21',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=528 -->2022-05-22 09:17:59
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,1577,1,956,'','528','','','','','2022-05-22 09:18:43','','','','PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.','','157701172300165518920220522091843428','','BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES','','','HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO','','','1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES')-->2022-05-22 09:20:32
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:33
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:34
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:35
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:36
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:36
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:37
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:39
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:40
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:41
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:42
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:42
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:49
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='',protoop_idenlace='528',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:20:54
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1577,centro_id=1,atenc_id=956,anam_altadefinitiva='1',protoop_idenlace='528',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 09:18:43',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 29 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: EJECUTIVA DE SEGUROS, LATERALIDAD DIESTRA, ESTADO CIVIL: SOLTERA 
+
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='157701172300165518920220522091843428',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOASPIRACION TOTAL DE 4000 CC
+5. INJERTO GRASO DE 600 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=258 -->2022-05-22 09:21:18
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=959,centro_id=1,clie_id=1585,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_planes='1. INGRESO A HOSPITALIZACIÓN
+2. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-05-21 23:49:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='15850117217383991782022052111491511',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum='2022-05-21',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-21',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=530 -->2022-05-22 10:23:48
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,1585,1,959,'','530','','','','','2022-05-22 10:37:02','','','','PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.','','158501172300165518920220522103702400','','BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL','','','HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II','','','1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES')-->2022-05-22 10:54:53
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:54:54
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:54:55
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:54:56
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:54:57
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:00
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:01
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:03
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:05
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:06
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:07
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:08
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:29
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='',protoop_idenlace='530',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:55:34
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1585,centro_id=1,atenc_id=959,anam_altadefinitiva='1',protoop_idenlace='530',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 10:37:02',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 28 AÑOS NACIDA Y RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACIÓN: LICENCIADA EN RADIOLOGÍA, LATERALIDAD DIESTRA, ESTADO CIVIL: CASADA 
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIPOSUCCIÓN Y REPARACIÓN DE HERNIA UMBILICAL. 
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='158501172300165518920220522103702400',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA MINILIPOABDOMINOPLASTIA + HERNIORRAFIA UNBILICAL Y SUPRAUMBILICAL',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. HERNIA UMBILICAL DE 1.5 CM DE DIAMETRO MAYOR CON CONTENIDO DE EPIPLON REDUCTIBLE EN SU INTERIOR
+2. HERMIA SUPRAUMBILICAL DE 1 CM DE DIAMETRO MAYOR CON CONTENIDO DE GRASA PERITONEAL EQUIDISTANTES 1 CM ENTRE SI
+3. LIPODISTROFIA ABDOMINAL DE PREDOMINIO INFRAUMBILICAL Y PIEL LAXA CON ESTRIAS, MATARASSO II',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=259 -->2022-05-22 10:57:13
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=957,centro_id=1,clie_id=1580,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_planes='1. INGRESO A HOSPITALIZACIÓN
+2. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='3',anam_fecharegistro='2022-05-21 08:56:28',anam_observacionap='',anam_menopausiaedad='47',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='15800117217383991782022052108562815',anam_cirugia='',anam_cesareas='0',anam_gesta='3',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-21',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=529 -->2022-05-22 17:02:14
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,1580,1,957,'','529','','','','','2022-05-22 17:02:31','','','','PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.','','15800117230016551892022052205023125','','BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES','','','NINGUNO','','','1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES')-->2022-05-22 17:09:28
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:29
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:30
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:30
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:31
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:32
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:33
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:35
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:36
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:37
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:39
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:40
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:09:52
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='',protoop_idenlace='529',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:10:01
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=1580,centro_id=1,atenc_id=957,anam_altadefinitiva='1',protoop_idenlace='529',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-05-22 17:02:31',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 52 AÑOS NACIDA EN OTAVALO Y RESIDENTE EN IMBABURA, OCUPACIÓN: COMERCIANTE, LATERALIDAD DIESTRA, ESTADO CIVIL VIUDA.
+PACIENTE ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR CIRUGÍA PLÁSTICA DE LIFTING FACIAL.
+AL MOMENTO DEL INGRESO PACIENTE NO REFIERE SINTOMATOLOGÍA. ACUDE EN AYUNAS.',anam_nhoja='',anam_enlace='15800117230016551892022052205023125',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIFTING FACIAL + BLEFAROPLASTIA TOTAL SIN COMPLICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='NINGUNO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO A CIRUGIA PLASTICA
+2. PROCEDIMIENTO QUIRURGICO
+3. AMBULATORIO TEMPRANO
+4. ANALGESIA INTRAVENOSA
+5. HIDRATACION PARENTERAL
+6. ANTIBIOTICOTERAPIA PROFILACTICA
+7. TOLERANCIA ORAL
+8. ALTA MAS INDICACIONES' where anam_id=260 -->2022-05-22 17:10:33
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=960,centro_id=1,clie_id=1599,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 38 AÑOS DE EDAD, NACIDA EN MOZAMBIQUE Y RESIDENTE EN QUITO, CASADA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN RECURSOS HUMANOS, DIESTRA, TIPO DE SANGRE O-. PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE DOS MESES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-05-22 08:06:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='159901172300165518920220522080607484',anam_cirugia='LIPOABDOMINOPLASTIA + PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-05-22',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=531 -->2022-05-22 21:22:58
+189-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (189,960,0,1,1599,1,0,0,0,0,0,0,'',0,0,0,0,'',0,0,'CIRUGIA PLASTICA',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2022-05-23',0,0,'',0,'',0,0,'1701',0,'07:30',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'305','HOSPITALIZACION',0,'15990117230016551892022052209230233','2022-05-22 21:23:02',0,0,0,0)-->2022-05-22 21:24:03
+189-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'NEUMONIA POR SARS-COV2','','',1,'REGISTRADO',1,'MEDICINA INTERNA','DR. EDISON QUITO',1,'DR. IVAN AYABACA','PERALES N47-171 Y ELOY ALFARO','1100031267','PIEDRA PIÑAS','17','','1701','FLORA EUFEMIA',3,6,6,'MONTESERRIN','022463511','','NINGUNA',56,'1926-11-25','0989772936',7,'0993250056','F',4,4,'','','189','2022-05-22 21:43:53','','0117230016551892022052209435349109',NULL,'1','','1918','2','')-->2022-05-22 21:54:44

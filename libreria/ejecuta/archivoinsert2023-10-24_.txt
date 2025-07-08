@@ -1,0 +1,16 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6018,atenc_id='5034',usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-10-24 11:11:51',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_fechaoperacion='2023-10-24',protoop_sintesis='',protoop_idenlace='136',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='06:35',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_horafin='11:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LCDA YAQUELIN TORRES',protoop_enlace='601801171602008440720231024111151446',protoop_circulante='LCDA. IBRAILA MONCAYO',protoop_exposicion='ENDOSCOPICA',protoop_anestesiologo='DR. BARIONUEVO MARCO',protoop_exploracion='URETRA PERMEABLE EN TODO SU TRAYECTO
+PROSTATA OBSTRUCTIVA AL 100% DE APROX 120G
+MEATOS URETERALES ORTOTOPICOS EYACULAN ORINA CLARA
+VEJIGA TRABECULAS GIII',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. PCIENTE EN POSICION DE LITOTOMIA 
+2. ASEPSIA Y ANTISEPSIA
+3. COLOCACION DE CAMPOS ESTERILES 
+4. DILATACION URETRAL MEDIANTE BENIQUES
+5. CISTOSCOPIA DE EVALUCION 
+6. ENUCLEACION PROSTATICA MEDIANTE LASER DE 100W (52649)
+7. VAPORIZACION DE ADENOMEROS  PROSTATICOS RESIDUALES (52648)
+8. INCISION TRANSURETRAL DE CUELLO (52450) 
+9. RESECCION DE CUELLO VESICAL  (52500)
+10.  MORCELACION DE TEJIDO PROSTATICO MEDIANTE MORCELADOR TIPO PIRAÑA 
+11. CONTROL DE HEMOSTASIA 
+12. RETIRO DE INSTRUMENTAL 
+13. COLOCACION DE SONDA VESICAL 20FR 3 VIAS',protoop_complicaciones='NINGUNA',protoop_perdida='150',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=183 -->2023-10-24 13:01:09

@@ -1,0 +1,9 @@
+197-->select * from lpin_cobropago where crb_id='1354'-->2023-07-10 11:31:57
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='1751')-->2023-07-10 11:31:57
+197-->delete from lpin_comprobantecontable where crpadet_id='1751'-->2023-07-10 11:31:57
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='1752')-->2023-07-10 11:31:57
+197-->delete from lpin_comprobantecontable where crpadet_id='1752'-->2023-07-10 11:31:57
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='1753')-->2023-07-10 11:31:57
+197-->delete from lpin_comprobantecontable where crpadet_id='1753'-->2023-07-10 11:31:57
+197-->delete  from lpin_cobropagodetalle where crb_enlace='2023-07-1019764AC2DB6B6658'-->2023-07-10 11:31:57
+197-->delete from lpin_cobropago where crb_id=1354-->2023-07-10 11:31:57

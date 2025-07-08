@@ -1,0 +1,35 @@
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Facturas Sin Precuentas',vardev_aleatunico='649efdff368d720230630040831157',rept_publicado='1',mnupan_id=180 where vardev_id=19 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='lista_sinprecuenta',virtual_scriptalert='SELECT * FROM lista_sinprecuenta WHERE cprecuenta1=0 and cprecuenta2=0 and tipocmp_codigo!=\'04\' and doccab_ndocumento like \'001-002-%\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=20 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='lista_sinprecuenta',virtual_scriptalert='SELECT * FROM lista_sinprecuenta WHERE cprecuenta1=0 and cprecuenta2=0 and tipocmp_codigo!=\'04\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=20 
+update gogess_virtualfields set virtfields_typefield='',virtfields_active=1,virtfields_order=1,virtfields_script='',virtfields_namefield='detapre_id',ftv_id=1,virtual_id=21 where virtfields_id=287 
+update gogess_virtualfields set virtfields_typefield='',virtfields_active=1,virtfields_order=2,virtfields_script='',virtfields_namefield='precu_id',ftv_id=1,virtual_id=21 where virtfields_id=288 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='lista_descargos_unidad',virtual_scriptalert='select dns_detalleprecuenta.detapre_id as detapre_id,
+dns_precuenta.precu_id as precu_id,
+app_cliente.clie_rucci as clie_rucci, 
+app_cliente.clie_nombre as clie_nombre, 
+app_cliente.clie_apellido as clie_apellido, 
+dns_detalleprecuenta.detapre_codigop as detapre_codigop,
+dns_detalleprecuenta.detapre_detalle as detapre_detalle,
+dns_detalleprecuenta.detapre_cantidad as detapre_cantidad,
+dns_detalleprecuenta.detapre_precio as detapre_precio,
+dns_detalleprecuenta.detapre_fecharegistro as detapre_fecharegistro,
+dns_detalleprecuenta.detapre_precioventa as detapre_precioventa,
+(detapre_cantidad*detapre_precioventa) as total,
+dns_movimientoinventario.unid_id,
+unid_nombre,
+dns_movimientoinventario.uniddesg_id,
+uniddesg_nombre,
+dns_movimientoinventario.cuadrobm_id
+from dns_detalleprecuenta 
+left join dns_centrosalud_ext on dns_detalleprecuenta.centrob_id=dns_centrosalud_ext.centro_id 
+left join app_cliente on dns_detalleprecuenta.clie_id=app_cliente.clie_id
+inner join  dns_precuenta on dns_detalleprecuenta.precu_id=dns_precuenta.precu_id
+left join dns_movimientoinventario on dns_detalleprecuenta.moviin_id=dns_movimientoinventario.moviin_id
+inner join dns_unidad on dns_movimientoinventario.unid_id=dns_unidad.unid_id
+inner join dns_unidad_vista on dns_movimientoinventario.uniddesg_id=dns_unidad_vista.uniddesg_id
+where detapre_tipo in (1,2)',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=21 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Lista Descargos con Unidades',vardev_aleatunico='649f08d6a366820230630045446401',rept_publicado='1',mnupan_id=180 where vardev_id=20 
+update gogess_virtualfields set virtfields_typefield='',virtfields_active=1,virtfields_order=7,virtfields_script='',virtfields_namefield='doccab_identificacionpaciente',ftv_id=1,virtual_id=20 where virtfields_id=283 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Lista Descargos',vardev_aleatunico='649b3700ec90a20230627072240350',rept_publicado='0',mnupan_id=180 where vardev_id=17 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Campras con Unidades',vardev_aleatunico='649f0da5a624720230630051517392',rept_publicado='1',mnupan_id=180 where vardev_id=21 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Compras con Unidades',vardev_aleatunico='649f0da5a624720230630051517392',rept_publicado='1',mnupan_id=180 where vardev_id=21 

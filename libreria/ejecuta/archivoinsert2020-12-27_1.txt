@@ -1,0 +1,1 @@
+1-->update dns_fisioterapia set clie_id=2,fisiot_hc='1714907449-1',fisiot_referencia='LIBRE DEMANDA',atenc_id=2,centro_id=1,fisiot_centrorefiere='PRUEBA 4',fisiot_archivo='',fisiot_profesionarefiere='PRUEBA 4',usua_id=1,fisiot_enlace='2011711467884120200303053015126',fisiot_fecharegistro='2020-03-03 17:30:15' where fisiot_id=1 

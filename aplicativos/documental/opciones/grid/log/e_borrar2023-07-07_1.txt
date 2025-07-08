@@ -1,0 +1,16 @@
+197-->select * from lpin_cobropago where crb_id='726'-->2023-07-07 10:51:01
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='988')-->2023-07-07 10:51:01
+197-->delete from lpin_comprobantecontable where crpadet_id='988'-->2023-07-07 10:51:01
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='989')-->2023-07-07 10:51:01
+197-->delete from lpin_comprobantecontable where crpadet_id='989'-->2023-07-07 10:51:01
+197-->delete  from lpin_cobropagodetalle where crb_enlace='2023-06-29278649E10407AEE4'-->2023-07-07 10:51:01
+197-->delete from lpin_cobropago where crb_id=726-->2023-07-07 10:51:01
+197-->select * from lpin_cobropago where crb_id='446'-->2023-07-07 18:06:01
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='519')-->2023-07-07 18:06:01
+197-->delete from lpin_comprobantecontable where crpadet_id='519'-->2023-07-07 18:06:01
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='1601')-->2023-07-07 18:06:01
+197-->delete from lpin_comprobantecontable where crpadet_id='1601'-->2023-07-07 18:06:01
+197-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='1602')-->2023-07-07 18:06:01
+197-->delete from lpin_comprobantecontable where crpadet_id='1602'-->2023-07-07 18:06:01
+197-->delete  from lpin_cobropagodetalle where crb_enlace='2023-06-2019764924463B3487'-->2023-07-07 18:06:01
+197-->delete from lpin_cobropago where crb_id=446-->2023-07-07 18:06:01

@@ -1,0 +1,1 @@
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-08-3050266D2048FC4D8D' and crpadet_id=777-->2024-08-30 12:45:55

@@ -1,0 +1,186 @@
+178-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='LIPOABDOMINOPPLASTIA',clie_titularseguro=0,clie_cirugia='LIPOABDOMINOPPLASTIA',clie_token='',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='CUMBAYA, FRENTE A CERVECERIA NACIONAL',clie_rucci='1706713219',clie_anestesiologo='DR. EDUARDO SANTANA',clie_apellido='TOBAR LOPEZ',prob_codigo='17',tippo_id=3,clie_nombre='HEBERT LORENA',cant_codigo='1701',civil_id=2,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='EMPLEADO PARTICULAR',clie_fechanacimiento='1965-05-04',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='0993306827',clie_genero='F',orien_id=4,clie_email='jimmy@hoteltoachi.com',clie_emergenciacelu='',idgen_id=4,usua_id='177',clie_registro='2021-09-10 11:05:18',clie_institucion='',clie_enlace='0117270565071772021091011051838957',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=77 -->2021-09-11 07:03:32
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,77,'1706713219-1','2',178,'2021-09-11 07:03:43','','','2021-09-11 07:03:43','.','2021-09-11 07:03:43','1706713219','VIVO',1,'','','01172173839917820210911070343416')-->2021-09-11 07:04:20
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','LIPOABDOMINOPLASTIA+RINOPLASTIA',0,'LIPOABDOMINOPLASTIA+RINOPLASTIA','',12,'REGISTRADO',1,'CIRUGIA PLASTICA','FRANCISCO SANCHEZ',1,'','PELILEO BARRIO EL CORTE','1803987518','DR. CALERO','GOMEZ HERRERA','18',3,'DIANA ELIZABETH','1801',2,'',6,'','COSTURERA','1983-12-27',56,'',7,'0991340303','F',4,'nathanj_dervithc@hotmail.com','',4,'194','2021-09-11 07:46:20','','0117230746291942021091107462020599',NULL,'1','','3','')-->2021-09-11 07:49:42
+1-->update dns_anamesisexamenfisico set clie_id=2,anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',anam_centrorefiere='',anam_emferpactual='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2021-09-01 14:31:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='2011711467884120210713023131169',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1 -->2021-09-11 08:20:50
+1-->update dns_anamesisexamenfisico set clie_id=2,anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',anam_centrorefiere='',anam_emferpactual='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2021-09-01 14:31:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='2011711467884120210713023131169',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1 -->2021-09-11 08:23:16
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,81,'1803987518-1','2',178,'2021-09-11 08:21:31','','','2021-09-11 08:21:31','INTERVENCION QUIRURGICA PROGRAMADA','2021-09-11 08:21:31','1803987518','VIVO',1,'','','01172173839917820210911082131188')-->2021-09-11 08:23:32
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',52,1,81,'','','Paciente ingresa para procedimiento quirúrgico programado por disconfort corporal. Al momento del ingreso paciente no presenta ninguna sintomatología','','','','',4,'','INTERVENCION QUIRURGICA PROGRAMADA','0','2021-09-11 08:24:34','','','','0','','810117217383991782021091108243475','LIPOABDOMINOPLASTIA + RINOPLASTIA','2','2','CIRUGIA PLASTICA','DR. SANCHEZ FRANCISCO','2','','2021-09-01','DR. MANOLO CALERO',NULL,NULL,'2021-09-11',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-11 08:28:34
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=52,centro_id=1,clie_id=81,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente ingresa para procedimiento quirúrgico programado por disconfort corporal. Al momento del ingreso paciente no presenta ninguna sintomatología',anam_planes='1. INGRESO A HOSPITALIZACION
+2. NPO
+3. DISH
+4. CONSENTIMIENTO INFORMADO
+5. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-11 08:24:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='810117217383991782021091108243475',anam_cirugia='LIPOABDOMINOPLASTIA + RINOPLASTIA',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANCHEZ FRANCISCO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2021-09-01',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=27 -->2021-09-11 08:29:29
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=52,centro_id=1,clie_id=81,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='Paciente ingresa para procedimiento quirúrgico programado por disconfort corporal. Al momento del ingreso paciente no presenta ninguna sintomatología',anam_planes='1. INGRESO A HOSPITALIZACION
+2. NPO
+3. DISH
+4. CONSENTIMIENTO INFORMADO
+5. PARTE OPERATORIO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-09-11 08:24:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='810117217383991782021091108243475',anam_cirugia='LIPOABDOMINOPLASTIA + RINOPLASTIA',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANCHEZ FRANCISCO',anam_hijosvivos='2',anam_ayudante='',anam_fum='2021-09-01',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=27 -->2021-09-11 08:31:12
+178-->update dns_atencion set centro_id=1,clie_id=77,atenc_hc='1706713219-1',tiposerv_id='2',usua_id=178,atenc_fecharegistro='2021-09-11 07:03:43',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2021-09-11 07:03:43',atenc_observacion='INTERVENCION QUIRURGICA PROGRAMADA',atenc_fechaingreso='2021-09-11 07:03:43',clie_ci='1706713219',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01172173839917820210911070343416' where atenc_id=51 -->2021-09-11 08:37:49
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',51,1,77,'','','PACIENTE ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA','','','','',4,'13','INTERVENCION QUIRURGICA PROGRAMADA','3','2021-09-11 08:38:04','LIFTING FACIAL HACE 10 AÑOS','','','2','','7701172173839917820210911083804268','LIPOSUCCION + DERMOLIPECTOMIA','0','5','CIRUGIA PLASTICA','DR. SANTIAGO PESANTEZ','','',NULL,'DR. EDUARDO SANTANA',NULL,NULL,'2021-09-10',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-09-11 08:41:22
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=51,centro_id=1,clie_id=77,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-09-11 08:38:04',anam_observacionap='LIFTING FACIAL HACE 10 AÑOS',anam_menopausiaedad='',anam_nhoja='',anam_abortos='2',anam_ciclos='',anam_enlace='7701172173839917820210911083804268',anam_cirugia='LIPOSUCCION + DERMOLIPECTOMIA',anam_cesareas='0',anam_gesta='5',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-10',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=28 -->2021-09-11 08:41:28
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (51,178,1,77,'NOTA DE CIRUGIA PLASTICA
+BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA CORPORAL SIN COMPLICACIONES','',28,'2021-09-10',1,'2021-09-11 08:41:33','17:00','7701172173839917820210911084133137')-->2021-09-11 08:42:33
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='NOTA DE CIRUGIA PLASTICA
+
+BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA CORPORAL SIN COMPLICACIONES',conext_prescripciones='1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA',anam_id=28,conext_fechar='2021-09-10',estaatenc_id=1,conext_fecharegistro='2021-09-11 08:41:33',conext_horar='17:00',conext_enlace='7701172173839917820210911084133137' where conext_id=30 -->2021-09-11 08:44:17
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (51,178,1,77,'PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO POR LIPOABDOMINOPLLASTIA CORPORAL. SE RETIRO BOMBA DE TRAMAL. AL MOMENTO NO REFIERE NINGUNA SINTOMATOLOGIA.','',28,'2021-09-11',1,'2021-09-11 08:44:29','06:30','7701172173839917820210911084429328')-->2021-09-11 08:45:57
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO POR LIPOABDOMINOPLLASTIA CORPORAL. SE RETIRO BOMBA DE TRAMAL. AL MOMENTO NO REFIERE NINGUNA SINTOMATOLOGIA.',conext_prescripciones='1. INDICACIONES DE C. PLASTICA
+2. VALORAR ALTA',anam_id=28,conext_fechar='2021-09-11',estaatenc_id=1,conext_fecharegistro='2021-09-11 08:44:29',conext_horar='06:30',conext_enlace='7701172173839917820210911084429328' where conext_id=31 -->2021-09-11 08:47:33
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO POR LIPOABDOMINOPLLASTIA CORPORAL. SE RETIRO BOMBA DE TRAMAL. AL MOMENTO NO REFIERE NINGUNA SINTOMATOLOGIA.',conext_prescripciones='1. INDICACIONES DE C. PLASTICA
+2. VALORAR ALTA',anam_id=28,conext_fechar='2021-09-11',estaatenc_id=1,conext_fecharegistro='2021-09-11 08:44:29',conext_horar='08:30',conext_enlace='7701172173839917820210911084429328' where conext_id=31 -->2021-09-11 08:47:48
+187-->insert into dns_enfermeria (centro_id,usua_id,clie_id,atenc_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (1,187,77,51,'','2021-09-11 13:52:58','','7701050219174518720210911015258470','')-->2021-09-11 14:05:29
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=51,centro_id=1,clie_id=77,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-09-11 08:38:04',anam_observacionap='LIFTING FACIAL HACE 10 AÑOS',anam_menopausiaedad='',anam_nhoja='',anam_abortos='2',anam_ciclos='',anam_enlace='7701172173839917820210911083804268',anam_cirugia='LIPOSUCCION + DERMOLIPECTOMIA',anam_cesareas='0',anam_gesta='5',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-10',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=28 -->2021-09-11 14:28:28
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (51,178,1,77,'PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO','',28,'2021-09-11',1,'2021-09-11 14:28:29','13:14','770117217383991782021091102282966')-->2021-09-11 14:29:24
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO',conext_prescripciones='1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE',anam_id=28,conext_fechar='2021-09-11',estaatenc_id=1,conext_fecharegistro='2021-09-11 14:28:29',conext_horar='13:14',conext_enlace='770117217383991782021091102282966' where conext_id=32 -->2021-09-11 14:31:24
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=51,centro_id=1,clie_id=77,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-09-11 08:38:04',anam_observacionap='LIFTING FACIAL HACE 10 AÑOS',anam_menopausiaedad='',anam_nhoja='',anam_abortos='2',anam_ciclos='',anam_enlace='7701172173839917820210911083804268',anam_cirugia='LIPOSUCCION + DERMOLIPECTOMIA',anam_cesareas='0',anam_gesta='5',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-10',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=28 -->2021-09-11 14:31:51
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=51,centro_id=1,clie_id=77,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-09-11 08:38:04',anam_observacionap='LIFTING FACIAL HACE 10 AÑOS',anam_menopausiaedad='',anam_nhoja='',anam_abortos='2',anam_ciclos='',anam_enlace='7701172173839917820210911083804268',anam_cirugia='LIPOSUCCION + DERMOLIPECTOMIA',anam_cesareas='0',anam_gesta='5',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-10',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=28 -->2021-09-11 14:32:01
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='NOTA DE CIRUGIA PLASTICA
+
+BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA CORPORAL SIN COMPLICACIONES',conext_prescripciones='1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA',anam_id=28,conext_fechar='2021-09-10',estaatenc_id=1,conext_fecharegistro='2021-09-11 08:41:33',conext_horar='17:00',conext_enlace='7701172173839917820210911084133137' where conext_id=30 -->2021-09-11 14:33:02
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO',conext_prescripciones='1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE',anam_id=28,conext_fechar='2021-09-11',estaatenc_id=1,conext_fecharegistro='2021-09-11 14:28:29',conext_horar='13:14',conext_enlace='770117217383991782021091102282966' where conext_id=32 -->2021-09-11 14:33:39
+178-->update dns_hospitalconsultaexterna set atenc_id=51,usua_id=178,centro_id=1,clie_id=77,conext_notasdeevolucion='NOTA DE CIRUGIA PLASTICA
+
+BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA CORPORAL SIN COMPLICACIONES',conext_prescripciones='1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA',anam_id=28,conext_fechar='2021-09-10',estaatenc_id=1,conext_fecharegistro='2021-09-11 08:41:33',conext_horar='17:00',conext_enlace='7701172173839917820210911084133137' where conext_id=30 -->2021-09-11 14:36:32
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,77,1,51,'','28','','','','','2021-09-11 14:31:55','','','','PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA','','7701172173839917820210911023155112','','10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE','','','HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL','','','1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE')-->2021-09-11 14:36:57
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=77,centro_id=1,atenc_id=51,anam_altadefinitiva='',protoop_idenlace='28',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-09-11 14:31:55',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='7701172173839917820210911023155112',anam_discapacidadleve='',anam_resumenevolucion='10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE' where anam_id=14 -->2021-09-11 14:37:05
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=77,centro_id=1,atenc_id=51,anam_altadefinitiva='1',protoop_idenlace='28',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-11 14:31:55',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='7701172173839917820210911023155112',anam_discapacidadleve='',anam_resumenevolucion='10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE' where anam_id=14 -->2021-09-11 14:37:37
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=77,centro_id=1,atenc_id=51,anam_altadefinitiva='1',protoop_idenlace='28',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-11 14:31:55',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='7701172173839917820210911023155112',anam_discapacidadleve='',anam_resumenevolucion='10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSTQUIRURGICA
+1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE' where anam_id=14 -->2021-09-11 14:42:48
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=77,centro_id=1,atenc_id=51,anam_altadefinitiva='1',protoop_idenlace='28',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-11 14:31:55',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='7701172173839917820210911023155112',anam_discapacidadleve='',anam_resumenevolucion='10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSTQUIRURGICA
+1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE' where anam_id=14 -->2021-09-11 14:45:34
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=77,centro_id=1,atenc_id=51,anam_altadefinitiva='1',protoop_idenlace='28',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-09-11 14:31:55',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE SIN ANTECEDENTES CLINICOS NI ALERGIAS. ANTECEDENTE QUITUTGICO DE LIFTING FACIASL HACE 10 AÑOS. ACUDE PARA CIRUGIA PLASTICA PROGRAMADA POR REFERIR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='7701172173839917820210911023155112',anam_discapacidadleve='',anam_resumenevolucion='10/09/21: PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOABDOMINOPLASTIA, MISMO QUE SE REALIZA SIN COMPLICACIONES
+
+11/09/21: PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. PRESENTE LIGERO MAREO
+
+11/09/21 13:00 PACIENTE CON ALTA PREVIA VALORACION DE MEDICO TRATANTE',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: LIPODISTROFIA ABDOMINAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='NOTA POSTQUIRURGICA
+1. ANALGESIA POR BOMBA ELASTOMERICA
+2. OMEPRAZOL 20 MG I.V CADA DIA
+3. LACTATO RINGER 1000 ML I.V CADA 12 HORAS
+4. CIPROFLOXACINA 200 MG I.V CADA 12 HORAS
+5. MAÑANA DIETA BLANDA
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 6 HORAS POR 3 DIAS
+4. KETOROLACO 20 ,G VO CADA 12 HORAS POR 3 DIAS
+5. AMOXICILINA 500 MG VO CADA 8 HORAS POR 7 DIAS
+6. HIRUDOID GEL APLICAR CADA 8 HORAS
+7. CONTROL POR C. EXTERNA
+8. CUIDADOS DE DRENAJE' where anam_id=14 -->2021-09-11 14:48:43
+194-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='RINOPLASTIA',clie_titularseguro=0,clie_cirugia='RINOPLASTIA',clie_token='',grp_id=5,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR CRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='LA FLORESTA',clie_rucci='1750043281',clie_anestesiologo='DR ALEXANDRA NOBOA',clie_apellido='MONTES VELEZ',prob_codigo='17',tippo_id=3,clie_nombre='EDISON ALEXANDER',cant_codigo='1701',civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='022528224',clie_ocupacion='ESTUDIANTE',clie_fechanacimiento='1999-09-27',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='0987478385',clie_genero='M',orien_id=4,clie_email='edison_montes@hotmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='194',clie_registro='2021-09-10 16:11:06',clie_institucion='',clie_enlace='0117230746291942021091004110634588',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=80 -->2021-09-11 18:44:23
+187-->insert into dns_enfermeria (centro_id,usua_id,clie_id,atenc_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (1,187,81,52,'','2021-09-11 19:23:24','','810105021917451872021091107232436','')-->2021-09-11 19:35:09

@@ -1,0 +1,17 @@
+update gogess_sisfield set fie_title='Centro_id:' where fie_id='7229';
+update gogess_sisfield set fie_title='Clie_id:' where fie_id='7230';
+update gogess_sisfield set fie_title='Paciente:' where fie_id='7231';
+update gogess_sisfield set fie_title='Historia Clinica:' where fie_id='7232';
+update gogess_sisfield set fie_title='Historia Clinica:' where fie_id='7232';
+update gogess_sisfield set fie_title='Atenc_id:' where fie_id='7233';
+update gogess_sisfield set fie_title='Usua_id:' where fie_id='7234';
+update gogess_sisfield set fie_title='Fecha Registro:' where fie_id='7235';
+update gogess_sisfield set fie_title='Diagnosticos Complicaciones:' where fie_id='7236';
+update gogess_sisfield set fie_title='onto_id:' where fie_id='7238';
+update gogess_sisfield set fie_title='Odonto_id:' where fie_id='7238';
+update gogess_sisfield set fie_orden='2' where fie_id='7377';
+update gogess_sisfield set fie_orden='3' where fie_id='7346';
+update gogess_sisfield set fie_group='3' where fie_id='7377';
+update gogess_sisfield set fie_title='Tipo Terapia:' where fie_id='7377';
+update gogess_sisfield set fie_groupprint='3' where fie_id='7377';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='7377';

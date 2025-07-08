@@ -1,0 +1,2 @@
+insert into efacsistema_genestablecimiento (centro_id,emp_id,estab_codigo,estab_estado,estab_nivel,tipocmp_codigo) values (1,1,'001',1,'0','03')
+insert into efacsistema_genpuntoemision (estab_id,pemision_inicia,pemision_num,pemision_sino) values (4,'1','002','1')

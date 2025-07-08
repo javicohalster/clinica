@@ -1,0 +1,1 @@
+1-->insert into dns_datosiess (clie_id,atenc_id,datos_hc,estaatenc_id,usua_id,datos_motivoconsulta,datos_fecharegistro,datos_enlace,centro_id) values (9,10,'1718513086-1',4,1,'Prueba','2020-12-20 23:30:22','9011711467884120201220113022291',1)

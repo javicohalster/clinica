@@ -1,0 +1,552 @@
+250-->update dns_protocolooperatorio set usua_id=185,protoop_fecharegistro='2023-09-13 15:44:41',atenc_id=4901,centro_id=1,clie_id=5929,protoop_exposicion='MEDIANTE VIDEO CÁMARA DE CAVIDAD ABDOMINAL',protoop_exploracion='- HEMANGIOMA DE 2 CM EN SEGMENTO HEPÁTICO II
+- TUMORACIÓN DE 3 X 2 CM EN CARA ANTERIOR DE SEGMENTO 8 
+- TUMORACIÓN DE 2 X 2 CM EN CARA ANTERIOR DE SEGMENTO 7
+- RESTO DE CAVIDAD SIN PATOLOGÍAS EVIDENTES',protoop_examen='',protoop_procedimiento='- NEUMOPERITONEO
+- EXPLORACIÓN DE LA CAVIDAD ABDOMINAL EN TODOS SUS SEGMENTOS Y CORREDERAS
+- RESECCIÓN DE TUMOR DEL SEGMENTO 8 
+- CONTROL DE LA HEMOSTASIA
+- COLOCACIÓN DE SURGICELL EN LECHO QUIRÚRGICO
+- COLOCACIÓN DE DREN DE JACKSON SUBHEPÁTICO
+- LIMPIEZA DE LECHO QUIRÚRGICO
+- EXTRACCIÓN DE TUMOR EN PRESERVATIVO',protoop_proyectada='LAPAROSCOPIA + RESECCIÓN DE TUMOR',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR. OSWALDO ESPINOSA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='TRES PUERTOS DE ACCESO LAPAROSCÓPICO',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='MASA TUMORAL',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='2018',protoop_paleativa='',protoop_realizada='LAPAROSCOPIA + RESECCIÓN DE TUMOR SEGMENTO 8',protoop_ayudanteuno='DRA. YOLANDA IZURIETA',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='592901020234257218520230913034441122',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='14:20',protoop_horafin='15:30' where protoop_id=1592 -->2023-09-26 08:33:11
+250-->update dns_protocolooperatorio set usua_id=185,protoop_fecharegistro='2023-09-13 15:44:41',atenc_id=4901,centro_id=1,clie_id=5929,protoop_exposicion='MEDIANTE VIDEO CÁMARA DE CAVIDAD ABDOMINAL',protoop_exploracion='- HEMANGIOMA DE 2 CM EN SEGMENTO HEPÁTICO II
+- TUMORACIÓN DE 3 X 2 CM EN CARA ANTERIOR DE SEGMENTO 8 
+- TUMORACIÓN DE 2 X 2 CM EN CARA ANTERIOR DE SEGMENTO 7
+- RESTO DE CAVIDAD SIN PATOLOGÍAS EVIDENTES',protoop_examen='',protoop_procedimiento='- NEUMOPERITONEO
+- EXPLORACIÓN DE LA CAVIDAD ABDOMINAL EN TODOS SUS SEGMENTOS Y CORREDERAS
+- RESECCIÓN DE TUMOR DEL SEGMENTO 8 
+- CONTROL DE LA HEMOSTASIA
+- COLOCACIÓN DE SURGICELL EN LECHO QUIRÚRGICO
+- COLOCACIÓN DE DREN DE JACKSON SUBHEPÁTICO
+- LIMPIEZA DE LECHO QUIRÚRGICO
+- EXTRACCIÓN DE TUMOR EN PRESERVATIVO',protoop_proyectada='LAPAROSCOPIA + RESECCIÓN DE TUMOR',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR. OSWALDO ESPINOSA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='TRES PUERTOS DE ACCESO LAPAROSCÓPICO',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='MASA TUMORAL',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='2018',protoop_paleativa='',protoop_realizada='LAPAROSCOPIA + RESECCIÓN DE TUMOR SEGMENTO 8',protoop_ayudanteuno='DRA. YOLANDA IZURIETA',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='592901020234257218520230913034441122',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='14:20',protoop_horafin='15:30' where protoop_id=1592 -->2023-09-26 08:33:11
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4896,centro_id=1,clie_id=5925,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 30 AÑOS, NACIDA EN FRANCISCO DE ORELLANA Y RESIDENTE EN LA JOYA DE LOS SACHAS, SOLTERA, INSTRUCCIÓN SUPERIOR, TÉCNICA DE PRUEBAS, DIESTRA, CATÓLICA, TIPO DE SANGRE ORH +.
+PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO NASAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='30 AÑOS',anam_motivoconsulta='CIEUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-09-13 10:18:13',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='592501020234257218520230913101813188',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. PESÁNTEZ',anam_hijosvivos='0',anam_ayudante='DR. MENÉNDEZ',anam_fum='2023-08-15',anam_anestesiologo='DR. CACHIMUEL',anam_fup=NULL,anam_fuc='2023-07-00',anam_fechaingreso='2023-09-13',anam_metodopfamiliar=1,anam_metodopfamiliartex='ACO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2017 -->2023-09-26 08:34:52
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-13 15:58:21',atenc_id=4896,centro_id=1,clie_id=5925,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON XILOCAINA LOCAL EN DORSO Y SEPTUM
+ESQUELETIZACION OSEA
+DISECCION DE CARTILAGOS ALARES Y RETIRO DE PORCION DESVIADA DE SEPTUM
+DISECCION DE PARTE CARTILAGINOSA DE SEPTUM Y COLOCACION DE LA MISMA EN LA PUNTA PARA LEVANTAMIENTO
+LAVADO DE CAVIDAD
+SINTESIS POR PLANOS 
+PASE A RECUPARECION',protoop_proyectada='RINOSEPTUMPLASTIA CUARTO TIEMPO + PERFILAMIENTO FACIAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES INTRANASALES QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='XIMENA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='xavier coronel',protoop_idenlace='2017',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='592501170921352221820230913035821333',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='12:04',protoop_horafin='14:56' where protoop_id=1594 -->2023-09-26 08:34:57
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-13 15:58:21',atenc_id=4896,centro_id=1,clie_id=5925,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA - ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON XILOCAINA LOCAL EN DORSO Y SEPTUM
+ESQUELETIZACION OSEA
+DISECCION DE CARTILAGOS ALARES Y RETIRO DE PORCION DESVIADA DE SEPTUM
+DISECCION DE PARTE CARTILAGINOSA DE SEPTUM Y COLOCACION DE LA MISMA EN LA PUNTA PARA LEVANTAMIENTO
+LAVADO DE CAVIDAD
+SINTESIS POR PLANOS 
+PASE A RECUPARECION',protoop_proyectada='RINOSEPTUMPLASTIA CUARTO TIEMPO + PERFILAMIENTO FACIAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES INTRANASALES QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='XIMENA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='xavier coronel',protoop_idenlace='2017',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='592501170921352221820230913035821333',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='12:04',protoop_horafin='14:56' where protoop_id=1594 -->2023-09-26 08:34:58
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4895,centro_id=1,clie_id=5922,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA REFIERE PRESENTAR DIFICULTAD PARA RESPIRAR,  Y NO PODER DESCANSAR ADECUADAMENTE DURANTE LA NOCHE, RONQUIDOS NOCTURNOS, POR LO QUE DECIDE ACUDIR CON ESPECIALISTA QUIEN ENVÍA EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA  .',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 201
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. NO CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='11',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='2',anam_fecharegistro='2023-09-13 08:03:58',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='59220117232002242672023091308035854',anam_cirugia='',anam_cesareas='0',anam_gesta='2',anam_especialidad='',anam_tratante='DR. CACERES',anam_hijosvivos='2',anam_ayudante='',anam_fum='2023-08-14',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-13',anam_metodopfamiliar=1,anam_metodopfamiliartex='HORMONAL INYECTABLE',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE DOS AÑOS',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2014 -->2023-09-26 08:36:27
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-13 11:14:47',atenc_id=4895,centro_id=1,clie_id=5922,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEICARTILAGINOSA GRANDE
+NARINAS AMPLIAS
+ALARES BULBOSOS CON PUNTA BULBOSA
+PUNTA HIPOPROYECTADA
+LATERORRINEA DERECHA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION
+18. FIJACION DE NEODOMOS A INJERTO
+19. COLOCACION DE TONGUE IN GROOVE
+20. COLOCACION DE PUNTO DE PIE DE CRURAS
+21. CIERRE DE INCISIONES
+22. COLOCACION DE PLACAS SEPTALES
+23. COLOCACION DE FERULAJE BLANDO Y YESO
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0 NYLON 5/0 VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR , PARACOLUMELAR Y MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='DENIS PILLIZA',protoop_idenlace='2014',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR OSCAR CACHIMUEL',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5922011720011731205202309131114479',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='08:40',protoop_horafin='11:05' where protoop_id=1588 -->2023-09-26 08:36:32
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-13 11:14:47',atenc_id=4895,centro_id=1,clie_id=5922,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEICARTILAGINOSA GRANDE
+NARINAS AMPLIAS
+ALARES BULBOSOS CON PUNTA BULBOSA
+PUNTA HIPOPROYECTADA
+LATERORRINEA DERECHA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION
+18. FIJACION DE NEODOMOS A INJERTO
+19. COLOCACION DE TONGUE IN GROOVE
+20. COLOCACION DE PUNTO DE PIE DE CRURAS
+21. CIERRE DE INCISIONES
+22. COLOCACION DE PLACAS SEPTALES
+23. COLOCACION DE FERULAJE BLANDO Y YESO
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0 NYLON 5/0 VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR , PARACOLUMELAR Y MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='DENIS PILLIZA',protoop_idenlace='2014',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR OSCAR CACHIMUEL',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='5922011720011731205202309131114479',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='08:40',protoop_horafin='11:05' where protoop_id=1588 -->2023-09-26 08:36:32
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4912,centro_id=1,clie_id=5936,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 29 AÑOS, NACIDO EN AZOGUES Y RESIDENTE EN QUITO, SOLTERO, INSTRUCCIÓN SUPERIOR, INGENIERO AMBIENTAL, DIESTRO, CATÓLICO, TIPO DE SANGRE ORH +.
+PACIENTE ADULTO JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO DE PENE POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-09-13 20:10:00',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='593601020234257218520230913081000489',anam_cirugia='LIPOFILLING DE PENE',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. PESÁNTEZ',anam_hijosvivos='',anam_ayudante='DR. MENÉNDEZ',anam_fum=NULL,anam_anestesiologo='DR.',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-13',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2020 -->2023-09-26 08:53:16
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-13 20:14:12',atenc_id=4912,centro_id=1,clie_id=5936,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='- ASEPSIA Y ANTISEPSIA
+- COLOCACIÓN DE CAMPOS
+- DOS PUERTOS DE LIPO A NIVEL INGUINAL DERECHO Y UMBILICAL SUPERIOR
+- LIPOSUCCIÓN PUBIS Y PERIUMBILICAL
+- OBTENCIÓN DE PRFC 
+- PREPARACIÓN DEL TEJIDO GRASO 
+- PREPARACIÓN CON PRPFC Y GRASA DEL TEJIDO DE LIPOINYECCIÓN 
+- LIPOINJERTO EN TÚNICA VAGINAL PERIPENEANA POR DEBAJO DEL PREPUCIO',protoop_proyectada='ENGROSAMIENTO DE PENE',protoop_sintesis='NYLON 5-0 PUERTOS DE ABORDAJE',protoop_cirujanouno='DR. SANTIAGO PESÁNTEZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='NO',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='2020',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='59360117092135222182023091308141222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='18:47',protoop_horafin='19:57' where protoop_id=1596 -->2023-09-26 08:53:27
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-09-13 20:14:12',atenc_id=4912,centro_id=1,clie_id=5936,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='- ASEPSIA Y ANTISEPSIA
+- COLOCACIÓN DE CAMPOS
+- DOS PUERTOS DE LIPO A NIVEL INGUINAL DERECHO Y UMBILICAL SUPERIOR
+- LIPOSUCCIÓN PUBIS Y PERIUMBILICAL
+- OBTENCIÓN DE PRFC 
+- PREPARACIÓN DEL TEJIDO GRASO 
+- PREPARACIÓN CON PRPFC Y GRASA DEL TEJIDO DE LIPOINYECCIÓN 
+- LIPOINJERTO EN TÚNICA VAGINAL PERIPENEANA POR DEBAJO DEL PREPUCIO',protoop_proyectada='ENGROSAMIENTO DE PENE',protoop_sintesis='NYLON 5-0 PUERTOS DE ABORDAJE',protoop_cirujanouno='DR. SANTIAGO PESÁNTEZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='NO',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='2020',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='59360117092135222182023091308141222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-13',protoop_horainicio='18:47',protoop_horafin='19:57' where protoop_id=1596 -->2023-09-26 08:53:28
+2-->insert into lpin_tomafisica (tomfis_asientoingreso,tomfis_asientoegreso,tomfis_fecha,centro_id,tomfis_asientoingresoinsumo,tomfis_asientoegresoinsumo,tomfis_descripcion,tomfis_archivo,tomfis_enlace,usua_id,tomfis_fecharegistro) values ('','','2023-09-26 11:24',1,'','','BODEGA PRINCIPAL 7501298225067','','2023-09-262651305B044439',2,'2023-09-26 11:24:16')-->2023-09-26 11:24:55
+2-->update lpin_tomafisica set tomfis_asientoingreso='',tomfis_asientoegreso='',tomfis_fecha='2023-09-26 11:24',centro_id=1,tomfis_asientoingresoinsumo='',tomfis_asientoegresoinsumo='',tomfis_descripcion='BODEGA PRINCIPAL 7501298225067',tomfis_archivo='',tomfis_enlace='2023-09-262651305B044439',usua_id=2,tomfis_fecharegistro='2023-09-26 11:24:16' where tomfis_id=56 -->2023-09-26 11:25:17
+2-->update lpin_tomafisica set tomfis_asientoingreso='',tomfis_asientoegreso='',tomfis_fecha='2023-09-26 11:24',centro_id=1,tomfis_asientoingresoinsumo='',tomfis_asientoegresoinsumo='',tomfis_descripcion='BODEGA PRINCIPAL 7501298225067',tomfis_archivo='',tomfis_enlace='2023-09-262651305B044439',usua_id=2,tomfis_fecharegistro='2023-09-26 11:24:16' where tomfis_id=56 -->2023-09-26 11:25:23
+250-->update dns_newprotocolooperatorio set usua_id=380,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4184',centro_id=13,clie_id=5311,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR. MARCO SILVA',protoop_idenlace='8',protoop_general='',protoop_fecharegistro='2023-09-15 14:48:24',protoop_fechaoperacion='2023-09-15',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='14:00',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_emergencia='',protoop_ayudanteuno='',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ARTROSOCOPIA + MENISCOPLASTIA + SINOVECTOMIA + CONDROPLASTIA',protoop_ayudantedos='',protoop_realizada='ARTROSOCOPIA + MENISCOPLASTIA + SINOVECTOMIA + CONDROPLASTIA + REMOCION DE CUERPO LIBRE',protoop_dieresis='INCISION DE 1 CM PARAROTULIANO MEDIAL Y LATERAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='YAJAIRA ESPINOSA',protoop_enlace='531101170279296938020230915024824476',protoop_exposicion='ARTROSOCOPIO',protoop_circulante='DENNISE PILLISA',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_exploracion='LCA: NORMAL
+CUERPO LIBRE INTRAARTICULAR						
+SINOVIAL HIPERTROFICA HIPERHEMICA TRICOMPARTIMENTAL						
+MENISCO INTERNO: DESGARRO HORIZONTAL DE UNIO DE CUERNO POSTERIOR Y CUERPO ZONA 2						
+MENISCO EXTERNO:  DESGARRO HORIZONTAL DE CUERPO ZONA 1						
+LESION OSTEOCONDRAL GIV LIMITADO DE 1CM PATELAR Y DE 2CM  CONDILO INTERNO , 1CM  CONDILO EXTERNO Y MESETA TIBIAL INTERNA',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='POSICION SUPINA
+ASEPSIA Y ANTISEPSIA 
+COLOCACIÒN DE CAMPOS 
+COLOCACION DE MALLA DE EXANGUINACION
+DIÉRESIS DESCRITA
+INTRODUCCION DE ARTROSCOPIO Y SET DE IRRIGACION CON BOMBA Y MANGUERA
+EXPLORACION E IDENTIFICACION DE HALLAZGOS 
+REMOCION DE CUERPO LIBRE 29874
+SINOVECTOMIA AMPLIA CODIGO 29876 CON PUNTA DE SHAVER 
+MENISCECTOMIA BILATERAL + COLOCACION DE DOS SUTURAS TODO DENTRO MENISCO EXTERNO Y DOS SUTURAS TODO DENTRO EN MENISCO INTERNO 
+REMODELACION MENISCAL BILATERAL 29883
+CONDROPLASTIA TERMICA + MICROFRACTURAS 29877
+IRRIGACION ARTICULAR CON SOLUCION SALINA 0,9%
+INFILTRACION ARTICULAR CON 80MG DE LIDOCAINA C/E + 2CC DE BETAMETASONA (DEPOMEDROL)
+COLOCACION DE APOSITOS Y VENDAJE',protoop_complicaciones='NINGUNA',protoop_perdida='NA',protoop_sangrado='',protoop_protesico='1',anam_enlace='' where protoop_id=17 -->2023-09-26 13:10:09
+250-->update dns_newprotocolooperatorio set usua_id=380,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4184',centro_id=13,clie_id=5311,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='DR. MARCO SILVA',protoop_idenlace='8',protoop_general='',protoop_fecharegistro='2023-09-15 14:48:24',protoop_fechaoperacion='2023-09-15',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='14:00',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_emergencia='',protoop_ayudanteuno='',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ARTROSOCOPIA + MENISCOPLASTIA + SINOVECTOMIA + CONDROPLASTIA',protoop_ayudantedos='',protoop_realizada='ARTROSOCOPIA + MENISCOPLASTIA + SINOVECTOMIA + CONDROPLASTIA + REMOCION DE CUERPO LIBRE',protoop_dieresis='INCISION DE 1 CM PARAROTULIANO MEDIAL Y LATERAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='YAJAIRA ESPINOSA',protoop_enlace='531101170279296938020230915024824476',protoop_exposicion='ARTROSOCOPIO',protoop_circulante='DENNISE PILLISA',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_exploracion='LCA: NORMAL
+CUERPO LIBRE INTRAARTICULAR						
+SINOVIAL HIPERTROFICA HIPERHEMICA TRICOMPARTIMENTAL						
+MENISCO INTERNO: DESGARRO HORIZONTAL DE UNIO DE CUERNO POSTERIOR Y CUERPO ZONA 2						
+MENISCO EXTERNO:  DESGARRO HORIZONTAL DE CUERPO ZONA 1						
+LESION OSTEOCONDRAL GIV LIMITADO DE 1CM PATELAR Y DE 2CM  CONDILO INTERNO , 1CM  CONDILO EXTERNO Y MESETA TIBIAL INTERNA',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='POSICION SUPINA
+ASEPSIA Y ANTISEPSIA 
+COLOCACIÒN DE CAMPOS 
+COLOCACION DE MALLA DE EXANGUINACION
+DIÉRESIS DESCRITA
+INTRODUCCION DE ARTROSCOPIO Y SET DE IRRIGACION CON BOMBA Y MANGUERA
+EXPLORACION E IDENTIFICACION DE HALLAZGOS 
+REMOCION DE CUERPO LIBRE 29874
+SINOVECTOMIA AMPLIA CODIGO 29876 CON PUNTA DE SHAVER 
+MENISCECTOMIA BILATERAL + COLOCACION DE DOS SUTURAS TODO DENTRO MENISCO EXTERNO Y DOS SUTURAS TODO DENTRO EN MENISCO INTERNO 
+REMODELACION MENISCAL BILATERAL 29883
+CONDROPLASTIA TERMICA + MICROFRACTURAS 29877
+IRRIGACION ARTICULAR CON SOLUCION SALINA 0,9%
+INFILTRACION ARTICULAR CON 80MG DE LIDOCAINA C/E + 2CC DE BETAMETASONA (DEPOMEDROL)
+COLOCACION DE APOSITOS Y VENDAJE',protoop_complicaciones='NINGUNA',protoop_perdida='NA',protoop_sangrado='',protoop_protesico='1',anam_enlace='' where protoop_id=17 -->2023-09-26 13:10:09
+250-->update dns_newprotocolooperatorio set usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4707',centro_id=1,clie_id=5722,protoop_transquirurgico='',protoop_sintesis='ANTES                                                                       DESPUES',protoop_selectiva='',protoop_cirujanouno='DR. RENATO GUERRA',protoop_idenlace='12',protoop_general='',protoop_fecharegistro='2023-09-19 12:46:53',protoop_fechaoperacion='2023-09-19',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='12:00',protoop_cirujanodos='DR. JAVIER TORRES',protoop_emergencia='',protoop_ayudanteuno='',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ARTROSCOPIA DIAGNOSTICA + PLASTIA MENISCAL',protoop_ayudantedos='',protoop_realizada='IDEM + PLASTIA MENISCAL + PLASTIA DE LCA + SINOVECTOMIA',protoop_dieresis='PORTALES ARTROSCOPICOS ANTERIORES MEDIAL Y LATERAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA. JAKELINE TORRES',protoop_enlace='572201171442027818120230919124653446',protoop_exposicion='TORRE DE ARTROSCOPIA, BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_circulante='SR. DENNIS PILLISA',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_exploracion='SINOVITIS EXTENSA
+DISTENSION DE LCA CON INSERCIONES INTACTAS
+ROTURA  IRREGULAR ENTRE CUERNO POSTERIOR Y CUERPO DE MENISCO MEDIAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DECUBITO SUPINO
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	INFILTRACION DE MARCAINA CON EPINEFRINA 10CC
+5.	PORTAL ANTERO LATERAL DE RODILLA DERECHA
+6.	ARTROSCOPIA DIAGNOSTICA 
+7.	SINOVECTOMIA EXTENSA CON SHAVER Y RADIOFRECUENCIA 
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	RETENSADO CON RADIOFRECUENCIA POR TODOS LOS LADOS DE LCA 
+10.	COMPROBACION DE ESTABILIDAD CON MANIOBRA DE CAJON ANTERIOR INTRAOPERATORIA
+11.	HEMOSTASIA
+12.	PREPARACION Y CRUENTEADO DE LESION MENISCAL
+13.	COLOCACION DE TRES SUTURAS MENISCALES TODO DENTRO EN CUERNO Y CUERPO POSTERIOR DE MENISCO MEDIAL
+14.	REVISION Y CONTROL DE HEMOSTASIA CON RADIOFRECUENCIA
+15.	SINTESIS 
+
+CODIGOS 
+29888 REPARACION DE LCA
+29876 SINOVECTOMIA
+29882 REPARACION DE MENISCO MEDIAL
+29870 ARTROSCOPIA DIAGNOSTICA DE RODILLA',protoop_complicaciones='NO',protoop_perdida='30',protoop_sangrado='',protoop_protesico='1',anam_enlace='' where protoop_id=29 -->2023-09-26 15:41:41
+250-->update dns_newprotocolooperatorio set usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4707',centro_id=1,clie_id=5722,protoop_transquirurgico='',protoop_sintesis='ANTES                                                                       DESPUES',protoop_selectiva='',protoop_cirujanouno='DR. RENATO GUERRA',protoop_idenlace='12',protoop_general='',protoop_fecharegistro='2023-09-19 12:46:53',protoop_fechaoperacion='2023-09-19',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='12:00',protoop_cirujanodos='DR. JAVIER TORRES',protoop_emergencia='',protoop_ayudanteuno='',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ARTROSCOPIA DIAGNOSTICA + PLASTIA MENISCAL',protoop_ayudantedos='',protoop_realizada='IDEM + PLASTIA MENISCAL + PLASTIA DE LCA + SINOVECTOMIA',protoop_dieresis='PORTALES ARTROSCOPICOS ANTERIORES MEDIAL Y LATERAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA. JAKELINE TORRES',protoop_enlace='572201171442027818120230919124653446',protoop_exposicion='TORRE DE ARTROSCOPIA, BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_circulante='SR. DENNIS PILLISA',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_exploracion='SINOVITIS EXTENSA
+DISTENSION DE LCA CON INSERCIONES INTACTAS
+ROTURA  IRREGULAR ENTRE CUERNO POSTERIOR Y CUERPO DE MENISCO MEDIAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DECUBITO SUPINO
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	INFILTRACION DE MARCAINA CON EPINEFRINA 10CC
+5.	PORTAL ANTERO LATERAL DE RODILLA DERECHA
+6.	ARTROSCOPIA DIAGNOSTICA 
+7.	SINOVECTOMIA EXTENSA CON SHAVER Y RADIOFRECUENCIA 
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	RETENSADO CON RADIOFRECUENCIA POR TODOS LOS LADOS DE LCA 
+10.	COMPROBACION DE ESTABILIDAD CON MANIOBRA DE CAJON ANTERIOR INTRAOPERATORIA
+11.	HEMOSTASIA
+12.	PREPARACION Y CRUENTEADO DE LESION MENISCAL
+13.	COLOCACION DE TRES SUTURAS MENISCALES TODO DENTRO EN CUERNO Y CUERPO POSTERIOR DE MENISCO MEDIAL
+14.	REVISION Y CONTROL DE HEMOSTASIA CON RADIOFRECUENCIA
+15.	SINTESIS 
+
+CODIGOS 
+29888 REPARACION DE LCA
+29876 SINOVECTOMIA
+29882 REPARACION DE MENISCO MEDIAL
+29870 ARTROSCOPIA DIAGNOSTICA DE RODILLA',protoop_complicaciones='NO',protoop_perdida='30',protoop_sangrado='',protoop_protesico='1',anam_enlace='' where protoop_id=29 -->2023-09-26 15:41:41
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4983,centro_id=1,clie_id=5991,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE POR DIFICULTAD RESPIRATORIA DE LARGA DATA QUE SE EXACERBA CUANDO EXISTE VIENTO, MAS GOTEO RETRONASAL, TOS VESPERTINA, SENSACION DE OBSTRUCCION NASAL.',anam_planes='Rp/.
+    1. INGRESO A OTORRINOLARINGOLOGIA  HAB 303
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE LA DRA. DIANA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='DIFICULTAD PARA RESPIRAR',anam_partos='',anam_fecharegistro='2023-09-20 07:06:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='599101172320022426720230920070653180',anam_cirugia='SEPTOPLASTIA+ TURBINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO',anam_hijosvivos='',anam_ayudante='DRA. SAMANTHA SUAREZ',anam_fum='2023-09-19',anam_anestesiologo='',anam_fup=NULL,anam_fuc='2023-03-19',anam_fechaingreso='2023-09-20',anam_metodopfamiliar=0,anam_metodopfamiliartex='NO UTILIZA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=1,anam_mamario=0 where anam_id=2033 -->2023-09-26 15:55:53
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-20 11:41:01',atenc_id=4983,centro_id=1,clie_id=5991,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='1 – DESVIO SEPTAL DERECHO AREA II-V DE COTTLE CON ESPOLON IMPACTADO EN CORNETE MEDIO OBSTRUCTIVO  
+2 -CORNETES INFERIORES HIPERTROFICOS
+3 –PIEL MEDIA 
+4 – GIBA DORSAL 
+5 –LATERORRINEA DERECHA A EXPENSAS DE DORSO Y PUNTA SEVERA
+6- PUNTA MAL DEFINIDA, PTOSICA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL 
+4-INCISION COLUMELAR EN V INVERTIDA MÁS MARGINALES
+5- ABORDAJE DE PUNTA NASAL Y DORSO 
+6- RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS PARAMEDIALES LATERALES  CON PIEZOTOMO Y LATERALES  INTERNAS BAJAS 
+8-ABORDAJE DE SEPTO
+9- DECOLAMIENTO SUBMUCOPERIOSTICO Y SUBMUCOPERICONDRICO 
+9-CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10-SEPARACIÓN CONDROVOMERIANA
+11-CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14-LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-COLOCACION DE SEG Y FIJACION A NEODOMOS 
+18- MANEJO DE CRURA
+19-SINTESIS 
+21-COLOCACIÓN DE PLACAS DE FERULAMIENTO INTERNO Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA EXTERNA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA + TURBINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 . INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='2033',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA + TURBINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='599101110459371832120230920114101232',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-20',protoop_horainicio='09:10',protoop_horafin='11:15' where protoop_id=1617 -->2023-09-26 15:55:58
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-20 11:41:01',atenc_id=4983,centro_id=1,clie_id=5991,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='1 – DESVIO SEPTAL DERECHO AREA II-V DE COTTLE CON ESPOLON IMPACTADO EN CORNETE MEDIO OBSTRUCTIVO  
+2 -CORNETES INFERIORES HIPERTROFICOS
+3 –PIEL MEDIA 
+4 – GIBA DORSAL 
+5 –LATERORRINEA DERECHA A EXPENSAS DE DORSO Y PUNTA SEVERA
+6- PUNTA MAL DEFINIDA, PTOSICA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL 
+4-INCISION COLUMELAR EN V INVERTIDA MÁS MARGINALES
+5- ABORDAJE DE PUNTA NASAL Y DORSO 
+6- RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS PARAMEDIALES LATERALES  CON PIEZOTOMO Y LATERALES  INTERNAS BAJAS 
+8-ABORDAJE DE SEPTO
+9- DECOLAMIENTO SUBMUCOPERIOSTICO Y SUBMUCOPERICONDRICO 
+9-CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10-SEPARACIÓN CONDROVOMERIANA
+11-CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14-LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-COLOCACION DE SEG Y FIJACION A NEODOMOS 
+18- MANEJO DE CRURA
+19-SINTESIS 
+21-COLOCACIÓN DE PLACAS DE FERULAMIENTO INTERNO Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA EXTERNA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA + TURBINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 . INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='2033',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA + TURBINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='599101110459371832120230920114101232',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-20',protoop_horainicio='09:10',protoop_horafin='11:15' where protoop_id=1617 -->2023-09-26 15:55:58
+250-->update dns_newprotocolooperatorio set usua_id=276,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4988',centro_id=1,clie_id=5994,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='OSWALDO ESPINOSA',protoop_idenlace='18',protoop_general='',protoop_fecharegistro='2023-09-20 15:00:09',protoop_fechaoperacion='2023-09-20',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='14:30',protoop_cirujanodos='',protoop_emergencia='1',protoop_ayudanteuno='YOLANDA IZURIETA',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='hernioplastia',protoop_ayudantedos='',protoop_realizada='hernioplastia de lichtenstein',protoop_dieresis='PARAINGUINAL IZQUIERDA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JAQUI TORRES',protoop_enlace='599401170929533927620230920030009186',protoop_exposicion='DE SACO Y CONDUCTO INGUINAL',protoop_circulante='',protoop_anestesiologo='EDUARDO SANTANA',protoop_exploracion='HERNIA ENCARCELADA QUE CONTIENE GRASA PREPERITONEAL
+PISO DEL CONDUCTO DEBIL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. DESBRIDAMIENTO DE TEJIDOS SUPERFIVIALES
+2. APERTURA DE APONEUROSIS DEL OBLICUO MAYOR
+3. INDIVIDUALIZACION DEL SACO
+4. REDUCCIONDEL CONTENIDO
+5. LIPECTOMIA HERNIARIA
+6. REFORRZAMIENTO DEL PISO POSTERIOR
+7. COLOCACION DE MALLA ENTRE LIG INGUINAL Y TENDON CONJUNTO )LIXHTENSTEIN=
+8. SINTESIS DE APOBEUROSIS
+9. CONTROL DE LA HEMOSTASIA
+10. SINTESIS DE PIEL',protoop_complicaciones='NO',protoop_perdida='2CC',protoop_sangrado='3CC',protoop_protesico='1',anam_enlace='' where protoop_id=35 -->2023-09-26 15:57:17
+250-->update dns_newprotocolooperatorio set usua_id=276,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4988',centro_id=1,clie_id=5994,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='',protoop_cirujanouno='OSWALDO ESPINOSA',protoop_idenlace='18',protoop_general='',protoop_fecharegistro='2023-09-20 15:00:09',protoop_fechaoperacion='2023-09-20',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='14:30',protoop_cirujanodos='',protoop_emergencia='1',protoop_ayudanteuno='YOLANDA IZURIETA',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:00',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='hernioplastia',protoop_ayudantedos='',protoop_realizada='hernioplastia de lichtenstein',protoop_dieresis='PARAINGUINAL IZQUIERDA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JAQUI TORRES',protoop_enlace='599401170929533927620230920030009186',protoop_exposicion='DE SACO Y CONDUCTO INGUINAL',protoop_circulante='',protoop_anestesiologo='EDUARDO SANTANA',protoop_exploracion='HERNIA ENCARCELADA QUE CONTIENE GRASA PREPERITONEAL
+PISO DEL CONDUCTO DEBIL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. DESBRIDAMIENTO DE TEJIDOS SUPERFIVIALES
+2. APERTURA DE APONEUROSIS DEL OBLICUO MAYOR
+3. INDIVIDUALIZACION DEL SACO
+4. REDUCCIONDEL CONTENIDO
+5. LIPECTOMIA HERNIARIA
+6. REFORRZAMIENTO DEL PISO POSTERIOR
+7. COLOCACION DE MALLA ENTRE LIG INGUINAL Y TENDON CONJUNTO )LIXHTENSTEIN=
+8. SINTESIS DE APOBEUROSIS
+9. CONTROL DE LA HEMOSTASIA
+10. SINTESIS DE PIEL',protoop_complicaciones='NO',protoop_perdida='2CC',protoop_sangrado='3CC',protoop_protesico='1',anam_enlace='' where protoop_id=35 -->2023-09-26 15:57:17
+250-->update dns_newprotocolooperatorio set usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4802',centro_id=1,clie_id=5810,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_idenlace='24',protoop_general='1',protoop_fecharegistro='2023-09-21 12:47:44',protoop_fechaoperacion='2023-09-21',protoop_biopsia='0',protoop_regional='',protoop_horainicio='11:55',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='12:55',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='URETEROSCOPIA SEMIRRIGIDA+ FLEXIBLE+ DILATACION URETERAL+ PIELOSCOPIA+ LITOTRIPSIA INTRACORPOREA LASER+ EXTRACCION DE LITOS + COLOCACION DE CATETER DOBLE J DERECHO.',protoop_ayudantedos='',protoop_realizada='',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='581001171602008440720230921124744331',protoop_exposicion='ENDOSCOPICA',protoop_circulante='IBRAILA MONCAYO',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='1. ESTENOSIS URETERAL DE 1/3 INFERIOR DE APROX 60% DE LUZ URETRAL 
+2. LITO DE 1CM DE LOCALIZADO EN CALIZ SUPERIOR DE RIÑON DERECHO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS ESTERILES
+3. INTRODUCCION DE URETEROSCOPIO SEMIRIGIDO Y DILATACION DE ESTENOSIS DESCRITA
+4. COLOCACION DE GUIA URETERAL CEBRA Y PTFE 
+5. RETIRO DE INSTRUMENTAL SEMIRIGIDO 
+5. COLOCACION DE CAMISA URETERAL 11/13FR
+6. PIELOSCOPIA E IDENTIFICACION DE LITO DESCRITO (52351)
+7. ENDOCOPIA RENAL  CON REMOCION DE LITO (50580) 
+8. LITOTRIPSIA INTRACORPOREA MEDIANTE LASER HOLMIUM 100W (52353)
+9. EXTRACCION DE LITOS FRAGMENTADOS MEDIANTE CANASTILLA DAKOTA (52352)
+10. RETIRO DE CAMISA URETERAL 
+11. COLOCACION DE CATETER DOBLE J DERECHO MEDIANTE VISION DIRECTA (52282)
+12. COLOCACION DE SONDA NELATON 12FR PARA VACIADO VESICAL 
+13. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='ESCASO',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=38 -->2023-09-26 16:00:21
+250-->update dns_newprotocolooperatorio set usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4802',centro_id=1,clie_id=5810,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_idenlace='24',protoop_general='1',protoop_fecharegistro='2023-09-21 12:47:44',protoop_fechaoperacion='2023-09-21',protoop_biopsia='0',protoop_regional='',protoop_horainicio='11:55',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='12:55',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='URETEROSCOPIA SEMIRRIGIDA+ FLEXIBLE+ DILATACION URETERAL+ PIELOSCOPIA+ LITOTRIPSIA INTRACORPOREA LASER+ EXTRACCION DE LITOS + COLOCACION DE CATETER DOBLE J DERECHO.',protoop_ayudantedos='',protoop_realizada='',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='581001171602008440720230921124744331',protoop_exposicion='ENDOSCOPICA',protoop_circulante='IBRAILA MONCAYO',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='1. ESTENOSIS URETERAL DE 1/3 INFERIOR DE APROX 60% DE LUZ URETRAL 
+2. LITO DE 1CM DE LOCALIZADO EN CALIZ SUPERIOR DE RIÑON DERECHO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS ESTERILES
+3. INTRODUCCION DE URETEROSCOPIO SEMIRIGIDO Y DILATACION DE ESTENOSIS DESCRITA
+4. COLOCACION DE GUIA URETERAL CEBRA Y PTFE 
+5. RETIRO DE INSTRUMENTAL SEMIRIGIDO 
+5. COLOCACION DE CAMISA URETERAL 11/13FR
+6. PIELOSCOPIA E IDENTIFICACION DE LITO DESCRITO (52351)
+7. ENDOCOPIA RENAL  CON REMOCION DE LITO (50580) 
+8. LITOTRIPSIA INTRACORPOREA MEDIANTE LASER HOLMIUM 100W (52353)
+9. EXTRACCION DE LITOS FRAGMENTADOS MEDIANTE CANASTILLA DAKOTA (52352)
+10. RETIRO DE CAMISA URETERAL 
+11. COLOCACION DE CATETER DOBLE J DERECHO MEDIANTE VISION DIRECTA (52282)
+12. COLOCACION DE SONDA NELATON 12FR PARA VACIADO VESICAL 
+13. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='ESCASO',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=38 -->2023-09-26 16:00:21
+250-->update dns_newprotocolooperatorio set usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4797',centro_id=1,clie_id=5808,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_idenlace='23',protoop_general='',protoop_fecharegistro='2023-09-21 13:32:51',protoop_fechaoperacion='2023-09-21',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='13:50',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:20',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_ayudantedos='',protoop_realizada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='580801171602008440720230921013251238',protoop_exposicion='ENDOSCOPICA',protoop_circulante='LCDA. IBRAILA MONCAYO',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='URETRA PERMEABLE EN TODO SU TRAYECTO
+PROSTATA OBSTRUCTIVA AL 100% DE APROX 80G
+MEATOS URETERALES ORTOTOPICOS EYACULAN ORINA CLARA
+VEJIGA TRABECULAS GII-III',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. PCIENTE EN POSICION DE LITOTOMIA 
+2. ASEPSIA Y ANTISEPSIA
+3. COLOCACION DE CAMPOS ESTERILES 
+4. DILATACION URETRAL MEDIANTE BENIQUES
+5. CISTOSCOPIA DE EVALUCION 
+6. ENUCLEACION PROSTATICA MEDIANTE LASER DE 100W (52649)
+7. VAPORIZACION DE ADENOMEROS  PROSTATICOS RESIDUALES (52648)
+8. INCISION TRANSURETRAL DE CUELLO (52450) 
+9. RESECCION DE CUELLO VESICAL  (52500)
+10.  MORCELACION DE TEJIDO PROSTATICO MEDIANTE MORCELADOR TIPO PIRAÑA 
+11. CONTROL DE HEMOSTASIA 
+12. RETIRO DE INSTRUMENTAL 
+13. COLOCACION DE SONDA VESICAL 20FR 3 VIAS',protoop_complicaciones='NINGUNA',protoop_perdida='150',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=39 -->2023-09-26 16:02:01
+250-->update dns_newprotocolooperatorio set usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='4797',centro_id=1,clie_id=5808,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_idenlace='23',protoop_general='',protoop_fecharegistro='2023-09-21 13:32:51',protoop_fechaoperacion='2023-09-21',protoop_biopsia='0',protoop_regional='1',protoop_horainicio='13:50',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='15:20',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_ayudantedos='',protoop_realizada='ENUCLEACION PROSTATICA (52649)+ VAPORIZACION DE ADENOMEROS  PROSTATICOS (52648)+ INCISION TRANSURERAL DE CUELLO (52450) +RESECCION DE CUELLO VESICAL  (52500)',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='580801171602008440720230921013251238',protoop_exposicion='ENDOSCOPICA',protoop_circulante='LCDA. IBRAILA MONCAYO',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='URETRA PERMEABLE EN TODO SU TRAYECTO
+PROSTATA OBSTRUCTIVA AL 100% DE APROX 80G
+MEATOS URETERALES ORTOTOPICOS EYACULAN ORINA CLARA
+VEJIGA TRABECULAS GII-III',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. PCIENTE EN POSICION DE LITOTOMIA 
+2. ASEPSIA Y ANTISEPSIA
+3. COLOCACION DE CAMPOS ESTERILES 
+4. DILATACION URETRAL MEDIANTE BENIQUES
+5. CISTOSCOPIA DE EVALUCION 
+6. ENUCLEACION PROSTATICA MEDIANTE LASER DE 100W (52649)
+7. VAPORIZACION DE ADENOMEROS  PROSTATICOS RESIDUALES (52648)
+8. INCISION TRANSURETRAL DE CUELLO (52450) 
+9. RESECCION DE CUELLO VESICAL  (52500)
+10.  MORCELACION DE TEJIDO PROSTATICO MEDIANTE MORCELADOR TIPO PIRAÑA 
+11. CONTROL DE HEMOSTASIA 
+12. RETIRO DE INSTRUMENTAL 
+13. COLOCACION DE SONDA VESICAL 20FR 3 VIAS',protoop_complicaciones='NINGUNA',protoop_perdida='150',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=39 -->2023-09-26 16:02:01
+2-->insert into lpin_tomafisica (tomfis_asientoingreso,tomfis_asientoegreso,tomfis_fecha,centro_id,tomfis_asientoingresoinsumo,tomfis_asientoegresoinsumo,tomfis_descripcion,tomfis_archivo,tomfis_enlace,usua_id,tomfis_fecharegistro) values ('','','2023-09-26 15:29',1,'','','AJUSTE BODEGA PRINCIPAL BCEPML0000020','','2023-09-26265133F360409F',2,'2023-09-26 15:29:42')-->2023-09-26 16:03:18
+2-->update lpin_tomafisica set tomfis_asientoingreso='',tomfis_asientoegreso='',tomfis_fecha='2023-09-26 15:29',centro_id=1,tomfis_asientoingresoinsumo='',tomfis_asientoegresoinsumo='',tomfis_descripcion='AJUSTE BODEGA PRINCIPAL BCEPML0000020',tomfis_archivo='',tomfis_enlace='2023-09-26265133F360409F',usua_id=2,tomfis_fecharegistro='2023-09-26 15:29:42' where tomfis_id=57 -->2023-09-26 16:03:28
+2-->update lpin_tomafisica set tomfis_asientoingreso='',tomfis_asientoegreso='',tomfis_fecha='2023-09-26',centro_id=1,tomfis_asientoingresoinsumo='',tomfis_asientoegresoinsumo='',tomfis_descripcion='AJUSTE BODEGA PRINCIPAL BCEPML0000020',tomfis_archivo='',tomfis_enlace='2023-09-26265133F360409F',usua_id=2,tomfis_fecharegistro='2023-09-26 15:29:42' where tomfis_id=57 -->2023-09-26 16:09:20
+250-->update dns_newprotocolooperatorio set usua_id=205,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5009',centro_id=1,clie_id=6015,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_idenlace='28',protoop_general='1',protoop_fecharegistro='2023-09-22 13:16:40',protoop_fechaoperacion='2023-09-22',protoop_biopsia='0',protoop_regional='',protoop_horainicio='08:40',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:05',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_dieresis='1, INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2. INCISION PARA ABDOMINOPLASTIA DE 40 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC JACKELINE TORRES',protoop_enlace='60150117200117312052023092201164063',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LIC IBRAILA MONCAYO',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL MAS FLACIDEZ ABDOMINAL IMPORTANTE
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 4600 CC COLGAJO DE 0,25KG
+5. INJERTO GRASO GLUTEO DE 720 CC',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL
+10. CONTROL DE HEMOSTASIA
+11. RECTIFICACION DE DIASTASIS CON PLICATURA AMPLIA DE OBLICUO A OBLLICUO
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+18. LIPOASPIRACION CON MICROAIRE
+19. CIERRE DE INCISIONES
+20. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+21. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+22. COLOCACION DE STER STRIP
+23. COLOCACION DE APOSITOS
+24. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=42 -->2023-09-26 16:14:09
+250-->update dns_newprotocolooperatorio set usua_id=205,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='5009',centro_id=1,clie_id=6015,protoop_transquirurgico='',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_idenlace='28',protoop_general='1',protoop_fecharegistro='2023-09-22 13:16:40',protoop_fechaoperacion='2023-09-22',protoop_biopsia='0',protoop_regional='',protoop_horainicio='08:40',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='13:05',protoop_otroanestesia='',protoop_examen='0',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_ayudantedos='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_dieresis='1, INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM
+2. INCISION PARA ABDOMINOPLASTIA DE 40 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC JACKELINE TORRES',protoop_enlace='60150117200117312052023092201164063',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_circulante='LIC IBRAILA MONCAYO',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL MAS FLACIDEZ ABDOMINAL IMPORTANTE
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 4600 CC COLGAJO DE 0,25KG
+5. INJERTO GRASO GLUTEO DE 720 CC',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL
+10. CONTROL DE HEMOSTASIA
+11. RECTIFICACION DE DIASTASIS CON PLICATURA AMPLIA DE OBLICUO A OBLLICUO
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+18. LIPOASPIRACION CON MICROAIRE
+19. CIERRE DE INCISIONES
+20. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+21. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+22. COLOCACION DE STER STRIP
+23. COLOCACION DE APOSITOS
+24. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=42 -->2023-09-26 16:14:10
+250-->update dns_newprotocolooperatorio set usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='3688',centro_id=1,clie_id=4865,protoop_transquirurgico='.',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_idenlace='31',protoop_general='',protoop_fecharegistro='2023-09-22 14:15:08',protoop_fechaoperacion='2023-09-22',protoop_biopsia='0',protoop_regional='',protoop_horainicio='13:45',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA CRISTINA GAVILANES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:10',protoop_otroanestesia='1',protoop_examen='0',protoop_proyectada='peridurografia + bloqueo  sacrocaudal',protoop_ayudantedos='',protoop_realizada='idem',protoop_dieresis='.',protoop_examendetalle='.',protoop_tecerayudante='',protoop_patologo='.',protoop_instrumentista='',protoop_enlace='48650110025808411822023092202150893',protoop_exposicion='.',protoop_circulante='LIC. JAQUELIN TORRES',protoop_anestesiologo='DRA. CRISTINA GAVILANES',protoop_exploracion='.',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SE REALIZA BLOQUEO CAUDAL GUIADO POR TÉCNICA MIXTA (ECOGRAFICA ) CON COMPROBACION FLUOROSCOPICA.
+ADEMAS DE REALIZA PERIDUROGRAFIA CON CONTRASTE Y APOYO DE RAYOS X 
+SE INYECTA METILPREDNISONA 80 MG MAS 100 MG DE LIDOCAINA MAS 13 CC DE S.S. 09.% TOTAL 20 CC 
+PROCEDIMIENTO SIN COMPLICACIONES',protoop_complicaciones='NINGUNA',protoop_perdida='0',protoop_sangrado='0',protoop_protesico='0',anam_enlace='' where protoop_id=45 -->2023-09-26 16:24:43
+250-->update dns_newprotocolooperatorio set usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',atenc_id='3688',centro_id=1,clie_id=4865,protoop_transquirurgico='.',protoop_sintesis='',protoop_selectiva='1',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_idenlace='31',protoop_general='',protoop_fecharegistro='2023-09-22 14:15:08',protoop_fechaoperacion='2023-09-22',protoop_biopsia='0',protoop_regional='',protoop_horainicio='13:45',protoop_cirujanodos='',protoop_emergencia='',protoop_ayudanteuno='DRA CRISTINA GAVILANES',protoop_bioresultado='',protoop_sedacion='',protoop_paleativa='',protoop_horafin='14:10',protoop_otroanestesia='1',protoop_examen='0',protoop_proyectada='peridurografia + bloqueo  sacrocaudal',protoop_ayudantedos='',protoop_realizada='idem',protoop_dieresis='.',protoop_examendetalle='.',protoop_tecerayudante='',protoop_patologo='.',protoop_instrumentista='',protoop_enlace='48650110025808411822023092202150893',protoop_exposicion='.',protoop_circulante='LIC. JAQUELIN TORRES',protoop_anestesiologo='DRA. CRISTINA GAVILANES',protoop_exploracion='.',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='BAJO NORMAS DE ASEPSIA Y ANTISEPSIA SE REALIZA BLOQUEO CAUDAL GUIADO POR TÉCNICA MIXTA (ECOGRAFICA ) CON COMPROBACION FLUOROSCOPICA.
+ADEMAS DE REALIZA PERIDUROGRAFIA CON CONTRASTE Y APOYO DE RAYOS X 
+SE INYECTA METILPREDNISONA 80 MG MAS 100 MG DE LIDOCAINA MAS 13 CC DE S.S. 09.% TOTAL 20 CC 
+PROCEDIMIENTO SIN COMPLICACIONES',protoop_complicaciones='NINGUNA',protoop_perdida='0',protoop_sangrado='0',protoop_protesico='0',anam_enlace='' where protoop_id=45 -->2023-09-26 16:24:43
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4822,centro_id=1,clie_id=5842,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN  CON SIN ANTECEDENTES DE IMPORTANCIA REFIERE CUADRO CLÍNICO DE DIFICULTAD PARA PASO DE FLUJO DE AIRE POR NARIZ DE PREDOMINANCIA DE FOSA IZQUIERDA POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1 INGRESO A OTORRINOLARINGOLOGIA / HAB 302 
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DRA. ROMERO DANIELA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-09-06 08:01:22',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='584201172575763530420230906080122327',anam_cirugia='SEPTOPLASTIA + TURBINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO',anam_hijosvivos='',anam_ayudante='DRA. SUAREZ',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-06',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1990 -->2023-09-26 17:10:29
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-06 08:39:25',atenc_id=4822,centro_id=1,clie_id=5842,protoop_exposicion='1.SEPARADOR DOBLE DE BOLAS
+2.ESPECULOS NASALES',protoop_exploracion='1 – DESVIO SEPTAL IZQUIERDO AREA I-II-III DE COTTLE OBSTRUCTIVO CONTACTANTE CON PARED LATERAL IMPACTADO EN CORNETE INFERIOR
+2- ESPOLON EN AREA IV-V DE COTTLE IMPACTADO EN CORNETE MEDIO 
+3 -CORNETES INFERIORES HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4- INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL IZQUIERDA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO Y ESPOLON IMPACTADO EN CORNETES INFERIORES Y MEDIOS IPSILATERAL
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA
+14-COLOCACIÓN DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA Y TURBINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='ALEJANDRA GARCIA',protoop_idenlace='1990',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA Y TURBINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='584201110459371832120230906083925465',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-06',protoop_horainicio='10:10',protoop_horafin='11:55' where protoop_id=1551 -->2023-09-26 17:10:33
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-06 08:39:25',atenc_id=4822,centro_id=1,clie_id=5842,protoop_exposicion='1.SEPARADOR DOBLE DE BOLAS
+2.ESPECULOS NASALES',protoop_exploracion='1 – DESVIO SEPTAL IZQUIERDO AREA I-II-III DE COTTLE OBSTRUCTIVO CONTACTANTE CON PARED LATERAL IMPACTADO EN CORNETE INFERIOR
+2- ESPOLON EN AREA IV-V DE COTTLE IMPACTADO EN CORNETE MEDIO 
+3 -CORNETES INFERIORES HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4- INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL IZQUIERDA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO Y ESPOLON IMPACTADO EN CORNETES INFERIORES Y MEDIOS IPSILATERAL
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA
+14-COLOCACIÓN DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA Y TURBINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='ALEJANDRA GARCIA',protoop_idenlace='1990',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA Y TURBINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='584201110459371832120230906083925465',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-06',protoop_horainicio='10:10',protoop_horafin='11:55' where protoop_id=1551 -->2023-09-26 17:10:33
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-06 08:31:56',atenc_id=4822,centro_id=1,clie_id=5842,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='1 – DESVIO SEPTAL IZQUIERDO AREA I-II-III DE COTTLE OBSTRUCTIVO CONTACTANTE CON PARED LATERAL IMPACTADO EN CORNETE INFERIOR
+2- ESPOLON EN AREA IV-V DE COTTLE IMPACTADO EN CORNETE MEDIO 
+3 -CORNETES INFERIORES HIPERTROFICOS
+4 –PUNTA HIPOPROYECTADA, MAL DEFINIDA
+5 –PIEL GRUESA
+6 – GIBA DORSAL  LEVE
+7 – BASE DORSAL ANCHA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL 
+4-INCISION COLUMELAR EN V INVERTIDA MÁS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO Y ESPOLON IMPACTADO EN CORNETES INFERIOR Y MEDIO
+8- MEDIALIZACION DE TABIQUE
+9- HEMOSTASIA
+10-LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES
+11-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+12- RESECCION DE GIBA ÓSEA CON RASPA 
+13-OSTEOTOMÍAS LATERALES BAJAS   
+14-DEFINICION Y CREACIÓN DE NEODOMOS
+15-COLOCACION DE SEG Y FIJACION A NEODOMOS 
+16-COLOCACION DE SHEEN EN PUNTA NASAL Y FIJACION DEL MISMO
+17-SINTESIS 
+18-COLOCACIÓN DE PLACAS DE FERULAMIENTO INTERNO Y FIJACIÓN DE LAS MISMAS
+19- ALOPLASTIA EXTERNA BILATERAL
+20-COLOCACION DE FÉRULA EXTERNA DURA
+21-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA + TURNINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 . INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='ALEJANDRA GARCIA',protoop_idenlace='1990',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA + TURNINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='584201110459371832120230906083156173',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-06',protoop_horainicio='10:10',protoop_horafin='12:25' where protoop_id=1548 -->2023-09-26 17:10:40
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-09-06 08:31:56',atenc_id=4822,centro_id=1,clie_id=5842,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='1 – DESVIO SEPTAL IZQUIERDO AREA I-II-III DE COTTLE OBSTRUCTIVO CONTACTANTE CON PARED LATERAL IMPACTADO EN CORNETE INFERIOR
+2- ESPOLON EN AREA IV-V DE COTTLE IMPACTADO EN CORNETE MEDIO 
+3 -CORNETES INFERIORES HIPERTROFICOS
+4 –PUNTA HIPOPROYECTADA, MAL DEFINIDA
+5 –PIEL GRUESA
+6 – GIBA DORSAL  LEVE
+7 – BASE DORSAL ANCHA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL 
+4-INCISION COLUMELAR EN V INVERTIDA MÁS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO Y ESPOLON IMPACTADO EN CORNETES INFERIOR Y MEDIO
+8- MEDIALIZACION DE TABIQUE
+9- HEMOSTASIA
+10-LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES
+11-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+12- RESECCION DE GIBA ÓSEA CON RASPA 
+13-OSTEOTOMÍAS LATERALES BAJAS   
+14-DEFINICION Y CREACIÓN DE NEODOMOS
+15-COLOCACION DE SEG Y FIJACION A NEODOMOS 
+16-COLOCACION DE SHEEN EN PUNTA NASAL Y FIJACION DEL MISMO
+17-SINTESIS 
+18-COLOCACIÓN DE PLACAS DE FERULAMIENTO INTERNO Y FIJACIÓN DE LAS MISMAS
+19- ALOPLASTIA EXTERNA BILATERAL
+20-COLOCACION DE FÉRULA EXTERNA DURA
+21-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA + TURNINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 . INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='ALEJANDRA GARCIA',protoop_idenlace='1990',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA + TURNINOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='584201110459371832120230906083156173',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-09-06',protoop_horainicio='10:10',protoop_horafin='12:25' where protoop_id=1548 -->2023-09-26 17:10:41
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-02-14 12:38:03',atenc_id=2844,centro_id=14,clie_id=4015,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA ANTISEPSIA
+COOCACION DE CAMPOS
+DIERESIS DESCRITA
+REALIZACION DE BLEFAROPLASTIA CON RETIRO DE EXCESO DE PIEL DE PARPADOS SUPERIORES, EXTRACCION DE EXCESO DE BOLSAS Y CAUTERIZACION.
+CIERRE CON ETHILON 5 0
+REALIZACION DE BLEFAROPLASTIA INFERIOR CON EXTRACCION DE EXCESO DE PIEL Y CAUTERIZACION DE BOLSAS PALPEBRALES, CONTROL DE HEMOSTASIA Y CIERRE POPR PLANOS
+FIJACION DE SUTURAS A LA PIEL.
+PASE A RECUPERACION.',protoop_proyectada='BLEFAROPLASTIA TOTAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES PALPEBRALES QUE COMPROMETEN PIEL Y TCS.',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='RODRIGO ROCA',protoop_idenlace='1284',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='401501170921352221820230214123803120',protoop_ayudanteanestesia='DR. ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='SEDACION',protoop_fechaoperacion='2023-02-14',protoop_horainicio='11:30',protoop_horafin='12:30' where protoop_id=550 -->2023-09-26 17:27:09
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-02-14 12:38:03',atenc_id=2844,centro_id=14,clie_id=4015,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA ANTISEPSIA
+COOCACION DE CAMPOS
+DIERESIS DESCRITA
+REALIZACION DE BLEFAROPLASTIA CON RETIRO DE EXCESO DE PIEL DE PARPADOS SUPERIORES, EXTRACCION DE EXCESO DE BOLSAS Y CAUTERIZACION.
+CIERRE CON ETHILON 5 0
+REALIZACION DE BLEFAROPLASTIA INFERIOR CON EXTRACCION DE EXCESO DE PIEL Y CAUTERIZACION DE BOLSAS PALPEBRALES, CONTROL DE HEMOSTASIA Y CIERRE POPR PLANOS
+FIJACION DE SUTURAS A LA PIEL.
+PASE A RECUPERACION.',protoop_proyectada='BLEFAROPLASTIA TOTAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES PALPEBRALES QUE COMPROMETEN PIEL Y TCS.',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='RODRIGO ROCA',protoop_idenlace='1284',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='401501170921352221820230214123803120',protoop_ayudanteanestesia='DR. ANDRES CAIZA',protoop_tecerayudante='',protoop_tipoanestesia='SEDACION',protoop_fechaoperacion='2023-02-14',protoop_horainicio='11:30',protoop_horafin='12:30' where protoop_id=550 -->2023-09-26 17:27:09

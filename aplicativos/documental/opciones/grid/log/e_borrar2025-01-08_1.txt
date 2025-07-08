@@ -1,0 +1,7 @@
+507-->select * from lpin_cobropago where crb_id='4100'-->2025-01-08 15:30:41
+507-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='12404')-->2025-01-08 15:30:44
+507-->delete from lpin_comprobantecontable where crpadet_id='12404'-->2025-01-08 15:30:44
+507-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='12405')-->2025-01-08 15:30:46
+507-->delete from lpin_comprobantecontable where crpadet_id='12405'-->2025-01-08 15:30:46
+507-->delete  from lpin_cobropagodetalle where crb_enlace='2024-05-16502664685F167BCC'-->2025-01-08 15:30:46
+507-->delete from lpin_cobropago where crb_id=4100-->2025-01-08 15:30:46

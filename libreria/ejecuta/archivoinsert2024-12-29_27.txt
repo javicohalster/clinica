@@ -1,0 +1,1 @@
+456-->insert into dns_enfermeria (atenc_id,centro_id,clie_id,usua_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (9142,27,10318,456,'','2024-12-29 21:45:17','','1031801025014168645620241229094517472','')-->2024-12-29 21:45:53

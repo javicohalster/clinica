@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_title='Código ISSPOL:' where fie_id='6165';
+update gogess_sisfield set fie_title='C&oacute;digo ISSPOL:' where fie_id='6165';

@@ -1,0 +1,2 @@
+insert into pichinchahumana_extension.dns_convenios (conve_descuento,conve_nombre,tippo_id) values (0,'AUDITAN',8)
+insert into pichinchahumana_extension.dns_convenios (conve_descuento,conve_nombre,tippo_id) values (0,'CORIS',8)

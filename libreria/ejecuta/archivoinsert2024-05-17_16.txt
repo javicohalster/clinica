@@ -1,0 +1,2 @@
+338-->insert into dns_enfermeria (atenc_id,centro_id,clie_id,usua_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (7337,16,8435,338,'','2024-05-17 09:04:00','','843501172585510833820240517090400328','')-->2024-05-17 09:08:35
+338-->update dns_enfermeria set atenc_id=7337,centro_id=16,clie_id=8435,usua_id=338,protoop_tblprincipal='',enferm_fecharegistro='2024-05-17 09:04:00',protoop_idenlace='',enferm_enlace='843501172585510833820240517090400328',enferm_archivo='' where enferm_id=415 -->2024-05-17 09:08:39

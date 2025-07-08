@@ -1,0 +1,155 @@
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3896,centro_id=1,clie_id=5032,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO SIN ANTECEDENTES PATOLÓGICOS DE IMPORTANCIA, REFIERE QUE HACE 3 MESES MIENTRAS REALIZABA DEPORTE SUFRE LESIÓN EN HOMBRO IZQUIERDO PRESENTA DOLOR QUE NO SEDE POR LO QUE SE REALIZA RESONANCIA MAGNÉTICA DONDE SE EVIDENCIA ROTURA COMPLETA DE SUPRAESOINOSO POR LO QUE ACUDE DONDE MEDICO ESPECIALISTA QUIEN ENVÍA EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-23 20:38:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='503201172130103236520230723083830445',anam_cirugia='PLASTIA DE MANGUITO ROTADOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR CRISTIAN MESTANZA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-23',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1839 -->2023-07-24 10:18:27
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3896,centro_id=1,clie_id=5032,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO SIN ANTECEDENTES PATOLÓGICOS DE IMPORTANCIA, REFIERE QUE HACE 3 MESES MIENTRAS REALIZABA DEPORTE SUFRE LESIÓN EN HOMBRO IZQUIERDO PRESENTA DOLOR QUE NO SEDE POR LO QUE SE REALIZA RESONANCIA MAGNÉTICA DONDE SE EVIDENCIA ROTURA COMPLETA DE SUPRAESOINOSO POR LO QUE ACUDE DONDE MEDICO ESPECIALISTA QUIEN ENVÍA EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-23 20:38:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='503201172130103236520230723083830445',anam_cirugia='PLASTIA DE MANGUITO ROTADOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR CRISTIAN MESTANZA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-23',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1839 -->2023-07-24 10:18:30
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4376,centro_id=1,clie_id=5454,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, INGRESA PARA CIRUGÍA PROGRAMADA ACUDE CON EXÁMENES COMPLEMENTARIOS CUMPLIENDO HORAS DE AYUNO  HEMODINAMICAMENTE ESTABLE.',anam_planes='1. IINGRESO A OTORRINOLARINGOLOGIA HAB 303
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DRA. DANIELA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-24 10:04:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='545401172575763530420230724100415267',anam_cirugia='RINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO DANIELA',anam_hijosvivos='',anam_ayudante='DRA. SAMANTHA SUAREZ',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1843 -->2023-07-24 13:35:17
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4376,centro_id=1,clie_id=5454,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, INGRESA PARA CIRUGÍA PROGRAMADA ACUDE CON EXÁMENES COMPLEMENTARIOS CUMPLIENDO HORAS DE AYUNO  HEMODINAMICAMENTE ESTABLE.',anam_planes='1. IINGRESO A OTORRINOLARINGOLOGIA HAB 303
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DRA. DANIELA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-24 10:04:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='545401172575763530420230724100415267',anam_cirugia='RINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO DANIELA',anam_hijosvivos='',anam_ayudante='DRA. SAMANTHA SUAREZ',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1843 -->2023-07-24 13:35:22
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4371,centro_id=1,clie_id=5452,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN, INGRESA PARA CIRUGÍA PROGRAMADA ACUDE CON EXÁMENES COMPLEMENTARIOS CUMPLIENDO HORAS DE AYUNO  HEMODINAMICAMENTE ESTABLE.',anam_planes='1. INGRESO A OTORRINOLARINGOLOGIA HAB 304
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DRA. DANIELA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-07-24 08:08:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='545201172575763530420230724080836342',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. DANIELA ROMERO',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1841 -->2023-07-24 13:36:22
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-24 13:05:33',atenc_id=4371,centro_id=1,clie_id=5452,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='HIPERTROFIA DE CORNETES INFERIORES
+SINEQUIA TURBINOSEPTAL DERECHA
+LATERORRINEA IZQUIERDA A EXPENSAS DE TERCIO MEDIO Y SUPERIOR DE DORSO',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% AL MEDIO+ ACIDO TRANEXAMICO 500MG 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL. 
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTEOTOMIAS PARAMEDIAL Y MEDIAL DERECHA, PARAMEDIAL IZQUIERDA CON PIEZOTOMO 
+8-OSTEOTOMÍAS LATERALES BAJAS 
+9-ABORDAJE DE SEPTO CAUDAL 
+10- HEMOSTASIA
+11- SINEQUIECTOMIA DERECHA 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-DEFINICION Y CREACIÓN DE NEODOMOS
+14-PREPARACIÓN DE SEG BILATERAL
+15-COLOCACION DE INJERTO SHEEN
+16-SINTESIS
+17-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+18-COLOCACION DE FÉRULA DURA
+19-COLOCACION DE BIGOTERA',protoop_proyectada='SINEQUIECTOMIA +TURBINOPLASTIA INFERIORE BILATERAL + RINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1841',protoop_paleativa='',protoop_realizada='SINEQUIECTOMIA +TURBINOPLASTIA INFERIORE BILATERAL + RINOPLASTIA',protoop_ayudanteuno='Dra. Samantha Suarez',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='545201110459371832120230724010533179',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-24',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1312 -->2023-07-24 13:36:26
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-24 13:05:33',atenc_id=4371,centro_id=1,clie_id=5452,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='HIPERTROFIA DE CORNETES INFERIORES
+SINEQUIA TURBINOSEPTAL DERECHA
+LATERORRINEA IZQUIERDA A EXPENSAS DE TERCIO MEDIO Y SUPERIOR DE DORSO',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% AL MEDIO+ ACIDO TRANEXAMICO 500MG 10 ML EN PIRAMIDE NASAL Y MUCOSA SEPTAL. 
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTEOTOMIAS PARAMEDIAL Y MEDIAL DERECHA, PARAMEDIAL IZQUIERDA CON PIEZOTOMO 
+8-OSTEOTOMÍAS LATERALES BAJAS 
+9-ABORDAJE DE SEPTO CAUDAL 
+10- HEMOSTASIA
+11- SINEQUIECTOMIA DERECHA 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-DEFINICION Y CREACIÓN DE NEODOMOS
+14-PREPARACIÓN DE SEG BILATERAL
+15-COLOCACION DE INJERTO SHEEN
+16-SINTESIS
+17-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+18-COLOCACION DE FÉRULA DURA
+19-COLOCACION DE BIGOTERA',protoop_proyectada='SINEQUIECTOMIA +TURBINOPLASTIA INFERIORE BILATERAL + RINOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1841',protoop_paleativa='',protoop_realizada='SINEQUIECTOMIA +TURBINOPLASTIA INFERIORE BILATERAL + RINOPLASTIA',protoop_ayudanteuno='Dra. Samantha Suarez',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='545201110459371832120230724010533179',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-24',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1312 -->2023-07-24 13:36:26
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3896,centro_id=1,clie_id=5032,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO SIN ANTECEDENTES PATOLÓGICOS DE IMPORTANCIA, REFIERE QUE HACE 3 MESES MIENTRAS REALIZABA DEPORTE SUFRE LESIÓN EN HOMBRO IZQUIERDO PRESENTA DOLOR QUE NO SEDE POR LO QUE SE REALIZA RESONANCIA MAGNÉTICA DONDE SE EVIDENCIA ROTURA COMPLETA DE SUPRAESOINOSO POR LO QUE ACUDE DONDE MEDICO ESPECIALISTA QUIEN ENVÍA EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-23 20:38:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='503201172130103236520230723083830445',anam_cirugia='PLASTIA DE MANGUITO ROTADOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR CRISTIAN MESTANZA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-23',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1839 -->2023-07-24 14:00:51
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3896,centro_id=1,clie_id=5032,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO SIN ANTECEDENTES PATOLÓGICOS DE IMPORTANCIA, REFIERE QUE HACE 3 MESES MIENTRAS REALIZABA DEPORTE SUFRE LESIÓN EN HOMBRO IZQUIERDO PRESENTA DOLOR QUE NO SEDE POR LO QUE SE REALIZA RESONANCIA MAGNÉTICA DONDE SE EVIDENCIA ROTURA COMPLETA DE SUPRAESOINOSO POR LO QUE ACUDE DONDE MEDICO ESPECIALISTA QUIEN ENVÍA EXÁMENES COMPLEMENTARIOS E INDICA RESOLUCIÓN QUIRÚRGICA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-23 20:38:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='503201172130103236520230723083830445',anam_cirugia='PLASTIA DE MANGUITO ROTADOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR CRISTIAN MESTANZA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-23',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1839 -->2023-07-24 14:00:54
+250-->insert into dns_invegresosvarios (egrec_representante,destv_id,tdes_id,centrod_id,emp_id,egrec_otrosdestino,egrec_fecha,egrec_responsableentrega,tipom_id,egrec_motivo,tipomov_id,egrec_cedula,centro_id,egrec_nmemo,egrec_personalrecibe,egrec_cedularecibe,usua_id,egrec_fecharegistro,egrec_tipo) values ('MAYRA POZO',0,1,55,1,'','2023-07-24','NICOLE HARO',2,'EQUIVOCADO',5,'1722872346',12,'009','GABY ROMERATE','NO ME LA SE',250,'2023-07-24 15:54:29',1)-->2023-07-24 15:55:43
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4376,centro_id=1,clie_id=5454,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, INGRESA PARA CIRUGÍA PROGRAMADA ACUDE CON EXÁMENES COMPLEMENTARIOS CUMPLIENDO HORAS DE AYUNO  HEMODINAMICAMENTE ESTABLE.',anam_planes='1. IINGRESO A OTORRINOLARINGOLOGIA HAB 303
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DRA. DANIELA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-24 10:04:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='545401172575763530420230724100415267',anam_cirugia='RINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO DANIELA',anam_hijosvivos='',anam_ayudante='DRA. SAMANTHA SUAREZ',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1843 -->2023-07-24 17:48:58
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-24 16:42:44',atenc_id=4376,centro_id=1,clie_id=5454,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='1. DESVIO SEPTAL AREA II-III DE COTTLE BASAL IZQUIERDO LEVE 
+2. HIPERTROFIA DE CORNETES INFERIORES 
+3. GIBA OSTEOCARTILAGINOSA ALTA 
+4. PUNTA NASAL HIPORPOYECTADA MAL DEFINIDA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% + ACIDO TRANEXAMICO 500MG EN 10 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS LATERALES BAJAS 
+8-ABORDAJE DE SEPTO
+9- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10- SEPARACIÓN CONDROVOMERIANA
+11- CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+17-DEFINICION Y CREACIÓN DE NEODOMOS
+18-PREPARACIÓN DE SEG BILATERAL
+19. COLOCACION DE Y FIJACION DE SEG 
+19-SINTESIS
+20- ALOPASTIA BILATERAL EXTERNA 
+21- MANEJO DE PIE DE CRURA 
+22-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+23-COLOCACION DE FÉRULA DURA
+24-COLOCACION DE BIGOTERA',protoop_proyectada='RINOPLASTIA',protoop_sintesis='VICYRL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA. JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONTALVO',protoop_idenlace='1843',protoop_paleativa='',protoop_realizada='RINOPLASTIA',protoop_ayudanteuno='DRA. SAMANTHA SUAREZ',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='545401110459371832120230724044244186',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-24',protoop_horainicio='13:40',protoop_horafin='16:15' where protoop_id=1314 -->2023-07-24 17:49:00
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-24 16:42:44',atenc_id=4376,centro_id=1,clie_id=5454,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='1. DESVIO SEPTAL AREA II-III DE COTTLE BASAL IZQUIERDO LEVE 
+2. HIPERTROFIA DE CORNETES INFERIORES 
+3. GIBA OSTEOCARTILAGINOSA ALTA 
+4. PUNTA NASAL HIPORPOYECTADA MAL DEFINIDA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% + ACIDO TRANEXAMICO 500MG EN 10 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS LATERALES BAJAS 
+8-ABORDAJE DE SEPTO
+9- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10- SEPARACIÓN CONDROVOMERIANA
+11- CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+17-DEFINICION Y CREACIÓN DE NEODOMOS
+18-PREPARACIÓN DE SEG BILATERAL
+19. COLOCACION DE Y FIJACION DE SEG 
+19-SINTESIS
+20- ALOPASTIA BILATERAL EXTERNA 
+21- MANEJO DE PIE DE CRURA 
+22-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+23-COLOCACION DE FÉRULA DURA
+24-COLOCACION DE BIGOTERA',protoop_proyectada='RINOPLASTIA',protoop_sintesis='VICYRL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA. JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONTALVO',protoop_idenlace='1843',protoop_paleativa='',protoop_realizada='RINOPLASTIA',protoop_ayudanteuno='DRA. SAMANTHA SUAREZ',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='545401110459371832120230724044244186',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-24',protoop_horainicio='13:40',protoop_horafin='16:15' where protoop_id=1314 -->2023-07-24 17:49:00
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4376,centro_id=1,clie_id=5454,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, INGRESA PARA CIRUGÍA PROGRAMADA ACUDE CON EXÁMENES COMPLEMENTARIOS CUMPLIENDO HORAS DE AYUNO  HEMODINAMICAMENTE ESTABLE.',anam_planes='1. IINGRESO A OTORRINOLARINGOLOGIA HAB 303
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DRA. DANIELA ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-24 10:04:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='545401172575763530420230724100415267',anam_cirugia='RINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA. ROMERO DANIELA',anam_hijosvivos='',anam_ayudante='DRA. SAMANTHA SUAREZ',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO MARCO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-24',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1843 -->2023-07-24 18:03:50

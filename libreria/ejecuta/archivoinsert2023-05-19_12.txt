@@ -1,0 +1,205 @@
+2-->update beko_documentocabecera set doccab_subtotaliva=5.55,doccab_ndocuafecta='',doccab_id='01644A17389FA6927220230427013328434',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=95.98,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-27 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,doccab_descuento=0,doccab_ndocumento='001-002-000004697',doccab_clavedeaccesos='2704202301179293526100120010020000046970000469717',doccab_rucempresa='1792935261001',doccab_total=102.2,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1759012246',doccab_nautorizacion='2704202301179293526100120010020000046970000469717',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=15,centro_id=1,doccab_fpago='01',doccab_pagacon=102.2,doccab_cambio=0,doccab_adicional='PACIENTE: JULIETA DEL VALLE ALVAREZ 	
+DIAGNOSTICO: AGMIDALITIS AGUDA	
+MÉDICO:  DRA, AGUILAR 	
+FECHA DE INGRESO : 26/4/2023',doccab_pgacont=0 where doccab_id='01644A17389FA6927220230427013328434' -->2023-05-19 11:28:23
+2-->update beko_documentocabecera set doccab_subtotaliva=5.55,doccab_ndocuafecta='',doccab_id='01644A17389FA6927220230427013328434',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=95.98,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-27 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,doccab_descuento=0,doccab_ndocumento='001-002-000004697',doccab_clavedeaccesos='2704202301179293526100120010020000046970000469717',doccab_rucempresa='1792935261001',doccab_total=102.2,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1759012246',doccab_nautorizacion='2704202301179293526100120010020000046970000469717',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=15,centro_id=1,doccab_fpago='01',doccab_pagacon=102.2,doccab_cambio=0,doccab_adicional='PACIENTE: JULIETA DEL VALLE ALVAREZ 	
+DIAGNOSTICO: AGMIDALITIS AGUDA	
+MÉDICO:  DRA, AGUILAR 	
+FECHA DE INGRESO : 26/4/2023',doccab_pgacont=0 where doccab_id='01644A17389FA6927220230427013328434' -->2023-05-19 11:28:24
+2-->update beko_documentocabecera set doccab_subtotaliva=5.55,doccab_ndocuafecta='',doccab_id='01644A17389FA6927220230427013328434',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=95.98,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-27 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,doccab_descuento=0,doccab_ndocumento='001-002-000004697',doccab_clavedeaccesos='2704202301179293526100120010020000046970000469717',doccab_rucempresa='1792935261001',doccab_total=102.2,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1759012246',doccab_nautorizacion='2704202301179293526100120010020000046970000469717',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=15,centro_id=1,doccab_fpago='01',doccab_pagacon=102.2,doccab_cambio=0,doccab_adicional='PACIENTE: JULIETA DEL VALLE ALVAREZ 	
+DIAGNOSTICO: AGMIDALITIS AGUDA	
+MÉDICO:  DRA, AGUILAR 	
+FECHA DE INGRESO : 26/4/2023',doccab_pgacont=0 where doccab_id='01644A17389FA6927220230427013328434' -->2023-05-19 11:28:24
+2-->update beko_documentocabecera set doccab_subtotaliva=5.55,doccab_ndocuafecta='',doccab_id='01644A17389FA6927220230427013328434',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=95.98,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-27 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,doccab_descuento=0,doccab_ndocumento='001-002-000004697',doccab_clavedeaccesos='2704202301179293526100120010020000046970000469717',doccab_rucempresa='1792935261001',doccab_total=102.2,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1759012246',doccab_nautorizacion='2704202301179293526100120010020000046970000469717',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=15,centro_id=1,doccab_fpago='01',doccab_pagacon=102.2,doccab_cambio=0,doccab_adicional='PACIENTE: JULIETA DEL VALLE ALVAREZ 	
+DIAGNOSTICO: AGMIDALITIS AGUDA	
+MÉDICO:  DRA, AGUILAR 	
+FECHA DE INGRESO : 26/4/2023',doccab_pgacont=0 where doccab_id='01644A17389FA6927220230427013328434' -->2023-05-19 11:28:26
+2-->update beko_documentocabecera set doccab_subtotaliva=0,doccab_ndocuafecta='',doccab_id='0164385DDDD58383402023041302540550',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=0,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-13 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,doccab_descuento=0,doccab_ndocumento='001-002-000004523',doccab_clavedeaccesos='1304202301179293526100120010020000045230000452319',doccab_rucempresa='1792935261001',doccab_total=0,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1705150736',doccab_nautorizacion='1304202301179293526100120010020000045230000452319',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=12.15,doccab_cambio=0,doccab_adicional='',doccab_pgacont=0 where doccab_id='0164385DDDD58383402023041302540550' -->2023-05-19 11:29:14
+2-->update beko_documentocabecera set doccab_subtotaliva=0,doccab_ndocuafecta='',doccab_id='0164385DDDD58383402023041302540550',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=0,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-13 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,doccab_descuento=0,doccab_ndocumento='001-002-000004523',doccab_clavedeaccesos='1304202301179293526100120010020000045230000452319',doccab_rucempresa='1792935261001',doccab_total=0,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1705150736',doccab_nautorizacion='1304202301179293526100120010020000045230000452319',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=12.15,doccab_cambio=0,doccab_adicional='',doccab_pgacont=0 where doccab_id='0164385DDDD58383402023041302540550' -->2023-05-19 11:29:14
+2-->update beko_documentocabecera set doccab_subtotaliva=0,doccab_ndocuafecta='',doccab_id='0164385DDDD58383402023041302540550',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=0,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-13 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,doccab_descuento=0,doccab_ndocumento='001-002-000004523',doccab_clavedeaccesos='1304202301179293526100120010020000045230000452319',doccab_rucempresa='1792935261001',doccab_total=0,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1705150736',doccab_nautorizacion='1304202301179293526100120010020000045230000452319',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=12.15,doccab_cambio=0,doccab_adicional='',doccab_pgacont=0 where doccab_id='0164385DDDD58383402023041302540550' -->2023-05-19 11:29:15
+2-->update beko_documentocabecera set doccab_subtotaliva=0,doccab_ndocuafecta='',doccab_id='0164385DDDD58383402023041302540550',doccab_retfechaemision=NULL,tipocmp_codigo='01',proveeve_id=0,doccab_subtotalsiniva=0,tipocmp_codigoafectado='',emp_id=1,doccab_fechaemision_cliente='2023-04-13 00:00:00',doccab_retnumdoc='',estaf_id=1,doccab_subtnoobjetoi='0',doccab_fechadocmodi=NULL,ambi_valor=2,doccab_subtexentoiva='0',doccab_retautorizacion='',doccab_autoirzacionmodif='',emis_valor=1,doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,doccab_descuento=0,doccab_ndocumento='001-002-000004523',doccab_clavedeaccesos='1304202301179293526100120010020000045230000452319',doccab_rucempresa='1792935261001',doccab_total=0,tipoident_codigo='repla',doccab_rucci_cliente='',doccab_nombrerazon_cliente='',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='',doccab_identificacionpaciente='1705150736',doccab_nautorizacion='1304202301179293526100120010020000045230000452319',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=12.15,doccab_cambio=0,doccab_adicional='',doccab_pgacont=0 where doccab_id='0164385DDDD58383402023041302540550' -->2023-05-19 11:29:21
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='385',compra_nummodif='',compra_fechaemiret='2023-04-19',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-04-1927864402C1F2AB68',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='385',emp_id=1,compra_cuentacajachica='',proveevar_id=3184,compra_pagacajachica=0,tipdoc_id='2',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000019',compra_autorizacion='1131020140',centroor_id=0,compra_origenotros='',compra_fecha='2023-04-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='COMPRA DE IMPRESORA IMPRESORA ZEBRA ZD20 THERMAL TRANSFER',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-04-19 12:59:59',usua_id=278,compra_tipo=0,compra_enlace='2023-04-1927864402C1F2AB68',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1280 -->2023-05-19 11:49:52
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='385',compra_nummodif='',compra_fechaemiret='2023-04-19',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-04-1927864402C1F2AB68',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='385',emp_id=1,compra_cuentacajachica='',proveevar_id=3184,compra_pagacajachica=0,tipdoc_id='2',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000019',compra_autorizacion='1131020140',centroor_id=0,compra_origenotros='',compra_fecha='2023-04-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='COMPRA DE IMPRESORA IMPRESORA ZEBRA ZD20 THERMAL TRANSFER',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-04-19 12:59:59',usua_id=278,compra_tipo=0,compra_enlace='2023-04-1927864402C1F2AB68',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1280 -->2023-05-19 11:49:53
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='385',compra_nummodif='',compra_fechaemiret='2023-04-19',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-04-1927864402C1F2AB68',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='385',emp_id=1,compra_cuentacajachica='',proveevar_id=3184,compra_pagacajachica=0,tipdoc_id='2',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000019',compra_autorizacion='1131020140',centroor_id=0,compra_origenotros='',compra_fecha='2023-04-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='COMPRA DE IMPRESORA IMPRESORA ZEBRA ZD20 THERMAL TRANSFER',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-04-19 12:59:59',usua_id=278,compra_tipo=0,compra_enlace='2023-04-1927864402C1F2AB68',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1280 -->2023-05-19 11:49:53
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:29:55
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:35:34
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='64171CAEK20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:35:50
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='39107RBYT20230519.pdf',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='64171CAEK20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:36:07
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='39107RBYT20230519.pdf',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='64171CAEK20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:36:27
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='39107RBYT20230519.pdf',anam_referencia='LIBRE DEMANDA',atenc_id=3729,centro_id=1,clie_id=4902,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA, REFIERE   INCONFORMIDAD ESTÉTICA, POR LO QUE ACUDE A ESPECIALISTA, QUIEN VALORA CON EXÁMENES COMPLEMENTARIOS Y SE INDICA RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA PARA PROCEDIMIENTO PROGRAMADO.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA  HAB 306. A 
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CÁCERES',anam_observacionaf='',anam_ambulancia='64171CAEK20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADO',anam_partos='1',anam_fecharegistro='2023-05-19 07:21:32',anam_observacionap='',anam_menopausiaedad='49',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='490201172320022426720230519072132116',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACCE TRES MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1618 -->2023-05-19 13:42:03
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3664,centro_id=1,clie_id=4843,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN, REFIERE DIFICULTAD A LA RESPIRACIÓN, POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, TAC SE DIAGNOSTICA DESVIO SEPTAL +  HIPERTROFIA DE CORNETES E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO HOSPITALIZACIÓN HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-05-12 06:14:29',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='48430117232002242672023051206142959',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 1 MES',anam_mamografia=1,anam_mamografiatxt='NINGUNO',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1593 -->2023-05-19 15:51:49
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-05-12 11:51:36',atenc_id=3664,centro_id=1,clie_id=4843,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. GIBA OSTEOCARTILAGINOSA GRANDE 
+2. PUNTA HIPOPROYECTADA 
+3. PUNTA BULBOSA 
+4. CORNETES HIPERTROFICOS GRADO III 
+5. DESVIO SEPTAL IZQUIERDO AREA II A III Y ESPOLON OSEO BASAL',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE I JERTO TIPO LATERO LATERAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0
+NYLON 4/0
+VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR Y PARACOLUMELAR 
+INCISION MARGINAL',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IRENE YAHAMIN',protoop_idenlace='1593',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='484301172001173120520230512115136352',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-05-12',protoop_horainicio='08:40',protoop_horafin='11:20' where protoop_id=963 -->2023-05-19 15:51:56
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-05-12 11:51:36',atenc_id=3664,centro_id=1,clie_id=4843,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. GIBA OSTEOCARTILAGINOSA GRANDE 
+2. PUNTA HIPOPROYECTADA 
+3. PUNTA BULBOSA 
+4. CORNETES HIPERTROFICOS GRADO III 
+5. DESVIO SEPTAL IZQUIERDO AREA II A III Y ESPOLON OSEO BASAL',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE I JERTO TIPO LATERO LATERAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 6/0
+NYLON 4/0
+VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR Y PARACOLUMELAR 
+INCISION MARGINAL',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IRENE YAHAMIN',protoop_idenlace='1593',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='484301172001173120520230512115136352',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-05-12',protoop_horainicio='08:40',protoop_horafin='11:20' where protoop_id=963 -->2023-05-19 15:51:56
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=2971,centro_id=14,clie_id=4142,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA ACUDE REFIRIENDO PRESENTAR DOLOR EN REGION DE PANTORILLA DERECHA EVA 7/10 QUE SE IRRADIA HACIA TALON IPSILATERAL CON ANTECEDENTE DE CELULITIS Y ABSESO DE REGION DESCRITA HACE DOS MESES. REFIERE QUE SIEMPRE PRESENTA DOLOR SIN MEJORIA PESE A MEDICAMENTOS ANALEGESICOS Y FISIOTERAPIA.',anam_planes='1.	INGRESO A HOSPITALIZACION HAB 301
+2.	DIETA GENERAL
+3.	OXIGENO POR CÁNULA NASAL PARA OXEMIAS SUPERIORES A 90%
+4.	CONTROL S/V CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	FIRMAR CONSENTIMIENTOS INFORMADOS.
+7.	EXAMENES DE LABORATORIO: BIOMETRIA- QUIMICA SANGUINEA - PCR - PCT - TIEMPO DE COAGULACION. 
+8.	HIDRATACION LACTATO RINGER 1000 ML PASAR 50 ML / HORA.
+9.	AMPICILINA SULBACTAM 3 G IV CADA 6 HORAS.
+10.	PARACETAMOL 1 G IV CADA 8 HORAS.
+11.	 HIDROCORTISONA 100 MG PRN.
+12.	OMEPRAZOL 20MG IV QD.
+13.	ORDENES DEL DR. IVAN AYABACA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='DOLOR DE MIEMBRO INFERIOR DERECHO',anam_partos='2',anam_fecharegistro='2023-05-17 16:51:19',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='414201100388420036220230517045119365',anam_cirugia='',anam_cesareas='0',anam_gesta='2',anam_especialidad='',anam_tratante='',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-17',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1614 -->2023-05-19 16:21:25
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=2971,centro_id=14,clie_id=4142,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA ACUDE REFIRIENDO PRESENTAR DOLOR EN REGION DE PANTORILLA DERECHA EVA 7/10 QUE SE IRRADIA HACIA TALON IPSILATERAL CON ANTECEDENTE DE CELULITIS Y ABSESO DE REGION DESCRITA HACE DOS MESES. REFIERE QUE SIEMPRE PRESENTA DOLOR SIN MEJORIA PESE A MEDICAMENTOS ANALEGESICOS Y FISIOTERAPIA.',anam_planes='1.	INGRESO A HOSPITALIZACION HAB 301
+2.	DIETA GENERAL
+3.	OXIGENO POR CÁNULA NASAL PARA OXEMIAS SUPERIORES A 90%
+4.	CONTROL S/V CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	FIRMAR CONSENTIMIENTOS INFORMADOS.
+7.	EXAMENES DE LABORATORIO: BIOMETRIA- QUIMICA SANGUINEA - PCR - PCT - TIEMPO DE COAGULACION. 
+8.	HIDRATACION LACTATO RINGER 1000 ML PASAR 50 ML / HORA.
+9.	AMPICILINA SULBACTAM 3 G IV CADA 6 HORAS.
+10.	PARACETAMOL 1 G IV CADA 8 HORAS.
+11.	 HIDROCORTISONA 100 MG PRN.
+12.	OMEPRAZOL 20MG IV QD.
+13.	ORDENES DEL DR. IVAN AYABACA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='DOLOR DE MIEMBRO INFERIOR DERECHO',anam_partos='2',anam_fecharegistro='2023-05-17 16:51:19',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='414201100388420036220230517045119365',anam_cirugia='',anam_cesareas='0',anam_gesta='2',anam_especialidad='',anam_tratante='',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-17',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1614 -->2023-05-19 16:23:51
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=2971,centro_id=14,clie_id=4142,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA ACUDE REFIRIENDO PRESENTAR DOLOR EN REGION DE PANTORILLA DERECHA EVA 7/10 QUE SE IRRADIA HACIA TALON IPSILATERAL CON ANTECEDENTE DE CELULITIS Y ABSESO DE REGION DESCRITA HACE DOS MESES. REFIERE QUE SIEMPRE PRESENTA DOLOR SIN MEJORIA PESE A MEDICAMENTOS ANALEGESICOS Y FISIOTERAPIA.',anam_planes='1.	INGRESO A HOSPITALIZACION HAB 301
+2.	DIETA GENERAL
+3.	OXIGENO POR CÁNULA NASAL PARA OXEMIAS SUPERIORES A 90%
+4.	CONTROL S/V CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	FIRMAR CONSENTIMIENTOS INFORMADOS.
+7.	EXAMENES DE LABORATORIO: BIOMETRIA- QUIMICA SANGUINEA - PCR - PCT - TIEMPO DE COAGULACION. 
+8.	HIDRATACION LACTATO RINGER 1000 ML PASAR 50 ML / HORA.
+9.	AMPICILINA SULBACTAM 3 G IV CADA 6 HORAS.
+10.	PARACETAMOL 1 G IV CADA 8 HORAS.
+11.	 HIDROCORTISONA 100 MG PRN.
+12.	OMEPRAZOL 20MG IV QD.
+13.	ORDENES DEL DR. IVAN AYABACA',anam_observacionaf='',anam_ambulancia='13028QABDW20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='DOLOR DE MIEMBRO INFERIOR DERECHO',anam_partos='2',anam_fecharegistro='2023-05-17 16:51:19',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='414201100388420036220230517045119365',anam_cirugia='',anam_cesareas='0',anam_gesta='2',anam_especialidad='',anam_tratante='',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-17',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1614 -->2023-05-19 16:24:56
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='47759FVO20230519.pdf',anam_referencia='DERIVADO',atenc_id=2971,centro_id=14,clie_id=4142,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA ACUDE REFIRIENDO PRESENTAR DOLOR EN REGION DE PANTORILLA DERECHA EVA 7/10 QUE SE IRRADIA HACIA TALON IPSILATERAL CON ANTECEDENTE DE CELULITIS Y ABSESO DE REGION DESCRITA HACE DOS MESES. REFIERE QUE SIEMPRE PRESENTA DOLOR SIN MEJORIA PESE A MEDICAMENTOS ANALEGESICOS Y FISIOTERAPIA.',anam_planes='1.	INGRESO A HOSPITALIZACION HAB 301
+2.	DIETA GENERAL
+3.	OXIGENO POR CÁNULA NASAL PARA OXEMIAS SUPERIORES A 90%
+4.	CONTROL S/V CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	FIRMAR CONSENTIMIENTOS INFORMADOS.
+7.	EXAMENES DE LABORATORIO: BIOMETRIA- QUIMICA SANGUINEA - PCR - PCT - TIEMPO DE COAGULACION. 
+8.	HIDRATACION LACTATO RINGER 1000 ML PASAR 50 ML / HORA.
+9.	AMPICILINA SULBACTAM 3 G IV CADA 6 HORAS.
+10.	PARACETAMOL 1 G IV CADA 8 HORAS.
+11.	 HIDROCORTISONA 100 MG PRN.
+12.	OMEPRAZOL 20MG IV QD.
+13.	ORDENES DEL DR. IVAN AYABACA',anam_observacionaf='',anam_ambulancia='13028QABDW20230519.pdf',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='DOLOR DE MIEMBRO INFERIOR DERECHO',anam_partos='2',anam_fecharegistro='2023-05-17 16:51:19',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='414201100388420036220230517045119365',anam_cirugia='',anam_cesareas='0',anam_gesta='2',anam_especialidad='',anam_tratante='',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-17',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1614 -->2023-05-19 16:28:51

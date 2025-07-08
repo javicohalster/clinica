@@ -1,0 +1,12 @@
+-->insert into dns_anamesisexamenfisico (anam_referencia,atenc_id,centro_id,clie_id,usua_id,anam_observacionaf,estaatenc_id,anam_planes,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_respiratorio,anam_motivoconsulta,anam_menarquiaedad,anam_vidasexualactivaobs,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('REFERIDO',3954,1,5081,264,'',4,'FARINGITIS AGUDA 
+HIPERTENSION ARTERIAL CONTROLADA
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA 
+RIESGO DE EMBOLISMO MODERADA 
+RP
+AZITROMICINA 500 MG 1 TABLETA DIARIA
+ALERCOT  1 TABLETA 3 VECES AL DIA 
+TUSOLVINA 10 CC CADA 8HORAS 
+DUETO 100 CADA DIA','','ASINTOMATICA CARDIOVASCULAR , TOS SECA DESDE HACE 24 HORAS , NO DISNEA DE MEDIANO ESFUERZO , NO DOLOR TORACICO  , NO PALPITACIONES, NO SINCOPE , NO LIPOTIMIA , NO EDEMAS DE MIEMBROS INFERIORES 
+EXAMENES.-  EKG.- RITMO SINUSAL FRECUENCI CARDIACA  66 , EJE  60 GRADOS , INTERVALO P-R0,18 QRS 0.09 .MRFOLOGIA NORMAL,SEGMENTO S- T  NO SUPRA NI INFRADESNIVEL , ONDA T MORFOLOGIA NORMAL , NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTOVENTRICULAR 
+LABORATORIO .-  GB 3800 SE  51%   HCTO 39.4 HB 12,5  PLAQUETAS  256000  TP 10 SEG INR   0.96 TTP 26 .8  GLUCOSA 91  CRAT 0,82, EMO NO INFECCIOSO','','','0','CHEQUEO PREQURURGICO','','','2023-06-10 16:11:36','','',0,'','','','','','50810117104427892642023061004113693','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2023-06-10 16:46:39

@@ -1,0 +1,17 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6393,atenc_id='5420',usua_id=175,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-11-02 12:07:03',protoop_selectiva='',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_fechaoperacion='2023-11-02',protoop_sintesis='',protoop_idenlace='185',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='1',protoop_cirujanodos='',protoop_horainicio='11:30',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. MARCO SILVA',protoop_horafin='13:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='REDUCCIÓN DE LUXACIÓN ACROMIO CLAVICUALR DERECHA',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='REDUCCIÓN DE LUXACIÓN ACROMIO CLAVICUALR DERECHA',protoop_dieresis='INCISION LONGITUDINAL DE 4 CM A NIVEL DE TERCIO MEDIO DE CLAVICULA HACIA CORACOIDES',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='XIMENA BARROS',protoop_enlace='639301171233511417520231102120703141',protoop_circulante='JENNY CUICHAN',protoop_exposicion='HOHMANN',protoop_anestesiologo='DR. OSCAR CACHIMUEL',protoop_exploracion='LESION DE MENISCO ACROMIOCLAVICULAR						
+LUXACION  ACROMIOCLAVICULAR CON DESPLAZAMIENTO DEL 300%',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. POSICION EN SILLA DE PLAYA						
+2. ASPESIA Y ANTISEPSIA 						
+3. COLOCACION DE CAMPOS						
+4. INCISION Y PROFUNDIZACION						
+5. IDENTIFICACION DE HALLAZGOS						
+6. REMOCION DE MENISCO LESIONADO						
+7. TUNELIZACION DE CLAVICULA Y CORACOIDES						
+8. REDUCCION DE LUXACION 						
+9. FIJACION DE REDUCCION MEDIANTE COLOCACION DE SISTEMA DE DOBLE BOTON ACROMIOCLAVICULAR 					
+10. COMPROBACION DE ESTABILIDAD						
+11. LAVADO Y HEMOSTASIA						
+12. CIERRE POR PLANOS						
+13. COLOCACION DE APOSITOS						
+
+
+CODIGO: 23550',protoop_complicaciones='NINGUNA',protoop_perdida='30CC',protoop_sangrado='',protoop_protesico='1',anam_enlace='' where protoop_id=254 -->2023-11-02 12:33:52

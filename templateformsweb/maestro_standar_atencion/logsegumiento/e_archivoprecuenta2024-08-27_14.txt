@@ -1,0 +1,4 @@
+423-->update dns_precuenta set precu_observacion='CONSULTA',precu_fechainicio='2024-07-12',precu_fechafinal='',precu_activo='1',convepr_id='7',categesp_id='2',especipr_id='37',clie_id='8946' where precu_id='10045'-->2024-08-27 17:29:10
+423-->update dns_precuenta set precu_observacion='CONSULTA',precu_fechainicio='2024-07-12',precu_fechafinal='',precu_activo='2',convepr_id='7',categesp_id='2',especipr_id='37',clie_id='8946' where precu_id='10045'-->2024-08-27 17:30:11
+423-->update dns_precuenta set precu_observacion='EMERGENCIA',precu_fechainicio='2024-07-12',precu_fechafinal='',precu_activo='1',convepr_id='7',categesp_id='1',especipr_id='25',clie_id='8946' where precu_id='10053'-->2024-08-27 17:30:17
+423-->update dns_precuenta set precu_observacion='EMERGENCIA',precu_fechainicio='2024-07-12',precu_fechafinal='',precu_activo='2',convepr_id='7',categesp_id='1',especipr_id='25',clie_id='8946' where precu_id='10053'-->2024-08-27 17:34:43

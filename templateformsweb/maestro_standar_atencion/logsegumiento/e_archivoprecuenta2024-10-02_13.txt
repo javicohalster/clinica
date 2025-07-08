@@ -1,0 +1,1 @@
+381-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('EMERGENCIA','2024-10-02','','1','15','1','25','9700','01180375981838120241002090032181','2024-10-02 09:00:57','381')-->2024-10-02 09:00:57

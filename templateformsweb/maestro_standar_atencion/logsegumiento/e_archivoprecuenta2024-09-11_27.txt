@@ -1,0 +1,2 @@
+373-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('','2024-09-11','2024-09-12','1','6','2','3','3008','01172463104727320221021050656375','2024-09-11 00:09:01','373')-->2024-09-11 00:09:01
+373-->update dns_precuenta set precu_observacion='CONSULTA',precu_fechainicio='2024-09-11',precu_fechafinal='2024-09-12',precu_activo='1',convepr_id='6',categesp_id='2',especipr_id='3',clie_id='3008' where precu_id='11331'-->2024-09-11 00:09:15

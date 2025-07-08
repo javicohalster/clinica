@@ -1,0 +1,10 @@
+502-->select * from lpin_cobropago where crb_id='10827'-->2024-12-31 10:40:21
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='12160')-->2024-12-31 10:40:23
+502-->delete from lpin_comprobantecontable where crpadet_id='12160'-->2024-12-31 10:40:23
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-12-305026772FF90DC452'-->2024-12-31 10:40:23
+502-->delete from lpin_cobropago where crb_id=10827-->2024-12-31 10:40:23
+502-->select * from lpin_cobropago where crb_id='10925'-->2024-12-31 11:35:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='12259')-->2024-12-31 11:35:56
+502-->delete from lpin_comprobantecontable where crpadet_id='12259'-->2024-12-31 11:35:56
+502-->delete  from lpin_cobropagodetalle where crb_enlace='2024-12-3150267741D5CF37D8'-->2024-12-31 11:35:56
+502-->delete from lpin_cobropago where crb_id=10925-->2024-12-31 11:35:56

@@ -1,0 +1,2 @@
+269-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='10157' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='179207')-->2024-07-18 02:35:29
+269-->delete from lpin_comprobantecontable where comcont_tabla='dns_precuenta' and comcont_idtabla='10157' and comcont_tablas='dns_detalleprecuenta' and comcont_idtablas='179207'-->2024-07-18 02:35:29

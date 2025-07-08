@@ -1,0 +1,245 @@
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_consultaext',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_Img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=6 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Hospitalizacion Caja',vardev_aleatunico='639b64632434120221215061603382' where vardev_id=3 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Consulta Externa Caja',vardev_aleatunico='639c7434398682022121601354863' where vardev_id=5 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_consultaext',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=6 
+update gogess_virtualfields set virtfields_typefield='',virtfields_active=1,virtfields_order=12,virtfields_script='',virtfields_namefield='fecha_solicitud_img',ftv_id=1,virtual_id=6 where virtfields_id=46 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='form-control',fie_sqlorder='',fie_activarprt=1,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=0,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='txtgraficopekerxml',fie_lencampo='25',fie_name='compra_xml',tab_name='dns_compras',fie_title='Xml:',fie_type='txtgraficopekerxml',fie_tabledb='dns_compras',fie_datadb='',fie_active=1,fie_activesearch=1,fie_obl=0,fie_value='',fie_style='cmbforms',fie_group='2',fie_sql='',fie_sendvar='',fie_tactive=1,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=1,fie_xmlformato='NULL',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=1,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=1,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='',fie_groupprint='0',fie_anchocolomna='12',fie_tablasubgrid='',fie_campoenlacesub='',fie_tablasubgridcampos='',fie_tablasubcampoid='',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='',fie_tituloscamposgrid='',fie_camposobligatoriosgrid='',fie_camposgridselect='',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0 where fie_id=9637 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=7 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Hospitalizacion Convenios',vardev_aleatunico='639c8a7620bd020221216031046176' where vardev_id=6 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Hospitalizacion Convenios',vardev_aleatunico='639c8a7620bd020221216031046176' where vardev_id=6 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_traumatologia',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 10',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=8 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Traumatologia Convenios',vardev_aleatunico='639c8f253f3b420221216033045341' where vardev_id=7 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Consulta Externa Convenios',vardev_aleatunico='639c95f753d8c20221216035951403' where vardev_id=8 
+update gogess_sisfield set fie_evitaambiguo='',fie_styleobj='form-control',fie_sqlorder='',fie_activarprt=1,fie_tablac='',fie_verificac=0,fie_txtizq='',fie_lineas=0,fie_tabindex=0,fie_valiextra='',fie_attrib='',fie_txtextra='',fie_typeweb='select',fie_lencampo='25',fie_name='rept_publicado',tab_name='rose_variabledeveloper',fie_title='Publicado:',fie_type='select',fie_tabledb='gogess_sino',fie_datadb='value,etiqueta',fie_active=1,fie_activesearch=1,fie_obl=0,fie_value='replace',fie_style='cmbforms',fie_group='1',fie_sql='where value=',fie_sendvar='',fie_tactive=1,fie_inactivoftabla='0',fie_campoafecta='',fie_activelista=1,fie_xmlformato='NULL',fie_xmlactivo=0,fie_sqlconexiontabla='',fie_naleatorio=0,field_type='',field_flags='',fie_camporecibe='',fie_activogrid='',fie_orden=11,fie_limpiarengrid='',field_maxcaracter='',fie_archivo='',fie_mascara='',fie_iconoarchivo='',fie_activarbuscador='',fie_tablabusca='',fie_camposbusca='',fie_campodevuelve='',fie_ordengrid=0,fie_titlereporte='',fie_typereport='',fie_guarda=1,fie_x=0,fie_y=0,fie_placeholder='',fie_archivogrid='',fie_groupprint='0',fie_anchocolomna='1',fie_tablasubgrid='',fie_campoenlacesub='',fie_tablasubgridcampos='',fie_tablasubcampoid='',fie_tblcombogrid='',fie_campoidcombogrid='',fie_campofecharegistro='',fie_tituloscamposgrid='',fie_camposobligatoriosgrid='',fie_camposgridselect='',fie_alias='',ttbl_id=0,fie_camposumar='',fie_crear=0 where fie_id=9810 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Hospitalizacion Caja',vardev_aleatunico='639b64632434120221215061603382',rept_publicado='1' where vardev_id=3 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Traumatologia Caja',vardev_aleatunico='639b6b7246c5220221215064610238',rept_publicado='1' where vardev_id=4 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Consulta Externa Caja',vardev_aleatunico='639c7434398682022121601354863',rept_publicado='1' where vardev_id=5 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Hospitalizacion Convenios',vardev_aleatunico='639c8a7620bd020221216031046176',rept_publicado='1' where vardev_id=6 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Traumatologia Convenios',vardev_aleatunico='639c8f253f3b420221216033045341',rept_publicado='1' where vardev_id=7 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Consulta Externa Convenios',vardev_aleatunico='639c95f753d8c20221216035951403',rept_publicado='1' where vardev_id=8 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM `app_cliente` c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=4 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_traumatologia',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as trauma_consulta_anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=5 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='caja_consultaext',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img
+FROM app_cliente c
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=6 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_hospitalizacion',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+h.anam_fechaingreso as hospitalizacion_ingreso,
+a.atenc_fechaingreso as atencion_ingreso,
+h.anam_cirugia as cirugia,
+h.anam_especialidad as especialidad,
+h.anam_tratante as tratante,
+h.anam_ayudante as ayudante, 
+h.anam_anestesiologo as anestesiologo,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_hospitalanamesis h on h.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=h.atenc_id
+left join dns_imagenologia i on i.atenc_id=h.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=7 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_traumatologia',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+t.anam_motivoconsulta as traumatologia_Consulta_Anam,
+t.anam_fecharegistro as fecha_registro,
+st.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_traumatologiaanamesis t on t.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=t.atenc_id
+left join dns_imagenologia i on i.atenc_id=t.atenc_id
+left join dns_traumatologiaconsultaexterna st on st.atenc_id=t.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=8 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='convenio_consultaext',virtual_scriptalert='SELECT c.clie_id as id,
+c.clie_rucci as identificacion,
+c.clie_nombre as nombre,
+c.clie_apellido as apellido,
+c.clie_titularseguro as titular_seguro,
+cv.conve_nombre as convenio,
+etp.tippo_nombre as tipo_cobro_nombre,
+a.atenc_fechaingreso as atencion_ingreso,
+an.anam_motivoconsulta as consulta_anamnesis,
+an.anam_fecharegistro as fecha_registro,
+san.conext_id as id_subsecuente,
+l.lab_id as id_laboratorio,
+l.lab_fechasolicitud as fecha_solicitud_lab,
+i.imgag_id as id_imagen,
+i.imgag_fechasolicitud as fecha_solicitud_img,
+em.anam_motivollegada as motivo_llegada
+FROM app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+LEFT JOIN dns_anamesisexamenfisico an on an.atenc_id =a.atenc_id
+left join dns_laboratorio l on l.atenc_id=an.atenc_id
+left join dns_imagenologia i on i.atenc_id=an.atenc_id
+left join dns_consultaexterna san on san.atenc_id=an.atenc_id
+left join dns_emergenciaanamesis em on em.atenc_id=a.atenc_id
+where c.clie_id!=\'2\' limit 1000',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=9 

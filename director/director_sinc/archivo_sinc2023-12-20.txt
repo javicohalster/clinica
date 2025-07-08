@@ -1,0 +1,4 @@
+update gogess_sisfield set fie_title='Permitir otras bodegas en red p&uacute;blica:' where fie_id='11707';
+update gogess_sisfield set fie_type='select' where fie_id='11707';
+update gogess_sisfield set fie_typeweb='select' where fie_id='11707';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11707';

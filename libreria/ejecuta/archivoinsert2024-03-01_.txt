@@ -1,0 +1,46 @@
+-->update dns_newemergenciaconsultaexterna set clie_id=7620,usua_id=182,centro_id=1,atenc_id=0,conext_notasdeevolucion='****TRAUMATOLOGIA****
+PACIENTE ADULTA MAYOR QUIEN REFIERE QUE HACE 2 HORAS SUFRE CAIDA DE LA MISMA ALTURA CON TRAUMA EN MUÑECA IZQUIERDA, PRESENTANDO DOLOR, DEFORMIDAD Y EDEMA POR LO QUE ACUDE A LA EMERGENCIA.
+
+EXAMEN FISICO: MUÑECA IZQUIERDA EDEMA ++/+++, DEFORMIDAD, DOLOR A LA PALPACION.
+
+RX: SE OBSERVA FRACTURA DE RADIO DISTAL FERNANDEZ I CON FRAGMENTO DORSAL LEVEMENTE DESPLAZADO
+RX POSREDUCCION: SE OBSERVA REDUCCION DEL 100% DE FRACTURA',anam_id=470,conext_fechar='2024-03-01',estaatenc_id=1,conext_fecharegistro='2024-03-01 18:43:07',conext_horar='18:43',conext_prescripciones='RP.
+1. SE DECIDE TRATAMIENTO CONSERVADOR CON MANIOBRA DE REDUCCION CERRADA CON COLOCACION DE YESO BIVALVADO
+2. MELOXICAM 15 MG + OMEPRAZOL 20 MG VO 1 VEZ AL DIA POR 5 DIAS
+3. CONTROL EN 15 DIAS',conext_horaf='19:00',conext_enlace='762001100258084118220240301064307332' where conext_id=41 -->2024-03-01 19:04:40
+-->update dns_newhospitalizacionanamesis set clie_id=7466,usua_id=469,centro_id=1,atenc_id=6439,anam_referencia='LIBRE DEMANDA',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PROGRAMADA, AL MOMENTO ASINTOMATICA, EN ESPERA DE LLAMADO A QUIROFANO.',anam_planes='RP.
+1. INGRESO A HABITACION 203
+2. NADA POR VIA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CANALIZACION DE VIA PERIFERICA
+5. CONSENTIMIENTOS FIRMADOS
+6. CHEQUEO PREANESTESICO
+7. NOVEDADES
+9. ORDENES DEL DR MAFLA
+
+
+
+DR. OSCAR MAFLA
+CIRUJANO BARIATRICO
+
+
+MD MISHELL VARGAS
+MEDICO RESIDENTE',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ACUDE PARA CIRUGIA PROGRAMADA, AL MOMENTO ASINTOMATICA, EN ESPERA DE LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='13',estaatenc_id=4,anam_cirugia='COLOCACION DE BALON INTRAGASTRICO',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='2',anam_especialidad='CIRUGIA BARIATRICA',anam_fecharegistro='2024-03-01 18:31:18',anam_menopausiaedad='',anam_tratante='DR. OSCAR MAFLA',anam_abortos='0',anam_atpreventiva=1,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='',anam_cesareas='0',anam_enlace='746601020187084746920240301063118115',anam_fechaingreso='2024-03-01',anam_gesta='2',anam_hijosvivos='2',anam_respiratorio='0',anam_fum='2024-02-03',anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=641 -->2024-03-01 19:06:15
+-->update dns_newhospitalizacionanamesis set clie_id=7466,usua_id=469,centro_id=1,atenc_id=6439,anam_referencia='LIBRE DEMANDA',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ACUDE PARA CIRUGIA PROGRAMADA, AL MOMENTO ASINTOMATICA, EN ESPERA DE LLAMADO A QUIROFANO.',anam_planes='RP.
+1. INGRESO A HABITACION 203
+2. NADA POR VIA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CANALIZACION DE VIA PERIFERICA
+5. CONSENTIMIENTOS FIRMADOS
+6. CHEQUEO PREANESTESICO
+7. NOVEDADES
+9. ORDENES DEL DR MAFLA
+
+
+
+DR. OSCAR MAFLA
+CIRUJANO BARIATRICO
+
+
+MD MISHELL VARGAS
+MEDICO RESIDENTE',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ACUDE PARA CIRUGIA PROGRAMADA, AL MOMENTO ASINTOMATICA, EN ESPERA DE LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='13',estaatenc_id=4,anam_cirugia='COLOCACION DE BALON INTRAGASTRICO',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='2',anam_especialidad='CIRUGIA BARIATRICA',anam_fecharegistro='2024-03-01 18:31:18',anam_menopausiaedad='',anam_tratante='DR. OSCAR MAFLA',anam_abortos='0',anam_atpreventiva=1,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='',anam_cesareas='0',anam_enlace='746601020187084746920240301063118115',anam_fechaingreso='2024-03-01',anam_gesta='2',anam_hijosvivos='2',anam_respiratorio='0',anam_fum='2024-02-03',anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=641 -->2024-03-01 19:06:19

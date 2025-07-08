@@ -1,0 +1,15 @@
+2-->update factur_porcentajes set id_impuesto=2,porce_nombre='70% Servicios',porce_codigo='2',porce_valor='70',porce_orden='0',porce_nombreiva='- 70%',porce_cuenta='1.1.5.2.2',porce_activo=0 where porce_id=2 -->2023-04-23 11:28:09
+2-->update efacfactura_categproducto set catgp_nombre='QUIROFANO',catgp_detalle='',catgp_cuentacontable='4.1.1.4' where catgp_id=4 -->2023-04-23 12:18:44
+2-->update efacfactura_categproducto set catgp_nombre='LABORATORIO',catgp_detalle='',catgp_cuentacontable='4.1.1.8' where catgp_id=13 -->2023-04-23 12:32:38
+2-->update efacfactura_categproducto set catgp_nombre='RECARGO ADCIONALES',catgp_detalle='',catgp_cuentacontable='4.1.1.15' where catgp_id=12 -->2023-04-23 12:33:04
+2-->update efacfactura_categproducto set catgp_nombre='HONORARIOS MEDICOS',catgp_detalle='',catgp_cuentacontable='5.1.2.6' where catgp_id=11 -->2023-04-23 12:36:26
+2-->update efacfactura_categproducto set catgp_nombre='NEONATOLOGIA',catgp_detalle='',catgp_cuentacontable='4.1.1.7' where catgp_id=8 -->2023-04-23 12:44:09
+2-->update efacfactura_categproducto set catgp_nombre='TERAPIA INTESIVA',catgp_detalle='',catgp_cuentacontable='4.1.1.5' where catgp_id=6 -->2023-04-23 12:44:47
+2-->update efacfactura_categproducto set catgp_nombre='SERVICIO MATERNO INFANTIL',catgp_detalle='',catgp_cuentacontable='4.1.1.14' where catgp_id=9 -->2023-04-23 12:46:02
+2-->insert into lpin_plancuentas (planc_codigo,planc_nombre,planc_codigoc,planc_codigoplan,planc_signo,tcuenta_id) values (4,'Servicios de Odontolog&iacute;a','4.1.1.10','',0,2)-->2023-04-23 12:56:46
+2-->update lpin_plancuentas set planc_codigo=4,planc_nombre='Servicios de Odontología',planc_codigoc='4.1.1.18',planc_codigoplan='',planc_signo=0,tcuenta_id=2 where planc_id=283 -->2023-04-23 12:59:48
+2-->update efacfactura_categproducto set catgp_nombre='ODONTOLOGIA',catgp_detalle='',catgp_cuentacontable='4.1.1.18' where catgp_id=17 -->2023-04-23 13:03:52
+2-->update efacfactura_categproducto set catgp_nombre='AMBULANCIA',catgp_detalle='',catgp_cuentacontable='5.1.4.4.4' where catgp_id=16 -->2023-04-23 13:04:06
+2-->insert into lpin_plancuentas (planc_codigo,planc_nombre,planc_codigoc,planc_codigoplan,planc_signo,tcuenta_id) values (4,'4.1.1.19','Servicios de Gastroentereolog&iacute;a','',0,2)-->2023-04-23 13:07:29
+2-->update lpin_plancuentas set planc_codigo=4,planc_nombre='Servicios de Gastroentereolog&iacute;a',planc_codigoc='4.1.1.19',planc_codigoplan='',planc_signo=0,tcuenta_id=2 where planc_id=284 -->2023-04-23 13:08:38
+2-->update efacfactura_categproducto set catgp_nombre='GASTROENTEROLOGIA',catgp_detalle='',catgp_cuentacontable='4.1.1.19' where catgp_id=10 -->2023-04-23 13:09:54

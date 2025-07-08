@@ -1,0 +1,1 @@
+update gogess_sisfield set field_type='int' where fie_id='6250';

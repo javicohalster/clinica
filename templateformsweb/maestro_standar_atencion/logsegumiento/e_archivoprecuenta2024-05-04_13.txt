@@ -1,0 +1,2 @@
+456-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('','2024-05-04','2024-05-04','1','6','3','16','8294','01175215706327220240501064832150','2024-05-04 16:19:00','456')-->2024-05-04 16:19:00
+456-->update dns_precuenta set precu_observacion='',precu_fechainicio='2024-05-04',precu_fechafinal='2024-05-04',precu_activo='1',convepr_id='6',categesp_id='3',especipr_id='16',clie_id='8294' where precu_id='8738'-->2024-05-04 16:21:23

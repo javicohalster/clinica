@@ -1,0 +1,341 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'LIPOABDOMINOPLASTIA','','LIPOABDOMINOPLASTIA',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. ORLANDO SANTILLAN',1,'','SANGOLQUI','0604268482','ARGUELLO ERAZO','17','DRA. ALEXANDRA NOBOA','1705','NORMA ESTEFANIA',3,6,2,'','','','MILITAR',56,'1995-01-09','0982118723',7,'0985221878','F',4,4,'arguello180@hotmail.com','','177','2022-01-30 05:13:07','','0117270565071772022013005130727654',NULL,'1','','1048','4','')-->2022-01-30 05:16:20
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='LIPOABDOMINOPLASTIA',clie_token='',clie_cirugia='LIPOABDOMINOPLASTIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. ORLANDO SANTILLAN',tipoci_id=1,clie_ayudante='',clie_direccion='SANGOLQUI',clie_rucci='0604268482',clie_apellido='ARGUELLO ERAZO',prob_codigo='17',clie_anestesiologo='DRA. ALEXANDRA NOBOA',cant_codigo='1705',clie_nombre='NORMA ESTEFANIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='MILITAR',nac_id=56,clie_fechanacimiento='1995-01-09',clie_emergenciatelf='0982118723',tarterial_id=7,clie_celular='0985221878',clie_genero='F',idgen_id=4,orien_id=4,clie_email='arguello180@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-01-30 05:13:07',clie_institucion='',clie_enlace='0117270565071772022013005130727654',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='1048',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=524 -->2022-01-30 05:17:22
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,524,'0604268482-1','2',178,'2022-01-30 05:35:10','','','2022-01-30 05:35:10','CIRUGÍA PROGRAMADA','2022-01-30 05:35:10','0604268482','VIVO',1,'','','0117217383991782022013005351054')-->2022-01-30 05:35:21
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',367,1,524,'','','PACIENTE DE 27 AÑOS SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA PROCEDIMIENTO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA','','','','',4,'','CIRUGIA PROGRAMADA','','2022-01-30 05:35:26','','','','','','52401172173839917820220130053526475','LIPOABDOMINOPLASTIA','','','CIRUGIA PLASTICA','DR. SANTILLAN','','',NULL,'',NULL,NULL,'2022-01-30',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-30 05:37:42
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=367,centro_id=1,clie_id=524,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 27 AÑOS SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA PROCEDIMIENTO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2022-01-30 05:35:26',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='52401172173839917820220130053526475',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTILLAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=259 -->2022-01-30 05:37:56
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=367,centro_id=1,clie_id=524,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 27 AÑOS SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA PROCEDIMIENTO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2022-01-30 05:35:26',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='52401172173839917820220130053526475',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTILLAN',anam_hijosvivos='',anam_ayudante='',anam_fum='2022-01-25',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=259 -->2022-01-30 05:39:45
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=367,centro_id=1,clie_id=524,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 27 AÑOS SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA PROCEDIMIENTO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2022-01-30 05:35:26',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='52401172173839917820220130053526475',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTILLAN',anam_hijosvivos='',anam_ayudante='',anam_fum='2022-01-26',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=259 -->2022-01-30 05:40:00
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=366,centro_id=1,clie_id=523,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CIRUGIA PLASTICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-29 10:06:23',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5230117217383991782022012910062387',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='',anam_fum='2022-01-05',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-29',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=258 -->2022-01-30 06:14:02
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,anam_id,conext_notasdeevolucion,conext_fechar,conext_sustentoprescripcion,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (366,178,1,523,258,'PACIENTE FEMENINA DE 25 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10. NO REFIERE NÁUSEAS. 
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA 
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. FAJA POSTQUIRÚRGICA CON LEVE MANCHADO HEMÁTICO
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. DRENAJE JACKSON CON 5 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE. AL MOMENTO CON BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA A DIETA Y DEAMBULACIÓN. 
+PLAN: INDICACIONES DE MÉDICO TRATANTE','2022-01-30','',1,'2022-01-30 06:14:05','06:14','52301172173839917820220130061405315')-->2022-01-30 06:14:09
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,anam_id,conext_notasdeevolucion,conext_fechar,conext_sustentoprescripcion,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (366,178,1,523,258,'PACIENTE FEMENINA DE 25 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10. NO REFIERE NÁUSEAS. 
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA 
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. FAJA POSTQUIRÚRGICA CON LEVE MANCHADO HEMÁTICO
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. DRENAJE JACKSON CON 5 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE. AL MOMENTO CON BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA A DIETA Y DEAMBULACIÓN. 
+PLAN: INDICACIONES DE MÉDICO TRATANTE','2022-01-30','',1,'2022-01-30 06:14:05','06:14','52301172173839917820220130061405315')-->2022-01-30 06:14:09
+178-->update dns_hospitalconsultaexterna set atenc_id=366,usua_id=178,centro_id=1,clie_id=523,anam_id=258,conext_notasdeevolucion='PACIENTE FEMENINA DE 25 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10. NO REFIERE NÁUSEAS. 
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA 
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. FAJA POSTQUIRÚRGICA CON LEVE MANCHADO HEMÁTICO
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. DRENAJE JACKSON CON 5 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE. AL MOMENTO CON BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA A DIETA Y DEAMBULACIÓN. 
+PLAN: INDICACIONES DE MÉDICO TRATANTE',conext_fechar='2022-01-30',conext_sustentoprescripcion='',estaatenc_id=1,conext_fecharegistro='2022-01-30 06:14:05',conext_horar='06:14',conext_enlace='52301172173839917820220130061405315' where conext_id=367 -->2022-01-30 06:14:47
+178-->update dns_hospitalconsultaexterna set atenc_id=366,usua_id=178,centro_id=1,clie_id=523,anam_id=258,conext_notasdeevolucion='PACIENTE FEMENINA DE 25 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10. NO REFIERE NÁUSEAS. 
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA 
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. FAJA POSTQUIRÚRGICA CON LEVE MANCHADO HEMÁTICO
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. DRENAJE JACKSON CON 5 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE. AL MOMENTO CON BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA A DIETA Y DEAMBULACIÓN. 
+PLAN: INDICACIONES DE MÉDICO TRATANTE',conext_fechar='2022-01-30',conext_sustentoprescripcion='',estaatenc_id=1,conext_fecharegistro='2022-01-30 06:14:05',conext_horar='06:14',conext_enlace='52301172173839917820220130061405315' where conext_id=367 -->2022-01-30 06:15:01
+178-->update dns_hospitalconsultaexterna set atenc_id=366,usua_id=178,centro_id=1,clie_id=523,anam_id=258,conext_notasdeevolucion='PACIENTE FEMENINA DE 25 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10. NO REFIERE NÁUSEAS. 
+
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE. AL MOMENTO CON BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA A DIETA Y DEAMBULACIÓN. 
+PLAN: INDICACIONES DE MÉDICO TRATANTE',conext_fechar='2022-01-30',conext_sustentoprescripcion='',estaatenc_id=1,conext_fecharegistro='2022-01-30 06:14:05',conext_horar='06:14',conext_enlace='52301172173839917820220130061405315' where conext_id=367 -->2022-01-30 06:16:15
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'IMPLANTES MAMARIOS','','IMPLANTES MAMARIOS',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. SANTIAGO GUERRERO',1,'DR. ALDO BRAVO','AGUSTIN MENTOSO N47-32 Y MIGUEL BEDOYA 
+PINAR BAJO','1720917101','CHAVEZ SARZOSA','17','','1701','PATRICIA VALERIA',3,6,2,'','','','ABOGADA',56,'1985-03-05','0981203619',7,'0998953064','F',4,4,'valeriachavez03@hotmail.com','','177','2022-01-30 06:40:42','','0117270565071772022013006404221283',NULL,'1','','1049','4','')-->2022-01-30 06:44:42
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='IMPLANTES MAMARIOS',clie_token='',clie_cirugia='IMPLANTES MAMARIOS',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO GUERRERO',tipoci_id=1,clie_ayudante='DR. ALDO BRAVO',clie_direccion='AGUSTIN MENTOSO N47-32 Y MIGUEL BEDOYA 
+PINAR BAJO',clie_rucci='1720917101',clie_apellido='CHAVEZ SARZOSA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='PATRICIA VALERIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='ABOGADA',nac_id=56,clie_fechanacimiento='1985-03-05',clie_emergenciatelf='0981203619',tarterial_id=7,clie_celular='0998953064',clie_genero='F',idgen_id=4,orien_id=4,clie_email='valeriachavez03@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-01-30 06:40:42',clie_institucion='',clie_enlace='0117270565071772022013006404221283',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='1049',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=525 -->2022-01-30 06:46:52
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='IMPLANTES MAMARIOS',clie_token='',clie_cirugia='IMPLANTES MAMARIOS',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO GUERRERO',tipoci_id=1,clie_ayudante='DR. ALDO BRAVO',clie_direccion='AGUSTIN MENTOSO N47-32 Y MIGUEL BEDOYA 
+PINAR BAJO',clie_rucci='1720917101',clie_apellido='CHAVEZ SARZOSA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='PATRICIA VALERIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='ABOGADA',nac_id=56,clie_fechanacimiento='1985-03-05',clie_emergenciatelf='0981203619',tarterial_id=7,clie_celular='0998953064',clie_genero='F',idgen_id=4,orien_id=4,clie_email='valeriachavez03@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-01-30 06:40:42',clie_institucion='',clie_enlace='0117270565071772022013006404221283',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='1049',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=525 -->2022-01-30 06:48:40
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,525,'1720917101-1','2',178,'2022-01-30 07:00:43','','','2022-01-30 07:00:43','Cirugia programada','2022-01-30 07:00:43','1720917101','VIVO',1,'','','01172173839917820220130070043346')-->2022-01-30 07:00:51
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',368,1,525,'','','PACIENTE DE 6 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA + AUMENTO MAMARIO. AL MOMENTO DEL INGRESO NO REFIERE NINGUNA SINTOMATOLOGI','','','','',4,'','CIRUGIA PROGRAMADA','0','2022-01-30 07:01:18','','','','0','','5250117217383991782022013007011892','LIPOABDOMINOPLASTIA','2','2','CIRUGIA PLASTICA','DR. GUERRERO','','','2022-01-15','',NULL,NULL,'2022-01-30',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-30 07:03:35
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=368,centro_id=1,clie_id=525,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 6 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA + AUMENTO MAMARIO. AL MOMENTO DEL INGRESO NO REFIERE NINGUNA SINTOMATOLOGI',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-30 07:01:18',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5250117217383991782022013007011892',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GUERRERO',anam_hijosvivos='',anam_ayudante='',anam_fum='2022-01-15',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=260 -->2022-01-30 07:03:41
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=368,centro_id=1,clie_id=525,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 6 AÑOS ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA PLASTICA DE LIPOABDOMINOPLASTIA + AUMENTO MAMARIO. AL MOMENTO DEL INGRESO NO REFIERE NINGUNA SINTOMATOLOGI',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-30 07:01:18',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5250117217383991782022013007011892',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GUERRERO',anam_hijosvivos='',anam_ayudante='',anam_fum='2022-01-15',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=260 -->2022-01-30 07:04:00
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'LIPOLASER','','LIPOLASER',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. FRANCISCO SANCHEZ',1,'DR. SANTIAGO GUERRERO','SANGOLQUI MUTUALISTA BENALCAZAR BARRIO INCHALILLO','1718976754','DIAZ CHAVEZ','17','DRA. ALEXANDRA NOBOA','1705','ANDREA NATALY',3,6,1,'','','','TRABAJADORA SOCIAL',56,'1990-02-26','0985701495',7,'0984989783','F',4,4,'andrea.diaz24@hotmail.com','','177','2022-01-30 10:16:18','','011727056507177202201301016185867',NULL,'1','','1050','4','')-->2022-01-30 10:19:18
+189-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,526,'1718976754-1','2',189,'2022-01-30 10:54:50','','','2022-01-30 10:54:50','CIRUGIA PROGRAMADA','2022-01-30 10:54:50','1718976754','VIVO',1,'','','01172300165518920220130105450466')-->2022-01-30 10:54:58
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',369,1,526,'','','PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE 1 MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.','','','','',4,'','CIRUGIA PROGRAMADA','0','2022-01-30 10:55:06','','','','0','IRREGULARES','52601172300165518920220130105506119','LIPOSUCCION + TRANSFERENCIA GRASA','0','0','CIRUGIA PLASTICA','DR. SANCHEZ','0','DR. GUERRERO','2022-01-26','DRA. NOBOA',NULL,NULL,'2022-01-30',1,'NINGUNO',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-30 10:59:23
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=369,centro_id=1,clie_id=526,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE 1 MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-30 10:55:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='52601172300165518920220130105506119',anam_cirugia='LIPOSUCCION + TRANSFERENCIA GRASA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='0',anam_ayudante='DR. GUERRERO',anam_fum='2022-01-26',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=261 -->2022-01-30 10:59:29
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=369,centro_id=1,clie_id=526,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE 1 MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-30 10:55:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='52601172300165518920220130105506119',anam_cirugia='LIPOSUCCION + TRANSFERENCIA GRASA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='0',anam_ayudante='DR. GUERRERO',anam_fum='2022-01-26',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=261 -->2022-01-30 10:59:40
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=369,centro_id=1,clie_id=526,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN DESDE HACE 5 AÑOS, POR LO QUE HACE 1 MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-30 10:55:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='52601172300165518920220130105506119',anam_cirugia='LIPOSUCCION + TRANSFERENCIA GRASA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='0',anam_ayudante='DR. GUERRERO',anam_fum='2022-01-26',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-30',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=261 -->2022-01-30 11:00:15
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=366,centro_id=1,clie_id=523,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CIRUGIA PLASTICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-29 10:06:23',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5230117217383991782022012910062387',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='',anam_fum='2022-01-05',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-29',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=258 -->2022-01-30 11:42:21
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,523,1,366,'','258','','','','','2022-01-30 11:42:43','','','','PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.','','52301172300165518920220130114243399','','BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80','','','HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC','','','1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES')-->2022-01-30 11:48:58
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:48:59
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:00
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:01
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:03
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:05
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:06
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:09
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:10
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:11
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:12
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:13
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:21
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:26
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:33
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='',protoop_idenlace='258',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:49:39
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='1',protoop_idenlace='258',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, TOLERANCIA ORAL EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 11:51:34
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='1',protoop_idenlace='258',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, TOLERANCIA ORAL EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 17:50:22
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='1',protoop_idenlace='258',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, TOLERANCIA ORAL EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 17:50:23
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=523,centro_id=1,atenc_id=366,anam_altadefinitiva='1',protoop_idenlace='258',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, TOLERANCIA ORAL EN CONDICIONES DE ALTA HOSPITALARIA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-30 11:42:43',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA SIN ANTECEDENTES DE IMPORTANCIA QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPOABDOMINOPLASTIA POR CIRUGÍA PLASTICA. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA.',anam_nhoja='',anam_enlace='52301172300165518920220130114243399',anam_discapacidadleve='',anam_resumenevolucion='BAJO ANESTESIA GENERAL SE REALIZA LIPOABDOMINOPLASTIA DURANTE EL CUAL PRESENTÓ SANGRADO ABUNDANTE Y PRESIONES ARTERIALES DE 130/80',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL, TORACCICA, LUMBAR Y EN CINTURA
+2. LIPOASPIRACION TOTAL: 3600 CC
+3. INJERTO GRASO: 300 CC
+4. COLGAJO: 1.6 KG
+5. SANGRADO: 1500 CC',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='1. INGRESO CIRUGIA PLASTICA
+2. LIPOABDOMINOPLASTIA
+3. ANALGESIA
+4. ANTIBIOTICOTERAPIA
+5. DIETA BLANDA
+6. CONTROL DE DRENAJE
+7. ALTA MAS INDICACIONES' where anam_id=152 -->2022-01-30 17:50:49
+189-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (189,368,0,1,525,1,0,0,0,0,0,0,'',0,0,0,0,'',0,0,'CIRUGIA PLASTICA',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2022-01-30 17:54:53',0,0,'',0,'',0,0,'1701',0,'17:54',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'303','303',0,'52501172300165518920220130055453473','2022-01-30 17:54:53',0,0,0,0)-->2022-01-30 17:56:14

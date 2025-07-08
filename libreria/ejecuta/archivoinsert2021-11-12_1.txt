@@ -1,0 +1,963 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','LIPOSUCCION',1,'','REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'DRA DIANA VILLACRES','0401420153','FRANCISCO MONTALVO Y OCCIDENTAL EDIFICIO RINCON DEL BOSQUE 
+PINAR ALTO','BOLAÑOS ROSERO','DR. EDUARDO SANTANA','17','MARIA FERNANDA','1701',3,2,'',6,'','AUDITORA','',56,'1989-09-14','',7,'0995710268','F',4,'','mfbolanos@hotmail.com',4,'177','2021-11-12 07:04:57','','0117270565071772021111207045721399',NULL,'1','','4','')-->2021-11-12 07:08:46
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='LIPOSUCCION',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR CRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_rucci='0401420153',clie_direccion='FRANCISCO MONTALVO Y OCCIDENTAL EDIFICIO RINCON DEL BOSQUE 
+PINAR ALTO',clie_apellido='BOLAÑOS ROSERO',clie_anestesiologo='DR. EDUARDO SANTANA',prob_codigo='17',clie_nombre='MARIA FERNANDA',cant_codigo='1701',tippo_id=3,civil_id=2,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='AUDITORA',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1989-09-14',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995710268',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='mfbolanos@hotmail.com',orien_id=4,usua_id='177',clie_registro='2021-11-12 07:04:57',clie_institucion='',clie_enlace='0117270565071772021111207045721399',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=281 -->2021-11-12 07:16:55
+196-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,281,'0401420153-1','2',196,'2021-11-12 07:30:03','','','2021-11-12 07:30:03','CIRUGIA PROGRAMADA','2021-11-12 07:30:03','0401420153','VIVO',1,'','','01131202875419620211112073003206')-->2021-11-12 07:31:04
+196-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (196,'','LIBRE DEMANDA',213,1,281,'','','PACIENTE FEMENINA DE 32 AÑOS NACIDA EN TULCAN RESIDENTE EN QUITO DESDE HACE 15 AÑOS, MESTIZA, CASADA, DE INSTRUCCION SUPERIOR, AUDITORA, CATOLICA, DIESTRA, TIPO DE SANGRE ORH +, NO REFIERE ANTECEDENTES PATOLOGICOS PERSONALES DE IMPORTANCIA, ENTRE SUS ANTECEDENTES QUIRURGICOS REFEIRE RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PORTESIS MAMARIAS HACE 2 AÑOS Y MEDIO Y 3 CESAREAS ULTIMA EN SEPTIEMBRE DDE 2019. REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.','','','','',4,'13 AÑOS','CIRUGIA PROGRAMADA','0','2021-11-12 07:31:36','','','','0','REGULARES','28101131202875419620211112073136121','LIPOSUCCION','3','3','CIRUGÍA PLÁSTICA','DR. CACERES','3','DRA. VILLACRES','2021-11-03','D. SANATANA','2019-09-08',NULL,'2021-11-12',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-11-12 07:40:10
+196-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=213,centro_id=1,clie_id=281,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS NACIDA EN TULCAN RESIDENTE EN QUITO DESDE HACE 15 AÑOS, MESTIZA, CASADA, DE INSTRUCCION SUPERIOR, AUDITORA, CATOLICA, DIESTRA, TIPO DE SANGRE ORH +, NO REFIERE ANTECEDENTES PATOLOGICOS PERSONALES DE IMPORTANCIA, ENTRE SUS ANTECEDENTES QUIRURGICOS REFEIRE RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PORTESIS MAMARIAS HACE 2 AÑOS Y MEDIO Y 3 CESAREAS ULTIMA EN SEPTIEMBRE DDE 2019. REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_planes='1 INGRESO A HOSPITALIZACION 
+2 CANALIZAR VIA 
+3 NADA POR VIA ORAL 
+4 ACUDIR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-12 07:31:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='28101131202875419620211112073136121',anam_cirugia='LIPOSUCCION',anam_cesareas='3',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='3',anam_ayudante='DRA. VILLACRES',anam_fum='2021-11-03',anam_anestesiologo='D. SANATANA',anam_fup='2019-09-08',anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=144 -->2021-11-12 07:40:31
+196-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (213,196,1,281,'***',144,'2021-11-12',1,'2021-11-12 07:41:25','07:41','2810113120287541962021111207412544')-->2021-11-12 07:41:28
+196-->update dns_hospitalconsultaexterna set atenc_id=213,usua_id=196,centro_id=1,clie_id=281,conext_notasdeevolucion='*** NOTA DE INGRESO ***
+PACIENTE FEMENINA DE 32 AÑOS NACIDA EN TULCAN RESIDENTE EN QUITO DESDE HACE 15 AÑOS, MESTIZA, CASADA, DE INSTRUCCION SUPERIOR, AUDITORA, CATOLICA, DIESTRA, TIPO DE SANGRE ORH +. 
+APP: NO REFIERE 
+APQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, CESAREAS: 3
+AGO: MENARQUIA 13 AÑOS, FUM 03/11/2021 G:3 P:0 C:3 A:0 HV:3
+ALERGIAS: NO REFIERE
+HABITOS: ALIMENTACION BALANCEADA, NIEGA TABACO, NIEGA ALCOHOL, MICCION 5 VECES AL DIA, DEFECATORIO UNA VEZ AL DIA TODOS LOS DIAS
+APF: NO REFIERE 
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ENFERMEDAD ACTUAL: PACIENTE REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.
+
+EXAMEN FISICO: PACIENTE CONSCIENTE ORIENTADA AFEBRIL HIDRATADA, PUPILAS ISOCORICAS NORMORREACTIVAS, MO HUMEDA, ORF NO CONGESTIVA, CUELLO MOVIL NO ADENOPATIAS, TORAX SIMETRICO EXPANSIBILIDAD CONSNERVADA, PRESENCIA DE PROTESIS MAMARIAS, CORAZON RUIDOS CARDIACOS NORMOFONETICOS NO SOPLOS, PULMONES MV PRESENTE NO SOBREAÑADIDOS, ABDOMEN: PANICULO ADIPOSO IMPORTANTE, SUAVE DEPRESIBLE NO DOLOROSO A LA PALPACION RHA PRESENTES, NO PERITONISMO, EXREMIDADES NO EDEMAS PULSOS DISTALES PRESENTES. 
+
+ANALISIS: PACIENTE FEMENINA DE 32 AÑOS HEMODINAMICAMENTE ESTABLE, SIN ANTECEDENTES PATOLOGICOS DE IMPORTANCIA, INGRESA CUMPLIENDO HORAS DE AYUNO PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO',anam_id=144,conext_fechar='2021-11-12',estaatenc_id=1,conext_fecharegistro='2021-11-12 07:41:25',conext_horar='07:41',conext_enlace='2810113120287541962021111207412544' where conext_id=252 -->2021-11-12 07:48:23
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','PROTESIS MAMARIA MAS LIPOSUCCION',1,'','REGISTRADO',1,'CIRUGIA PLASTICA','DR SANTIAGO PESANTEZ',1,'DR OSCAR MENENDEZ','1758359622','LAS LANAS Y RIO JAMUNDI 
+GUAJALO','GALEANO ARIAS','DRA. ALEXANDRA NOBOA','17','LILIANA','1701',3,1,'',6,'','ASESOR COMERCIAL','',56,'1985-12-29','',7,'0996073846','F',4,'','livigaleano2930@gmail.com',4,'177','2021-11-12 08:36:52','','0117270565071772021111208365215338',NULL,'1','','','')-->2021-11-12 08:40:45
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='PROTESIS MAMARIA MAS LIPOSUCCION',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR OSCAR MENENDEZ',clie_rucci='1758359622',clie_direccion='LAS LANAS Y RIO JAMUNDI 
+GUAJALO',clie_apellido='GALEANO ARIAS',clie_anestesiologo='DR. EDUARDO SANTANA',prob_codigo='17',clie_nombre='LILIANA',cant_codigo='1701',tippo_id=3,civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='ASESOR COMERCIAL',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1985-12-29',clie_emergenciatelf='',tarterial_id=7,clie_celular='0996073846',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='livigaleano2930@gmail.com',orien_id=4,usua_id='177',clie_registro='2021-11-12 08:36:52',clie_institucion='',clie_enlace='0117270565071772021111208365215338',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=282 -->2021-11-12 09:26:43
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='PROTESIS MAMARIA MAS LIPOSUCCION',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR OSCAR MENENDEZ',clie_rucci='1758359622',clie_direccion='LAS LANAS Y RIO JAMUNDI 
+GUAJALO',clie_apellido='GALEANO ARIAS',clie_anestesiologo='DR. EDUARDO SANTANA',prob_codigo='17',clie_nombre='LILIANA',cant_codigo='1701',tippo_id=3,civil_id=1,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='ASESOR COMERCIAL',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1985-12-29',clie_emergenciatelf='',tarterial_id=7,clie_celular='0996073846',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='livigaleano2930@gmail.com',orien_id=4,usua_id='177',clie_registro='2021-11-12 08:36:52',clie_institucion='',clie_enlace='0117270565071772021111208365215338',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=282 -->2021-11-12 09:27:09
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='DISECTOMIA ENDOSCOPICA',clie_cirugia='DISECTOMIA ENDOSCOPICA',grp_id=12,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. RENATO GUERRA',tipoci_id=1,clie_ayudante='DR. FRANCISCO GUZMAN',clie_rucci='1715919435',clie_direccion='ARGELIA BAJA, BARRIO SANTA ROSA CALLE PICUASA LOLTE 9J Y TOSAGUA',clie_apellido='TAIPE SANDOVAL',clie_anestesiologo='DR. SANTANA',prob_codigo='17',clie_nombre='HUGO PATRICIO',cant_codigo='1701',tippo_id=8,civil_id=2,clie_parroquia='',conve_id=7,clie_telefono='',clie_ocupacion='POLICIA',clie_codigoisspol='ISSPOL-15463-2021',nac_id=56,clie_fechanacimiento='1979-05-02',clie_emergenciatelf='0999865757',tarterial_id=7,clie_celular='0999867101',clie_genero='M',idgen_id=4,clie_emergenciacelu='',clie_email='hugopatriciotaipesandoval@yahoo.es',orien_id=4,usua_id='177',clie_registro='2021-10-22 10:32:12',clie_institucion='',clie_enlace='0117270565071772021102210321240880',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=230 -->2021-11-12 12:47:17
+210-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,282,'1758359622-1','2',210,'2021-11-12 13:37:31','','','2021-11-12 13:37:31','n/a','2021-11-12 13:37:31','1758359622','VIVO',1,'','','01130882345721020211112013731335')-->2021-11-12 13:37:51
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',214,1,282,'','','CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA','','','','',4,'','CIRUGIA PROGRAMADA','','2021-11-12 13:39:47','','','','','','28201172300165518920211112013947310','','','','CIRUGÍA PLÁSTICA','DR. SANTIAGO PESANTEZ','','DR. MENENDEZ',NULL,'DR. EDUARDO SANTANA',NULL,NULL,'2021-11-12',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-11-12 13:40:48
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='28201172300165518920211112013947310',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 13:40:53
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='28201172300165518920211112013947310',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 13:40:59
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='28201172300165518920211112013947310',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 13:41:18
+189-->insert into dns_protocolooperatorio (usua_id,protoop_fecharegistro,atenc_id,centro_id,clie_id,protoop_exposicion,protoop_exploracion,protoop_examen,protoop_procedimiento,protoop_proyectada,protoop_sintesis,protoop_cirujanouno,protoop_complicaciones,protoop_diagnostico,protoop_dieresis,protoop_selectiva,protoop_instrumentista,protoop_examendetalle,protoop_tblprincipal,protoop_emergencia,protoop_cirujanodos,protoop_circulante,protoop_idenlace,protoop_paleativa,protoop_realizada,protoop_ayudanteuno,protoop_anestesiologo,protoop_nhoja,protoop_ayudantedos,protoop_enlace,protoop_ayudanteanestesia,protoop_tecerayudante,protoop_tipoanestesia,protoop_fechaoperacion,protoop_horainicio,protoop_horafin) values (189,'2021-11-12 13:42:34',214,1,282,'','','','','','','','','','','','','','dns_hospitalanamesis','','','','145','','','','','','','28201172300165518920211112014234372','','','','','','')-->2021-11-12 13:42:36
+189-->insert into dns_protocolooperatorio (usua_id,protoop_fecharegistro,atenc_id,centro_id,clie_id,protoop_exposicion,protoop_exploracion,protoop_examen,protoop_procedimiento,protoop_proyectada,protoop_sintesis,protoop_cirujanouno,protoop_complicaciones,protoop_diagnostico,protoop_dieresis,protoop_selectiva,protoop_instrumentista,protoop_examendetalle,protoop_tblprincipal,protoop_emergencia,protoop_cirujanodos,protoop_circulante,protoop_idenlace,protoop_paleativa,protoop_realizada,protoop_ayudanteuno,protoop_anestesiologo,protoop_nhoja,protoop_ayudantedos,protoop_enlace,protoop_ayudanteanestesia,protoop_tecerayudante,protoop_tipoanestesia,protoop_fechaoperacion,protoop_horainicio,protoop_horafin) values (189,'2021-11-12 13:42:34',214,1,282,'','','','','','','','','','','','','','dns_hospitalanamesis','','','','145','','','','','','','28201172300165518920211112014234372','','','','','','')-->2021-11-12 13:42:36
+189-->update dns_protocolooperatorio set usua_id=189,protoop_fecharegistro='2021-11-12 13:42:34',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201172300165518920211112014234372',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=88 -->2021-11-12 13:42:37
+189-->update dns_protocolooperatorio set usua_id=189,protoop_fecharegistro='2021-11-12 13:42:34',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201172300165518920211112014234372',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=88 -->2021-11-12 13:42:37
+210-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='28201172300165518920211112013947310',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 13:45:00
+210-->insert into dns_protocolooperatorio (usua_id,protoop_fecharegistro,atenc_id,centro_id,clie_id,protoop_exposicion,protoop_exploracion,protoop_examen,protoop_procedimiento,protoop_proyectada,protoop_sintesis,protoop_cirujanouno,protoop_complicaciones,protoop_diagnostico,protoop_dieresis,protoop_selectiva,protoop_instrumentista,protoop_examendetalle,protoop_tblprincipal,protoop_emergencia,protoop_cirujanodos,protoop_circulante,protoop_idenlace,protoop_paleativa,protoop_realizada,protoop_ayudanteuno,protoop_anestesiologo,protoop_nhoja,protoop_ayudantedos,protoop_enlace,protoop_ayudanteanestesia,protoop_tecerayudante,protoop_tipoanestesia,protoop_fechaoperacion,protoop_horainicio,protoop_horafin) values (210,'2021-11-12 13:45:08',214,1,282,'','','','','','','','','','','','','','dns_hospitalanamesis','','','','145','','','','','','','28201130882345721020211112014508222','','','','','','')-->2021-11-12 13:45:10
+210-->insert into dns_protocolooperatorio (usua_id,protoop_fecharegistro,atenc_id,centro_id,clie_id,protoop_exposicion,protoop_exploracion,protoop_examen,protoop_procedimiento,protoop_proyectada,protoop_sintesis,protoop_cirujanouno,protoop_complicaciones,protoop_diagnostico,protoop_dieresis,protoop_selectiva,protoop_instrumentista,protoop_examendetalle,protoop_tblprincipal,protoop_emergencia,protoop_cirujanodos,protoop_circulante,protoop_idenlace,protoop_paleativa,protoop_realizada,protoop_ayudanteuno,protoop_anestesiologo,protoop_nhoja,protoop_ayudantedos,protoop_enlace,protoop_ayudanteanestesia,protoop_tecerayudante,protoop_tipoanestesia,protoop_fechaoperacion,protoop_horainicio,protoop_horafin) values (210,'2021-11-12 13:45:08',214,1,282,'','','','','','','','','','','','','','dns_hospitalanamesis','','','','145','','','','','','','28201130882345721020211112014508222','','','','','','')-->2021-11-12 13:45:10
+210-->update dns_protocolooperatorio set usua_id=210,protoop_fecharegistro='2021-11-12 13:45:08',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201130882345721020211112014508222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=90 -->2021-11-12 13:45:11
+210-->update dns_protocolooperatorio set usua_id=210,protoop_fecharegistro='2021-11-12 13:45:08',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201130882345721020211112014508222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=90 -->2021-11-12 13:45:11
+210-->update dns_protocolooperatorio set usua_id=210,protoop_fecharegistro='2021-11-12 13:45:08',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201130882345721020211112014508222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=90 -->2021-11-12 13:45:33
+210-->update dns_protocolooperatorio set usua_id=210,protoop_fecharegistro='2021-11-12 13:45:08',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201130882345721020211112014508222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=90 -->2021-11-12 13:45:59
+210-->update dns_protocolooperatorio set usua_id=210,protoop_fecharegistro='2021-11-12 13:45:08',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='HIPOPLASIA MAMRIA',protoop_examen='0',protoop_procedimiento='ASEPSIA , ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN
+REALIZACION DE BOLSILLO MAMARIO
+CONTROL DE HEMOSTASIA
+COLOCACION DE PROTESIS MAMARIAS DE 380CC SILIMED POR VIA RETROMUSCULAR
+CIERRE POR PLANOS POR VIA GLANDULAR, NO SE SUTURA PLANO MUSCULAR.
+COLOCACION DE VENDAJE COMPRESIVO
+PASE A RECUPERACION',protoop_proyectada='COLOCACION DE PROTESIS MAMARIAS',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR SANTIAGO PESANTES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES PERIAREOLARES QUE COMPROMETEN PIEL Y TCS HASTA MUSCULATURA PECTORAL',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201130882345721020211112014508222',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-11-12',protoop_horainicio='11:00',protoop_horafin='13:20' where protoop_id=90 -->2021-11-12 13:53:24
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','CONFECCION DE FAV + PTFE',1,'','REGISTRADO',1,'CIRUGIA VASCULAR','DRA. XIMENA AVILA',1,'DRA.KATHY POZO','1200264784','QUEVEDO','VILLAMAR BARRERA','','12','TERESA DE JESUS','1205',3,3,'',6,'','NO REMITE','',56,'1942-10-15','',7,'','F',4,'','',4,'177','2021-11-12 13:55:49','','0117270565071772021111201554934792',NULL,'1','','','')-->2021-11-12 13:59:01
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='CONFECCION DE FAV + PTFE',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA VASCULAR',clie_tratante='DRA. XIMENA AVILA',tipoci_id=1,clie_ayudante='DRA.KATHY POZO',clie_rucci='1200264784',clie_direccion='QUEVEDO',clie_apellido='VILLAMAR BARRERA',clie_anestesiologo='',prob_codigo='12',clie_nombre='TERESA DE JESUS',cant_codigo='1205',tippo_id=3,civil_id=3,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NO REMITE',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1942-10-15',clie_emergenciatelf='',tarterial_id=7,clie_celular='0985580999',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='',orien_id=4,usua_id='177',clie_registro='2021-11-12 13:55:49',clie_institucion='',clie_enlace='0117270565071772021111201554934792',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=283 -->2021-11-12 14:07:18
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_cirugia='CONFECCION DE FAV + PTFE',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA VASCULAR',clie_tratante='DRA. XIMENA AVILA',tipoci_id=1,clie_ayudante='DRA.KATHY POZO',clie_rucci='1200264784',clie_direccion='QUEVEDO',clie_apellido='VILLAMAR BARRERA',clie_anestesiologo='',prob_codigo='12',clie_nombre='TERESA DE JESUS',cant_codigo='1205',tippo_id=3,civil_id=3,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NO REMITE',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1942-10-15',clie_emergenciatelf='',tarterial_id=7,clie_celular='0985580999',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='',orien_id=4,usua_id='177',clie_registro='2021-11-12 13:55:49',clie_institucion='',clie_enlace='0117270565071772021111201554934792',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=283 -->2021-11-12 14:22:53
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',1,'','REGISTRADO',1,'','',1,'','1710504315','LA MENA DEL HIERRO','TONATO CANDO','','17','MARIA FABIOLA','1701',3,2,'',6,'','COSTURERA','',56,'1971-01-23','',7,'0993085872','F',4,'','faby2006tonato@hotmail.com',4,'177','2021-11-12 17:55:43','','0117270565071772021111205554333806',NULL,'1','','','')-->2021-11-12 17:58:24
+181-->update dns_traumatologiaanamesis set clie_id=223,anam_planes='REPOSO ABSOLUTO 
+ZALDIAR 
+COMPLEJO B 
+CONTROL EN 8 DIAS',anam_referencia='DERIVADO',atenc_id=166,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON DIAGNOSTICO DE CANAL ESTRECHO LUMBAR, TRATADO DE FORMA QUIRURGICA CON DESCOMPRESION LUMBAR E INSTRUMENTACION POSTERIOR, REFIERE DOLOR MODERADO EN AREA QUIRURGICA, DOLOR REGION GLUTEA DERECHA, ACUDE PARA RETIRO DE PUNTOS',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL POST QUIRURGICO',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-11 14:22:59',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='22301171442027818120211111022259230',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=103 -->2021-11-12 18:01:54
+182-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,284,'1710504315-1','2',182,'2021-11-12 18:03:00','','','2021-11-12 18:03:00','ACUDE A CONSULTA','2021-11-12 18:03:00','1710504315','VIVO',1,'','','01100258084118220211112060300105')-->2021-11-12 18:03:09
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',1,'','REGISTRADO',1,'','',1,'','1712622073','CARCELEN','DAVILA CASTRO','','17','EMILIO JOSE','1701',3,2,'',6,'','ARQUITECTO','',56,'1986-12-14','',7,'0998006242','M',4,'','emiliodav08@gmail.com',4,'177','2021-11-12 18:09:13','','0117270565071772021111206091310321',NULL,'1','','4','')-->2021-11-12 18:10:30
+182-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (284,'','AUTOREFERENCIA',215,1,182,'HIPOTIROIDISMO EN TRATAMIENTO CON LEVOTIROXINA',4,'','PACIENTE REFIERE QUE DESDE HACE 1 SEMANA Y POSTERIOR AL LEVANTAMIENTO DE OBJETOS PESADOS, PRESENTA DOLOR DE HOMBRO IZQUIERDO AOMPAÑDO DE LIMITACION FUNCIONL POR LO QUE SE AUTOMEDICA DICLOFENACO 50 MG VO TID 2 DOSIS CON MEJORIA PARCIAL, PERO AL PERSISTIR EL CUADRO ACUDE.','','','','DOLOR DE HOMBRO IZQUIERDO','','0','2021-11-12 18:03:14','','',0,'','','','','28401100258084118220211112060314432','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-11-12 18:17:48
+182-->update dns_traumatologiaanamesis set clie_id=284,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. PARACETAMOL 1 G VO TID
+3. ECO DE HOMBRO IZQUIERDO',anam_referencia='AUTOREFERENCIA',atenc_id=215,centro_id=1,usua_id=182,anam_observacionaf='HIPOTIROIDISMO EN TRATAMIENTO CON LEVOTIROXINA',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 SEMANA Y POSTERIOR AL LEVANTAMIENTO DE OBJETOS PESADOS, PRESENTA DOLOR DE HOMBRO IZQUIERDO AOMPAÑDO DE LIMITACION FUNCIONL POR LO QUE SE AUTOMEDICA DICLOFENACO 50 MG VO TID 2 DOSIS CON MEJORIA PARCIAL, PERO AL PERSISTIR EL CUADRO ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:03:14',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28401100258084118220211112060314432',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=104 -->2021-11-12 18:18:43
+1-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=130,centro_id=1,clie_id=148,anam_centrorefiere='ISSPOL',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 71 AÑOS NACIDA EN EL CORAZON PROVINCIA DE COTOPAXI Y RESIDENTE EN QUITO DESDE HACE 45 AÑOS, MESTIZA, CASADA, NIVEL DE INSTRUCCION SUPERIOR CORONEL DE POLICIA ACTUALMENTE RETIRADA. CATOLICA, DIESTRA, TIPO DE SANGRE ORH +. COMO ANTECEDENTE DE IMPORTANCIA REFIERE HTA DIAGNOSTICADA HAE 1 SEMANA EN TRATAMIENTO CON LOSARTAN DE 100 MG UNA VEZ AL DIA, ADEMAS DE HIPERTRIGLICERIDEMIA EN TRATAMIENTO CON SIMVASTATINA. REFIERE QUE HACE APROXIMADAMENTE 11 MESES PRESENTA DOLOR INTENSO EN HOMBRO IZQUIERDO INCAPACITANTE QUE DIFICIULTA LAS ACTIVIDADES DIARIAS E INTERFIERE CON EL SUEÑO, MENCIONA QUE ACUDE A MEDICO PARTICULAR QUIEN REALIZA ECOGRAFIA DE HOMBRO AFECTADO, REVISA EXAMEN SIN ESPECIFICAR DIAGNOSTICO Y PRESCRIBE TERAPIA FISICA POR 10 SESIONES CON LO QUE LA PACIENTE NO PRESENTA NINGUNA MEJORIA. POR TAL MOTIVO PACIENTE ACUDE A MEDICO ESPECIALISTA EN HOSPITAL DE LA POLICIA QUIEN SOLICITA RESONANCIA MAGNETICA DE HOMBRO AFECTADO (JULIO/21) SE IDENTIFICA ROTURA DE MUSCULO SUPRAESPINOSO CON REQUERIMIENTO DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DE MANGUITO, SE PLANIFICA RESOLUCION QUIRURGICA SIN EMBARGO NO SE CUENTA CON MATERIAL NECESARIO EN DICHO HOSPITAL Y ES REFERIDA A ESTA CASA DE SALUD.',anam_planes='1. NADA POR VIA ORAL 2. CANALIZAR VIA PERIFERICA 3. ORDENES DE DR. SILVA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='DR. ROBERTO AGUIRRE',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA MANGUITO ROTADOR',anam_partos='0',anam_fecharegistro='2021-10-11 10:16:04',anam_observacionap='',anam_menopausiaedad='50 AÑOS',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='14801131202875419620211011101604372',anam_cirugia='PLASTIA DE MANGUITO ROTADOR IZQUIERDO',anam_cesareas='2',anam_gesta='2',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SILVA',anam_hijosvivos='2',anam_ayudante='DR. SILVA',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=76 -->2021-11-12 18:22:19
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 18:22:25
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 18:22:25
+182-->update dns_traumatologiaanamesis set clie_id=284,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. PARACETAMOL 1 G VO TID
+3. ECO DE HOMBRO IZQUIERDO',anam_referencia='AUTOREFERENCIA',atenc_id=215,centro_id=1,usua_id=182,anam_observacionaf='HIPOTIROIDISMO EN TRATAMIENTO CON LEVOTIROXINA',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 SEMANA Y POSTERIOR AL LEVANTAMIENTO DE OBJETOS PESADOS, PRESENTA DOLOR DE HOMBRO IZQUIERDO AOMPAÑDO DE LIMITACION FUNCIONL POR LO QUE SE AUTOMEDICA DICLOFENACO 50 MG VO TID 2 DOSIS CON MEJORIA PARCIAL, PERO AL PERSISTIR EL CUADRO ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:03:14',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28401100258084118220211112060314432',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=104 -->2021-11-12 18:26:58
+182-->update dns_traumatologiaanamesis set clie_id=284,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. PARACETAMOL 1 G VO TID
+3. ECO DE HOMBRO IZQUIERDO',anam_referencia='AUTOREFERENCIA',atenc_id=215,centro_id=1,usua_id=182,anam_observacionaf='HIPOTIROIDISMO EN TRATAMIENTO CON LEVOTIROXINA',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 SEMANA Y POSTERIOR AL LEVANTAMIENTO DE OBJETOS PESADOS, PRESENTA DOLOR DE HOMBRO IZQUIERDO AOMPAÑDO DE LIMITACION FUNCIONL POR LO QUE SE AUTOMEDICA DICLOFENACO 50 MG VO TID 2 DOSIS CON MEJORIA PARCIAL, PERO AL PERSISTIR EL CUADRO ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:03:14',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28401100258084118220211112060314432',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=104 -->2021-11-12 18:27:23
+182-->update dns_traumatologiaanamesis set clie_id=284,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. PARACETAMOL 1 G VO TID
+3. ECO DE HOMBRO IZQUIERDO',anam_referencia='AUTOREFERENCIA',atenc_id=215,centro_id=1,usua_id=182,anam_observacionaf='HIPOTIROIDISMO EN TRATAMIENTO CON LEVOTIROXINA',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 SEMANA Y POSTERIOR AL LEVANTAMIENTO DE OBJETOS PESADOS, PRESENTA DOLOR DE HOMBRO IZQUIERDO AOMPAÑDO DE LIMITACION FUNCIONL POR LO QUE SE AUTOMEDICA DICLOFENACO 50 MG VO TID 2 DOSIS CON MEJORIA PARCIAL, PERO AL PERSISTIR EL CUADRO ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:03:14',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28401100258084118220211112060314432',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=104 -->2021-11-12 18:28:58
+182-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,285,'1712622073-1','2',182,'2021-11-12 18:29:09','','','2021-11-12 18:29:09','ACUDE A CONSULTA','2021-11-12 18:29:09','1712622073','VIVO',1,'','','01100258084118220211112062909231')-->2021-11-12 18:29:18
+1-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=130,centro_id=1,clie_id=148,anam_centrorefiere='ISSPOL',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 71 AÑOS NACIDA EN EL CORAZON PROVINCIA DE COTOPAXI Y RESIDENTE EN QUITO DESDE HACE 45 AÑOS, MESTIZA, CASADA, NIVEL DE INSTRUCCION SUPERIOR CORONEL DE POLICIA ACTUALMENTE RETIRADA. CATOLICA, DIESTRA, TIPO DE SANGRE ORH +. COMO ANTECEDENTE DE IMPORTANCIA REFIERE HTA DIAGNOSTICADA HAE 1 SEMANA EN TRATAMIENTO CON LOSARTAN DE 100 MG UNA VEZ AL DIA, ADEMAS DE HIPERTRIGLICERIDEMIA EN TRATAMIENTO CON SIMVASTATINA. REFIERE QUE HACE APROXIMADAMENTE 11 MESES PRESENTA DOLOR INTENSO EN HOMBRO IZQUIERDO INCAPACITANTE QUE DIFICIULTA LAS ACTIVIDADES DIARIAS E INTERFIERE CON EL SUEÑO, MENCIONA QUE ACUDE A MEDICO PARTICULAR QUIEN REALIZA ECOGRAFIA DE HOMBRO AFECTADO, REVISA EXAMEN SIN ESPECIFICAR DIAGNOSTICO Y PRESCRIBE TERAPIA FISICA POR 10 SESIONES CON LO QUE LA PACIENTE NO PRESENTA NINGUNA MEJORIA. POR TAL MOTIVO PACIENTE ACUDE A MEDICO ESPECIALISTA EN HOSPITAL DE LA POLICIA QUIEN SOLICITA RESONANCIA MAGNETICA DE HOMBRO AFECTADO (JULIO/21) SE IDENTIFICA ROTURA DE MUSCULO SUPRAESPINOSO CON REQUERIMIENTO DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DE MANGUITO, SE PLANIFICA RESOLUCION QUIRURGICA SIN EMBARGO NO SE CUENTA CON MATERIAL NECESARIO EN DICHO HOSPITAL Y ES REFERIDA A ESTA CASA DE SALUD.',anam_planes='1. NADA POR VIA ORAL 2. CANALIZAR VIA PERIFERICA 3. ORDENES DE DR. SILVA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='DR. ROBERTO AGUIRRE',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA MANGUITO ROTADOR',anam_partos='0',anam_fecharegistro='2021-10-11 10:16:04',anam_observacionap='',anam_menopausiaedad='50 AÑOS',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='14801131202875419620211011101604372',anam_cirugia='PLASTIA DE MANGUITO ROTADOR IZQUIERDO',anam_cesareas='2',anam_gesta='2',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SILVA',anam_hijosvivos='2',anam_ayudante='DR. SILVA',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=76 -->2021-11-12 18:40:35
+1-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=130,centro_id=1,clie_id=148,anam_centrorefiere='ISSPOL',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 71 AÑOS NACIDA EN EL CORAZON PROVINCIA DE COTOPAXI Y RESIDENTE EN QUITO DESDE HACE 45 AÑOS, MESTIZA, CASADA, NIVEL DE INSTRUCCION SUPERIOR CORONEL DE POLICIA ACTUALMENTE RETIRADA. CATOLICA, DIESTRA, TIPO DE SANGRE ORH +. COMO ANTECEDENTE DE IMPORTANCIA REFIERE HTA DIAGNOSTICADA HAE 1 SEMANA EN TRATAMIENTO CON LOSARTAN DE 100 MG UNA VEZ AL DIA, ADEMAS DE HIPERTRIGLICERIDEMIA EN TRATAMIENTO CON SIMVASTATINA. REFIERE QUE HACE APROXIMADAMENTE 11 MESES PRESENTA DOLOR INTENSO EN HOMBRO IZQUIERDO INCAPACITANTE QUE DIFICIULTA LAS ACTIVIDADES DIARIAS E INTERFIERE CON EL SUEÑO, MENCIONA QUE ACUDE A MEDICO PARTICULAR QUIEN REALIZA ECOGRAFIA DE HOMBRO AFECTADO, REVISA EXAMEN SIN ESPECIFICAR DIAGNOSTICO Y PRESCRIBE TERAPIA FISICA POR 10 SESIONES CON LO QUE LA PACIENTE NO PRESENTA NINGUNA MEJORIA. POR TAL MOTIVO PACIENTE ACUDE A MEDICO ESPECIALISTA EN HOSPITAL DE LA POLICIA QUIEN SOLICITA RESONANCIA MAGNETICA DE HOMBRO AFECTADO (JULIO/21) SE IDENTIFICA ROTURA DE MUSCULO SUPRAESPINOSO CON REQUERIMIENTO DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DE MANGUITO, SE PLANIFICA RESOLUCION QUIRURGICA SIN EMBARGO NO SE CUENTA CON MATERIAL NECESARIO EN DICHO HOSPITAL Y ES REFERIDA A ESTA CASA DE SALUD.',anam_planes='1. NADA POR VIA ORAL 2. CANALIZAR VIA PERIFERICA 3. ORDENES DE DR. SILVA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='DR. ROBERTO AGUIRRE',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA MANGUITO ROTADOR',anam_partos='0',anam_fecharegistro='2021-10-11 10:16:04',anam_observacionap='',anam_menopausiaedad='50 AÑOS',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='14801131202875419620211011101604372',anam_cirugia='PLASTIA DE MANGUITO ROTADOR IZQUIERDO',anam_cesareas='2',anam_gesta='2',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SILVA',anam_hijosvivos='2',anam_ayudante='DR. SILVA',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=76 -->2021-11-12 18:41:12
+1-->update dns_protocolooperatorio set usua_id=1,protoop_fecharegistro='2021-11-11 15:01:46',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='',protoop_exploracion='',protoop_examen='0',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171146788412021111103014671',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='0000-00-00',protoop_horainicio='00:00',protoop_horafin='00:00' where protoop_id=84 -->2021-11-12 18:41:28
+1-->update dns_protocolooperatorio set usua_id=1,protoop_fecharegistro='2021-11-11 15:01:46',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='',protoop_exploracion='',protoop_examen='0',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171146788412021111103014671',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='0000-00-00',protoop_horainicio='00:00',protoop_horafin='00:00' where protoop_id=84 -->2021-11-12 18:41:28
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 18:41:38
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 18:41:38
+182-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (285,'','LIBRE DEMANDA',216,1,182,'',4,'','PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y TENIENDO COMO CAUSA APARENTE ESTRES EMOCIONAL PRESENTA DOLOR DE COLUMNA LUMBAR IRRADIADO A GLUTEO IZQUIERDO SIN PARESTESIAS, HA TENIDO 4 EVENTOS DE DOLOR SIENDO EL ULTIMO HACE 1 SEMAN, SE AUTOMEDICA ARTREN VO POR 3 DIAS CON MEJORIA NOTABLE.','','','','DOLOR DE COLUMNA LUMBAR','','0','2021-11-12 18:29:22','','',0,'EXERESIS DE LIPOMA EN TORAX HACE 5 AÑOS','','','','28501100258084118220211112062922186','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-11-12 18:43:45
+182-->update dns_traumatologiaanamesis set clie_id=285,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. CICLOBENZAPRINA 10 MG VO HS
+3. RX AP Y LATERAL DE COLUMNA LUMBAR',anam_referencia='LIBRE DEMANDA',atenc_id=216,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y TENIENDO COMO CAUSA APARENTE ESTRES EMOCIONAL PRESENTA DOLOR DE COLUMNA LUMBAR IRRADIADO A GLUTEO IZQUIERDO SIN PARESTESIAS, HA TENIDO 4 EVENTOS DE DOLOR SIENDO EL ULTIMO HACE 1 SEMAN, SE AUTOMEDICA ARTREN VO POR 3 DIAS CON MEJORIA NOTABLE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE COLUMNA LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:29:22',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='EXERESIS DE LIPOMA EN TORAX HACE 5 AÑOS',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28501100258084118220211112062922186',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=105 -->2021-11-12 18:44:17
+182-->update dns_traumatologiaanamesis set clie_id=285,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. CICLOBENZAPRINA 10 MG VO HS
+3. RX AP Y LATERAL DE COLUMNA LUMBAR',anam_referencia='LIBRE DEMANDA',atenc_id=216,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y TENIENDO COMO CAUSA APARENTE ESTRES EMOCIONAL PRESENTA DOLOR DE COLUMNA LUMBAR IRRADIADO A GLUTEO IZQUIERDO SIN PARESTESIAS, HA TENIDO 4 EVENTOS DE DOLOR SIENDO EL ULTIMO HACE 1 SEMAN, SE AUTOMEDICA ARTREN VO POR 3 DIAS CON MEJORIA NOTABLE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE COLUMNA LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:29:22',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='EXERESIS DE LIPOMA EN TORAX HACE 5 AÑOS',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28501100258084118220211112062922186',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=105 -->2021-11-12 18:47:30
+182-->update dns_traumatologiaanamesis set clie_id=285,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. CICLOBENZAPRINA 10 MG VO HS
+3. RX AP Y LATERAL DE COLUMNA LUMBAR',anam_referencia='LIBRE DEMANDA',atenc_id=216,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y TENIENDO COMO CAUSA APARENTE ESTRES EMOCIONAL PRESENTA DOLOR DE COLUMNA LUMBAR IRRADIADO A GLUTEO IZQUIERDO SIN PARESTESIAS, HA TENIDO 4 EVENTOS DE DOLOR SIENDO EL ULTIMO HACE 1 SEMAN, SE AUTOMEDICA ARTREN VO POR 3 DIAS CON MEJORIA NOTABLE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE COLUMNA LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:29:22',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='EXERESIS DE LIPOMA EN TORAX HACE 5 AÑOS',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28501100258084118220211112062922186',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=105 -->2021-11-12 18:47:37
+182-->update dns_traumatologiaanamesis set clie_id=285,anam_planes='1. ETORICOXIB 120 MG VO QD
+2. CICLOBENZAPRINA 10 MG VO HS
+3. RX AP Y LATERAL DE COLUMNA LUMBAR',anam_referencia='LIBRE DEMANDA',atenc_id=216,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y TENIENDO COMO CAUSA APARENTE ESTRES EMOCIONAL PRESENTA DOLOR DE COLUMNA LUMBAR IRRADIADO A GLUTEO IZQUIERDO SIN PARESTESIAS, HA TENIDO 4 EVENTOS DE DOLOR SIENDO EL ULTIMO HACE 1 SEMAN, SE AUTOMEDICA ARTREN VO POR 3 DIAS CON MEJORIA NOTABLE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE COLUMNA LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-11-12 18:29:22',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='EXERESIS DE LIPOMA EN TORAX HACE 5 AÑOS',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='28501100258084118220211112062922186',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=105 -->2021-11-12 18:47:55
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 18:53:14
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='1',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 19:06:50
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 19:21:58
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='0',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 19:22:55
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='1',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='prueba',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 19:25:53
+1-->update dns_protocolooperatorio set usua_id=175,protoop_fecharegistro='2021-10-11 12:52:42',atenc_id=130,centro_id=1,clie_id=148,protoop_exposicion='ARTROSCOPIO, ARMY NAVY',protoop_exploracion='1.- SINOVIAL HIPERTROFICA HIPERHEMICA 						
+2.- RUPTURA  EN V INVERTIDA DE SUPRAESPINOSO CON RETRACCION DE 6 CM						
+3.- BURSA HIPERTROFICA						
+4.- PINZAMIENTO SUBACROMIAL						
+5.- TENDON BICIPITAL: DEGENERADO Y APLANADO					
+6.- DESINSERCION DE',protoop_examen='1',protoop_procedimiento='POSICION EN SILLA DE PLAYA						
+ASEPSIA Y ANTISEPSIA 						
+COLOCACIÒN DE CAMPOS 						
+DIERESIS DE PORTALES DESCRITOS						
+EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+SINOVECTOMIA MAYOR  						
+AMPLIACION DE ESPACIO SUBACROMIAL CON SHAVER',protoop_proyectada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_sintesis='VICLRYL 2/0
+ETHILON 3/0',protoop_cirujanouno='DR. FRANCISCO SILVA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM A NIVEL DE PORTAL ANTERIOR, POSTERIOR Y LATERAL',protoop_selectiva='1',protoop_instrumentista='SRA. ISABEL ROSS',protoop_examendetalle='prueba',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. MARCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='76',protoop_paleativa='',protoop_realizada='ARTROSCOPIA MAS PLASTIA DE MANGUITO ROTADOR',protoop_ayudanteuno='',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='14801171233511417520211011125242192',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2021-10-11',protoop_horainicio='11:45',protoop_horafin='13:00' where protoop_id=33 -->2021-11-12 19:27:21
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=211,centro_id=1,clie_id=279,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 40 AÑOS, SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPECTOMIA + AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CARGO DE C. PLASTICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-11 06:47:01',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='27901172173839917820211111064701284',anam_cirugia='',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-10-23',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=142 -->2021-11-12 20:15:09
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,279,1,211,'1','142','PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA PARA VALORACION POR CONSULTA EXTERNA.','','','','2021-11-12 20:15:11','','1','','PACIENTE FEMENINA 40 AÑOS, SOLTERA, DIESTRA, RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACION PSICOLOGA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: PADRE CON DM2 E HTA, ABUELA MATERNA CA DE ESTOMAGO
+AQX: CESAREA 
+ALERGIAS: NO REFIERE
+AGO: G3, C2, P0, A1   FUM: 23/10/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: PACIENTE ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR ESPECIALIDAD DE CIRUGIA PLASTICA POR DISCONFORT CORPORAL. AL MOMENTO PACIENTE ASINTOMATICA.','','27901172300165518920211112081511484','','11/11/2021: INGRESA PACIENTE Y SE REALIZA LIPOABDOMINOPLASTIA + PEXIA + PROTESIS MAMARIAS
+12/11/2021: PACIENTE CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA','','','PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. ABDOMEN MATARASSO III-IV DIASTASIS DE RECTOS ANTERIORES A NIVEL SUPRAUMBILICAL DE 4CM E INFRAUMBILICAL DE 3CM, ESCASAS ESTRIAS EN HEMIABDOMEN SUPERIOR
+2. PTOSIS MAMARIA GRADO I MAMAS ASIMETRICAS, DISTANCIA ESCOTADURA ESTERNAL-PEZON DERECHO 24.5 CM, DISTANCIA ESCOTADURA ESTERNAL-PEZON IZQUIERDO 25 CM','','','SE REALIZA BAJO ANESTESIA GENERAL LIPOABDOMINOPLASTIA + PEXIA + PROTESIS MAMARIAS, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. PARACETAMOL 1 GR IV CADA 8 HORAS
+   2. KETOROLACO 30 MG IV CADA 8 HORAS
+   3. CEFAZOLINA 1 GR IV CADA 8 HORAS
+   4. OMEPRAZOL 40 MG IV CADA DIA
+   5. TIOCOLCHICOSIDO 8 MG VO CADA 12 HORAS
+   6. HIRUDOID TOPICO APLICAR EN ABDOMEN CADA 8 HORAS
+
+INDICACIONES DE ALTA:
+   1. CIPROFLOXACINA 500 MG VO CADA 12 HORAS X 6 DIAS
+   2. DICLOFENACO 25 MG + TRAMADOL 25 MG VO CADA 8 HORAS
+   3. PARACETAMOL 1 GR VO CADA 8 HORAS
+   4. TIOCOLCHICOSIDO 8 MG VO CADA 12 HORAS
+   5. METOCLOPRAMIDA 10 MG VO PRN
+   6. CONTROL POR CONSULTA EXTERNA EN 7 DIAS
+   7. REPOSO POR 15 DIAS')-->2021-11-12 20:16:39
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=279,centro_id=1,atenc_id=211,anam_altadefinitiva='1',protoop_idenlace='142',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA PARA VALORACION POR CONSULTA EXTERNA.',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:15:11',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 40 AÑOS, SOLTERA, DIESTRA, RESIDENTE EN QUITO, INSTRUCCIÓN SUPERIOR, OCUPACION PSICOLOGA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: PADRE CON DM2 E HTA, ABUELA MATERNA CA DE ESTOMAGO
+AQX: CESAREA 
+ALERGIAS: NO REFIERE
+AGO: G3, C2, P0, A1   FUM: 23/10/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: PACIENTE ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR ESPECIALIDAD DE CIRUGIA PLASTICA POR DISCONFORT CORPORAL. AL MOMENTO PACIENTE ASINTOMATICA.',anam_nhoja='',anam_enlace='27901172300165518920211112081511484',anam_discapacidadleve='',anam_resumenevolucion='11/11/2021: INGRESA PACIENTE Y SE REALIZA LIPOABDOMINOPLASTIA + PEXIA + PROTESIS MAMARIAS
+12/11/2021: PACIENTE CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. ABDOMEN MATARASSO III-IV DIASTASIS DE RECTOS ANTERIORES A NIVEL SUPRAUMBILICAL DE 4CM E INFRAUMBILICAL DE 3CM, ESCASAS ESTRIAS EN HEMIABDOMEN SUPERIOR
+2. PTOSIS MAMARIA GRADO I MAMAS ASIMETRICAS, DISTANCIA ESCOTADURA ESTERNAL-PEZON DERECHO 24.5 CM, DISTANCIA ESCOTADURA ESTERNAL-PEZON IZQUIERDO 25 CM',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOABDOMINOPLASTIA + PEXIA + PROTESIS MAMARIAS, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. PARACETAMOL 1 GR IV CADA 8 HORAS
+   2. KETOROLACO 30 MG IV CADA 8 HORAS
+   3. CEFAZOLINA 1 GR IV CADA 8 HORAS
+   4. OMEPRAZOL 40 MG IV CADA DIA
+   5. TIOCOLCHICOSIDO 8 MG VO CADA 12 HORAS
+   6. HIRUDOID TOPICO APLICAR EN ABDOMEN CADA 8 HORAS
+
+INDICACIONES DE ALTA:
+   1. CIPROFLOXACINA 500 MG VO CADA 12 HORAS X 6 DIAS
+   2. DICLOFENACO 25 MG + TRAMADOL 25 MG VO CADA 8 HORAS
+   3. PARACETAMOL 1 GR VO CADA 8 HORAS
+   4. TIOCOLCHICOSIDO 8 MG VO CADA 12 HORAS
+   5. METOCLOPRAMIDA 10 MG VO PRN
+   6. CONTROL POR CONSULTA EXTERNA EN 7 DIAS
+   7. REPOSO POR 15 DIAS' where anam_id=90 -->2021-11-12 20:16:49
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=211,centro_id=1,clie_id=279,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 40 AÑOS, SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE LIPECTOMIA + AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CARGO DE C. PLASTICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-11 06:47:01',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='',anam_enlace='27901172173839917820211111064701284',anam_cirugia='',anam_cesareas='2',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-10-23',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-11',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=142 -->2021-11-12 20:16:54
+189-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=213,centro_id=1,clie_id=281,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS NACIDA EN TULCAN RESIDENTE EN QUITO DESDE HACE 15 AÑOS, MESTIZA, CASADA, DE INSTRUCCION SUPERIOR, AUDITORA, CATOLICA, DIESTRA, TIPO DE SANGRE ORH +, NO REFIERE ANTECEDENTES PATOLOGICOS PERSONALES DE IMPORTANCIA, ENTRE SUS ANTECEDENTES QUIRURGICOS REFEIRE RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PORTESIS MAMARIAS HACE 2 AÑOS Y MEDIO Y 3 CESAREAS ULTIMA EN SEPTIEMBRE DDE 2019. REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_planes='1 INGRESO A HOSPITALIZACION 
+2 CANALIZAR VIA 
+3 NADA POR VIA ORAL 
+4 ACUDIR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-12 07:31:36',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='28101131202875419620211112073136121',anam_cirugia='LIPOSUCCION',anam_cesareas='3',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='3',anam_ayudante='DRA. VILLACRES',anam_fum='2021-11-03',anam_anestesiologo='D. SANATANA',anam_fup='2019-09-08',anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=144 -->2021-11-12 20:19:51
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,281,1,213,'','144','','','','','2021-11-12 20:39:47','','','','PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.','','28101172300165518920211112083947391','','PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.','','','PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO','','','SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS')-->2021-11-12 20:40:29
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:30
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:31
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:32
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:33
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:34
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:35
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:43
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:46
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:47
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:48
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:48
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:50
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='',protoop_idenlace='144',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:40:57
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='1',protoop_idenlace='144',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA PARA VALORACION POR CONSULTA EXTERNA.',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:41:16
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=281,centro_id=1,atenc_id=213,anam_altadefinitiva='1',protoop_idenlace='144',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA PARA VALORACION POR CONSULTA EXTERNA.',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:39:47',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA 32 AÑOS, NACIDA EN TULCAN, RESIDENTE EN QUITO, CASADA, DIESTRA, INSTRUCCIÓN SUPERIOR, OCUPACION AUDITORA, GRUPO SANGUINEO O+
+APP: NO REFIERE
+APF: NO REFIERE
+AQX: RINOPLASTIA HACE 10 AÑOS, LIPOSUCCION + PROTESIS MAMARIAS HACE 2 AÑOS Y MEDIO, 3 CESAREAS
+ALERGIAS: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, G3, C3, P0, A0   FUM: 03/11/2021
+
+MC: CIRUGIA PROGRAMADA
+EA: REFIERE QUE POR AUMENTO DE PESO TOMA DECISION DE REALIZAR CIRUGIA PLASTICA ESTETICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA REALIZAN EXAMENES PREQUIRURGICOS Y PROGRAMAN CIRUGIA PARA EL DIA DE HOY POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_nhoja='',anam_enlace='28101172300165518920211112083947391',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA REALIZACION DE CIRUGIA PROGRAMADA, CON EVOLUCION FAVORABLE, BUEN MANEJO DEL DOLOR, DIURESIS ESPONTANEA, EN CONDICIONES DE ALTA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='PARACLINICOS NORMALES
+
+HALLAZGOS:
+1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3800 CC
+4. INJERTO GRASO DE 480 CC EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA BAJO ANESTESIA GENERAL LIPOESCULTURA + INJERTO GLUTEO, SIN COMPLICACIONES.
+
+INDICACIONES DE HOSPITALIZACION:
+   1. LACTATO RINGER 1000 ML PASAR IV A 60ML/H
+   2. KETOROLACO 30 MG IV 18H00
+   3. METAMIZOL 1 GR IV 14H00
+
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. ETORICOXIB 120 MG VO CADA DIA X 5 DIAS
+   3. AMOXICILINA + AC. CLAVULANICO 625 MG VO CADA 8 HORAS X 7 DIAS
+   4. OMEPRAZOL 20 MG VO 30 MINUTOS ANTES DEL DESAYUNO X 7 DIAS
+   5. PREGABALINA 75 MG VO CADA NOCHE X 5 DIAS
+   6. MASAJES POSTQUIRURGICOS MAÑANA
+   7. FAJA PERMANENTE
+   8. CONTROL POR CONSULTA EXTERNA EN 7 DIAS' where anam_id=91 -->2021-11-12 20:41:20
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='CIRUGIA DE PROTESIS DE MAMAS PROGRAMADA',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='28201172300165518920211112013947310',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:41:44
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:49:17
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:49:24
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:49:27
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (214,189,1,282,'PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIARL, ZURDA, ABRH+. INGRESA PARA CIRUGIA PLASTICA PROGRAMADA DE PROTESIS MAMARIA',145,'2021-11-12',4,'2021-11-12 20:49:43','09:00','28201172300165518920211112084943486')-->2021-11-12 20:51:09
+189-->update dns_hospitalconsultaexterna set atenc_id=214,usua_id=189,centro_id=1,clie_id=282,conext_notasdeevolucion='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIARL, ZURDA, ABRH+. INGRESA PARA CIRUGIA PLASTICA PROGRAMADA DE PROTESIS MAMARIA',anam_id=145,conext_fechar='2021-11-12',estaatenc_id=4,conext_fecharegistro='2021-11-12 20:49:43',conext_horar='09:00',conext_enlace='28201172300165518920211112084943486' where conext_id=253 -->2021-11-12 20:51:15
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:51:23
+189-->update dns_protocolooperatorio set usua_id=189,protoop_fecharegistro='2021-11-12 13:42:34',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201172300165518920211112014234372',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='0000-00-00',protoop_horainicio='00:00',protoop_horafin='00:00' where protoop_id=88 -->2021-11-12 20:51:36
+189-->update dns_protocolooperatorio set usua_id=189,protoop_fecharegistro='2021-11-12 13:42:34',atenc_id=214,centro_id=1,clie_id=282,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='145',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='28201172300165518920211112014234372',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='0000-00-00',protoop_horainicio='00:00',protoop_horafin='00:00' where protoop_id=88 -->2021-11-12 20:51:36
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:52:21
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:52:30
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=214,centro_id=1,clie_id=282,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_planes='CIRUGIA PROGRAMADA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='3',anam_fecharegistro='2021-11-12 13:39:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='28x3',anam_enlace='28201172300165518920211112013947310',anam_cirugia='PROTESIS MAMARIAS',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. MENENDEZ',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-12',anam_metodopfamiliar=1,anam_metodopfamiliartex='LIGADURA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=145 -->2021-11-12 20:52:32
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,282,1,214,'','145','','','','','2021-11-12 20:52:34','','','','PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.','','28201172300165518920211112085234120','','12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA','','','HIPOPLASIA MAMARIA','','','SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA')-->2021-11-12 21:02:21
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=282,centro_id=1,atenc_id=214,anam_altadefinitiva='',protoop_idenlace='145',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:52:34',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_nhoja='',anam_enlace='28201172300165518920211112085234120',anam_discapacidadleve='',anam_resumenevolucion='12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HIPOPLASIA MAMARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA' where anam_id=92 -->2021-11-12 21:02:28
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=282,centro_id=1,atenc_id=214,anam_altadefinitiva='',protoop_idenlace='145',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:52:34',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_nhoja='',anam_enlace='28201172300165518920211112085234120',anam_discapacidadleve='',anam_resumenevolucion='12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HIPOPLASIA MAMARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA' where anam_id=92 -->2021-11-12 21:02:33
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=282,centro_id=1,atenc_id=214,anam_altadefinitiva='',protoop_idenlace='145',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:52:34',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_nhoja='',anam_enlace='28201172300165518920211112085234120',anam_discapacidadleve='',anam_resumenevolucion='12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HIPOPLASIA MAMARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA' where anam_id=92 -->2021-11-12 21:02:40
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=282,centro_id=1,atenc_id=214,anam_altadefinitiva='1',protoop_idenlace='145',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:52:34',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_nhoja='',anam_enlace='28201172300165518920211112085234120',anam_discapacidadleve='',anam_resumenevolucion='12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HIPOPLASIA MAMARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA' where anam_id=92 -->2021-11-12 21:03:08
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=282,centro_id=1,atenc_id=214,anam_altadefinitiva='1',protoop_idenlace='145',anam_condicionegreso='PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, CON EVOLUCION FAVORABLE HASTA EL MOMENTO Y BUEN PRONOSTICO, EN CONDICION DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-12 20:52:34',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 35 AÑOS DE EDAD, NACIDA EN COLOMBIA Y RESIDENTE EN QUITO, UNION LIBRE, CATOLICA, INSTRUCCIÓN BACHILLER, OCUPACION ASESORA COMERCIAL, ZURDA, ABRH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: MENARQUIA: 16 AÑOS, FUM: 06/11/2021, CICLOS: 28x3, G: 3  A: 0  P: 3  C:  0  HV: 3, VSA: SI, PF: LIGADURA
+AQX: COLOCACION DE MALLA POR DESCENSO DE VEJIGA, BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA: PFIZER 2DA DOSIS AGOSTO/2021
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE INCONFORMIDAD CON ASPECTO DE SUS MAMAS DESDE HACE 3 AÑOS, POR LO QUE HACE DOS SEMANAS ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA PARA EL DIA DE HOY.',anam_nhoja='',anam_enlace='28201172300165518920211112085234120',anam_discapacidadleve='',anam_resumenevolucion='12/11/2021: PACIENTE INGRESA PARA CIRUGIA ESTETICA CON BUENA EVOLUCION, TOLERA DIETA, BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HIPOPLASIA MAMARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='SE REALIZA  BAJO ANESTESIA GENERAL COLOCACION DE PROTESIS MAMARIAS, SIN COMPLICACIONES
+
+INDICACIONES POSTQUIRURGICAS:
+   1.     NPO POR 2 HORAS Y LUEGO DIETA LIQUIDOS CLAROS
+   2.     PARACETAMOL 1GR IV PRN
+   3.     METAMIZOL 1 GR IV CADA 6 HORAS
+   5.     KETOROLACO 30 MG IV CADA 8 HORAS 
+   6.     TRAMADOL 100 MG EN 100 ML SOLUCION SALINA 0,9% IV LENTO
+
+INDICACIONES DE ALTA:
+   1. PARACETAMOL 1 GR VO CADA 8 HORAS X 5 DIAS
+   2. KETOROLACO 20 MG VO CADA 8 HORAS X 5 DIAS
+   3. AMOXICILINA 500 MG VO CADA 8 HORAS X 7 DIAS
+   4. FAJA PECTORAL PERMANENTE
+   5. SIGNOS DE ALARMA
+   6. CONTROL EN 7 DIAS POR CONSULTA EXTERNA' where anam_id=92 -->2021-11-12 21:03:15

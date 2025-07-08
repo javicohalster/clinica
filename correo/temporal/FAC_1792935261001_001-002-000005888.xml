@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        					<autorizacion>
+        					<estado>AUTORIZADO</estado>
+        					<numeroAutorizacion>1608202301179293526100120010020000058880000588817</numeroAutorizacion>
+        					<fechaAutorizacion>2023-08-16T12:21:45-05:00</fechaAutorizacion>
+        					<ambiente>PRODUCCION</ambiente>
+        					<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CLINICA LOS PINOS</razonSocial>
+<nombreComercial>CLINICA LOS PINOS</nombreComercial>
+<ruc>1792935261001</ruc>
+<claveAcceso>1608202301179293526100120010020000058880000588817</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000005888</secuencial>
+<dirMatriz>ELIA LIUT N45-10 Y TELEGRAFO PRIMERO</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>16/08/2023</fechaEmision>
+<dirEstablecimiento>ELIA LIUT N45-10 Y TELEGRAFO PRIMERO</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>RONNY ISAMEL RIOS GALARZA </razonSocialComprador>
+<identificacionComprador>1719770552</identificacionComprador>
+<totalSinImpuestos>252.44</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>139.91</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>112.53</baseImponible>
+<valor>13.50</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>265.94</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos><pago><formaPago>20</formaPago><total>265.94</total></pago></pagos></infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>EM8</codigoPrincipal>
+<codigoAuxiliar>EM8</codigoAuxiliar>
+<descripcion>DERECHO USO DE SALA  EMERGENCIA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>21.2500</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>21.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>21.25</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>EM9</codigoPrincipal>
+<codigoAuxiliar>EM9</codigoAuxiliar>
+<descripcion>ATENCION EMERGENCIA TIPO A</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>21.2500</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>21.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>21.25</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>SER- PROCE8266</codigoPrincipal>
+<codigoAuxiliar>SER- PROCE8266</codigoAuxiliar>
+<descripcion>COLOCACION DE YESO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>40.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>40.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>SER-INT</codigoPrincipal>
+<codigoAuxiliar>SER-INT</codigoAuxiliar>
+<descripcion>INTERCONSULTA EN EMERGENCIA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>50.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>50.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>SER-UM</codigoPrincipal>
+<codigoAuxiliar>SER-UM</codigoAuxiliar>
+<descripcion>MATERIAL DE USO MENOR EMERGENCIA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7502245841361</codigoPrincipal>
+<codigoAuxiliar>7502245841361</codigoAuxiliar>
+<descripcion>KETOROLACO 30MG/1ML INY VIT</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.5300</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.53</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>0.53</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7707141301258</codigoPrincipal>
+<codigoAuxiliar>7707141301258</codigoAuxiliar>
+<descripcion>CLORURO DE SODIO 0,9% 100ML. BAX</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.0600</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.06</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>1.06</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7707236122072</codigoPrincipal>
+<codigoAuxiliar>7707236122072</codigoAuxiliar>
+<descripcion>DEXAMETASONA FOSFATO INY 4MG/1ML VIT</descripcion>
+<cantidad>2.00</cantidad>
+<precioUnitario>0.4100</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.82</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>0.82</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4022495006660</codigoPrincipal>
+<codigoAuxiliar>4022495006660</codigoAuxiliar>
+<descripcion>INTROCAN No. 18 BRAUN</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.0600</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.06</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.06</baseImponible>
+<valor>0.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4046719388936</codigoPrincipal>
+<codigoAuxiliar>4046719388936</codigoAuxiliar>
+<descripcion>TEGADERM 6.5 X 7  1683</descripcion>
+<cantidad>2.00</cantidad>
+<precioUnitario>3.3900</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.78</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>6.78</baseImponible>
+<valor>0.81</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4968420508451</codigoPrincipal>
+<codigoAuxiliar>4968420508451</codigoAuxiliar>
+<descripcion>LLAVE DE TRES VIAS NIPRO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.6000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.60</baseImponible>
+<valor>0.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FIBRA4 0005623</codigoPrincipal>
+<codigoAuxiliar>FIBRA4 0005623</codigoAuxiliar>
+<descripcion>FIBRA DE VIDRIO 4"</descripcion>
+<cantidad>2.00</cantidad>
+<precioUnitario>44.6400</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>89.28</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>89.28</baseImponible>
+<valor>10.71</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>TEMP64D285A0B5AF8</codigoPrincipal>
+<codigoAuxiliar>TEMP64D285A0B5AF8</codigoAuxiliar>
+<descripcion>jeringuilla 10 ml</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.1400</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.14</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.14</baseImponible>
+<valor>0.02</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>TEMP64D288A093BE5</codigoPrincipal>
+<codigoAuxiliar>TEMP64D288A093BE5</codigoAuxiliar>
+<descripcion>ESTOQUINETE </descripcion>
+<cantidad>50.00</cantidad>
+<precioUnitario>0.0300</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.50</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.50</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>TEMP64D2C0620FE0F</codigoPrincipal>
+<codigoAuxiliar>TEMP64D2C0620FE0F</codigoAuxiliar>
+<descripcion>K-Y GEL LUBRICANTE </descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>12.4300</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>12.43</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>12.43</baseImponible>
+<valor>1.49</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>VWATTADHISVE021</codigoPrincipal>
+<codigoAuxiliar>VWATTADHISVE021</codigoAuxiliar>
+<descripcion>VENDA DE WATTA DE 6 DHISVE</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.7400</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.74</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.74</baseImponible>
+<valor>0.09</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Agente de Retencion">RESOLUCION: NAC-DNCRASC20-00000001</campoAdicional>
+<campoAdicional nombre="direccionComprador">AV. SOLANDA JOSE BARRERA</campoAdicional>
+<campoAdicional nombre="telefonoComprador">0998000664</campoAdicional>
+<campoAdicional nombre="CorreoCliente">hitamararmijos.farmaenlace.com</campoAdicional>
+<campoAdicional nombre="Tipo">SEGUROS</campoAdicional>
+<campoAdicional nombre="Convenio">FARMAENLACE </campoAdicional>
+<campoAdicional nombre="adicionalfac">ATENCION POR EMERGENCIA PCTE RIOS RONNY</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature551626">
+<ds:SignedInfo Id="Signature-SignedInfo750163">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID947046" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature551626-SignedProperties684929">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>phtKWyEXqYYdujjfjc4HJHzhIK8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1658283">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UYnHZ/bWwztfr7KXTmTiTZaMvEI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1004409" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QBp4LRL4i+/lAd8JkmvFnZybHpM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1048156">
+nIfmO9JX7ja1FjpMSRTWGuNXMfs9fscteeUY3KH05pj8B8hKv4prIQa7DLq/RjuvvixnrdJ1TVw+
++MC5LABtfSSLD+V4cqgVAS7Vu5QfnFLpAPZr5kxKo73UhpZL7a7wKraWAy3DP31iotBcvqdDZbMY
+uukR0BdC7mlbQ98kZOm5shh4OeCn7yPyy3HPU0HjjIvmQitHTC6MOa9beepHnPIzRrFYrsTxp4Bj
+NgeAwZyvdO6/jH1c44fVZehgG12JD0FTU3rj9V1g6OoZVXbZhbPDbu5zK7CH/s+ep/pHEAWXBy0W
+l5gl+Idl8b7epGBeL1dRBysEqr0A0ZJSjFwpoQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1658283">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMJjCCCg6gAwIBAgIEOcD4SDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA2MjMyMTU3MTRaFw0yNTA2MjIyMTU3MTRaMIGcMSUw
+IwYDVQQDDBxQQVRSSUNJTyBKQVZJRVIgR1VaTUFOIEJSQVZPMRUwEwYDVQQFEwwyMzA2MjMxNzA2
+NDExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA0hGsFn5Dct8uUQV9zZcMFT6AgSoSQKL/kv2798BIsYJCBUHGqu4hKuhK
+inJysqWUWW26dEG5DDicdWa8v6AJsAd3UF9rUVVlVv0dVuA9y60ILafnKxWbJ7bTHVNR/meul2ce
+NEu7x0xXor3fmIP4q4I4unHps8W2cV+uB4+ify62qnhbQ7E24QxypjdW1ccsu7eHNQ8DEnEkBMtV
+22p3Rccht50C3L0JvLqg59FmxlvH4ophtxs6TFKywlkkw1nlPGYO/EeSoMYgBS92UJbNHboCVcnZ
+ccbc8u4CbZVGyOCeX+jW5SkdpgZ4S87UEtL7IG9f5krjVAKQxEGuv7GKDwIDAQABo4IHbzCCB2sw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJwYDVR0RBCAwHoEcZ2VyZW5jaWFAY2xpbmljYWxvc3Bpbm9zLmNvbTCCARUGA1UdIASC
+AQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYB
+BAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCC
+ApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8v
+cG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJk
+aXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTgNJKApQQijCT7
+tqSrul7w+80gmTArBgNVHRAEJDAigA8yMDIzMDYyMzIxNTcxNFqBDzIwMjUwNjIyMjE1NzE0WjAL
+BgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnID
+AQQMDAoxMDAyNTIxNjEzMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEu
+MDQGCisGAQQBgqZyAwcEJgwkRUxJQSBMSVVUIE40NSAxMCBZIFRFTEVHUkFGTyBQUklNRVJPMB8G
+CisGAQQBgqZyAwIEEQwPUEFUUklDSU8gSkFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAw
+NjQyMjc5MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgor
+BgEEAYKmcgMDBAgMBkdVWk1BTjBBBgorBgEEAYKmcgMKBDMMMUNMSU5JQ0EgTE9TIFBJTk9TIEdV
+RVJSQSBHVVpNQU4gUElOT1NNRUQgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0xNzkyOTM1MjYx
+MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFQYKKwYBBAGCpnIDBAQHDAVCUkFWTzAaBgorBgEEAYKm
+cgMIBAwMCjA5ODcyNzcxMDQwDQYJKoZIhvcNAQELBQADggIBAGp+9DZ+K3Jg/bZzOLtk+ZqfWXgu
+n1pqQkKW3ZRnRatxgv8N0vvkRvpLTtsO7KcuzPm427KKX80650M7VSg3ZIFRzfuArq/8ySW8ebmk
+FGIeo/8FP96Nh5Ze9DJAMpo+al7zLGbIEooyZLNAK1kEH9PEQ6AdTlvLkhtaNcWpN3Tigdz5CKtS
+MPIcHyhm6gy8razD2OKWO7e/NZAcQYe3HKVnv1nDykmxX6CpsMEL08aSaiQz5I+rx46SVXrwDkme
+BpNn8ct++oR2IM9A9SVCSII5KibHTQoxXxdY4phcpUCNvJFJtfuXe6vTLgj96VyHoFYJK7/RgzaE
+yAsLn70iAc7QCKEovZckAX1LT6RQ/Xry/eTQkLYjX9mLEZmDM7dtqKKpScrK/bm4behAE361cv9Z
+47lWFADgWSke+SW3E0BEbGELH1RDryqUhyEHnT00ycE35JRhBCM5uD/fUVsol3lgejzH2omuKQSD
+LT4Qd7MT5/o4WPf2zBQBOyg5O9S9kGT0Hq6k5T/EJhm3etkSAA3tyL4FqtKjNA9n5C7/jqBicSXA
+KcPTsioTY0Jr05m8ZG7CAnnIrSE73eV2fT8DyG7Z1AOENbmW2vV7dW/ZcGS9K7rej+2ihDVtyC+3
+4Qnyi433ysBXbxQOjihweOUD4W3pQ1THG4jAoYAoqWm7akx4
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0hGsFn5Dct8uUQV9zZcMFT6AgSoSQKL/kv2798BIsYJCBUHGqu4hKuhKinJysqWUWW26dEG5DDic
+dWa8v6AJsAd3UF9rUVVlVv0dVuA9y60ILafnKxWbJ7bTHVNR/meul2ceNEu7x0xXor3fmIP4q4I4
+unHps8W2cV+uB4+ify62qnhbQ7E24QxypjdW1ccsu7eHNQ8DEnEkBMtV22p3Rccht50C3L0JvLqg
+59FmxlvH4ophtxs6TFKywlkkw1nlPGYO/EeSoMYgBS92UJbNHboCVcnZccbc8u4CbZVGyOCeX+jW
+5SkdpgZ4S87UEtL7IG9f5krjVAKQxEGuv7GKDw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature551626-Object602698"><etsi:QualifyingProperties Target="#Signature551626"><etsi:SignedProperties Id="Signature551626-SignedProperties684929"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-08-16T12:21:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>FOGJushzYonMseMVdIONxadd0nk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>968947784</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1004409"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+        					</autorizacion>

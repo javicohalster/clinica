@@ -1,0 +1,1 @@
+510-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('EMERGENCIA ','2024-06-16','','1','6','1','25','8711','0117257443855102024061607504195','2024-06-16 19:51:07','510')-->2024-06-16 19:51:07

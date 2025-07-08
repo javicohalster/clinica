@@ -1,0 +1,250 @@
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='atencion_cirugia_convenios',virtual_scriptalert='select c.clie_rucci as identificacion,c.clie_nombre as nombre_paciente,c.clie_apellido as apellido_paciente,
+etp.tippo_nombre as tipo_cobro_nombre,
+cv.conve_nombre as convenio,
+a.atenc_observacion as motivo_atencion,
+consultaext.consulta as medicina_externa,
+consultaext.medico as medico_consulta_externa,
+consultaext.especialidad as especialidad_consulta_ext,
+consultaext.fecha_registro_ext as fecha_consulta_externa,
+trauma.consulta as consulta_traumatologia,
+trauma.medico as medico_traumatologia,
+trauma.especialidad as especialidada_trauma, 
+trauma.fecha_registro_trauma as fecha_consulta_trauma,
+gineco.consulta as consulta_ginecologia,
+gineco.medico as medico_ginecologia,
+gineco.especialidad as especialidada_gineco, 
+gineco.fecha_registro_gine as fecha_consulta_gineco,
+hospi.motivo_consulta as motivo_hospitalizacion,
+hospi.cirugia as cirugia,
+hospi.medico_registra as medico_registra,
+hospi.medico_tratante as medico_tratante,
+hospi.ayudante as ayudante,
+hospi.anestesiologo as anestesiologo,
+hospi.especialidad as especialidada_hospi, 
+hospi.especialidad_cirugia as especialidad_cirugia,
+hospi.fecha_registro_hospi as fecha_consulta_hospi
+from app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+left join (SELECT ana.anam_motivoconsulta as consulta,ana.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, ana.anam_fecharegistro as fecha_registro_ext
+FROM `dns_anamesisexamenfisico` ana
+join dns_atencion ate on ate.atenc_id=ana.atenc_id
+join app_usuario us on ana.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where ana.clie_id!=\'2\' and ana.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as consultaext
+on c.clie_id=consultaext.cliente
+left join (SELECT tra.anam_motivoconsulta as consulta,tra.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, tra.anam_fecharegistro as fecha_registro_trauma
+FROM `dns_traumatologiaanamesis` tra
+join dns_atencion ate on ate.atenc_id=tra.atenc_id
+join app_usuario us on tra.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where tra.clie_id!=\'2\' and tra.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as trauma
+on c.clie_id=trauma.cliente
+left join (SELECT gine.anam_motivoconsulta as consulta,gine.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, gine.anam_fecharegistro as fecha_registro_gine
+FROM `dns_ginecologiaanamesis` gine
+join dns_atencion ate on ate.atenc_id=gine.atenc_id
+join app_usuario us on gine.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where gine.clie_id!=\'2\' and gine.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as gineco
+on c.clie_id=gineco.cliente
+left join (SELECT hospi.anam_motivoconsulta as motivo_consulta,
+hospi.anam_cirugia as cirugia,
+hospi.clie_id as cliente,
+us.usua_piefirma as medico_registra,
+pr.prof_nombre as especialidad,
+hospi.anam_tratante as medico_tratante,
+hospi.anam_ayudante as ayudante,
+hospi.anam_anestesiologo as anestesiologo,
+hospi.anam_especialidad as especialidad_cirugia,
+hospi.anam_fecharegistro as fecha_registro_hospi
+FROM `dns_hospitalanamesis` hospi
+join dns_atencion ate on ate.atenc_id=hospi.atenc_id
+join app_usuario us on hospi.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where hospi.clie_id!=\'2\' and hospi.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as hospi
+on c.clie_id=hospi.cliente
+where c.clie_id!=\'2\' and c.clie_id!=\'3\' and c.clie_id!=\'69\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=16 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='atencion_cirugia_convenios',virtual_scriptalert='select c.clie_rucci as identificacion,c.clie_nombre as nombre_paciente,c.clie_apellido as apellido_paciente,
+etp.tippo_nombre as tipo_cobro_nombre,
+cv.conve_nombre as convenio,
+a.atenc_observacion as motivo_atencion,
+consultaext.consulta as medicina_externa,
+consultaext.medico as medico_consulta_externa,
+consultaext.especialidad as especialidad_consulta_ext,
+consultaext.fecha_registro_ext as fecha_consulta_externa,
+trauma.consulta as consulta_traumatologia,
+trauma.medico as medico_traumatologia,
+trauma.especialidad as especialidada_trauma, 
+trauma.fecha_registro_trauma as fecha_consulta_trauma,
+gineco.consulta as consulta_ginecologia,
+gineco.medico as medico_ginecologia,
+gineco.especialidad as especialidada_gineco, 
+gineco.fecha_registro_gine as fecha_consulta_gineco,
+hospi.motivo_consulta as motivo_hospitalizacion,
+hospi.cirugia as cirugia,
+hospi.medico_registra as medico_registra,
+hospi.medico_tratante as medico_tratante,
+hospi.ayudante as ayudante,
+hospi.anestesiologo as anestesiologo,
+hospi.especialidad as especialidada_hospi, 
+hospi.especialidad_cirugia as especialidad_cirugia,
+hospi.fecha_registro_hospi as fecha_consulta_hospi,
+pedia.consulta as consulta_pediatria,
+pedia.medico as medico_pediatria,
+pedia.especialidad as especialidada_pedia, 
+pedia.fecha_registro_pedia as fecha_consulta_pedia
+from app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+left join (SELECT ana.anam_motivoconsulta as consulta,ana.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, ana.anam_fecharegistro as fecha_registro_ext
+FROM `dns_anamesisexamenfisico` ana
+join dns_atencion ate on ate.atenc_id=ana.atenc_id
+join app_usuario us on ana.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where ana.clie_id!=\'2\' and ana.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as consultaext
+on c.clie_id=consultaext.cliente
+left join (SELECT tra.anam_motivoconsulta as consulta,tra.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, tra.anam_fecharegistro as fecha_registro_trauma
+FROM `dns_traumatologiaanamesis` tra
+join dns_atencion ate on ate.atenc_id=tra.atenc_id
+join app_usuario us on tra.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where tra.clie_id!=\'2\' and tra.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as trauma
+on c.clie_id=trauma.cliente
+left join (SELECT gine.anam_motivoconsulta as consulta,gine.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, gine.anam_fecharegistro as fecha_registro_gine
+FROM `dns_ginecologiaanamesis` gine
+join dns_atencion ate on ate.atenc_id=gine.atenc_id
+join app_usuario us on gine.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where gine.clie_id!=\'2\' and gine.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as gineco
+on c.clie_id=gineco.cliente
+left join (SELECT hospi.anam_motivoconsulta as motivo_consulta,
+hospi.anam_cirugia as cirugia,
+hospi.clie_id as cliente,
+us.usua_piefirma as medico_registra,
+pr.prof_nombre as especialidad,
+hospi.anam_tratante as medico_tratante,
+hospi.anam_ayudante as ayudante,
+hospi.anam_anestesiologo as anestesiologo,
+hospi.anam_especialidad as especialidad_cirugia,
+hospi.anam_fecharegistro as fecha_registro_hospi
+FROM `dns_hospitalanamesis` hospi
+join dns_atencion ate on ate.atenc_id=hospi.atenc_id
+join app_usuario us on hospi.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where hospi.clie_id!=\'2\' and hospi.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as hospi
+on c.clie_id=hospi.cliente
+left join (SELECT pedia.anam_motivoconsulta as consulta,pedia.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, pedia.anam_fecharegistro as fecha_registro_pedia
+FROM `dns_pediatriaanamesis` pedia
+join dns_atencion ate on ate.atenc_id=pedia.atenc_id
+join app_usuario us on pedia.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where pedia.clie_id!=\'2\' and pedia.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as pedia
+on c.clie_id=pedia.cliente
+where c.clie_id!=\'2\' and c.clie_id!=\'3\' and c.clie_id!=\'69\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=16 
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='atencion_cirugia_convenios',virtual_scriptalert='select c.clie_rucci as identificacion,c.clie_nombre as nombre_paciente,c.clie_apellido as apellido_paciente,
+etp.tippo_nombre as tipo_cobro_nombre,
+cv.conve_nombre as convenio,
+a.atenc_observacion as motivo_atencion,
+consultaext.consulta as medicina_externa,
+consultaext.medico as medico_consulta_externa,
+consultaext.especialidad as especialidad_consulta_ext,
+consultaext.fecha_registro_ext as fecha_consulta_externa,
+trauma.consulta as consulta_traumatologia,
+trauma.medico as medico_traumatologia,
+trauma.especialidad as especialidada_trauma, 
+trauma.fecha_registro_trauma as fecha_consulta_trauma,
+gineco.consulta as consulta_ginecologia,
+gineco.medico as medico_ginecologia,
+gineco.especialidad as especialidada_gineco, 
+gineco.fecha_registro_gine as fecha_consulta_gineco,
+hospi.motivo_consulta as motivo_hospitalizacion,
+hospi.cirugia as cirugia,
+hospi.medico_registra as medico_registra,
+hospi.medico_tratante as medico_tratante,
+hospi.ayudante as ayudante,
+hospi.anestesiologo as anestesiologo,
+hospi.especialidad as especialidada_hospi, 
+hospi.especialidad_cirugia as especialidad_cirugia,
+hospi.fecha_registro_hospi as fecha_consulta_hospi,
+pedia.consulta as consulta_pediatria,
+pedia.medico as medico_pediatria,
+pedia.especialidad as especialidada_pedia, 
+pedia.fecha_registro_pedia as fecha_consulta_pedia,
+gastro.consulta as consulta_gastroenterologia,
+gastro.medico as medico_gastroenterologia,
+gastro.especialidad as especialidada_gastro, 
+gastro.fecha_registro_gastro as fecha_consulta_gastro
+from app_cliente c
+left join pichinchahumana_extension.dns_tipoproceso etp on etp.tippo_id=c.tippo_id
+left join pichinchahumana_extension.dns_convenios cv on cv.conve_id=c.conve_id 
+left join dns_atencion a on c.clie_id=a.clie_id
+left join (SELECT ana.anam_motivoconsulta as consulta,ana.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, ana.anam_fecharegistro as fecha_registro_ext
+FROM `dns_anamesisexamenfisico` ana
+join dns_atencion ate on ate.atenc_id=ana.atenc_id
+join app_usuario us on ana.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where ana.clie_id!=\'2\' and ana.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as consultaext
+on c.clie_id=consultaext.cliente
+left join (SELECT tra.anam_motivoconsulta as consulta,tra.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, tra.anam_fecharegistro as fecha_registro_trauma
+FROM `dns_traumatologiaanamesis` tra
+join dns_atencion ate on ate.atenc_id=tra.atenc_id
+join app_usuario us on tra.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where tra.clie_id!=\'2\' and tra.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as trauma
+on c.clie_id=trauma.cliente
+left join (SELECT gine.anam_motivoconsulta as consulta,gine.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, gine.anam_fecharegistro as fecha_registro_gine
+FROM `dns_ginecologiaanamesis` gine
+join dns_atencion ate on ate.atenc_id=gine.atenc_id
+join app_usuario us on gine.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where gine.clie_id!=\'2\' and gine.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as gineco
+on c.clie_id=gineco.cliente
+left join (SELECT hospi.anam_motivoconsulta as motivo_consulta,
+hospi.anam_cirugia as cirugia,
+hospi.clie_id as cliente,
+us.usua_piefirma as medico_registra,
+pr.prof_nombre as especialidad,
+hospi.anam_tratante as medico_tratante,
+hospi.anam_ayudante as ayudante,
+hospi.anam_anestesiologo as anestesiologo,
+hospi.anam_especialidad as especialidad_cirugia,
+hospi.anam_fecharegistro as fecha_registro_hospi
+FROM `dns_hospitalanamesis` hospi
+join dns_atencion ate on ate.atenc_id=hospi.atenc_id
+join app_usuario us on hospi.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where hospi.clie_id!=\'2\' and hospi.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as hospi
+on c.clie_id=hospi.cliente
+left join (SELECT pedia.anam_motivoconsulta as consulta,pedia.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, pedia.anam_fecharegistro as fecha_registro_pedia
+FROM `dns_pediatriaanamesis` pedia
+join dns_atencion ate on ate.atenc_id=pedia.atenc_id
+join app_usuario us on pedia.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where pedia.clie_id!=\'2\' and pedia.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as pedia
+on c.clie_id=pedia.cliente
+left join (SELECT gastro.anam_motivoconsulta as consulta,gastro.clie_id as cliente,us.usua_piefirma as medico,pr.prof_nombre as especialidad, gastro.anam_fecharegistro as fecha_registro_gastro
+FROM `dns_gastroenterologiaanamesis` gastro
+join dns_atencion ate on ate.atenc_id=gastro.atenc_id
+join app_usuario us on gastro.usua_id=us.usua_id
+join dns_gridfuncionprofesional gfp on gfp.usua_enlace=us.usua_enlace
+join pichinchahumana_extension.dns_profesion pr on pr.prof_id=gfp.prof_id
+where gastro.clie_id!=\'2\' and gastro.clie_id!=\'3\' and gfp.grdifun_activo=\'1\') as gastro
+on c.clie_id=gastro.cliente
+where c.clie_id!=\'2\' and c.clie_id!=\'3\' and c.clie_id!=\'69\'',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=16 
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='',sisu_id=1,rept_activo=1,vardev_nombre='Atencion Cirugia Convenios',vardev_aleatunico='6406126edc4c320230306041854135',rept_publicado='1',mnupan_id=180 where vardev_id=15 

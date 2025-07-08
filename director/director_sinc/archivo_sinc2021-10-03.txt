@@ -1,0 +1,13 @@
+update gogess_sisfield set fie_title='Parroquia:' where fie_id='6011';
+update gogess_sisfield set fie_title='Parroquia:' where fie_id='6011';
+update gogess_sisfield set fie_orden='11' where fie_id='3218';
+update gogess_sisfield set fie_title='Codigo ISSPOL:' where fie_id='8336';
+update gogess_sisfield set fie_type='textpeke' where fie_id='8336';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='8336';
+update gogess_sisfield set fie_group='3' where fie_id='8336';
+update gogess_sisfield set fie_orden='10' where fie_id='8336';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8336';
+update gogess_sisfield set fie_groupprint='3' where fie_id='8336';
+update gogess_sisfield set field_type='int' where fie_id='4105';
+update gogess_sisfield set fie_title='Id HC_Cliente:' where fie_id='3218';
+update gogess_sisfield set field_type='int' where fie_id='3218';

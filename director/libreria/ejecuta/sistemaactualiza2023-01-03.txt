@@ -1,0 +1,1 @@
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='O',crch_nameid='tinicial_bodega',crch_nombre='tinicial_bodega',crch_obligatorio=1,crch_orden=7,crch_patharchivo='',tiparch_id=16,tipc_id=1,tipda_id=3 where crch_id=150 

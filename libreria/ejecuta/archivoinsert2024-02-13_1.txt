@@ -1,0 +1,1065 @@
+196-->insert into dns_newhospitalizacionanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,les_id,anam_pdfcirugia,anam_emferpactual,anam_planes,anam_descripcionexafis,anam_centrorefiere,anam_analisis,anam_pdfconsentido,anam_profesionarefiere,anam_pdfanestesia,anam_menarquiaedad,estaatenc_id,anam_cirugia,anam_motivoconsulta,anam_partos,anam_especialidad,anam_fecharegistro,anam_menopausiaedad,anam_tratante,anam_abortos,anam_atpreventiva,anam_ayudante,anam_nhoja,anam_ciclos,anam_anestesiologo,anam_cesareas,anam_enlace,anam_fechaingreso,anam_gesta,anam_hijosvivos,anam_respiratorio,anam_fum,anam_observacionrespiratorio,anam_fup,anam_fuc,anam_colposcopia,anam_mamografia,anam_fuaprostatico,anam_fuecoprostatico,anam_metodopfamiliartex,anam_terapiahormonaltext,anam_edadsex) values (7411,196,1,6394,'','','','PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA','','','','PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.','','','','14 AÑOS',4,'CIRUGIA PROGRAMADA','CIRUGIA PROGRAMADA','0','CIRUGIA PLASTICA','2024-02-13 07:51:39','NA','DR. CACERES','0',0,'DRA. VILLACRES','','REGULARES','DR. CALERO','1','74110113120287541962024021307513990','2024-02-13 07:52','1','1','',NULL,'',NULL,NULL,NULL,NULL,'','','','','')-->2024-02-13 07:54:34
+196-->update dns_newhospitalizacionanamesis set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA',anam_planes='CHEQUEO PREANESTESICO
+PROCEDIMIENTO QUIRURGICO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_cirugia='CIRUGIA PROGRAMADA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-13 07:51:39',anam_menopausiaedad='NA',anam_tratante='DR. CACERES',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='1',anam_enlace='74110113120287541962024021307513990',anam_fechaingreso='2024-02-13 07:52',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=581 -->2024-02-13 07:56:10
+196-->update dns_newhospitalizacionanamesis set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA',anam_planes='CHEQUEO PREANESTESICO
+PROCEDIMIENTO QUIRURGICO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_cirugia='CIRUGIA PROGRAMADA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-13 07:51:39',anam_menopausiaedad='NA',anam_tratante='DR. CACERES',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='1',anam_enlace='74110113120287541962024021307513990',anam_fechaingreso='2024-02-13 07:52',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=581 -->2024-02-13 07:56:47
+196-->insert into dns_newhospitalizacionconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (7411,196,1,6394,'NOTA DE INGRESO 
+CIRUGÍA PLASTICA 
+
+PACIENTE FEMENINO DE 31 AÑOS, NACIDO EN CAYAMBE Y RESIDENTE EN QUITO, MESTIZO, SOLTERA, NIVEL DE INSTRUCCIÓN, SUPERIOR, DISEÑADORA GRAFICA, CATOLICO, DIESTRO, TIPO DE SANGRE O RH +.
+ALERGIAS: NINGUNA CONOCIDA, TRANSFUSIONES: NIEGA
+APP: NO REFIERE 
+APQX: CESARIA
+AGO: ANTICONCEPCION: ACO, G1P0C1A0, MENARQUIA 14 AÑOS 
+HABITOS: ALIMENTACIÓN 4 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2  VECES DÍA, ALCOHOL: SOCIAL , TABACO NIEGA,  
+VACUNA COVID 19: 4 DOSIS 
+APF: ABUELA MATERNA HTA
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA 
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN BLANDO DEPRESIBLE, RUIDOS HIDROAEREOS PRESENTES. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO, NO EDEMA.
+
+ANALISIS: PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.
+
+IDG: OTRAS CIRUGIAS POR RAZONES ESTETICAS (CIE 10: Z411) 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',581,'2024-02-13',4,'2024-02-13 07:56:51','07:56','1. INGRESO A HOSPITALIZACION
+2. NADA POR VIA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CUIDADOS DE ENFERMERIA
+5. DISPOSITIVO INTRAVENOSO SIN HEPARINA
+6. FIRMAR CONSETIMIENTO INFORMADO
+7. CHEQUEO PRE ANESTESICO
+8. SUBIR AL QUIROFANO AL LLAMADO
+9. ORDENES DR. CHRISTIAN CACERES','','741101131202875419620240213075651311')-->2024-02-13 07:57:26
+196-->update dns_newhospitalizacionconsultaexterna set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA PLASTICA 
+
+PACIENTE FEMENINO DE 31 AÑOS, NACIDO EN CAYAMBE Y RESIDENTE EN QUITO, MESTIZO, SOLTERA, NIVEL DE INSTRUCCIÓN, SUPERIOR, DISEÑADORA GRAFICA, CATOLICO, DIESTRO, TIPO DE SANGRE O RH +.
+ALERGIAS: NINGUNA CONOCIDA, TRANSFUSIONES: NIEGA
+APP: NO REFIERE 
+APQX: CESARIA
+AGO: ANTICONCEPCION: ACO, G1P0C1A0, MENARQUIA 14 AÑOS 
+HABITOS: ALIMENTACIÓN 4 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2  VECES DÍA, ALCOHOL: SOCIAL , TABACO NIEGA,  
+VACUNA COVID 19: 4 DOSIS 
+APF: ABUELA MATERNA HTA
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA 
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN BLANDO DEPRESIBLE, RUIDOS HIDROAEREOS PRESENTES. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO, NO EDEMA.
+
+ANALISIS: PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.
+
+IDG: OTRAS CIRUGIAS POR RAZONES ESTETICAS (CIE 10: Z411) 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=581,conext_fechar='2024-02-13',estaatenc_id=4,conext_fecharegistro='2024-02-13 07:56:51',conext_horar='07:56',conext_prescripciones='1. INGRESO A HOSPITALIZACION
+2. NADA POR VIA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CUIDADOS DE ENFERMERIA
+5. DISPOSITIVO INTRAVENOSO SIN HEPARINA
+6. FIRMAR CONSETIMIENTO INFORMADO
+7. CHEQUEO PRE ANESTESICO
+8. SUBIR AL QUIROFANO AL LLAMADO
+9. ORDENES DR. CHRISTIAN CACERES',conext_horaf='',conext_enlace='741101131202875419620240213075651311' where conext_id=275 -->2024-02-13 07:57:31
+185-->insert into dns_newprotocolooperatorio (centro_id,clie_id,atenc_id,usua_id,protoop_tblprincipal,protoop_fecharegistro,protoop_selectiva,protoop_cirujanouno,protoop_fechaoperacion,protoop_sintesis,protoop_idenlace,protoop_general,protoop_transquirurgico,protoop_emergencia,protoop_cirujanodos,protoop_horainicio,protoop_sintesisimagen,protoop_regional,protoop_biopsia,protoop_paleativa,protoop_ayudanteuno,protoop_horafin,protoop_sedacion,protoop_bioresultado,protoop_proyectada,protoop_ayudantedos,protoop_examen,protoop_otroanestesia,protoop_realizada,protoop_dieresis,protoop_examendetalle,protoop_tecerayudante,protoop_patologo,protoop_instrumentista,protoop_enlace,protoop_circulante,protoop_exposicion,protoop_anestesiologo,protoop_exploracion,protoop_ayudanteanestesia,protoop_otrointegrante,protoop_procedimiento,protoop_complicaciones,protoop_perdida,protoop_sangrado,protoop_protesico,anam_enlace) values (1,6187,'5390',185,'dns_newhospitalizacionanamesis','2024-02-13 07:49:10','1','DR. RICARDO YEPEZ','2024-01-04','','432','','NINGUNO','','','08:40','','1','0','','DRA. DAYANA VALERIA SALINAS SALINAS','09:40','','NO APLICA','VASECTOMÍA + BLOQUEO PUDENDO','','0','','VASECTOMÍA + BLOQUEO PUDENDO','0,5 MM BILATERALES EN ESCROTO','NO APLICA','','NO APLICA','JAQUELINE TORRES','618701020234257218520240213074910435','AUX CHICAIZA','INSTRUMENTAL','DR. ANDRES CAIZA','CONDUCTOS DEFERENTES DE FORMA Y TAMAÑO NORMAL','','','1. ASEPSIA Y ANTISEPSIA
+2. COLOCACIÓN DE CAMPOS ESTÉRILES
+3. INCISIÓN MEDIANTE PINZA DISECTORA
+4. IDENTIFICACIÓN, LIGADURA Y CAUTERIZACIÓN DE CONDUCTO DEFERENTE DERECHO
+5. CONTROL DE HEMOSTASIA
+6. IDENTIFICACIÓN, LIGADURA Y CAUTERIZACIÓN DE CONDUCTO DEFERENTE IZQUIERDO
+7. CONTROL DE HEMOSTASIA
+8. SÍNTESIS
+9. BLOQUEO PUDENDO BILATERAL
+10. FIN DE CIRUGÍA
+
+
+CÓDIGOS:
+55250
+64430','NINGUNO','0','0','0','')-->2024-02-13 08:11:23
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6187,atenc_id='5390',usua_id=185,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-13 07:49:10',protoop_selectiva='1',protoop_cirujanouno='DR. RICARDO YEPEZ',protoop_fechaoperacion='2024-01-04',protoop_sintesis='',protoop_idenlace='432',protoop_general='',protoop_transquirurgico='NINGUNO',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='08:40',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. DAYANA VALERIA SALINAS SALINAS',protoop_horafin='09:40',protoop_sedacion='',protoop_bioresultado='NO APLICA',protoop_proyectada='VASECTOMÍA + BLOQUEO PUDENDO',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='VASECTOMÍA + BLOQUEO PUDENDO',protoop_dieresis='0,5 MM BILATERALES EN ESCROTO',protoop_examendetalle='NO APLICA',protoop_tecerayudante='',protoop_patologo='NO APLICA',protoop_instrumentista='JAQUELINE TORRES',protoop_enlace='618701020234257218520240213074910435',protoop_circulante='AUX CHICAIZA',protoop_exposicion='INSTRUMENTAL',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_exploracion='CONDUCTOS DEFERENTES DE FORMA Y TAMAÑO NORMAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACIÓN DE CAMPOS ESTÉRILES
+3. INCISIÓN MEDIANTE PINZA DISECTORA
+4. IDENTIFICACIÓN, LIGADURA Y CAUTERIZACIÓN DE CONDUCTO DEFERENTE DERECHO
+5. CONTROL DE HEMOSTASIA
+6. IDENTIFICACIÓN, LIGADURA Y CAUTERIZACIÓN DE CONDUCTO DEFERENTE IZQUIERDO
+7. CONTROL DE HEMOSTASIA
+8. SÍNTESIS
+9. BLOQUEO PUDENDO BILATERAL
+10. FIN DE CIRUGÍA
+
+
+CÓDIGOS:
+55250
+64430',protoop_complicaciones='NINGUNO',protoop_perdida='0',protoop_sangrado='0',protoop_protesico='0',anam_enlace='' where protoop_id=873 -->2024-02-13 08:11:59
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6220,atenc_id='5312',usua_id=419,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-08 12:40:42',protoop_selectiva='',protoop_cirujanouno='DR. RICARDO YEPEZ',protoop_fechaoperacion='2024-01-08',protoop_sintesis='',protoop_idenlace='448',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='12:00',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. CHRISTOPHER AYABACA',protoop_horafin='12:45',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='CISTOSCOPIA + EXTRACCION DE CATETER DOBLE J IZQUIERDO',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM',protoop_dieresis='NINGUNA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='622001172507226641920240108124042348',protoop_circulante='RUBEN CHICAIZA',protoop_exposicion='POR MEDIO DE CISTOSCOPIO CON LENTE TELESCOPICO DE 30 GRADOS, CAMISA 19 FR, TORRE DE VIDEO',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_exploracion='CUELLO VESICAL CON EDEMA Y SANGRADO ACTIVO QUE DIFICULTA LA VISION, TRIGONO CON EDEMA, MEATO URETERAL IZQUIERDO CON EDEMA, DOBLE J QUE AFLORA POR MEATO URETERAL IZQUIERDO.',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='POSICION DE LITOTOMIA, ASEPSIA Y ANTISEPSIA + COLOCACION DE CAMPOS,INTRODUCCION DE CAMISA Y OBTURADOR 19 FR,RETIRO DE OBTURADO E INTRODUCCION DE LENTE TELESCOPICO DE 30 GRADOS CON PUENTE CORTO, IRRIGACION VESICAL CONTINUA CON SOLUCION SALINA, CISTOSCOPIA RIGIDA + PASE DE PINZA DE CUERPO EXTRAÑO + EXTRACCION DE CATETER DOBLE J, VACIAMIENTO VESICAL',protoop_complicaciones='DIFICULTAD PARA VISUALIZAR POR SANGRADO ACTIVO Y EDEMA',protoop_perdida='50 ML',protoop_sangrado='50 ML',protoop_protesico='0',anam_enlace='' where protoop_id=678 -->2024-02-13 09:22:29
+205-->update dns_newhospitalizacionanamesis set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA',anam_planes='CHEQUEO PREANESTESICO
+PROCEDIMIENTO QUIRURGICO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_cirugia='CIRUGIA PROGRAMADA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-13 07:51:39',anam_menopausiaedad='NA',anam_tratante='DR. CACERES',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='1',anam_enlace='74110113120287541962024021307513990',anam_fechaingreso='2024-02-13',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=581 -->2024-02-13 10:11:37
+205-->insert into dns_newprotocolooperatorio (centro_id,clie_id,atenc_id,usua_id,protoop_tblprincipal,protoop_fecharegistro,protoop_selectiva,protoop_cirujanouno,protoop_fechaoperacion,protoop_sintesis,protoop_idenlace,protoop_general,protoop_transquirurgico,protoop_emergencia,protoop_cirujanodos,protoop_horainicio,protoop_sintesisimagen,protoop_regional,protoop_biopsia,protoop_paleativa,protoop_ayudanteuno,protoop_horafin,protoop_sedacion,protoop_bioresultado,protoop_proyectada,protoop_ayudantedos,protoop_examen,protoop_otroanestesia,protoop_realizada,protoop_dieresis,protoop_examendetalle,protoop_tecerayudante,protoop_patologo,protoop_instrumentista,protoop_enlace,protoop_circulante,protoop_exposicion,protoop_anestesiologo,protoop_exploracion,protoop_ayudanteanestesia,protoop_otrointegrante,protoop_procedimiento,protoop_complicaciones,protoop_perdida,protoop_sangrado,protoop_protesico,anam_enlace) values (1,7411,'6394',205,'dns_newhospitalizacionanamesis','2024-02-13 10:11:40','1','DR CHRISTIAN CACERES','2024-02-13','','581','1','','','','09:00','','','','','DRA DIANA VILLACRES','10:00','','','AUMENTO MAMARIO','','','','AUMENTO MAMARIO','1. INCISION INFRAMAMARIA DE 3,5 CM APROXIMADAMENTE','','','','LIC SUSANA QUEZADA','74110117200117312052024021310114024','LIC RUBEN CHICAIZA','MANUAL E INSTRUMENTAL','DR MANOLO CALERO','HIPOMASTIA MAMARIA BILATERAL
+SE COLOCA PROTESIS MAMARIA DE 325 CC','','','1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4, INCISION DESCRITA 1 EN MAMA DERECHA
+5, FORMACION DE BOLSILLO EN PLANO RETROMUSCULAR
+6. REVISION DE HEMOSTASIA Y CONTROL
+7. COLOCACION DE COMPRESA CON EPINEFRINA Y GENTAMICINA
+8, FORMACION DE SURCO INFRAMAMARIO CON PROLENE 2/0
+9 COLOCACION DE PROTESIS DE 325 CC MOTIVA
+10. SUTURA POR PLANOS
+11. COLOCACION DE STER STRIP Y TEGADERM
+12, MISMO PROCEDIMIENTO EN MAMA IZQUIERDA
+13. COLOCACION DE BRASIER POSTQUIRURGICO
+14, FIN DE CIRUGIA','NINGUNA','','','','')-->2024-02-13 10:13:53
+340-->update dns_atencion set centro_id=1,clie_id=6461,atenc_hc='1725757635-1',tiposerv_id='2',usua_id=272,atenc_fecharegistro='2023-11-08 19:55:17',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2023-11-08 19:55:17',atenc_fechasalida='2023-11-08 19:55:17',atenc_condiciondeegreso='VIVO',atenc_observacion='INSUMOS Y MEDICAMENTOS',emp_id=1,clie_ci='1725757635',atenc_referencia='',atenc_archivo='',atenc_enlace='01175215706327220231108075517198' where atenc_id=5489 -->2024-02-13 10:34:58
+185-->update dns_newtraumatologiaanamesis set clie_id=6579,usua_id=182,centro_id=1,atenc_id=5684,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE CON ANTECEDENTES DE TRAUMA DE RODILLA DERECHA AL SUFRIR CAIDA DE SU MOTOCICLETA, LUEGO DE LO CUAL PREENTA DOLOR, EDEAM Y LIMITACION FUNCIONAL, POR LO QUE ACUDE DONDE FACULTATIVO QUIEN SOLICITA RMN EN DONDE SE OBSERVA LESION EN ASA DE BALDE DE MENISCO EXTERNO + LESION COMPLETA DEL LCA POR LO QUE MAENJAN CON ANALGESIA + FISIOTERAPIA CON POBRES RESULTADOS POR LO QUE ACUDE PARA RESOLUCION QUIRURGICA.',anam_planes='1. CIRUGIA (ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DEL LCA + SUTURA MENISCAL)',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR E INESTABILIDAD DE RODILLA DERECHA',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-11-23 15:02:57',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='657901100258084118220231123030257261' where anam_id=306 -->2024-02-13 10:44:33
+196-->update dns_newprotocolooperatorio set centro_id=1,clie_id=4496,atenc_id='5545',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-09 14:24:44',protoop_selectiva='',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-01-09',protoop_sintesis='',protoop_idenlace='452',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. JAVIER TORRES',protoop_horainicio='11:00',protoop_sintesisimagen='32052YK20240109.jpg',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='14:20',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RETIRO DE MATERIAL + ESTABILIZACION DE ARTICULACION RADIOCUBITAL DISTAL CON DOBLE BOTON',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM + OSTEOSINTESIS DE FRACTURA DE RADIO',protoop_dieresis='INCISION ANTEROMEDIAL DE ANTEBRAZO SOBRE HERIDA DE CIRUGIA PREVIA 
+PUNTIFORME DE RADIO CUBITAL DISTAL DE CUBITAL A RADIAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA. JACKELINE TORRES',protoop_enlace='449601171442027818120240109022444149',protoop_circulante='STA CHICAIZA',protoop_exposicion='FLUOROSCOPIA TODOS LOS TIEMPOS 
+MANUAL E INSTRUMENTAL',protoop_anestesiologo='DRA.CASTILLO ALEXANDRA',protoop_exploracion='FRACTURA CONSOLIDADA DE DIAFISIS RADIAL CON PLACA BLOQUEDA CON ABUNDANTE TEJIDO OSEO EN ORIFICIOS DE LA PLACA SOBRE LOS TORNILLOS Y EN LOS ORIFICIOS
+TORNILLOS PROXIMALES AISLADOS 
+INESTABILIDAD RADIO CUBITAL DISTAL',protoop_ayudanteanestesia='DRA. ALEXANDRA NOBOA',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO SUPINO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	LOCALIZACION DE MATERIAL CON RX PORTATIL
+5.	INFILTRACION MEDIAL Y LATERAL CON 10CC DE LIDOCAINA
+6.	DIERESIS DESCRITA
+7.	PROFUNDIZACION ROMA
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	LIMPIEZA DE TEJIDO FIBROSO
+10.	LIMPIEZA DE TEJIDO OSEO SOBRE LA PLACA Y LOS TORNILLOS
+11.	PERFORACION DIRECTA ALREDEDOR DE LOS TORNILLOS AISLADOS SIN PODER RETIRARLOS
+12.	UTILIZACION DE BROCA REVERSA CONSIGUIENDOSE RETIRAR UN TORNILLO AISLADO , SE REALIZA MISMA MANIOBRA CON LOS DOS TORNILLOS PROXIMALES RESTANTES, SIN ÉXITO
+13.	SE PROCEDE A BUSCAR LAS PUNTAS DE LOS TORNILLOS Y CON TREFINA SE REALIZA PERFORACION ALREDEDOR DE LOS TORNILLOS CONSIGUIENDOSE EL RETIRO DE TODA LA PLACA PERO SE PRODUCE UNA FRACTURA EN EL ORIFICIO PROXIMAL
+14.	SE REALIZA MANIOBRAS DE REDUCCION Y SE ESTABILIZA CON UNA PLACA 3,5 BLOQUEADA DE SEIS ORIFICIOS CON DOS TORNILLOS PROXIMALES CORTICAL 3,5 * 18 Y 
+UNO 3,5 * 24 BLOQUEADO + UN 3,5 *18 CORTICAL EN EL ASPECTO DISTAL
+15.	PERFORACION DE RADIO CUBITAL DE LATERAL A MEDIAL CON GUIA , PERFORACION CON BROCA CANULADA 4.5 
+16.	PASO DE UN SISTEMA DE DOBLE BOTON DE LATERAL A MEDIAL 
+17.	AJUSTE DEL SISTEMA Y ANUDADO DEL MISMO
+18.	PROCEDIMIENTO REALIZADO EN SU TOTALIDAD CON FLUOROSCOPIA 
+19.	LAVADO DE AREA CRUENTA CON SS 0.9% 
+20.	SINTESIS
+
+CODIGOS
+27704 REMOSION DE IMPLANTE 50%
+25337 ESTABILIZACION DE RADIO CUBITAL DISTAL 100%
+25526 OSTEOSINTESIS DE RADIO 100%',protoop_complicaciones='TIEMPO PROLONGADO PARA RETIRAR EL MATERIAL, SE FRACTURA EL RADIO Y SE PROCEDE A ESTABILIZARLO CON UNA PLACA',protoop_perdida='',protoop_sangrado='200',protoop_protesico='1',anam_enlace='' where protoop_id=690 -->2024-02-13 11:42:11
+340-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_lugarnacimiento,clie_fechanacimiento,clie_encadodeemergencia,clie_parentescocontacto,nac_id,tarterial_id,clie_emergenciatelf,clie_direccioncontacto,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_tipoempresa,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','',12,'','',1,'REGISTRADO','',1,'','URB ORQUIDEAS DEL NORTE Y GUAYACANES','1704178365','CEVALLOS MOYA','17','',8,'1701','RICAHRD NAPOLEON',7,'EL INCA',2,'ISSPOL-07589-2024','','ARQUITECTO','QUITO','1955-03-10','ELIZABETH RIOS','ESPOSA',56,7,'0997515557','EL INCA','0997074082','M',4,4,'ricocemo2@hotmail.com','','340','','2024-02-13 11:59:59','0117254097323402024021311595916775',NULL,'1','','7122','','PRIVADA','','4','')-->2024-02-13 12:02:59
+340-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165CBA4CE8773334020240213122014197',0,924,NULL,'',48.63,1,'01','',NULL,'2024-02-13','',1,'','',2,'','','',0,1,0,'','001-002-000007703','1792935261001',48.63,'05','9999999999','CONSUMIDOR FINAL','',10,'','contabilidad@clinicalospinos.com','','','',340,3,0,1,'01',48.63,0.00,'ATENCION MEDICA
+PCT PROANO LARREA KARINA PAOLA',0)-->2024-02-13 12:21:43
+340-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165CBA4CE8773334020240213122014197',doccab_subtotaliva=0,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=48.63,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-13',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='1302202401179293526100120010020000077030000770315',doccab_ndocumento='001-002-000007703',doccab_rucempresa='1792935261001',doccab_total=48.63,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='',doccab_nautorizacion='1302202401179293526100120010020000077030000770315',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=48.63,doccab_cambio=0.00,doccab_adicional='ATENCION MEDICA
+PCT PROANO LARREA KARINA PAOLA',doccab_pgacont=0 where doccab_id='0165CBA4CE8773334020240213122014197' -->2024-02-13 12:21:54
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=4496,atenc_id='5545',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-09 14:24:44',protoop_selectiva='',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-01-09',protoop_sintesis='',protoop_idenlace='452',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. JAVIER TORRES',protoop_horainicio='11:00',protoop_sintesisimagen='32052YK20240109.jpg',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='14:20',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RETIRO DE MATERIAL + ESTABILIZACION DE ARTICULACION RADIOCUBITAL DISTAL CON DOBLE BOTON',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM + OSTEOSINTESIS DE FRACTURA DE RADIO',protoop_dieresis='INCISION ANTEROMEDIAL DE ANTEBRAZO SOBRE HERIDA DE CIRUGIA PREVIA 
+PUNTIFORME DE RADIO CUBITAL DISTAL DE CUBITAL A RADIAL',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA. JACKELINE TORRES',protoop_enlace='449601171442027818120240109022444149',protoop_circulante='STA CHICAIZA',protoop_exposicion='FLUOROSCOPIA TODOS LOS TIEMPOS 
+MANUAL E INSTRUMENTAL',protoop_anestesiologo='DRA.CASTILLO ALEXANDRA',protoop_exploracion='FRACTURA CONSOLIDADA DE DIAFISIS RADIAL CON PLACA BLOQUEDA CON ABUNDANTE TEJIDO OSEO EN ORIFICIOS DE LA PLACA SOBRE LOS TORNILLOS Y EN LOS ORIFICIOS
+TORNILLOS PROXIMALES AISLADOS 
+INESTABILIDAD RADIO CUBITAL DISTAL',protoop_ayudanteanestesia='DRA. ALEXANDRA NOBOA',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO SUPINO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	LOCALIZACION DE MATERIAL CON RX PORTATIL
+5.	INFILTRACION MEDIAL Y LATERAL CON 10CC DE LIDOCAINA
+6.	DIERESIS DESCRITA
+7.	PROFUNDIZACION ROMA
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	LIMPIEZA DE TEJIDO FIBROSO
+10.	LIMPIEZA DE TEJIDO OSEO SOBRE LA PLACA Y LOS TORNILLOS
+11.	PERFORACION DIRECTA ALREDEDOR DE LOS TORNILLOS AISLADOS SIN PODER RETIRARLOS
+12.	UTILIZACION DE BROCA REVERSA CONSIGUIENDOSE RETIRAR UN TORNILLO AISLADO , SE REALIZA MISMA MANIOBRA CON LOS DOS TORNILLOS PROXIMALES RESTANTES, SIN ÉXITO
+13.	SE PROCEDE A BUSCAR LAS PUNTAS DE LOS TORNILLOS Y CON TREFINA SE REALIZA PERFORACION ALREDEDOR DE LOS TORNILLOS CONSIGUIENDOSE EL RETIRO DE TODA LA PLACA PERO SE PRODUCE UNA FRACTURA EN EL ORIFICIO PROXIMAL
+14.	SE REALIZA MANIOBRAS DE REDUCCION Y SE ESTABILIZA CON UNA PLACA 3,5 BLOQUEADA DE SEIS ORIFICIOS CON DOS TORNILLOS PROXIMALES CORTICAL 3,5 * 18 Y 
+UNO 3,5 * 24 BLOQUEADO + UN 3,5 *18 CORTICAL EN EL ASPECTO DISTAL
+15.	PERFORACION DE RADIO CUBITAL DE LATERAL A MEDIAL CON GUIA , PERFORACION CON BROCA CANULADA 4.5 
+16.	PASO DE UN SISTEMA DE DOBLE BOTON DE LATERAL A MEDIAL 
+17.	AJUSTE DEL SISTEMA Y ANUDADO DEL MISMO
+18.	PROCEDIMIENTO REALIZADO EN SU TOTALIDAD CON FLUOROSCOPIA 
+19.	LAVADO DE AREA CRUENTA CON SS 0.9% 
+20.	SINTESIS
+
+CODIGOS
+27704 REMOSION DE IMPLANTE 50%
+25337 ESTABILIZACION DE RADIO CUBITAL DISTAL 100%
+25526 OSTEOSINTESIS DE RADIO 100%',protoop_complicaciones='TIEMPO PROLONGADO PARA RETIRAR EL MATERIAL, SE FRACTURA EL RADIO Y SE PROCEDE A ESTABILIZARLO CON UNA PLACA',protoop_perdida='',protoop_sangrado='200',protoop_protesico='1',anam_enlace='' where protoop_id=690 -->2024-02-13 12:22:12
+340-->update app_proveedor set emp_id=1,tipop_id=1,tipoident_codigocl='05',provee_ruc='',provee_cedula='1712336146',provee_nombre='KARINA PROAÑO',provee_direccion='QUITO TENNIS',provee_nombrecomercial='',provee_representante='',provee_telefono='0980598967',provee_email='karina.proanol@gmail.com',provee_cespecial=0,provee_fecharegistro='2023-08-19 09:46:43' where provee_id=4072 -->2024-02-13 12:24:20
+340-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165CBA6FB457E334020240213122931441',0.29,924,NULL,'',21.19,1,'01','',NULL,'2024-02-13','',1,'','',2,'','','',0.03,1,0,'','001-002-000007704','1792935261001',21.51,'05','9999999999','CONSUMIDOR FINAL','',10,'','contabilidad@clinicalospinos.com','1103133359','','',340,3,6,1,'01',21.51,0.00,'COLOCACION DE SUERO',0)-->2024-02-13 12:30:51
+340-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165CBA6FB457E334020240213122931441',doccab_subtotaliva=0.29,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=21.19,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-13',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.03,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='1302202401179293526100120010020000077040000770418',doccab_ndocumento='001-002-000007704',doccab_rucempresa='1792935261001',doccab_total=21.51,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='1103133359',doccab_nautorizacion='1302202401179293526100120010020000077040000770418',doccab_fechaaut='',usua_id=340,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=21.51,doccab_cambio=0.00,doccab_adicional='COLOCACION DE SUERO',doccab_pgacont=0 where doccab_id='0165CBA6FB457E334020240213122931441' -->2024-02-13 12:30:55
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6892,atenc_id='5946',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-04 14:50:54',protoop_selectiva='1',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-01-04',protoop_sintesis='',protoop_idenlace='431',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_horainicio='12:00',protoop_sintesisimagen='81866TXUE20240104.png',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='15:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='DISCECTOMIA ENDOSCOPICA DE C5C6',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='LAMINECTOMIA Y FORAMINECTOMIA + DESCOMPRESION C5C6',protoop_dieresis='PORTAL INTERLAMINAR DE C5C6 DERECHO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JACKELINE TORRES',protoop_enlace='689201171442027818120240104025054405',protoop_circulante='BELEN',protoop_exposicion='FLUOROSCOPIA, VERTEBRIS CERVICAL, BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_anestesiologo='DR. ANDRES CAIZA',protoop_exploracion='HERNIA CENTRO DERECHA DE C5C6 CON COMPRESION MEDULAR Y RADICULAR DERECHA',protoop_ayudanteanestesia='DR. CALERO',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC 
+5.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR DERECHA DE C5C6
+6.	COLOCACIONDE CAMPOS DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+7.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+8.	LIMPIEZA DE TEJIDO MUSCULAR, TEJIDO FIBROSO PREPARACION DE VENTANA Y LIGAMENTO AMARILLO
+9.	LOCALIZACION DE ARTICULACION FACETARIA C5C6
+10.	FORAMINECTOMIA Y LAMINECTOMIA AMPLIA DE C5C6 
+11.	MANIOBRAS PARA ENCONTRAR HERNIA DISCAL 
+12.	RADIOFRECUENCIA DE TEJIDO FIBROSO QUE COMPRIME RAIZ Y MEDULA
+13.	AMPLIACION DE LA DESCOMPRESION CON FRESA ENDOSCOPICA DE COLUMNA , KERRISON Y RADIOFRECUENCIA 
+14.	CONTROL DE HEMOSTASIA
+15.	COLOCACION DE DEPOMEDROL 80MG CON SONDA DE ALIMENTACION n8 EN AREA CRUENTA
+16.	SINTESIS 
+
+
+CODIGOS
+62287 DESCOMPRESION CON RADIOFRECUENCIA 
+63045 LAMINECTOMIA CERVICAL',protoop_complicaciones='NO SE PUEDE REALIZAR DISCETOMIA DE FORMA DIRECTA, SE PROCEDE A AMPLIAR LA LAMINECTOMIA Y LA FORAMINECTOMIA Y SE DISMINUYE EL TAMAÑO DEL TEJIDO FIBROSO CON RADOFRECUENCIA',protoop_perdida='',protoop_sangrado='30',protoop_protesico='0',anam_enlace='' where protoop_id=655 -->2024-02-13 15:50:15
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=394,atenc_id='289',usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-21 19:04:45',protoop_selectiva='',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_fechaoperacion='2024-01-21',protoop_sintesis='',protoop_idenlace='489',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='1',protoop_cirujanodos='',protoop_horainicio='16:30',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR MARCO YANEZ',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_dieresis='VIA DE ABORDAJE ANTERIOR EN MUÑECA IZQUIERDA TIPO HENRY AMPLIADA
+INSICION SOBRE CRESTA ILIACA IZQUIERDA PARA TOMA DE INJERTO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SUSANA QUEZADA',protoop_enlace='39401100258084118220240121070445146',protoop_circulante='HEIDY',protoop_exposicion='MANUAL E INSTUMENTAL
+FLUOROSCOPIA POR 3 HORAS',protoop_anestesiologo='DR MARCO BARRIONUEVO',protoop_exploracion='1. FALTA DE CONSOLIDACION DE FRACTURA DE RADIO DISTAL IZQUIERDO FIJADA CON PLACA EN T
+2. FRACTURA SEGMENTARIA A NIVEL DE LA PUNTA DE PLACA EN T  DE RADIO DISTAL
+3. COMPRESION DEL NERVIO MEDIANO
+4. TEJIDO OSEO DE MALA CALIDAD
+5. PERDIDA DE LONGITUD DEL RADIO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA Y PROFUNDIZACION DE HERIDA
+4. IDENTIFICACION DE HALLAZGOS
+5. RETIRO DE PLACA EN T SOBRE RADIO DISTAL
+6. OSTEOTOMIA DE RADIO DISTAL 1 HOJA DE SIERRA OSCILANTE 9MM-S Y EVIDENCIA DE DEFECTO OSEO DE 5 CM GUIADO CON FLUROSCOPIA
+7. TENETOMIA DEL PRONADOR CUADRADO
+8. TENOLISIS DE LOS EXTENSORES
+9. DIERESIS DESCRITA NUMERO 2 EN CRESTA ILIACA IZQUIERDA Y TOMA DE INJERTO TRICORTICAL DE 5 CM
+10. COLOCACION DE CERA DE HUESO EN LECHO DE INJERTO
+11. CIERRE POR PÑLANOS CON VICYL 1.0, VICRYL 2.0 Y ETHILON 2.0
+12. REDUCCION ABIERTA DE FRACTURA DE RADIO DISTAL CON INJERTO TRICORTICAL RELLENANDO EL DEFECTO OSEO Y FIJACION TEMPORAL CON CLAVOS DE KIRSCHNER 1.6 X 100 MM (7 CLAVOS) + CLAVOS DE KIRCHNER 1.1 X 100 MM (2 CLAVOS)
+13. VISUALIZACION CON FLUROSCOPIA DE RESULTADOS
+14. FIJACION DEFINITIVA CON PLACA DE RODAMIENTO PALMAR IZQUIERDA 9H* DE  RADIO DISTAL EN T  + 1 TORNILLO ROSCADO PEG TRX, 14 MM + 3 TORNILLOS ROSCADO PEG TRX , 22 MM + 3 TORNILLOS EXAGONAL CORTICAL 3.2 MM DE 12 MM + 1 TORNILLLO EXAGONAL CORTICAL 3.2 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.3 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.2 MM DE 16 MM + 1 BROCA 1.8/90 MM Y 1 BROCA 2.3/80 MM 
+15. NEURECTOMIA DEL NERVIO MEDIANO 
+16. CONTROL DE RESULTADO FINAL CON FLUROSCOPIA
+17. LAVADO DE HERIDA CON SOLUCION SALINA
+18. CIERRE DE HERIDA CON VICRYL 3.0 Y ETHILON 4.0
+19. COLOCACION DE APOSITOS',protoop_complicaciones='NINGUNA',protoop_perdida='30ML',protoop_sangrado='30 ML',protoop_protesico='1',anam_enlace='' where protoop_id=770 -->2024-02-13 16:49:27
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=394,atenc_id='289',usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-21 19:04:45',protoop_selectiva='',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_fechaoperacion='2024-01-21',protoop_sintesis='',protoop_idenlace='489',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='1',protoop_cirujanodos='',protoop_horainicio='16:30',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR MARCO YANEZ',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_dieresis='VIA DE ABORDAJE ANTERIOR EN MUÑECA IZQUIERDA TIPO HENRY AMPLIADA
+INSICION SOBRE CRESTA ILIACA IZQUIERDA PARA TOMA DE INJERTO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SUSANA QUEZADA',protoop_enlace='39401100258084118220240121070445146',protoop_circulante='HEIDY',protoop_exposicion='MANUAL E INSTUMENTAL
+FLUOROSCOPIA POR 3 HORAS',protoop_anestesiologo='DR MARCO BARRIONUEVO',protoop_exploracion='1. FALTA DE CONSOLIDACION DE FRACTURA DE RADIO DISTAL IZQUIERDO FIJADA CON PLACA EN T
+2. FRACTURA SEGMENTARIA A NIVEL DE LA PUNTA DE PLACA EN T  DE RADIO DISTAL
+3. COMPRESION DEL NERVIO MEDIANO
+4. TEJIDO OSEO DE MALA CALIDAD
+5. PERDIDA DE LONGITUD DEL RADIO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA Y PROFUNDIZACION DE HERIDA
+4. IDENTIFICACION DE HALLAZGOS
+5. RETIRO DE PLACA EN T SOBRE RADIO DISTAL
+6. OSTEOTOMIA DE RADIO DISTAL 1 HOJA DE SIERRA OSCILANTE 9MM-S Y EVIDENCIA DE DEFECTO OSEO DE 5 CM GUIADO CON FLUROSCOPIA
+7. TENETOMIA DEL PRONADOR CUADRADO
+8. TENOLISIS DE LOS EXTENSORES
+9. DIERESIS DESCRITA NUMERO 2 EN CRESTA ILIACA IZQUIERDA Y TOMA DE INJERTO TRICORTICAL DE 5 CM
+10. COLOCACION DE CERA DE HUESO EN LECHO DE INJERTO
+11. CIERRE POR PÑLANOS CON VICYL 1.0, VICRYL 2.0 Y ETHILON 2.0
+12. REDUCCION ABIERTA DE FRACTURA DE RADIO DISTAL CON INJERTO TRICORTICAL RELLENANDO EL DEFECTO OSEO Y FIJACION TEMPORAL CON CLAVOS DE KIRSCHNER 1.6 X 100 MM (7 CLAVOS) + CLAVOS DE KIRCHNER 1.1 X 100 MM (2 CLAVOS)
+13. VISUALIZACION CON FLUROSCOPIA DE RESULTADOS
+14. FIJACION DEFINITIVA CON PLACA DE RODAMIENTO PALMAR IZQUIERDA 9H* DE  RADIO DISTAL EN T  + 1 TORNILLO ROSCADO PEG TRX, 14 MM + 3 TORNILLOS ROSCADO PEG TRX , 22 MM + 3 TORNILLOS EXAGONAL CORTICAL 3.2 MM DE 12 MM + 1 TORNILLLO EXAGONAL CORTICAL 3.2 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.3 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.2 MM DE 16 MM + 1 BROCA 1.8/90 MM Y 1 BROCA 2.3/80 MM 
+15. NEURECTOMIA DEL NERVIO MEDIANO 
+16. CONTROL DE RESULTADO FINAL CON FLUROSCOPIA
+17. LAVADO DE HERIDA CON 8 (OCHO) SOLUCION SALINA 0.9% 1000 ML TOTAL 8000 ML 
+18. CIERRE DE HERIDA CON VICRYL 3.0 Y ETHILON 4.0
+19. COLOCACION DE APOSITOS',protoop_complicaciones='NINGUNA',protoop_perdida='30ML',protoop_sangrado='30 ML',protoop_protesico='1',anam_enlace='' where protoop_id=770 -->2024-02-13 16:51:18
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=394,atenc_id='289',usua_id=182,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-21 19:04:45',protoop_selectiva='',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_fechaoperacion='2024-01-21',protoop_sintesis='',protoop_idenlace='489',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='1',protoop_cirujanodos='',protoop_horainicio='16:50',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR MARCO YANEZ',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='RETIRO DE MATERIAL +TOMA DE INJERTO DE CRESTA ILIACA + OSTEOTOMIA DE RADIO DISTAL + TENETOMIA DEL PRONADOR CUADRADO + TENOLISIS DE LOS EXTENSORES + NEURECTOMIA DEL NERVIO MEDIANO + REDUCCION ABIERTA + OSTEOSINTESIS CON PLACA DE RADIO DISTAL',protoop_dieresis='VIA DE ABORDAJE ANTERIOR EN MUÑECA IZQUIERDA TIPO HENRY AMPLIADA
+INSICION SOBRE CRESTA ILIACA IZQUIERDA PARA TOMA DE INJERTO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SUSANA QUEZADA',protoop_enlace='39401100258084118220240121070445146',protoop_circulante='HEIDY',protoop_exposicion='MANUAL E INSTUMENTAL
+FLUOROSCOPIA EN TODOS LOS TIEMPOS',protoop_anestesiologo='DR MARCO BARRIONUEVO',protoop_exploracion='1. FALTA DE CONSOLIDACION DE FRACTURA DE RADIO DISTAL IZQUIERDO FIJADA CON PLACA EN T
+2. FRACTURA SEGMENTARIA A NIVEL DE LA PUNTA DE PLACA EN T  DE RADIO DISTAL
+3. COMPRESION DEL NERVIO MEDIANO
+4. TEJIDO OSEO DE MALA CALIDAD
+5. PERDIDA DE LONGITUD DEL RADIO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA Y PROFUNDIZACION DE HERIDA
+4. IDENTIFICACION DE HALLAZGOS
+5. RETIRO DE PLACA EN T SOBRE RADIO DISTAL
+6. OSTEOTOMIA DE RADIO DISTAL 1 HOJA DE SIERRA OSCILANTE 9MM-S Y EVIDENCIA DE DEFECTO OSEO DE 5 CM GUIADO CON FLUROSCOPIA
+7. TENETOMIA DEL PRONADOR CUADRADO
+8. TENOLISIS DE LOS EXTENSORES
+9. DIERESIS DESCRITA NUMERO 2 EN CRESTA ILIACA IZQUIERDA Y TOMA DE INJERTO TRICORTICAL DE 5 CM
+10. COLOCACION DE CERA DE HUESO EN LECHO DE INJERTO
+11. CIERRE POR PLANOS CON VICYL 1.0, VICRYL 2.0 Y ETHILON 2.0
+12. REDUCCION ABIERTA DE FRACTURA DE RADIO DISTAL CON INJERTO TRICORTICAL RELLENANDO EL DEFECTO OSEO Y FIJACION TEMPORAL CON CLAVOS DE KIRSCHNER 1.6 X 100 MM (7 CLAVOS) + CLAVOS DE KIRCHNER 1.1 X 100 MM (2 CLAVOS)
+13. VISUALIZACION CON FLUROSCOPIA DE RESULTADOS
+14. FIJACION DEFINITIVA CON PLACA DE RODAMIENTO PALMAR IZQUIERDA 9H* DE  RADIO DISTAL EN T  + 1 TORNILLO ROSCADO PEG TRX, 14 MM + 3 TORNILLOS ROSCADO PEG TRX , 22 MM + 3 TORNILLOS EXAGONAL CORTICAL 3.2 MM DE 12 MM + 1 TORNILLLO EXAGONAL CORTICAL 3.2 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.3 MM DE 14 MM + 1 TORNILLO BLOQUEADO CORTICAL 3.2 MM DE 16 MM + 1 BROCA 1.8/90 MM Y 1 BROCA 2.3/80 MM 
+15. NEURECTOMIA DEL NERVIO MEDIANO 
+16. CONTROL DE RESULTADO FINAL CON FLUROSCOPIA
+17. LAVADO DE HERIDA CON 8 (OCHO) SOLUCION SALINA 0.9% 1000 ML TOTAL 8000 ML 
+18. CIERRE DE HERIDA CON VICRYL 3.0 Y ETHILON 4.0
+19. COLOCACION DE APOSITOS',protoop_complicaciones='NINGUNA',protoop_perdida='30ML',protoop_sangrado='30 ML',protoop_protesico='1',anam_enlace='' where protoop_id=770 -->2024-02-13 16:59:33
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=419,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7361,anam_nhoja='',anam_fecharegistro='2024-02-07 19:25:38',anam_resumenclinico='NOTA DE INGRESO 
+TRAUMATOLOGIA
+
+PACIENTE FEMENINA DE 43 AÑOS DE EDAD, NACIDA EN MANTA Y RESIDENTE EN QUITO, MESTIZA, CASADA, DIESTRA, RELIGIÓN CATÓLICA, TIPO DE SANGRE O RH+.
+ALERGIAS: NO REFIERE
+TRANSFUSIONES: NO REFIERE
+APP:  NO REFIERE
+APQX: CESAREA HACE 9 AÑOS
+APF: NO REFIERE
+AGO: MENARQUIA: 12 AÑOS FUM: 23/01/2024, G3 P2 A0 C1 , PAP TEST: HACE 2 AÑOS , RESULTADO NORMAL, MAMOGRAFIAS, NO SE HA REALIZADO
+HÁBITOS: ALIMENTARIO 3 COMIDAS, MICCIONAL, 3 VECES AL DIA, , DEFECATORIO, 1 VEZ AL DÍA, ALCOHOL SOCIAL, TABACO, NIEGA, EJERCICIO, NO REALIZA.
+
+VACUNA SARS COV 2: 3 DOSIS.
+
+MOTIVO DE CONSULTA: PRESENCIA DE MASA EN MANO IZQUIERDA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE APARICION DE APROXIMADAMENTE 3 MESES DE EVOLUCION DE MASA EN REGION DORSAL DE MANO DERECHA, QUE NO CAUSA DOLOR A LA PRESION, REFIERE QUE HA INCREMENTADO DE TAMAÑO, EN EL MES DE DICIEMBRE ES VALORADA POR ESPECIALISTA QUIEN ENVIA ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS Y DECIDE RESOLUCION QUIRURGICA.
+
+
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADA, HIDRATADA, FEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMO REACTIVAS.  NARIZ:FOSAS NASALES PERMEABLES,  TORAX: EXPANSIBLE, SIMETRICO, , CORAZON SCSRS, NO SOPLOS. PULMONES: MV CONSERVADO, NO RUIDOS SOBREAÑADIDOS.  ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, NO PERITONISMO, RUIDOS HIDROAÉREOS PRESENTES. RIG: SIN ALTERACIONES. 
+EXTERMIDADES SUPERIORES: MANO IZQUIERDA, PRESENCIA DE MASA A NIVEL DE MUÑECA MANO IZQUIERDA, DURO, MOVIL, DE APROXIMADAMENTE 3 X 1.5 CM , QUE NO CAUSA DOLOR, 
+EXTREMIDADES INFERIORES : SIMÉTRICAS NO EDEMAS NEUROVASCULAR CONSERVADO.
+
+ANALISIS:
+PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUE INDICA RESOLUCIÓN QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, SE REALIZA EXAMENES PREQUIRURGICOS Y ELECTROCARDIOGRAMA A SU INGRESO, CUMPLE CON HORAS DE AYUNO.
+
+
+IDG: GANGLION  CIE 10: M674
+SINOVITIS Y TENDOSINOVITIS  CIE10: M65
+
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUYE INDICA RESOLUCION QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, , SE REALIZA PROCEDIEMIENTO QUIRURGICO, SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN, CON ANESTESIA GENERAL, SIN COMPLICACIONES, PACIENTE PASA A SALA DE RECUPERACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE POR LO QUE SE DECIDE PASE A HOSPITALIZACION. PACIENTE CON BUEN MANEJO DEL DOLOR QUE NO HA REQUERIDO RESCATES, BUENA TOLERANCIA ORAL A LIQUIDOS CLAROS,',anam_hallazgos='LABORATORIO:
+2024/02/07 EXAMENES PREQUIRURGICOS DENTRO DE PARAMETROS NORMALES
+ELECTROCARDIOGRAMA: SIN ALTERACIONES',anam_resumentratamiento='INDICACIONES DE INGRESO:
+
+PROCEDIMIENTO QUIRURGICO: 2024/02/07 SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN
+HALLAZGOS:
+SINOVITIS METACARPO FALÁNGICA
+QUISTE SINOVIAL DE 3 * 4 CM
+FIBROSIS  Y ADHERENCIAS
+
+INDICACIONES POSTQUIRURGICAS 
+Rp.
+1. NPO POR 2 HORAS
+2.LUEGO DIETA GENERAL 
+3. CONTROL DE SIGNOS VITALES
+4. HIELO LOCAL
+5. CONTROL NEUROVASCULAR DISTAL
+6. SOLUCION SALINA 0.9% 1000 CC IV A 60 CC/H
+7. CEFAZOLINA 1G IV C/8H
+8. KETOROLACO 30 MG IV C/8H
+9. PARACETAMOL 1 G IV C/8H
+10 OMEPRAZOL 40 MG IV PRN
+11. ALTA A LAS 20 HORAS',anam_condicionegreso='ALTA MEDICA CON INDICACIONES',anam_altadefinitiva='1',protoop_idenlace='562',anam_control='2024-02-19',anam_fechaalta='2024-02-07',atenc_id='6355',anam_altatransitoria='',anam_horaalta='20:00',anam_enlace='736101172507226641920240207072538167',anam_asintomatico='',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='',anam_diasincapacidad='',usua2_id=206 where anam_id=69 -->2024-02-13 19:28:54
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=419,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7361,anam_nhoja='',anam_fecharegistro='2024-02-07 19:25:38',anam_resumenclinico='NOTA DE INGRESO 
+TRAUMATOLOGIA
+
+PACIENTE FEMENINA DE 43 AÑOS DE EDAD, NACIDA EN MANTA Y RESIDENTE EN QUITO, MESTIZA, CASADA, DIESTRA, RELIGIÓN CATÓLICA, TIPO DE SANGRE O RH+.
+ALERGIAS: NO REFIERE
+TRANSFUSIONES: NO REFIERE
+APP:  NO REFIERE
+APQX: CESAREA HACE 9 AÑOS
+APF: NO REFIERE
+AGO: MENARQUIA: 12 AÑOS FUM: 23/01/2024, G3 P2 A0 C1 , PAP TEST: HACE 2 AÑOS , RESULTADO NORMAL, MAMOGRAFIAS, NO SE HA REALIZADO
+HÁBITOS: ALIMENTARIO 3 COMIDAS, MICCIONAL, 3 VECES AL DIA, , DEFECATORIO, 1 VEZ AL DÍA, ALCOHOL SOCIAL, TABACO, NIEGA, EJERCICIO, NO REALIZA.
+
+VACUNA SARS COV 2: 3 DOSIS.
+
+MOTIVO DE CONSULTA: PRESENCIA DE MASA EN MANO IZQUIERDA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE APARICION DE APROXIMADAMENTE 3 MESES DE EVOLUCION DE MASA EN REGION DORSAL DE MANO DERECHA, QUE NO CAUSA DOLOR A LA PRESION, REFIERE QUE HA INCREMENTADO DE TAMAÑO, EN EL MES DE DICIEMBRE ES VALORADA POR ESPECIALISTA QUIEN ENVIA ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS Y DECIDE RESOLUCION QUIRURGICA.
+
+
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADA, HIDRATADA, FEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMO REACTIVAS.  NARIZ:FOSAS NASALES PERMEABLES,  TORAX: EXPANSIBLE, SIMETRICO, , CORAZON SCSRS, NO SOPLOS. PULMONES: MV CONSERVADO, NO RUIDOS SOBREAÑADIDOS.  ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, NO PERITONISMO, RUIDOS HIDROAÉREOS PRESENTES. RIG: SIN ALTERACIONES. 
+EXTERMIDADES SUPERIORES: MANO IZQUIERDA, PRESENCIA DE MASA A NIVEL DE MUÑECA MANO IZQUIERDA, DURO, MOVIL, DE APROXIMADAMENTE 3 X 1.5 CM , QUE NO CAUSA DOLOR, 
+EXTREMIDADES INFERIORES : SIMÉTRICAS NO EDEMAS NEUROVASCULAR CONSERVADO.
+
+ANALISIS:
+PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUE INDICA RESOLUCIÓN QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, SE REALIZA EXAMENES PREQUIRURGICOS Y ELECTROCARDIOGRAMA A SU INGRESO, CUMPLE CON HORAS DE AYUNO.
+
+
+IDG: GANGLION  CIE 10: M674
+SINOVITIS Y TENDOSINOVITIS  CIE10: M65
+
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUYE INDICA RESOLUCION QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, , SE REALIZA PROCEDIEMIENTO QUIRURGICO, SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN, CON ANESTESIA GENERAL, SIN COMPLICACIONES, PACIENTE PASA A SALA DE RECUPERACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE POR LO QUE SE DECIDE PASE A HOSPITALIZACION. PACIENTE CON BUEN MANEJO DEL DOLOR QUE NO HA REQUERIDO RESCATES, BUENA TOLERANCIA ORAL A LIQUIDOS CLAROS,',anam_hallazgos='LABORATORIO:
+2024/02/07 EXAMENES PREQUIRURGICOS DENTRO DE PARAMETROS NORMALES
+ELECTROCARDIOGRAMA: SIN ALTERACIONES',anam_resumentratamiento='INDICACIONES DE INGRESO:
+
+PROCEDIMIENTO QUIRURGICO: 2024/02/07 SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN
+HALLAZGOS:
+SINOVITIS METACARPO FALÁNGICA
+QUISTE SINOVIAL DE 3 * 4 CM
+FIBROSIS  Y ADHERENCIAS
+
+INDICACIONES POSTQUIRURGICAS 
+Rp.
+1. NPO POR 2 HORAS
+2.LUEGO DIETA GENERAL 
+3. CONTROL DE SIGNOS VITALES
+4. HIELO LOCAL
+5. CONTROL NEUROVASCULAR DISTAL
+6. SOLUCION SALINA 0.9% 1000 CC IV A 60 CC/H
+7. CEFAZOLINA 1G IV C/8H
+8. KETOROLACO 30 MG IV C/8H
+9. PARACETAMOL 1 G IV C/8H
+10 OMEPRAZOL 40 MG IV PRN
+11. ALTA A LAS 20 HORAS',anam_condicionegreso='ALTA MEDICA CON INDICACIONES',anam_altadefinitiva='1',protoop_idenlace='562',anam_control='2024-02-19',anam_fechaalta='2024-02-07',atenc_id='6355',anam_altatransitoria='',anam_horaalta='20:00',anam_enlace='736101172507226641920240207072538167',anam_asintomatico='',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='',anam_diasincapacidad='',usua2_id=206 where anam_id=69 -->2024-02-13 19:28:54
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=419,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7361,anam_nhoja='',anam_fecharegistro='2024-02-07 19:25:38',anam_resumenclinico='NOTA DE INGRESO 
+TRAUMATOLOGIA
+
+PACIENTE FEMENINA DE 43 AÑOS DE EDAD, NACIDA EN MANTA Y RESIDENTE EN QUITO, MESTIZA, CASADA, DIESTRA, RELIGIÓN CATÓLICA, TIPO DE SANGRE O RH+.
+ALERGIAS: NO REFIERE
+TRANSFUSIONES: NO REFIERE
+APP:  NO REFIERE
+APQX: CESAREA HACE 9 AÑOS
+APF: NO REFIERE
+AGO: MENARQUIA: 12 AÑOS FUM: 23/01/2024, G3 P2 A0 C1 , PAP TEST: HACE 2 AÑOS , RESULTADO NORMAL, MAMOGRAFIAS, NO SE HA REALIZADO
+HÁBITOS: ALIMENTARIO 3 COMIDAS, MICCIONAL, 3 VECES AL DIA, , DEFECATORIO, 1 VEZ AL DÍA, ALCOHOL SOCIAL, TABACO, NIEGA, EJERCICIO, NO REALIZA.
+
+VACUNA SARS COV 2: 3 DOSIS.
+
+MOTIVO DE CONSULTA: PRESENCIA DE MASA EN MANO IZQUIERDA
+
+ENFERMEDAD ACTUAL: PACIENTE REFIERE APARICION DE APROXIMADAMENTE 3 MESES DE EVOLUCION DE MASA EN REGION DORSAL DE MANO DERECHA, QUE NO CAUSA DOLOR A LA PRESION, REFIERE QUE HA INCREMENTADO DE TAMAÑO, EN EL MES DE DICIEMBRE ES VALORADA POR ESPECIALISTA QUIEN ENVIA ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS Y DECIDE RESOLUCION QUIRURGICA.
+
+
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADA, HIDRATADA, FEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMO REACTIVAS.  NARIZ:FOSAS NASALES PERMEABLES,  TORAX: EXPANSIBLE, SIMETRICO, , CORAZON SCSRS, NO SOPLOS. PULMONES: MV CONSERVADO, NO RUIDOS SOBREAÑADIDOS.  ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, NO PERITONISMO, RUIDOS HIDROAÉREOS PRESENTES. RIG: SIN ALTERACIONES. 
+EXTERMIDADES SUPERIORES: MANO IZQUIERDA, PRESENCIA DE MASA A NIVEL DE MUÑECA MANO IZQUIERDA, DURO, MOVIL, DE APROXIMADAMENTE 3 X 1.5 CM , QUE NO CAUSA DOLOR, 
+EXTREMIDADES INFERIORES : SIMÉTRICAS NO EDEMAS NEUROVASCULAR CONSERVADO.
+
+ANALISIS:
+PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUE INDICA RESOLUCIÓN QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, SE REALIZA EXAMENES PREQUIRURGICOS Y ELECTROCARDIOGRAMA A SU INGRESO, CUMPLE CON HORAS DE AYUNO.
+
+
+IDG: GANGLION  CIE 10: M674
+SINOVITIS Y TENDOSINOVITIS  CIE10: M65
+
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/02/07: PACIENTE ADULTA JOVEN, SIN ANTECEDENTES DE IMPORTANCIA, LA CUAL FUE VALORADA PREVIAMENTE POR ESPECIALISTA POR PRESENCIA DE MASA A NIVEL DE MANO IZQUIERDA, QUIEN DESPUES DE ENVIAR ESTUDIOS DE IMAGEN Y COMPLEMENTARIOS, POR LO QUYE INDICA RESOLUCION QUIRURGICA PROGRAMADA PARA EL DIA DE HOY, , SE REALIZA PROCEDIEMIENTO QUIRURGICO, SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN, CON ANESTESIA GENERAL, SIN COMPLICACIONES, PACIENTE PASA A SALA DE RECUPERACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE POR LO QUE SE DECIDE PASE A HOSPITALIZACION. PACIENTE CON BUEN MANEJO DEL DOLOR QUE NO HA REQUERIDO RESCATES, BUENA TOLERANCIA ORAL A LIQUIDOS CLAROS, HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA',anam_hallazgos='LABORATORIO:
+2024/02/07 EXAMENES PREQUIRURGICOS DENTRO DE PARAMETROS NORMALES
+                                     ELECTROCARDIOGRAMA: SIN ALTERACIONES',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+
+PROCEDIMIENTO QUIRURGICO: 2024/02/07 SINOVECTOMIA METACARPO FALANGICA MAS RESECCIÓN DE GANGLIÓN
+HALLAZGOS QUIRÚRGICOS:
+- SINOVITIS METACARPO FALÁNGICA
+- QUISTE SINOVIAL DE 3 * 4 CM
+- FIBROSIS  Y ADHERENCIAS
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+
+INDICACIONES POSTQUIRURGICAS 
+
+1. NADA POR VÍA ORAL POR 2 HORAS
+2. LUEGO DIETA GENERAL 
+3. CONTROL DE SIGNOS VITALES
+4. HIELO LOCAL
+5. CONTROL NEUROVASCULAR DISTAL
+6. SOLUCION SALINA 0.9% 1000 CC IV A 60 CC/HORA
+7. CEFAZOLINA 1GRAMO IV CADA 8 HORAS
+8. KETOROLACO 30 MG IV CADA 8 HORAS
+9. PARACETAMOL 1 GRAMO IV CADA 8 HORAS
+10 OMEPRAZOL 40 MG IV POR RAZONES NECESARIAS
+11. ALTA A LAS 20 HORAS',anam_condicionegreso='ALTA MEDICA CON INDICACIONES',anam_altadefinitiva='1',protoop_idenlace='562',anam_control='2024-02-19',anam_fechaalta='2024-02-07',atenc_id='6355',anam_altatransitoria='',anam_horaalta='20:00',anam_enlace='736101172507226641920240207072538167',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='01',anam_diasincapacidad='',usua2_id=206 where anam_id=69 -->2024-02-13 19:33:59
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA PLÁSTICA
+
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA  Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD FISICA FRECUENTE
+
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE INCONFORMIDAD CON APARIENCIA CORPORAL DEBIDO A HIPERTROFIA MAMARIA BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA PLÁSTICA, POR LO QUE ES INGRESADO A ESTA CASA DE SALUD.
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX SE EVIDENCIA AUMENTO DE TEJIDO MAMARIO, CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN DEPRESIBLE NO SIGNOS PERITONEALES,  RHA. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A QUIROFANO. 
+
+IDG: OTRAS CIRUGIAS PLASTICAS POR RAZONES ESTETICAS CIE 
+10 Z411 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 12:21:54',conext_horar='09:00',conext_prescripciones='Rp/.
+
+1 INGRESO A HOSPITALIZACION HAB. 301
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS DE VITALES 
+4. COLOCACION DE MEDIAS ANTIEMBOLICAS
+5 CHEQUEO PREANESTESICO
+6 FIRMAR CONSENTIMIENTOS INFORMADOS 
+7 SUBIR A QUIROFANO AL LLAMADO 
+8 ORDENES DR. PESANTEZ
+
+
+
+
+
+DR. SANTIAGO PESANTEZ
+CIRUGÍA PLASTICA
+
+
+
+
+
+
+MD. JOSE ORODOÑEZ 
+MEDICO RESIENTE',conext_horaf='09:30',conext_enlace='736001172575763530420240207122154402' where conext_id=199 -->2024-02-13 21:03:29
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA  Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD FISICA FRECUENTE
+
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES INGRESADO A ESTA CASA DE SALUD.
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX SE TEJIDO MAMARIO HIPERTROFICO, HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN DEPRESIBLE NO SIGNOS PERITONEALES,  RHA. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A QUIROFANO. 
+
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 12:21:54',conext_horar='09:00',conext_prescripciones='Rp/.
+
+1 INGRESO A HOSPITALIZACION HAB. 301
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS DE VITALES 
+4. COLOCACION DE MEDIAS ANTIEMBOLICAS
+5 CHEQUEO PREANESTESICO
+6 FIRMAR CONSENTIMIENTOS INFORMADOS 
+7 SUBIR A QUIROFANO AL LLAMADO 
+8 ORDENES DR. PESANTEZ
+
+
+
+
+
+DR. SANTIAGO PESANTEZ
+CIRUGÍA RECONSTRUCTIVA
+
+
+
+
+
+
+MD. JOSE ORODOÑEZ 
+MEDICO RESIENTE',conext_horaf='09:30',conext_enlace='736001172575763530420240207122154402' where conext_id=199 -->2024-02-13 21:08:43
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA  Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD FISICA FRECUENTE
+
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES INGRESADO A ESTA CASA DE SALUD.
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX SE TEJIDO MAMARIO HIPERTROFICO, HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN DEPRESIBLE NO SIGNOS PERITONEALES,  RHA. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A QUIROFANO. 
+
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 12:21:54',conext_horar='09:00',conext_prescripciones='Rp/.
+
+1 INGRESO A HOSPITALIZACION HAB. 301
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS DE VITALES 
+4. COLOCACION DE MEDIAS ANTIEMBOLICAS
+5 CHEQUEO PREANESTESICO
+6 FIRMAR CONSENTIMIENTOS INFORMADOS 
+7 SUBIR A QUIROFANO AL LLAMADO 
+8 ORDENES DR. PESANTEZ
+
+
+
+
+
+DR. SANTIAGO PESANTEZ
+CIRUGÍA RECONSTRUCTIVA
+
+
+
+
+
+
+MD. JOSE ORODOÑEZ 
+MEDICO RESIENTE',conext_horaf='09:30',conext_enlace='736001172575763530420240207122154402' where conext_id=199 -->2024-02-13 21:08:51
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA  Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD FISICA FRECUENTE
+
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES INGRESADO A ESTA CASA DE SALUD.
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX SE TEJIDO MAMARIO HIPERTROFICO, HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN DEPRESIBLE NO SIGNOS PERITONEALES,  RHA. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A QUIROFANO. 
+
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 12:21:54',conext_horar='09:00',conext_prescripciones='Rp/.
+
+1 INGRESO A HOSPITALIZACION HAB. 301
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS DE VITALES 
+4. COLOCACION DE MEDIAS ANTIEMBOLICAS
+5 CHEQUEO PREANESTESICO
+6 FIRMAR CONSENTIMIENTOS INFORMADOS 
+7 SUBIR A QUIROFANO AL LLAMADO 
+8 ORDENES DR. PESANTEZ
+
+
+
+
+
+DR. SANTIAGO PESANTEZ
+CIRUGÍA RECONSTRUCTIVA
+
+
+
+
+
+
+MD. JOSE ORODOÑEZ 
+MEDICO RESIENTE',conext_horaf='09:30',conext_enlace='736001172575763530420240207122154402' where conext_id=199 -->2024-02-13 21:09:01
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE ALTA
+CIRUGIA PLASTICA
+ 
+PACIENTE MASCULINO 32 AÑOS DE EDAD 
+
+DIAGNOSTICO:
+OTRAS CIRUGIAS PLASTICAS POR RAZONES ESTETICAS CIE 10 Z411
+HIPERTROFIA DE MAMA CIE 10 N62
+POSTQUIRURGICO: GIGANTOMASTIA
+ 
+SUBJETIVO
+PACIENTE AL MOMENTO NO REFIERE MOLESTIAS, NO MAREO.
+
+EXAMEN FÍSICO: 
+CABEZA: NORMOCEFALICA, ESCLERAS ANICTERICAS, BOCA: MUCOSAS ORALES HUMEDAS, CUELLO, SIMETRICO, SIN ADENOPATIAS, TORAX, SE EVIDENCIA APOSITOS LIQUIDOS CON LIQUIDO SEROHEMATICO, SIMETRICO, EXPANSIBLE, MURMULLO VESICULAR CONSERVADO, CORAZON RITMICO, SIN PRESENCIA DE SOPLOS, ABDOMEN SUAVE, DEPRESIBLE, NO DOLOROSO, RUIDOS HIDROAEREOS, MIEMBROS INFERIORES, SIMETRICOS, SIN PRESENCIA DE EDEMA, LLENADO CAPILAR MENOR A 3 SEGUNDOS
+
+ANALISIS:
+PACIENTE POSTQUIRURGICO INMEDIATO AL MOMENTO TOLERA VIA ORAL, CON BUEN MANEJO DEL DOLOR QUE NO REQUIRIO RESCATES, REALIZA DIURESIS ESPONTANEA, DEAMBULA, SE COMUNICA CON ASISTENTE DE MEDICO TRATANTE DR. PESANTES A QUIEN SE LE COMUNICA ESTADO DEL PACIENTE Y REFIERE QUE SE LE PUEDE DAR ALTA MEDICA MAS INDICACIONES
+
+PLAN:  ALTA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 20:30:23',conext_horar='19:30',conext_prescripciones='Rp/.
+1. ALTA CON SIGNOS DE ALARMA E INDICACIONES.
+
+
+
+
+
+ 
+
+ 
+ 
+
+DR. SANTIAGO PESANTEZ
+CIRUJANO PLASTICO
+
+
+MD JOSE ORDOÑES 
+MEDICO RESIDENTE ',conext_horaf='19:40',conext_enlace='736001172575763530420240207083023418' where conext_id=210 -->2024-02-13 21:09:44
+185-->update dns_newhospitalizacionconsultaexterna set clie_id=7360,usua_id=304,centro_id=1,atenc_id=6352,conext_notasdeevolucion='NOTA DE ALTA
+CIRUGIA RECONSTRUCTIVA
+ 
+PACIENTE MASCULINO 32 AÑOS DE EDAD 
+
+DIAGNOSTICO:
+HIPERTROFIA DE MAMA CIE 10 N62
+POSTQUIRURGICO: MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL
+ 
+SUBJETIVO
+PACIENTE AL MOMENTO NO REFIERE MOLESTIAS, NO MAREO.
+
+EXAMEN FÍSICO: 
+CABEZA: NORMOCEFALICA, ESCLERAS ANICTERICAS, BOCA: MUCOSAS ORALES HUMEDAS, CUELLO, SIMETRICO, SIN ADENOPATIAS, TORAX, SE EVIDENCIA APOSITOS LIQUIDOS CON LIQUIDO SEROHEMATICO, SIMETRICO, EXPANSIBLE, MURMULLO VESICULAR CONSERVADO, CORAZON RITMICO, SIN PRESENCIA DE SOPLOS, ABDOMEN SUAVE, DEPRESIBLE, NO DOLOROSO, RUIDOS HIDROAEREOS, MIEMBROS INFERIORES, SIMETRICOS, SIN PRESENCIA DE EDEMA, LLENADO CAPILAR MENOR A 3 SEGUNDOS
+
+ANALISIS:
+PACIENTE POSTQUIRURGICO INMEDIATO AL MOMENTO TOLERA VIA ORAL, CON BUEN MANEJO DEL DOLOR QUE NO REQUIRIO RESCATES, REALIZA DIURESIS ESPONTANEA, DEAMBULA, AL MOMENTO HEMODINAMICAMENTE ESTABLE CIFRAS TENSIONALES ESTABLES, SE COMUNICA CON ASISTENTE DE MEDICO TRATANTE DR. PESANTES A QUIEN SE LE COMUNICA ESTADO DEL PACIENTE Y REFIERE QUE SE LE PUEDE DAR ALTA MEDICA MAS INDICACIONES
+
+PLAN:  ALTA',anam_id=560,conext_fechar='2024-02-07',estaatenc_id=1,conext_fecharegistro='2024-02-07 20:30:23',conext_horar='19:30',conext_prescripciones='Rp/.
+1. ALTA CON SIGNOS DE ALARMA E INDICACIONES.
+
+
+
+
+
+ 
+
+ 
+ 
+
+DR. SANTIAGO PESANTEZ
+CIRUGIA RECONSTRUCTIVA 
+
+
+MD JOSE ORDOÑES 
+MEDICO RESIDENTE ',conext_horaf='19:40',conext_enlace='736001172575763530420240207083023418' where conext_id=210 -->2024-02-13 21:11:50
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=304,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7360,anam_nhoja='',anam_fecharegistro='2024-02-07 13:13:31',anam_resumenclinico='NOTA DE INGRESO 
+CIRUGÍA PLÁSTICA
+
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA  Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD FISICA FRECUENTE
+
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE INCONFORMIDAD CON APARIENCIA CORPORAL DEBIDO A HIPERTROFIA MAMARIA BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA PLÁSTICA, POR LO QUE ES INGRESADO A ESTA CASA DE SALUD. 
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX SE EVIDENCIA AUMENTO DE TEJIDO MAMARIO, CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN DEPRESIBLE NO SIGNOS PERITONEALES,  RHA. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A QUIROFANO. 
+
+IDG: OTRAS CIRUGIAS PLASTICAS POR RAZONES ESTETICAS CIE 
+10 Z411 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/02/07: PACIENTE ADULTO SIN ANTECEDENTES DE IMPORTANCIA, ACUDE A ESTA CASA DE SALUD PARA RESOLUCION QUIRURGICA PREVIA VALORACION POR SERVICIO DE CIRUGÍA PLASTICA, SE REALIZA     ,SIN  COMPLICACIONES PASARA AREA DE RECUEPRACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE, TOLERANCIA ORAL ADECUADA, DIURESIS ESPONTANEA, SIN REQUERMIENTO DE OXIGENO, DEMABULACION NORMAL, VIGILANCIA ESTRICTA. PACIENTE REALIZA UNA PRESION DE 175/85 POR LO QUE SE COMUNICA A MEDICO TRATANTE A LO QUE INDICA QUE S E LE PASE ENAPRILATO 1,25 IV, POSTERIORMENTE PACIENTE ESTABLE CON PRESION DE 130/72, TOLERA VIA ORAL, DIURESIS ESPONTANEA, MANEJO DEL DOLOR, AMBULATORIO SE DECIDE ALTA HOPITALARIA',anam_hallazgos='EXAMENES DE IMAGEN Y LABORATORIO DENTRO DE PARAMETROS NORMALES',anam_resumentratamiento='INDICACIONES DE INGRESO
+INGRESO A HOSPITALIZACION HAB. 301
+NADA POR VIA ORAL 
+CONTROL DE SIGNOS DE VITALES 
+COLOCACION DE MEDIAS ANTIEMBOLICAS
+CHEQUEO PREANESTESICO
+FIRMAR CONSENTIMIENTOS INFORMADOS 
+SUBIR A QUIROFANO AL LLAMADO 
+ORDENES DR. PESANTEZ
+
+2024/02/07: PROCEDIMIENTO QUIRÚRGICO: MASTOPEXIA
+HALLAZGOS:
+AUMENTO DE TEJIDO MAMARIO
+COMPLICACIONES: SIN COMPLICACIONES
+ANESTESIA: GENERAL
+
+INDICACIONES POSTQUIRÚRGICAS:
+NPO POR 2 HORAS LUEGO TOLERANCIA ORAL CON LIQUIDOS CLAROS
+CONTROL DE SIGNOS VITALES
+SEMIFOWLER
+LACTATO RINGER 1000CC IV C/24
+KETEROLACO 30MG IV C/8HORAS
+METAMIZOL 1 AMP IV/6 HORASS',anam_condicionegreso='1. INDICACIONES DE MEDICO TRATANTE
+2. SIGNOS DE ALARMA
+3. CONTROL POR ESPECIALISTA
+PACIENTE Y FAMILIARES ENTIENDEN Y ACEPTAN INDICACIONES DADAS POR MEDICO TRATANTE PACIENTE EGRESA EN CONDICIONES ESTABLES SE ENTREGA RECETA SIGNOS ALARMA Y CONTROL POR CONSULTA EXTERNA',anam_altadefinitiva='',protoop_idenlace='560',anam_control=NULL,anam_fechaalta=NULL,atenc_id='6352',anam_altatransitoria='1',anam_horaalta='00:00',anam_enlace='736001172575763530420240207011331243',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='1',anam_diasincapacidad='',usua2_id=218 where anam_id=66 -->2024-02-13 21:12:29
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=304,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7360,anam_nhoja='',anam_fecharegistro='2024-02-07 13:13:31',anam_resumenclinico='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA Y 
+RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, 
+DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA 
+RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, 
+DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD 
+FISICA FRECUENTE
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE 
+DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E 
+HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA 
+BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA 
+QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES 
+INGRESADO A ESTA CASA DE SALUD.
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. 
+GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA 
+ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS. 
+OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO 
+ADENOPATÍAS. TORAX SE TEJIDO MAMARIO HIPERTROFICO, 
+HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN 
+NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: 
+BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS 
+SOBREAÑADIDOS. ABDOMEN DEPRESIBLE NO SIGNOS 
+PERITONEALES, RHA. EXTREMIDADES: SENSIBILIDAD Y 
+MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES 
+CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS 
+DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE 
+AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A 
+QUIROFANO. 
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/02/07: PACIENTE ADULTO SIN ANTECEDENTES DE IMPORTANCIA, ACUDE A ESTA CASA DE SALUD PARA RESOLUCION QUIRURGICA PREVIA VALORACION POR SERVICIO DE CIRUGÍA RECONSTRUCTIVA, SE REALIZA  MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL,SIN  COMPLICACIONES SE MANTIENE BAJO VIGILANCIA EN EL AREA DE RECUEPRACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE PARA POSTERIOR PASO A AREA DE RECUPERACION DONDE  TOLERANCIA ORAL ADECUADA, DIURESIS ESPONTANEA, SIN REQUERMIENTO DE OXIGENO, DEAMBULACION NORMAL, VIGILANCIA ESTRICTA. PACIENTE REALIZA UNA PRESION DE 175/85 POR LO QUE SE COMUNICA A MEDICO TRATANTE A LO QUE INDICA QUE SE ADMINISTRE ENAPRILATO 1,25 IV, POSTERIORMENTE PACIENTE ESTABLE CON PRESION DE 130/72, TOLERA VIA ORAL, DIURESIS ESPONTANEA, MANEJO DEL DOLOR, AMBULATORIO SE DECIDE ALTA HOPITALARIA',anam_hallazgos='ECO MAMARIO BILATERAL DONDE SE OBSERVA TEJIDO FIBROGLANDULAR TANTO EN EL LADO IZQUIERDO COMO EN EL DERECHO DE REGIONES RETROAREOLARES, DG: GINECOMASTIA VERDADERA BILATERAL EN FASE MIXTA',anam_resumentratamiento='INDICACIONES DE INGRESO
+INGRESO A HOSPITALIZACION HAB. 301
+NADA POR VIA ORAL 
+CONTROL DE SIGNOS DE VITALES 
+COLOCACION DE MEDIAS ANTIEMBOLICAS
+CHEQUEO PREANESTESICO
+FIRMAR CONSENTIMIENTOS INFORMADOS 
+SUBIR A QUIROFANO AL LLAMADO 
+ORDENES DR. PESANTEZ
+
+2024/02/07: PROCEDIMIENTO QUIRÚRGICO: MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL
+HALLAZGOS:
+AUMENTO DE TAMAÑO DE GLANDULAS MAMARIAS
+COMPLICACIONES: SIN COMPLICACIONES
+ANESTESIA: GENERAL
+
+INDICACIONES POSTQUIRÚRGICAS:
+NPO POR 2 HORAS LUEGO TOLERANCIA ORAL CON LIQUIDOS CLAROS
+CONTROL DE SIGNOS VITALES
+SEMIFOWLER
+LACTATO RINGER 1000CC IV CADA 24 HORAS
+KETEROLACO 30MG IV CADA 8 HORAS
+METAMIZOL 1 GRAMO CADA 8 HORAS',anam_condicionegreso='1. INDICACIONES DE MEDICO TRATANTE
+2. SIGNOS DE ALARMA
+3. CONTROL POR ESPECIALISTA
+PACIENTE Y FAMILIARES ENTIENDEN Y ACEPTAN INDICACIONES DADAS POR MEDICO TRATANTE PACIENTE EGRESA EN CONDICIONES ESTABLES SE ENTREGA RECETA SIGNOS ALARMA Y CONTROL POR CONSULTA EXTERNA',anam_altadefinitiva='',protoop_idenlace='560',anam_control=NULL,anam_fechaalta=NULL,atenc_id='6352',anam_altatransitoria='1',anam_horaalta='00:00',anam_enlace='736001172575763530420240207011331243',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='1',anam_diasincapacidad='',usua2_id=218 where anam_id=66 -->2024-02-13 21:20:31
+185-->update dns_newepicrisisanamesis set centro_id=1,usua_id=304,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7360,anam_nhoja='',anam_fecharegistro='2024-02-07 13:13:31',anam_resumenclinico='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA Y 
+RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, 
+DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA 
+RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, 
+DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD 
+FISICA FRECUENTE
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE 
+DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E 
+HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA 
+BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA 
+QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES 
+INGRESADO A ESTA CASA DE SALUD.
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. 
+GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA 
+ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS. 
+OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO 
+ADENOPATÍAS. TORAX SE TEJIDO MAMARIO HIPERTROFICO, 
+HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN 
+NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: 
+BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS 
+SOBREAÑADIDOS. ABDOMEN DEPRESIBLE NO SIGNOS 
+PERITONEALES, RHA. EXTREMIDADES: SENSIBILIDAD Y 
+MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES 
+CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS 
+DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE 
+AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A 
+QUIROFANO. 
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/02/07: PACIENTE ADULTO SIN ANTECEDENTES DE IMPORTANCIA, ACUDE A ESTA CASA DE SALUD PARA RESOLUCION QUIRURGICA PREVIA VALORACION POR SERVICIO DE CIRUGÍA RECONSTRUCTIVA, SE REALIZA  MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL,SIN  COMPLICACIONES SE MANTIENE BAJO VIGILANCIA EN EL AREA DE RECUEPRACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE PARA POSTERIOR PASO A AREA DE RECUPERACION DONDE  TOLERANCIA ORAL ADECUADA, DIURESIS ESPONTANEA, SIN REQUERMIENTO DE OXIGENO, DEAMBULACION NORMAL, VIGILANCIA ESTRICTA. PACIENTE REALIZA UNA PRESION DE 175/85 POR LO QUE SE COMUNICA A MEDICO TRATANTE A LO QUE INDICA QUE SE ADMINISTRE ENAPRILATO 1,25 IV, POSTERIORMENTE PACIENTE ESTABLE CON PRESION DE 130/72, TOLERA VIA ORAL, DIURESIS ESPONTANEA, MANEJO DEL DOLOR, AMBULATORIO SE DECIDE ALTA HOPITALARIA',anam_hallazgos='ECO MAMARIO BILATERAL DONDE SE OBSERVA TEJIDO FIBROGLANDULAR TANTO EN EL LADO IZQUIERDO COMO EN EL DERECHO DE REGIONES RETROAREOLARES, DG: GINECOMASTIA VERDADERA BILATERAL EN FASE MIXTA',anam_resumentratamiento='INDICACIONES DE INGRESO
+INGRESO A HOSPITALIZACION HAB. 301
+NADA POR VIA ORAL 
+CONTROL DE SIGNOS DE VITALES 
+COLOCACION DE MEDIAS ANTIEMBOLICAS
+CHEQUEO PREANESTESICO
+FIRMAR CONSENTIMIENTOS INFORMADOS 
+SUBIR A QUIROFANO AL LLAMADO 
+ORDENES DR. PESANTEZ
+
+2024/02/07: PROCEDIMIENTO QUIRÚRGICO: MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL
+HALLAZGOS:
+AUMENTO DE TAMAÑO DE GLANDULAS MAMARIAS
+COMPLICACIONES: SIN COMPLICACIONES
+ANESTESIA: GENERAL
+
+INDICACIONES POSTQUIRÚRGICAS:
+NPO POR 2 HORAS LUEGO TOLERANCIA ORAL CON LIQUIDOS CLAROS
+CONTROL DE SIGNOS VITALES
+SEMIFOWLER
+LACTATO RINGER 1000CC IV CADA 24 HORAS
+KETEROLACO 30MG IV CADA 8 HORAS
+METAMIZOL 1 GRAMO CADA 8 HORAS',anam_condicionegreso='1. INDICACIONES DE MEDICO TRATANTE
+2. SIGNOS DE ALARMA
+3. CONTROL POR ESPECIALISTA
+PACIENTE Y FAMILIARES ENTIENDEN Y ACEPTAN INDICACIONES DADAS POR MEDICO TRATANTE PACIENTE EGRESA EN CONDICIONES ESTABLES SE ENTREGA RECETA SIGNOS ALARMA Y CONTROL POR CONSULTA EXTERNA',anam_altadefinitiva='1',protoop_idenlace='560',anam_control=NULL,anam_fechaalta=NULL,atenc_id='6352',anam_altatransitoria='',anam_horaalta='00:00',anam_enlace='736001172575763530420240207011331243',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='1',anam_diasincapacidad='',usua2_id=218 where anam_id=66 -->2024-02-13 21:21:16
+304-->update dns_newepicrisisanamesis set centro_id=1,usua_id=304,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7360,anam_nhoja='',anam_fecharegistro='2024-02-07 13:13:31',anam_resumenclinico='NOTA DE INGRESO 
+CIRUGÍA RECONSTRUCTIVA
+PACIENTE MASCULINO DE 32 AÑOS, SOLTERO, PROCEDENCIA Y 
+RESIDENCIA QUITO, INSTRUCCION SUPERIOR, ENTRENADOR, 
+DIESTRO, MESTIZO, TIPO DE SANGRE O RH POSITIVO, NO HA 
+RECIBIDO TRANSFUSIONES 
+ALERGIAS: NO REFIERE
+APP: NO REFIERE 
+APQX: NO REFIERE 
+HABITOS: ALIMENTACION 5 VECES/DIA, MICCION 1 VEZ /DIA, 
+DEFECACION 1VEZ/DIA, ALCOHOL Y TABACO NIEGA, ACTIVIDAD 
+FISICA FRECUENTE
+VACUNA COVID 19: 2 DOSIS 
+APF: MADRE HIPOTIROIDISMO 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+ENFERMEDAD ACTUAL: PACIENTE ADULTO JOVEN, REFIERE 
+DOLOR A NIVEL DE MAMAS ACOMPAÑADO DE INFLAMACION E 
+HIPERSENCIBILIDAD DEBIDO A HIPERTROFIA MAMARIA 
+BILATERAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA 
+QUIEN PAUTA CIRUGÍA RECONSTRUCTIVA, POR LO QUE ES 
+INGRESADO A ESTA CASA DE SALUD.
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. 
+GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA 
+ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS. 
+OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO 
+ADENOPATÍAS. TORAX SE TEJIDO MAMARIO HIPERTROFICO, 
+HIPERSENCIBILIDAD A LA PALPACION , CORAZÓN 
+NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: 
+BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS 
+SOBREAÑADIDOS. ABDOMEN DEPRESIBLE NO SIGNOS 
+PERITONEALES, RHA. EXTREMIDADES: SENSIBILIDAD Y 
+MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO.
+ANALISIS: PACIENTE ADULTO JOVEN SIN ANTECEDENTES 
+CLINICOS, ACUDE PARA CIRUGIA PLASTICA, CUMPLE CON HORAS 
+DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE 
+AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADA A 
+QUIROFANO. 
+IDG: HIPERTROFIA DE LA MAMA (CIE 10: N62X)
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='2024/02/07: PACIENTE ADULTO SIN ANTECEDENTES DE IMPORTANCIA, ACUDE A ESTA CASA DE SALUD PARA RESOLUCION QUIRURGICA PREVIA VALORACION POR SERVICIO DE CIRUGÍA RECONSTRUCTIVA, SE REALIZA  MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL,SIN  COMPLICACIONES SE MANTIENE BAJO VIGILANCIA EN EL AREA DE RECUEPRACION DONDE PERMANECE HEMODINAMICAMENTE ESTABLE PARA POSTERIOR PASO A AREA DE RECUPERACION DONDE  TOLERANCIA ORAL ADECUADA, DIURESIS ESPONTANEA, SIN REQUERMIENTO DE OXIGENO, DEAMBULACION NORMAL, VIGILANCIA ESTRICTA. PACIENTE REALIZA UNA PRESION DE 175/85 POR LO QUE SE COMUNICA A MEDICO TRATANTE A LO QUE INDICA QUE SE ADMINISTRE ENAPRILATO 1,25 IV, POSTERIORMENTE PACIENTE ESTABLE CON PRESION DE 130/72, TOLERA VIA ORAL, DIURESIS ESPONTANEA, MANEJO DEL DOLOR, AMBULATORIO SE DECIDE ALTA HOPITALARIA',anam_hallazgos='ECO MAMARIO BILATERAL DONDE SE OBSERVA TEJIDO FIBROGLANDULAR TANTO EN EL LADO IZQUIERDO COMO EN EL DERECHO DE REGIONES RETROAREOLARES, DG: GINECOMASTIA VERDADERA BILATERAL EN FASE MIXTA',anam_resumentratamiento='INDICACIONES DE INGRESO
+INGRESO A HOSPITALIZACION HAB. 301
+NADA POR VIA ORAL 
+CONTROL DE SIGNOS DE VITALES 
+COLOCACION DE MEDIAS ANTIEMBOLICAS
+CHEQUEO PREANESTESICO
+FIRMAR CONSENTIMIENTOS INFORMADOS 
+SUBIR A QUIROFANO AL LLAMADO 
+ORDENES DR. PESANTEZ
+
+2024/02/07: PROCEDIMIENTO QUIRÚRGICO: MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL
+HALLAZGOS:
+AUMENTO DE TAMAÑO DE GLANDULAS MAMARIAS
+COMPLICACIONES: SIN COMPLICACIONES
+ANESTESIA: GENERAL
+
+INDICACIONES POSTQUIRÚRGICAS:
+NPO POR 2 HORAS LUEGO TOLERANCIA ORAL CON LIQUIDOS CLAROS
+CONTROL DE SIGNOS VITALES
+SEMIFOWLER
+LACTATO RINGER 1000CC IV CADA 24 HORAS
+KETEROLACO 30MG IV CADA 8 HORAS
+METAMIZOL 1 GRAMO CADA 8 HORAS',anam_condicionegreso='1. INDICACIONES DE MEDICO TRATANTE
+2. SIGNOS DE ALARMA
+3. CONTROL POR ESPECIALISTA
+PACIENTE Y FAMILIARES ENTIENDEN Y ACEPTAN INDICACIONES DADAS POR MEDICO TRATANTE PACIENTE EGRESA EN CONDICIONES ESTABLES SE ENTREGA RECETA SIGNOS ALARMA Y CONTROL POR CONSULTA EXTERNA',anam_altadefinitiva='1',protoop_idenlace='560',anam_control=NULL,anam_fechaalta=NULL,atenc_id='6352',anam_altatransitoria='',anam_horaalta='00:00',anam_enlace='736001172575763530420240207011331243',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='1',anam_diasincapacidad='',usua2_id=218 where anam_id=66 -->2024-02-13 21:21:55
+304-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7360,atenc_id='6352',usua_id=218,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-07 18:41:07',protoop_selectiva='1',protoop_cirujanouno='DR SANTIAGO PESANTEZ',protoop_fechaoperacion='2024-02-07',protoop_sintesis='',protoop_idenlace='560',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='12:30',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR OSCAR MENENDEZ',protoop_horafin='14:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='GINECOMASTIA',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='MASTOPEXIA CON RETIRO DE GLANDULA BILATERAL',protoop_dieresis='INCICSION AREOLAR QUE COMPROMETE PIE Y TCS',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LCDA SUSY',protoop_enlace='736001170921352221820240207064107175',protoop_circulante='',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_anestesiologo='DR BARRIONUEVO',protoop_exploracion='AUMENTO DE TAMAÑO DE GLANDULAS MAMARIAS',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIA - ANTISEPSIA 
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN EN MAMAS EN MAMA DERECHA 300CC Y MAMA IZQUIERDA 300 CC
+REALIZACION DE LIPOASPIRACION CON CANULA # 3 PARA RETIRO DE TEJIDO ADIPOSO TOTAL 500CC , IZQUIERDO 300CC Y DERECHO 200 CC
+APERTURA DE CAVIDAD POR REGION PERIAREOLAR BILTAERAL
+DISECCION Y EXTRACCION DE GLANDULAS MAMARIAS BILATERALES
+LAVADO DE CAVIDAD
+CIERRE POR PLANOS',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=859 -->2024-02-13 21:24:16
+196-->update dns_newhospitalizacionanamesis set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA',anam_planes='CHEQUEO PREANESTESICO
+PROCEDIMIENTO QUIRURGICO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_cirugia='CIRUGIA PROGRAMADA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-13 07:51:39',anam_menopausiaedad='NA',anam_tratante='DR. CACERES',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='1',anam_enlace='74110113120287541962024021307513990',anam_fechaingreso='2024-02-13',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=581 -->2024-02-13 23:30:27
+196-->update dns_newhospitalizacionconsultaexterna set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,conext_notasdeevolucion='NOTA DE INGRESO 
+CIRUGÍA PLASTICA 
+
+PACIENTE FEMENINO DE 31 AÑOS, NACIDO EN CAYAMBE Y RESIDENTE EN QUITO, MESTIZO, SOLTERA, NIVEL DE INSTRUCCIÓN, SUPERIOR, DISEÑADORA GRAFICA, CATOLICO, DIESTRO, TIPO DE SANGRE O RH +.
+ALERGIAS: NINGUNA CONOCIDA, TRANSFUSIONES: NIEGA
+APP: NO REFIERE 
+APQX: CESARIA
+AGO: ANTICONCEPCION: ACO, G1P0C1A0, MENARQUIA 14 AÑOS 
+HABITOS: ALIMENTACIÓN 4 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2  VECES DÍA, ALCOHOL: SOCIAL , TABACO NIEGA,  
+VACUNA COVID 19: 4 DOSIS 
+APF: ABUELA MATERNA HTA
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA 
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN BLANDO DEPRESIBLE, RUIDOS HIDROAEREOS PRESENTES. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO, NO EDEMA.
+
+ANALISIS: PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.
+
+IDG: OTRAS CIRUGIAS POR RAZONES ESTETICAS (CIE 10: Z411) 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_id=581,conext_fechar='2024-02-13',estaatenc_id=4,conext_fecharegistro='2024-02-13 07:56:51',conext_horar='07:56',conext_prescripciones='1. INGRESO A HOSPITALIZACION
+2. NADA POR VIA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CUIDADOS DE ENFERMERIA
+5. DISPOSITIVO INTRAVENOSO SIN HEPARINA
+6. FIRMAR CONSETIMIENTO INFORMADO
+7. CHEQUEO PRE ANESTESICO
+8. SUBIR AL QUIROFANO AL LLAMADO
+9. ORDENES DR. CHRISTIAN CACERES',conext_horaf='00:00',conext_enlace='741101131202875419620240213075651311' where conext_id=275 -->2024-02-13 23:30:31
+196-->update dns_newhospitalizacionanamesis set clie_id=7411,usua_id=196,centro_id=1,atenc_id=6394,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA',anam_planes='CHEQUEO PREANESTESICO
+PROCEDIMIENTO QUIRURGICO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='14 AÑOS',estaatenc_id=4,anam_cirugia='CIRUGIA PROGRAMADA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-13 07:51:39',anam_menopausiaedad='NA',anam_tratante='DR. CACERES',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='1',anam_enlace='74110113120287541962024021307513990',anam_fechaingreso='2024-02-13',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=581 -->2024-02-13 23:30:39
+196-->insert into dns_newepicrisisanamesis (centro_id,usua_id,tipofor_id,protoop_tblprincipal,anam_causaexterna,clie_id,anam_nhoja,anam_fecharegistro,anam_resumenclinico,anam_resumenevolucion,anam_hallazgos,anam_resumentratamiento,anam_condicionegreso,anam_altadefinitiva,protoop_idenlace,anam_control,anam_fechaalta,atenc_id,anam_altatransitoria,anam_horaalta,anam_enlace,anam_asintomatico,anam_discapacidadmoderada,anam_retironoautorizado,anam_defuncionmenos48,anam_defuncionmas48,anam_diasestadia,anam_diasincapacidad,usua2_id) values (1,196,0,'dns_newhospitalizacionanamesis','',7411,'','2024-02-13 23:30:41','NOTA DE INGRESO 
+CIRUGÍA PLASTICA 
+
+PACIENTE FEMENINO DE 31 AÑOS, NACIDO EN CAYAMBE Y RESIDENTE EN QUITO, MESTIZO, SOLTERA, NIVEL DE INSTRUCCIÓN, SUPERIOR, DISEÑADORA GRAFICA, CATOLICO, DIESTRO, TIPO DE SANGRE O RH +.
+ALERGIAS: NINGUNA CONOCIDA, TRANSFUSIONES: NIEGA
+APP: NO REFIERE 
+APQX: CESARIA
+AGO: ANTICONCEPCION: ACO, G1P0C1A0, MENARQUIA 14 AÑOS 
+HABITOS: ALIMENTACIÓN 4 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2  VECES DÍA, ALCOHOL: SOCIAL , TABACO NIEGA,  
+VACUNA COVID 19: 4 DOSIS 
+APF: ABUELA MATERNA HTA
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA 
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN BLANDO DEPRESIBLE, RUIDOS HIDROAEREOS PRESENTES. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO, NO EDEMA.
+
+ANALISIS: PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.
+
+IDG: OTRAS CIRUGIAS POR RAZONES ESTETICAS (CIE 10: Z411) 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA','13/02/2024: PACIENTE ADULTO JOVEN QUIEN SE SOMETE A PROCEDIMIENTO QUIRURGICO AUMENTO MAMARIO MISMO QUE SE REALIZA SIN COMPLICACIONES, POSTERIOR PASA A HOSPITALIZACION DONDE SE MANTIENE HEMODINAMICAMENTE ESTABLE, SIGNOS VITALES DENTRO DE PARAMETROS, DOLOR CONTROLADO CON ANALGESIA PAUTADA, LOGRA DIURESIS ESPONTANEA, DEAMBULACION PRECOZ EN ESTE CONTEXTO MEDICO TRATANTE DECIDE ALTA HOSPITALARIA','EXAMENES DE INGRESO DENTRO DE PARAMETROS','INDICACIONES DE INGRESO
+1. CANALIZACION DE VIA PERIFERICA
+2. CHEQUEO PREANESTESICO
+3. PASE A QUIROFANO AL LLAMADO
+
+PROCEDIMIENTO QUIRURGICO: AUMENTO MAMARIO
+HALLAZGO:
+1. HIPOPLASIA MAMARIA BILATERAL
+2. SE COLOCA PROTESIS MAMARIAS DE 325 CC
+
+INDICACIONES POSTQUIRURGICAS
+1. PROBAR TOLERANCIA ORAL EN 2 HORAS
+2. METAMIZOL 2 GR SI HAY DOLOR','INDICACIONES DE INGRESO DADAS POR MEDICO TRATANTE MISMA QUE PACIENTE DICE COMPRENDER','1','581',NULL,NULL,'6394','','','74110113120287541962024021311304190','','','','','','','',205)-->2024-02-13 23:37:07
+196-->update dns_newepicrisisanamesis set centro_id=1,usua_id=196,tipofor_id=0,protoop_tblprincipal='dns_newhospitalizacionanamesis',anam_causaexterna='',clie_id=7411,anam_nhoja='',anam_fecharegistro='2024-02-13 23:30:41',anam_resumenclinico='NOTA DE INGRESO 
+CIRUGÍA PLASTICA 
+
+PACIENTE FEMENINO DE 31 AÑOS, NACIDO EN CAYAMBE Y RESIDENTE EN QUITO, MESTIZO, SOLTERA, NIVEL DE INSTRUCCIÓN, SUPERIOR, DISEÑADORA GRAFICA, CATOLICO, DIESTRO, TIPO DE SANGRE O RH +.
+ALERGIAS: NINGUNA CONOCIDA, TRANSFUSIONES: NIEGA
+APP: NO REFIERE 
+APQX: CESARIA
+AGO: ANTICONCEPCION: ACO, G1P0C1A0, MENARQUIA 14 AÑOS 
+HABITOS: ALIMENTACIÓN 4 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2  VECES DÍA, ALCOHOL: SOCIAL , TABACO NIEGA,  
+VACUNA COVID 19: 4 DOSIS 
+APF: ABUELA MATERNA HTA
+
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA 
+
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN QUIEN PRESENTA INCONFORMIDAD CON ASPECTO FISICO POR LO CUAL ACUDE CON MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES PARACLINICOS Y DECIDE RESOLUCIÓN QUIRÚRGICA 
+ 
+EXAMEN FÍSICO: PACIENTE CONSCIENTE ORIENTADO, AFEBRIL. GLASGOW 15/15, M4O5V6 ESCLERAS Y PIEL ANICTÉRICAS, MUCOSA ORAL HÚMEDA OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS.  OROFARINGE SIN ALTERACIONES. CUELLO MÓVIL NO ADENOPATÍAS.  TORAX CORAZÓN NORMOFONÉTICO, NO SOPLOS AUSCULTABLES. PULMONES: BUENA ENTRADA DE AIRE BILATERAL SIN RUIDOS SOBREAÑADIDOS.  ABDOMEN BLANDO DEPRESIBLE, RUIDOS HIDROAEREOS PRESENTES. EXTREMIDADES: SENSIBILIDAD Y MOVIMIENTOS CONSERVADOS, NEUROVASCULAR CONSERVADO, NO EDEMA.
+
+ANALISIS: PACIENTE CON ANTECEDENTES DESCRITOS ACUDE PARA PROCEDIMIENTO QUIRURGICO, CUMPLE CON HORAS DE AYUNO, EN ESPERA DE SU LLAMADO A QUIROFANO.
+
+IDG: OTRAS CIRUGIAS POR RAZONES ESTETICAS (CIE 10: Z411) 
+
+PLAN: RESOLUCIÓN QUIRÚRGICA',anam_resumenevolucion='13/02/2024: PACIENTE ADULTO JOVEN QUIEN SE SOMETE A PROCEDIMIENTO QUIRURGICO AUMENTO MAMARIO MISMO QUE SE REALIZA SIN COMPLICACIONES, POSTERIOR PASA A HOSPITALIZACION DONDE SE MANTIENE HEMODINAMICAMENTE ESTABLE, SIGNOS VITALES DENTRO DE PARAMETROS, DOLOR CONTROLADO CON ANALGESIA PAUTADA, LOGRA DIURESIS ESPONTANEA, DEAMBULACION PRECOZ EN ESTE CONTEXTO MEDICO TRATANTE DECIDE ALTA HOSPITALARIA',anam_hallazgos='EXAMENES DE INGRESO DENTRO DE PARAMETROS',anam_resumentratamiento='INDICACIONES DE INGRESO
+1. CANALIZACION DE VIA PERIFERICA
+2. CHEQUEO PREANESTESICO
+3. PASE A QUIROFANO AL LLAMADO
+
+PROCEDIMIENTO QUIRURGICO: AUMENTO MAMARIO
+HALLAZGO:
+1. HIPOPLASIA MAMARIA BILATERAL
+2. SE COLOCA PROTESIS MAMARIAS DE 325 CC
+
+INDICACIONES POSTQUIRURGICAS
+1. PROBAR TOLERANCIA ORAL EN 2 HORAS
+2. METAMIZOL 2 GR SI HAY DOLOR',anam_condicionegreso='INDICACIONES DE INGRESO DADAS POR MEDICO TRATANTE MISMA QUE PACIENTE DICE COMPRENDER',anam_altadefinitiva='1',protoop_idenlace='581',anam_control=NULL,anam_fechaalta=NULL,atenc_id='6394',anam_altatransitoria='',anam_horaalta='',anam_enlace='74110113120287541962024021311304190',anam_asintomatico='',anam_discapacidadmoderada='',anam_retironoautorizado='',anam_defuncionmenos48='',anam_defuncionmas48='',anam_diasestadia='',anam_diasincapacidad='',usua2_id=205 where anam_id=85 -->2024-02-13 23:37:28

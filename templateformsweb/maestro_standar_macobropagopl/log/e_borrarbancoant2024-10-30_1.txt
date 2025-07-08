@@ -1,0 +1,8 @@
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-3050767227E17E3C05' and crpadet_id=985-->2024-10-30 13:50:03
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-3050767227E17E3C05' and crpadet_id=984-->2024-10-30 13:50:09
+507-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-3050767228E87C6202' and crpadet_id=996-->2024-10-30 15:06:35
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-30502672264CC181E9' and crpadet_id=1017-->2024-10-30 16:03:39
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-30502672264CC181E9' and crpadet_id=1020-->2024-10-30 16:07:41
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-30502672264CC181E9' and crpadet_id=1003-->2024-10-30 16:11:42
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-30502672264CC181E9' and crpadet_id=1021-->2024-10-30 16:11:51
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2024-10-30502672264CC181E9' and crpadet_id=1009-->2024-10-30 16:15:51

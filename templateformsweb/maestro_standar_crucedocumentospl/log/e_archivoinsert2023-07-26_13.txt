@@ -1,0 +1,10 @@
+2-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('1.1.1.3.1','446','10','0164C130EEAB767220230726094254251','2023-07-26 10:04:28','2')-->2023-07-26 10:04:28
+2-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('1.1.2.5.8','446','1','0164C130EEAB767220230726094254251','2023-07-26 10:04:34','2')-->2023-07-26 10:04:34
+2-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164C130EEAB767220230726094254251' and crucue_id=769-->2023-07-26 10:05:12
+2-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164C130EEAB767220230726094254251' and crucue_id=768-->2023-07-26 10:05:14
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.3.1.3',crucue_persona='503',crucue_valorpago='448.75' where crucue_id='178'-->2023-07-26 13:59:49
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.3.1.3',crucue_persona='503',crucue_valorpago='448.87' where crucue_id='178'-->2023-07-26 14:01:25
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.3.1.3',crucue_persona='660',crucue_valorpago='482.20' where crucue_id='269'-->2023-07-26 14:02:34
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.3.1.3',crucue_persona='3721',crucue_valorpago='478.03' where crucue_id='417'-->2023-07-26 14:03:42
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='1.1.4.3',crucue_persona='3109',crucue_valorpago='75.5' where crucue_id='454'-->2023-07-26 14:04:26
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='1.1.4.3',crucue_persona='159',crucue_valorpago='32.64' where crucue_id='459'-->2023-07-26 14:08:31

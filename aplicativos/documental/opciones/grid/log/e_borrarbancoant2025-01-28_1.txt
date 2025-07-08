@@ -1,0 +1,655 @@
+502-->select * from app_anticipos where anti_id='133'-->2025-01-28 12:24:50
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='133')-->2025-01-28 12:24:52
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='133'-->2025-01-28 12:24:52
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-1250266E360FAAF5DD'-->2025-01-28 12:24:52
+502-->delete from app_anticipos where anti_id=133-->2025-01-28 12:24:52
+502-->select * from app_anticipos where anti_id='5'-->2025-01-28 12:25:04
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='5')-->2025-01-28 12:25:06
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='5'-->2025-01-28 12:25:06
+502-->delete  from lpin_movanticipos where anti_enlace='2024-06-02319665D26D90029A'-->2025-01-28 12:25:06
+502-->delete from app_anticipos where anti_id=5-->2025-01-28 12:25:06
+502-->select * from app_anticipos where anti_id='137'-->2025-01-28 12:25:30
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='137')-->2025-01-28 12:25:33
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='137'-->2025-01-28 12:25:33
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-1350266E47B6A0A448'-->2025-01-28 12:25:33
+502-->delete from app_anticipos where anti_id=137-->2025-01-28 12:25:33
+502-->select * from app_anticipos where anti_id='139'-->2025-01-28 12:25:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='139')-->2025-01-28 12:25:56
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='139'-->2025-01-28 12:25:56
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-1450266E5B5396937E'-->2025-01-28 12:25:56
+502-->delete from app_anticipos where anti_id=139-->2025-01-28 12:25:56
+502-->select * from app_anticipos where anti_id='150'-->2025-01-28 13:51:46
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='150')-->2025-01-28 13:51:48
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='150'-->2025-01-28 13:51:48
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-2350266F1CC2096A22'-->2025-01-28 13:51:48
+502-->delete from app_anticipos where anti_id=150-->2025-01-28 13:51:48
+502-->select * from app_anticipos where anti_id='82'-->2025-01-28 13:53:17
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='82')-->2025-01-28 13:53:19
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='82'-->2025-01-28 13:53:19
+502-->delete  from lpin_movanticipos where anti_enlace='2024-08-1231966BAD63EE463F'-->2025-01-28 13:53:19
+502-->delete from app_anticipos where anti_id=82-->2025-01-28 13:53:19
+502-->select * from app_anticipos where anti_id='85'-->2025-01-28 13:53:58
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='85')-->2025-01-28 13:54:01
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='85'-->2025-01-28 13:54:01
+502-->delete  from lpin_movanticipos where anti_enlace='2024-08-1331966BB7884E25E6'-->2025-01-28 13:54:01
+502-->delete from app_anticipos where anti_id=85-->2025-01-28 13:54:01
+502-->select * from app_anticipos where anti_id='178'-->2025-01-28 14:01:27
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='178')-->2025-01-28 14:01:30
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='178'-->2025-01-28 14:01:30
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0150266FC6ECBE8072'-->2025-01-28 14:01:30
+502-->delete from app_anticipos where anti_id=178-->2025-01-28 14:01:30
+502-->select * from app_anticipos where anti_id='180'-->2025-01-28 14:01:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='180')-->2025-01-28 14:01:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='180'-->2025-01-28 14:01:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0250266FD57BDA7213'-->2025-01-28 14:01:45
+502-->delete from app_anticipos where anti_id=180-->2025-01-28 14:01:45
+502-->select * from app_anticipos where anti_id='172'-->2025-01-28 14:01:55
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='172')-->2025-01-28 14:01:57
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='172'-->2025-01-28 14:01:57
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0150266FC02E0C8B85'-->2025-01-28 14:01:57
+502-->delete from app_anticipos where anti_id=172-->2025-01-28 14:01:57
+502-->select * from app_anticipos where anti_id='171'-->2025-01-28 14:03:17
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='171')-->2025-01-28 14:03:19
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='171'-->2025-01-28 14:03:19
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-3050266FB1DF7BA201'-->2025-01-28 14:03:19
+502-->delete from app_anticipos where anti_id=171-->2025-01-28 14:03:19
+502-->select * from app_anticipos where anti_id='164'-->2025-01-28 14:03:33
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='164')-->2025-01-28 14:03:36
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='164'-->2025-01-28 14:03:36
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-3050266FADA73D3DF9'-->2025-01-28 14:03:36
+502-->delete from app_anticipos where anti_id=164-->2025-01-28 14:03:36
+502-->select * from app_anticipos where anti_id='162'-->2025-01-28 14:05:49
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='162')-->2025-01-28 14:05:51
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='162'-->2025-01-28 14:05:51
+502-->delete  from lpin_movanticipos where anti_enlace='2024-09-3050266FAD60E79D9F'-->2025-01-28 14:05:51
+502-->delete from app_anticipos where anti_id=162-->2025-01-28 14:05:51
+502-->select * from app_anticipos where anti_id='229'-->2025-01-28 14:10:39
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='229')-->2025-01-28 14:10:41
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='229'-->2025-01-28 14:10:41
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-06502672BAC908D3FA'-->2025-01-28 14:10:41
+502-->delete from app_anticipos where anti_id=229-->2025-01-28 14:10:41
+502-->select * from app_anticipos where anti_id='188'-->2025-01-28 14:10:58
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='188')-->2025-01-28 14:11:00
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='188'-->2025-01-28 14:11:00
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0750267040D621B1B1'-->2025-01-28 14:11:00
+502-->delete from app_anticipos where anti_id=188-->2025-01-28 14:11:00
+502-->select * from app_anticipos where anti_id='184'-->2025-01-28 14:12:07
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='184')-->2025-01-28 14:12:10
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='184'-->2025-01-28 14:12:10
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0450267006B9CAE0E8'-->2025-01-28 14:12:10
+502-->delete from app_anticipos where anti_id=184-->2025-01-28 14:12:10
+502-->select * from app_anticipos where anti_id='185'-->2025-01-28 14:12:22
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='185')-->2025-01-28 14:12:24
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='185'-->2025-01-28 14:12:24
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0450267006B9CAF72E'-->2025-01-28 14:12:24
+502-->delete from app_anticipos where anti_id=185-->2025-01-28 14:12:24
+502-->select * from app_anticipos where anti_id='190'-->2025-01-28 14:12:41
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='190')-->2025-01-28 14:12:43
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='190'-->2025-01-28 14:12:43
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-0750267041201D69EC'-->2025-01-28 14:12:43
+502-->delete from app_anticipos where anti_id=190-->2025-01-28 14:12:43
+502-->select * from app_anticipos where anti_id='197'-->2025-01-28 14:12:55
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='197')-->2025-01-28 14:12:57
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='197'-->2025-01-28 14:12:57
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-075026704494823013'-->2025-01-28 14:12:57
+502-->delete from app_anticipos where anti_id=197-->2025-01-28 14:12:57
+502-->select * from app_anticipos where anti_id='220'-->2025-01-28 14:25:10
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='220')-->2025-01-28 14:25:13
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='220'-->2025-01-28 14:25:13
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-315026723EA77DF5B1'-->2025-01-28 14:25:13
+502-->delete from app_anticipos where anti_id=220-->2025-01-28 14:25:13
+502-->select * from app_anticipos where anti_id='221'-->2025-01-28 14:25:29
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='221')-->2025-01-28 14:25:31
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='221'-->2025-01-28 14:25:31
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-315026723EA77E0F32'-->2025-01-28 14:25:31
+502-->delete from app_anticipos where anti_id=221-->2025-01-28 14:25:31
+502-->select * from app_anticipos where anti_id='228'-->2025-01-28 14:25:41
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='228')-->2025-01-28 14:25:44
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='228'-->2025-01-28 14:25:44
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-05502672A8AB939D27'-->2025-01-28 14:25:44
+502-->delete from app_anticipos where anti_id=228-->2025-01-28 14:25:44
+502-->select * from app_anticipos where anti_id='216'-->2025-01-28 14:25:50
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='216')-->2025-01-28 14:25:53
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='216'-->2025-01-28 14:25:53
+502-->delete  from lpin_movanticipos where anti_enlace='2024-10-315026723A98ADE42B'-->2025-01-28 14:25:53
+502-->delete from app_anticipos where anti_id=216-->2025-01-28 14:25:53
+502-->select * from app_anticipos where anti_id='234'-->2025-01-28 14:29:37
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='234')-->2025-01-28 14:29:40
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='234'-->2025-01-28 14:29:40
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-1150267325C6E11158'-->2025-01-28 14:29:40
+502-->delete from app_anticipos where anti_id=234-->2025-01-28 14:29:40
+502-->select * from app_anticipos where anti_id='249'-->2025-01-28 14:29:54
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='249')-->2025-01-28 14:29:56
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='249'-->2025-01-28 14:29:56
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-145026736246762750'-->2025-01-28 14:29:56
+502-->delete from app_anticipos where anti_id=249-->2025-01-28 14:29:56
+502-->select * from app_anticipos where anti_id='240'-->2025-01-28 14:30:05
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='240')-->2025-01-28 14:30:08
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='240'-->2025-01-28 14:30:08
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-125026733ACF12E467'-->2025-01-28 14:30:08
+502-->delete from app_anticipos where anti_id=240-->2025-01-28 14:30:08
+502-->select * from app_anticipos where anti_id='2'-->2025-01-28 14:32:58
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='2')-->2025-01-28 14:33:00
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='2'-->2025-01-28 14:33:00
+502-->delete  from lpin_movanticipos where anti_enlace='2023-08-0919764D3D0C51E646'-->2025-01-28 14:33:00
+502-->delete from app_anticipos where anti_id=2-->2025-01-28 14:33:00
+502-->select * from app_anticipos where anti_id='241'-->2025-01-28 14:33:16
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='241')-->2025-01-28 14:33:19
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='241'-->2025-01-28 14:33:19
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-125026733C4ADF12E5'-->2025-01-28 14:33:19
+502-->delete from app_anticipos where anti_id=241-->2025-01-28 14:33:19
+502-->select * from app_anticipos where anti_id='235'-->2025-01-28 14:33:30
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='235')-->2025-01-28 14:33:32
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='235'-->2025-01-28 14:33:32
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-1150267325C6E12A10'-->2025-01-28 14:33:32
+502-->delete from app_anticipos where anti_id=235-->2025-01-28 14:33:32
+502-->select * from app_anticipos where anti_id='239'-->2025-01-28 14:33:51
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='239')-->2025-01-28 14:33:53
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='239'-->2025-01-28 14:33:53
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-115026732799E3F2AA'-->2025-01-28 14:33:53
+502-->delete from app_anticipos where anti_id=239-->2025-01-28 14:33:53
+502-->select * from app_anticipos where anti_id='274'-->2025-01-28 14:42:17
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='274')-->2025-01-28 14:42:19
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='274'-->2025-01-28 14:42:19
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-25502674498404EB88'-->2025-01-28 14:42:19
+502-->delete from app_anticipos where anti_id=274-->2025-01-28 14:42:19
+502-->select * from app_anticipos where anti_id='267'-->2025-01-28 15:04:54
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='267')-->2025-01-28 15:04:56
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='267'-->2025-01-28 15:04:56
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-22502674095FA4912E'-->2025-01-28 15:04:56
+502-->delete from app_anticipos where anti_id=267-->2025-01-28 15:04:56
+502-->select * from app_anticipos where anti_id='265'-->2025-01-28 15:05:08
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='265')-->2025-01-28 15:05:11
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='265'-->2025-01-28 15:05:11
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE6687D52'-->2025-01-28 15:05:11
+502-->delete from app_anticipos where anti_id=265-->2025-01-28 15:05:11
+502-->select * from app_anticipos where anti_id='266'-->2025-01-28 15:06:32
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='266')-->2025-01-28 15:06:34
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='266'-->2025-01-28 15:06:34
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE66898F6'-->2025-01-28 15:06:34
+502-->delete from app_anticipos where anti_id=266-->2025-01-28 15:06:34
+502-->select * from app_anticipos where anti_id='276'-->2025-01-28 15:06:59
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='276')-->2025-01-28 15:07:02
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='276'-->2025-01-28 15:07:02
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-265026746057BDD3DB'-->2025-01-28 15:07:02
+502-->delete from app_anticipos where anti_id=276-->2025-01-28 15:07:02
+502-->select * from app_anticipos where anti_id='268'-->2025-01-28 15:07:19
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='268')-->2025-01-28 15:07:21
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='268'-->2025-01-28 15:07:21
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-22502674095FA4B0B3'-->2025-01-28 15:07:21
+502-->delete from app_anticipos where anti_id=268-->2025-01-28 15:07:21
+502-->select * from app_anticipos where anti_id='269'-->2025-01-28 15:07:33
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='269')-->2025-01-28 15:07:36
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='269'-->2025-01-28 15:07:36
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-22502674095FA4CC88'-->2025-01-28 15:07:36
+502-->delete from app_anticipos where anti_id=269-->2025-01-28 15:07:36
+502-->select * from app_anticipos where anti_id='261'-->2025-01-28 15:07:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='261')-->2025-01-28 15:07:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='261'-->2025-01-28 15:07:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE6681C05'-->2025-01-28 15:07:45
+502-->delete from app_anticipos where anti_id=261-->2025-01-28 15:07:45
+502-->select * from app_anticipos where anti_id='255'-->2025-01-28 15:07:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='255')-->2025-01-28 15:07:55
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='255'-->2025-01-28 15:07:55
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE6677790'-->2025-01-28 15:07:55
+502-->delete from app_anticipos where anti_id=255-->2025-01-28 15:07:55
+502-->select * from app_anticipos where anti_id='258'-->2025-01-28 15:08:03
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='258')-->2025-01-28 15:08:05
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='258'-->2025-01-28 15:08:05
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE667CC68'-->2025-01-28 15:08:05
+502-->delete from app_anticipos where anti_id=258-->2025-01-28 15:08:05
+502-->select * from app_anticipos where anti_id='259'-->2025-01-28 15:08:20
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='259')-->2025-01-28 15:08:22
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='259'-->2025-01-28 15:08:22
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-21502673FBE667E789'-->2025-01-28 15:08:22
+502-->delete from app_anticipos where anti_id=259-->2025-01-28 15:08:22
+502-->select * from app_anticipos where anti_id='304'-->2025-01-28 15:27:01
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='304')-->2025-01-28 15:27:03
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='304'-->2025-01-28 15:27:03
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-02502674DDC71D8CC3'-->2025-01-28 15:27:03
+502-->delete from app_anticipos where anti_id=304-->2025-01-28 15:27:03
+502-->select * from app_anticipos where anti_id='287'-->2025-01-28 15:28:18
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='287')-->2025-01-28 15:28:20
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='287'-->2025-01-28 15:28:20
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47B2D03'-->2025-01-28 15:28:20
+502-->delete from app_anticipos where anti_id=287-->2025-01-28 15:28:20
+502-->select * from app_anticipos where anti_id='302'-->2025-01-28 15:48:09
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='302')-->2025-01-28 15:48:12
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='302'-->2025-01-28 15:48:12
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-29502674A41DA6799D'-->2025-01-28 15:48:12
+502-->delete from app_anticipos where anti_id=302-->2025-01-28 15:48:12
+502-->select * from app_anticipos where anti_id='286'-->2025-01-28 15:48:21
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='286')-->2025-01-28 15:48:23
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='286'-->2025-01-28 15:48:23
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47B12BA'-->2025-01-28 15:48:23
+502-->delete from app_anticipos where anti_id=286-->2025-01-28 15:48:23
+502-->select * from app_anticipos where anti_id='320'-->2025-01-28 15:48:38
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='320')-->2025-01-28 15:48:41
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='320'-->2025-01-28 15:48:41
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-055026751D2180CB2B'-->2025-01-28 15:48:41
+502-->delete from app_anticipos where anti_id=320-->2025-01-28 15:48:41
+502-->select * from app_anticipos where anti_id='288'-->2025-01-28 15:48:48
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='288')-->2025-01-28 15:48:50
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='288'-->2025-01-28 15:48:50
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47B475C'-->2025-01-28 15:48:50
+502-->delete from app_anticipos where anti_id=288-->2025-01-28 15:48:50
+502-->select * from app_anticipos where anti_id='282'-->2025-01-28 15:49:04
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='282')-->2025-01-28 15:49:06
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='282'-->2025-01-28 15:49:06
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47A8418'-->2025-01-28 15:49:06
+502-->delete from app_anticipos where anti_id=282-->2025-01-28 15:49:06
+502-->select * from app_anticipos where anti_id='284'-->2025-01-28 15:49:15
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='284')-->2025-01-28 15:49:17
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='284'-->2025-01-28 15:49:17
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47ACC49'-->2025-01-28 15:49:17
+502-->delete from app_anticipos where anti_id=284-->2025-01-28 15:49:17
+502-->select * from app_anticipos where anti_id='285'-->2025-01-28 15:49:29
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='285')-->2025-01-28 15:49:31
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='285'-->2025-01-28 15:49:31
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47AF024'-->2025-01-28 15:49:31
+502-->delete from app_anticipos where anti_id=285-->2025-01-28 15:49:31
+502-->select * from app_anticipos where anti_id='292'-->2025-01-28 15:49:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='292')-->2025-01-28 15:49:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='292'-->2025-01-28 15:49:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749E52B356F6'-->2025-01-28 15:49:45
+502-->delete from app_anticipos where anti_id=292-->2025-01-28 15:49:45
+502-->select * from app_anticipos where anti_id='313'-->2025-01-28 15:50:21
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='313')-->2025-01-28 15:50:23
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='313'-->2025-01-28 15:50:23
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-02502674DFE981572C'-->2025-01-28 15:50:23
+502-->delete from app_anticipos where anti_id=313-->2025-01-28 15:50:23
+502-->select * from app_anticipos where anti_id='289'-->2025-01-28 15:50:33
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='289')-->2025-01-28 15:50:35
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='289'-->2025-01-28 15:50:35
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-295026749DD47B6249'-->2025-01-28 15:50:35
+502-->delete from app_anticipos where anti_id=289-->2025-01-28 15:50:35
+502-->select * from app_anticipos where anti_id='301'-->2025-01-28 15:50:54
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='301')-->2025-01-28 15:50:56
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='301'-->2025-01-28 15:50:56
+502-->delete  from lpin_movanticipos where anti_enlace='2024-11-29502674A41DA65E74'-->2025-01-28 15:50:56
+502-->delete from app_anticipos where anti_id=301-->2025-01-28 15:50:56
+502-->select * from app_anticipos where anti_id='378'-->2025-01-28 16:40:14
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='378')-->2025-01-28 16:40:17
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='378'-->2025-01-28 16:40:17
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-165026760A225C1919'-->2025-01-28 16:40:17
+502-->delete from app_anticipos where anti_id=378-->2025-01-28 16:40:17
+502-->select * from app_anticipos where anti_id='372'-->2025-01-28 16:40:32
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='372')-->2025-01-28 16:40:35
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='372'-->2025-01-28 16:40:35
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-1650267608B2401191'-->2025-01-28 16:40:35
+502-->delete from app_anticipos where anti_id=372-->2025-01-28 16:40:35
+502-->select * from app_anticipos where anti_id='377'-->2025-01-28 16:40:42
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='377')-->2025-01-28 16:40:44
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='377'-->2025-01-28 16:40:44
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-165026760A225C09A7'-->2025-01-28 16:40:44
+502-->delete from app_anticipos where anti_id=377-->2025-01-28 16:40:44
+502-->select * from app_anticipos where anti_id='391'-->2025-01-28 16:40:55
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='391')-->2025-01-28 16:40:57
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='391'-->2025-01-28 16:40:57
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-185026762E3E5C0CB3'-->2025-01-28 16:40:57
+502-->delete from app_anticipos where anti_id=391-->2025-01-28 16:40:57
+502-->select * from app_anticipos where anti_id='352'-->2025-01-28 16:41:13
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='352')-->2025-01-28 16:41:16
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='352'-->2025-01-28 16:41:16
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB94D3'-->2025-01-28 16:41:16
+502-->delete from app_anticipos where anti_id=352-->2025-01-28 16:41:16
+502-->select * from app_anticipos where anti_id='351'-->2025-01-28 16:41:24
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='351')-->2025-01-28 16:41:27
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='351'-->2025-01-28 16:41:27
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB8527'-->2025-01-28 16:41:27
+502-->delete from app_anticipos where anti_id=351-->2025-01-28 16:41:27
+502-->select * from app_anticipos where anti_id='344'-->2025-01-28 16:41:37
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='344')-->2025-01-28 16:41:39
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='344'-->2025-01-28 16:41:39
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB18DF'-->2025-01-28 16:41:39
+502-->delete from app_anticipos where anti_id=344-->2025-01-28 16:41:39
+502-->select * from app_anticipos where anti_id='348'-->2025-01-28 16:41:47
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='348')-->2025-01-28 16:41:49
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='348'-->2025-01-28 16:41:49
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB5655'-->2025-01-28 16:41:49
+502-->delete from app_anticipos where anti_id=348-->2025-01-28 16:41:49
+502-->select * from app_anticipos where anti_id='337'-->2025-01-28 16:41:59
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='337')-->2025-01-28 16:42:01
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='337'-->2025-01-28 16:42:01
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DAA9BD'-->2025-01-28 16:42:01
+502-->delete from app_anticipos where anti_id=337-->2025-01-28 16:42:01
+502-->select * from app_anticipos where anti_id='384'-->2025-01-28 16:42:09
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='384')-->2025-01-28 16:42:11
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='384'-->2025-01-28 16:42:11
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-175026761B2A29C01D'-->2025-01-28 16:42:11
+502-->delete from app_anticipos where anti_id=384-->2025-01-28 16:42:11
+502-->select * from app_anticipos where anti_id='331'-->2025-01-28 16:43:45
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='331')-->2025-01-28 16:43:47
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='331'-->2025-01-28 16:43:47
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DA3BA0'-->2025-01-28 16:43:47
+502-->delete from app_anticipos where anti_id=331-->2025-01-28 16:43:47
+502-->select * from app_anticipos where anti_id='339'-->2025-01-28 16:43:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='339')-->2025-01-28 16:43:55
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='339'-->2025-01-28 16:43:55
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DACAC1'-->2025-01-28 16:43:55
+502-->delete from app_anticipos where anti_id=339-->2025-01-28 16:43:55
+502-->select * from app_anticipos where anti_id='341'-->2025-01-28 16:44:04
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='341')-->2025-01-28 16:44:06
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='341'-->2025-01-28 16:44:06
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DAE9D6'-->2025-01-28 16:44:06
+502-->delete from app_anticipos where anti_id=341-->2025-01-28 16:44:06
+502-->select * from app_anticipos where anti_id='362'-->2025-01-28 16:44:12
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='362')-->2025-01-28 16:44:15
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='362'-->2025-01-28 16:44:15
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-16502676050F1C164D'-->2025-01-28 16:44:15
+502-->delete from app_anticipos where anti_id=362-->2025-01-28 16:44:15
+502-->select * from app_anticipos where anti_id='332'-->2025-01-28 16:44:24
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='332')-->2025-01-28 16:44:26
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='332'-->2025-01-28 16:44:26
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DA4B98'-->2025-01-28 16:44:26
+502-->delete from app_anticipos where anti_id=332-->2025-01-28 16:44:26
+502-->select * from app_anticipos where anti_id='335'-->2025-01-28 16:44:32
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='335')-->2025-01-28 16:44:35
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='335'-->2025-01-28 16:44:35
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DA8728'-->2025-01-28 16:44:35
+502-->delete from app_anticipos where anti_id=335-->2025-01-28 16:44:35
+502-->select * from app_anticipos where anti_id='359'-->2025-01-28 16:44:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='359')-->2025-01-28 16:44:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='359'-->2025-01-28 16:44:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C5783AAE40'-->2025-01-28 16:44:45
+502-->delete from app_anticipos where anti_id=359-->2025-01-28 16:44:45
+502-->select * from app_anticipos where anti_id='336'-->2025-01-28 16:44:51
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='336')-->2025-01-28 16:44:53
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='336'-->2025-01-28 16:44:53
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DA9A21'-->2025-01-28 16:44:53
+502-->delete from app_anticipos where anti_id=336-->2025-01-28 16:44:53
+502-->select * from app_anticipos where anti_id='349'-->2025-01-28 16:44:59
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='349')-->2025-01-28 16:45:01
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='349'-->2025-01-28 16:45:01
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB65F5'-->2025-01-28 16:45:01
+502-->delete from app_anticipos where anti_id=349-->2025-01-28 16:45:01
+502-->select * from app_anticipos where anti_id='350'-->2025-01-28 16:45:06
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='350')-->2025-01-28 16:45:08
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='350'-->2025-01-28 16:45:08
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB7598'-->2025-01-28 16:45:08
+502-->delete from app_anticipos where anti_id=350-->2025-01-28 16:45:08
+502-->select * from app_anticipos where anti_id='343'-->2025-01-28 16:45:15
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='343')-->2025-01-28 16:45:18
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='343'-->2025-01-28 16:45:18
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB09A6'-->2025-01-28 16:45:18
+502-->delete from app_anticipos where anti_id=343-->2025-01-28 16:45:18
+502-->select * from app_anticipos where anti_id='328'-->2025-01-28 16:45:24
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='328')-->2025-01-28 16:45:26
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='328'-->2025-01-28 16:45:26
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DA08DC'-->2025-01-28 16:45:26
+502-->delete from app_anticipos where anti_id=328-->2025-01-28 16:45:26
+502-->select * from app_anticipos where anti_id='338'-->2025-01-28 16:45:34
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='338')-->2025-01-28 16:45:36
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='338'-->2025-01-28 16:45:36
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DAB9E4'-->2025-01-28 16:45:36
+502-->delete from app_anticipos where anti_id=338-->2025-01-28 16:45:36
+502-->select * from app_anticipos where anti_id='345'-->2025-01-28 16:45:44
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='345')-->2025-01-28 16:45:46
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='345'-->2025-01-28 16:45:46
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB2808'-->2025-01-28 16:45:46
+502-->delete from app_anticipos where anti_id=345-->2025-01-28 16:45:46
+502-->select * from app_anticipos where anti_id='346'-->2025-01-28 16:45:53
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='346')-->2025-01-28 16:45:55
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='346'-->2025-01-28 16:45:55
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C515DB375D'-->2025-01-28 16:45:55
+502-->delete from app_anticipos where anti_id=346-->2025-01-28 16:45:55
+502-->select * from app_anticipos where anti_id='357'-->2025-01-28 16:46:02
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='357')-->2025-01-28 16:46:04
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='357'-->2025-01-28 16:46:04
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-13502675C5783A8BC9'-->2025-01-28 16:46:04
+502-->delete from app_anticipos where anti_id=357-->2025-01-28 16:46:04
+502-->select * from app_anticipos where anti_id='439'-->2025-01-28 17:00:36
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='439')-->2025-01-28 17:00:38
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='439'-->2025-01-28 17:00:38
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-24502676AC0495D9EF'-->2025-01-28 17:00:38
+502-->delete from app_anticipos where anti_id=439-->2025-01-28 17:00:38
+502-->select * from app_anticipos where anti_id='397'-->2025-01-28 17:00:54
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='397')-->2025-01-28 17:00:56
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='397'-->2025-01-28 17:00:56
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8BB72B'-->2025-01-28 17:00:56
+502-->delete from app_anticipos where anti_id=397-->2025-01-28 17:00:56
+502-->select * from app_anticipos where anti_id='435'-->2025-01-28 17:01:03
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='435')-->2025-01-28 17:01:05
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='435'-->2025-01-28 17:01:05
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-24502676AB7D8B5F60'-->2025-01-28 17:01:05
+502-->delete from app_anticipos where anti_id=435-->2025-01-28 17:01:05
+502-->select * from app_anticipos where anti_id='399'-->2025-01-28 17:01:12
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='399')-->2025-01-28 17:01:14
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='399'-->2025-01-28 17:01:14
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8BD4B7'-->2025-01-28 17:01:14
+502-->delete from app_anticipos where anti_id=399-->2025-01-28 17:01:14
+502-->select * from app_anticipos where anti_id='396'-->2025-01-28 17:01:22
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='396')-->2025-01-28 17:01:24
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='396'-->2025-01-28 17:01:24
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8BA842'-->2025-01-28 17:01:24
+502-->delete from app_anticipos where anti_id=396-->2025-01-28 17:01:24
+502-->select * from app_anticipos where anti_id='410'-->2025-01-28 17:01:31
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='410')-->2025-01-28 17:01:33
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='410'-->2025-01-28 17:01:33
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B6EF7F71E'-->2025-01-28 17:01:33
+502-->delete from app_anticipos where anti_id=410-->2025-01-28 17:01:33
+502-->select * from app_anticipos where anti_id='438'-->2025-01-28 17:01:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='438')-->2025-01-28 17:01:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='438'-->2025-01-28 17:01:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-24502676ABD5616F94'-->2025-01-28 17:01:45
+502-->delete from app_anticipos where anti_id=438-->2025-01-28 17:01:45
+502-->select * from app_anticipos where anti_id='395'-->2025-01-28 17:01:56
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='395')-->2025-01-28 17:01:58
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='395'-->2025-01-28 17:01:58
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8B993F'-->2025-01-28 17:01:58
+502-->delete from app_anticipos where anti_id=395-->2025-01-28 17:01:58
+502-->select * from app_anticipos where anti_id='425'-->2025-01-28 17:02:08
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='425')-->2025-01-28 17:02:10
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='425'-->2025-01-28 17:02:10
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-2350267699C3B27C7A'-->2025-01-28 17:02:10
+502-->delete from app_anticipos where anti_id=425-->2025-01-28 17:02:10
+502-->select * from app_anticipos where anti_id='424'-->2025-01-28 17:02:29
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='424')-->2025-01-28 17:02:32
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='424'-->2025-01-28 17:02:32
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-235026769900C67226'-->2025-01-28 17:02:32
+502-->delete from app_anticipos where anti_id=424-->2025-01-28 17:02:32
+502-->select * from app_anticipos where anti_id='422'-->2025-01-28 17:02:42
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='422')-->2025-01-28 17:02:45
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='422'-->2025-01-28 17:02:45
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-2350267698ABE7BB6B'-->2025-01-28 17:02:45
+502-->delete from app_anticipos where anti_id=422-->2025-01-28 17:02:45
+502-->select * from app_anticipos where anti_id='413'-->2025-01-28 17:03:21
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='413')-->2025-01-28 17:03:23
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='413'-->2025-01-28 17:03:23
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-215026766F8E873BED'-->2025-01-28 17:03:23
+502-->delete from app_anticipos where anti_id=413-->2025-01-28 17:03:23
+502-->select * from app_anticipos where anti_id='445'-->2025-01-28 17:03:36
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='445')-->2025-01-28 17:03:39
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='445'-->2025-01-28 17:03:39
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-24502676AE0DA8CD80'-->2025-01-28 17:03:39
+502-->delete from app_anticipos where anti_id=445-->2025-01-28 17:03:39
+502-->select * from app_anticipos where anti_id='406'-->2025-01-28 17:03:45
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='406')-->2025-01-28 17:03:47
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='406'-->2025-01-28 17:03:47
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8C3AB5'-->2025-01-28 17:03:47
+502-->delete from app_anticipos where anti_id=406-->2025-01-28 17:03:47
+502-->select * from app_anticipos where anti_id='401'-->2025-01-28 17:04:02
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='401')-->2025-01-28 17:04:04
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='401'-->2025-01-28 17:04:04
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8BF296'-->2025-01-28 17:04:04
+502-->delete from app_anticipos where anti_id=401-->2025-01-28 17:04:04
+502-->select * from app_anticipos where anti_id='393'-->2025-01-28 17:04:13
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='393')-->2025-01-28 17:04:15
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='393'-->2025-01-28 17:04:15
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8B764A'-->2025-01-28 17:04:15
+502-->delete from app_anticipos where anti_id=393-->2025-01-28 17:04:15
+502-->select * from app_anticipos where anti_id='426'-->2025-01-28 17:04:22
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='426')-->2025-01-28 17:04:24
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='426'-->2025-01-28 17:04:24
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-235026769A0A88357F'-->2025-01-28 17:04:24
+502-->delete from app_anticipos where anti_id=426-->2025-01-28 17:04:24
+502-->select * from app_anticipos where anti_id='400'-->2025-01-28 17:04:31
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='400')-->2025-01-28 17:04:34
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='400'-->2025-01-28 17:04:34
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-205026765B2D8BE3CF'-->2025-01-28 17:04:34
+502-->delete from app_anticipos where anti_id=400-->2025-01-28 17:04:34
+502-->select * from app_anticipos where anti_id='418'-->2025-01-28 17:04:57
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='418')-->2025-01-28 17:04:59
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='418'-->2025-01-28 17:04:59
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-2150267670691BBE92'-->2025-01-28 17:04:59
+502-->delete from app_anticipos where anti_id=418-->2025-01-28 17:04:59
+502-->select * from app_anticipos where anti_id='437'-->2025-01-28 17:05:15
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='437')-->2025-01-28 17:05:17
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='437'-->2025-01-28 17:05:17
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-24502676AB9911DE75'-->2025-01-28 17:05:17
+502-->delete from app_anticipos where anti_id=437-->2025-01-28 17:05:17
+502-->select * from app_anticipos where anti_id='523'-->2025-01-28 17:19:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='523')-->2025-01-28 17:19:46
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='523'-->2025-01-28 17:19:46
+502-->delete  from lpin_movanticipos where anti_enlace='2025-01-06502677C242E248AE'-->2025-01-28 17:19:46
+502-->delete from app_anticipos where anti_id=523-->2025-01-28 17:19:46
+502-->select * from app_anticipos where anti_id='491'-->2025-01-28 17:20:26
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='491')-->2025-01-28 17:20:28
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='491'-->2025-01-28 17:20:28
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772E37D33D0C'-->2025-01-28 17:20:28
+502-->delete from app_anticipos where anti_id=491-->2025-01-28 17:20:28
+502-->select * from app_anticipos where anti_id='462'-->2025-01-28 17:20:37
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='462')-->2025-01-28 17:20:39
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='462'-->2025-01-28 17:20:39
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE74E0'-->2025-01-28 17:20:39
+502-->delete from app_anticipos where anti_id=462-->2025-01-28 17:20:39
+502-->select * from app_anticipos where anti_id='492'-->2025-01-28 17:20:55
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='492')-->2025-01-28 17:20:57
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='492'-->2025-01-28 17:20:57
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772E37D35264'-->2025-01-28 17:20:57
+502-->delete from app_anticipos where anti_id=492-->2025-01-28 17:20:57
+502-->select * from app_anticipos where anti_id='468'-->2025-01-28 17:21:43
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='468')-->2025-01-28 17:21:46
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='468'-->2025-01-28 17:21:46
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AEEC97'-->2025-01-28 17:21:46
+502-->delete from app_anticipos where anti_id=468-->2025-01-28 17:21:46
+502-->select * from app_anticipos where anti_id='490'-->2025-01-28 17:22:05
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='490')-->2025-01-28 17:22:08
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='490'-->2025-01-28 17:22:08
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772E37D322DA'-->2025-01-28 17:22:08
+502-->delete from app_anticipos where anti_id=490-->2025-01-28 17:22:08
+502-->select * from app_anticipos where anti_id='459'-->2025-01-28 17:22:19
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='459')-->2025-01-28 17:22:21
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='459'-->2025-01-28 17:22:21
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE3516'-->2025-01-28 17:22:21
+502-->delete from app_anticipos where anti_id=459-->2025-01-28 17:22:21
+502-->select * from app_anticipos where anti_id='485'-->2025-01-28 17:22:32
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='485')-->2025-01-28 17:22:35
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='485'-->2025-01-28 17:22:35
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58B121B6'-->2025-01-28 17:22:35
+502-->delete from app_anticipos where anti_id=485-->2025-01-28 17:22:35
+502-->select * from app_anticipos where anti_id='489'-->2025-01-28 17:22:47
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='489')-->2025-01-28 17:22:50
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='489'-->2025-01-28 17:22:50
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772DDB2A1A7F'-->2025-01-28 17:22:50
+502-->delete from app_anticipos where anti_id=489-->2025-01-28 17:22:50
+502-->select * from app_anticipos where anti_id='448'-->2025-01-28 17:22:57
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='448')-->2025-01-28 17:23:00
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='448'-->2025-01-28 17:23:00
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AD4070'-->2025-01-28 17:23:00
+502-->delete from app_anticipos where anti_id=448-->2025-01-28 17:23:00
+502-->select * from app_anticipos where anti_id='454'-->2025-01-28 17:23:06
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='454')-->2025-01-28 17:23:09
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='454'-->2025-01-28 17:23:09
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58ADCBFC'-->2025-01-28 17:23:09
+502-->delete from app_anticipos where anti_id=454-->2025-01-28 17:23:09
+502-->select * from app_anticipos where anti_id='457'-->2025-01-28 17:23:19
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='457')-->2025-01-28 17:23:21
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='457'-->2025-01-28 17:23:21
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE0D71'-->2025-01-28 17:23:21
+502-->delete from app_anticipos where anti_id=457-->2025-01-28 17:23:21
+502-->select * from app_anticipos where anti_id='477'-->2025-01-28 17:23:29
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='477')-->2025-01-28 17:23:32
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='477'-->2025-01-28 17:23:32
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58B068FB'-->2025-01-28 17:23:32
+502-->delete from app_anticipos where anti_id=477-->2025-01-28 17:23:32
+502-->select * from app_anticipos where anti_id='467'-->2025-01-28 17:23:40
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='467')-->2025-01-28 17:23:42
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='467'-->2025-01-28 17:23:42
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AEDB57'-->2025-01-28 17:23:42
+502-->delete from app_anticipos where anti_id=467-->2025-01-28 17:23:42
+502-->select * from app_anticipos where anti_id='460'-->2025-01-28 17:24:10
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='460')-->2025-01-28 17:24:12
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='460'-->2025-01-28 17:24:12
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE4CC2'-->2025-01-28 17:24:12
+502-->delete from app_anticipos where anti_id=460-->2025-01-28 17:24:12
+502-->select * from app_anticipos where anti_id='465'-->2025-01-28 17:24:19
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='465')-->2025-01-28 17:24:22
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='465'-->2025-01-28 17:24:22
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AEAF35'-->2025-01-28 17:24:22
+502-->delete from app_anticipos where anti_id=465-->2025-01-28 17:24:22
+502-->select * from app_anticipos where anti_id='458'-->2025-01-28 17:24:36
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='458')-->2025-01-28 17:24:39
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='458'-->2025-01-28 17:24:39
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE21A4'-->2025-01-28 17:24:39
+502-->delete from app_anticipos where anti_id=458-->2025-01-28 17:24:39
+502-->select * from app_anticipos where anti_id='528'-->2025-01-28 17:24:47
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='528')-->2025-01-28 17:24:50
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='528'-->2025-01-28 17:24:50
+502-->delete  from lpin_movanticipos where anti_enlace='2025-01-07502677D921376DE6'-->2025-01-28 17:24:50
+502-->delete from app_anticipos where anti_id=528-->2025-01-28 17:24:50
+502-->select * from app_anticipos where anti_id='470'-->2025-01-28 17:24:59
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='470')-->2025-01-28 17:25:02
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='470'-->2025-01-28 17:25:02
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AF1663'-->2025-01-28 17:25:02
+502-->delete from app_anticipos where anti_id=470-->2025-01-28 17:25:02
+502-->select * from app_anticipos where anti_id='452'-->2025-01-28 17:25:09
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='452')-->2025-01-28 17:25:11
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='452'-->2025-01-28 17:25:11
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AD9E92'-->2025-01-28 17:25:11
+502-->delete from app_anticipos where anti_id=452-->2025-01-28 17:25:11
+502-->select * from app_anticipos where anti_id='483'-->2025-01-28 17:25:30
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='483')-->2025-01-28 17:25:32
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='483'-->2025-01-28 17:25:32
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58B0F7AF'-->2025-01-28 17:25:32
+502-->delete from app_anticipos where anti_id=483-->2025-01-28 17:25:32
+502-->select * from app_anticipos where anti_id='484'-->2025-01-28 17:25:41
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='484')-->2025-01-28 17:25:43
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='484'-->2025-01-28 17:25:43
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58B10ADC'-->2025-01-28 17:25:43
+502-->delete from app_anticipos where anti_id=484-->2025-01-28 17:25:43
+502-->select * from app_anticipos where anti_id='473'-->2025-01-28 17:25:50
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='473')-->2025-01-28 17:25:52
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='473'-->2025-01-28 17:25:52
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58B0170C'-->2025-01-28 17:25:52
+502-->delete from app_anticipos where anti_id=473-->2025-01-28 17:25:52
+502-->select * from app_anticipos where anti_id='488'-->2025-01-28 17:26:04
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='488')-->2025-01-28 17:26:06
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='488'-->2025-01-28 17:26:06
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772DDB2A082D'-->2025-01-28 17:26:06
+502-->delete from app_anticipos where anti_id=488-->2025-01-28 17:26:06
+502-->select * from app_anticipos where anti_id='463'-->2025-01-28 17:26:31
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='463')-->2025-01-28 17:26:33
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='463'-->2025-01-28 17:26:33
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE87A9'-->2025-01-28 17:26:33
+502-->delete from app_anticipos where anti_id=463-->2025-01-28 17:26:33
+502-->select * from app_anticipos where anti_id='449'-->2025-01-28 17:26:44
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='449')-->2025-01-28 17:26:47
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='449'-->2025-01-28 17:26:47
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AD5AB1'-->2025-01-28 17:26:47
+502-->delete from app_anticipos where anti_id=449-->2025-01-28 17:26:47
+502-->select * from app_anticipos where anti_id='461'-->2025-01-28 17:26:58
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='461')-->2025-01-28 17:27:01
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='461'-->2025-01-28 17:27:01
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AE6037'-->2025-01-28 17:27:01
+502-->delete from app_anticipos where anti_id=461-->2025-01-28 17:27:01
+502-->select * from app_anticipos where anti_id='487'-->2025-01-28 17:27:07
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='487')-->2025-01-28 17:27:10
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='487'-->2025-01-28 17:27:10
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772DDB29F523'-->2025-01-28 17:27:10
+502-->delete from app_anticipos where anti_id=487-->2025-01-28 17:27:10
+502-->select * from app_anticipos where anti_id='497'-->2025-01-28 17:28:44
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='497')-->2025-01-28 17:28:47
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='497'-->2025-01-28 17:28:47
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772F9925D664'-->2025-01-28 17:28:47
+502-->delete from app_anticipos where anti_id=497-->2025-01-28 17:28:47
+502-->select * from app_anticipos where anti_id='469'-->2025-01-28 17:31:37
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='469')-->2025-01-28 17:31:40
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='469'-->2025-01-28 17:31:40
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58AF03D3'-->2025-01-28 17:31:40
+502-->delete from app_anticipos where anti_id=469-->2025-01-28 17:31:40
+502-->select * from app_anticipos where anti_id='455'-->2025-01-28 17:31:50
+502-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='455')-->2025-01-28 17:31:52
+502-->delete from lpin_comprobantecontable where comcont_tabla='app_anticipos' and comcont_idtabla='455'-->2025-01-28 17:31:52
+502-->delete  from lpin_movanticipos where anti_enlace='2024-12-305026772D58ADE3A7'-->2025-01-28 17:31:52
+502-->delete from app_anticipos where anti_id=455-->2025-01-28 17:31:52

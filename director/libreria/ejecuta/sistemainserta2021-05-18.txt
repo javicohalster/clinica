@@ -1,0 +1,4 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','silvanaLUZU2021','LOURDES_SILVANA_LUZURIAGA_CACHAGO_200121115506.p12','C:/firma/certificado/',1,'0603062837')
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','uqg03udr','EUDENYS_YAMILE_CRESPO_CUMBAL.p12','C:/firma/certificado/',1,'1717592487')
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','jquezada123','JULIANA_PATRICIA_QUEZADA_ORTEGA.p12','C:/firma/certificado/',1,'1718142274')
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','Alexa2014','DANIELA_NATALI_TELLO_CEVALLOS.p12','C:/firma/certificado/',1,'1717923377')

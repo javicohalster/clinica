@@ -1,0 +1,29 @@
+1-->update dns_newemergenciaconsultaexterna set clie_id=2,usua_id=2,centro_id=1,atenc_id=0,conext_notasdeevolucion='Nota de ebolucion
+del ingreso
+Otro dato',anam_id=393,conext_fechar='2024-01-24',estaatenc_id=1,conext_fecharegistro='2024-01-24 22:56:20',conext_horar='22:56',conext_prescripciones='prescripcion 
+del ingreso',conext_horaf='07:56',conext_enlace='201171490744922024012410562091' where conext_id=10 -->2024-01-25 05:14:14
+1-->update dns_newemergenciaconsultaexterna set clie_id=2,usua_id=2,centro_id=1,atenc_id=0,conext_notasdeevolucion='Nota de ebolucion
+del ingreso
+Otro dato',anam_id=393,conext_fechar='2024-01-24',estaatenc_id=1,conext_fecharegistro='2024-01-24 22:56:20',conext_horar='22:56',conext_prescripciones='prescripcion 
+del ingreso',conext_horaf='07:56',conext_enlace='201171490744922024012410562091' where conext_id=10 -->2024-01-25 05:14:31
+1-->update dns_newemergenciaconsultaexterna set clie_id=2,usua_id=2,centro_id=1,atenc_id=0,conext_notasdeevolucion='Nota de ebolucion
+del ingreso
+Otro dato',anam_id=393,conext_fechar='2024-01-24',estaatenc_id=1,conext_fecharegistro='2024-01-24 22:56:20',conext_horar='22:56',conext_prescripciones='prescripcion 
+del ingreso',conext_horaf='07:56',conext_enlace='201171490744922024012410562091' where conext_id=10 -->2024-01-25 05:16:54
+1-->insert into dns_newtraumatologiaconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (2,1,1,5,'Noa de evolo
+data prueba',358,'2024-01-25',1,'2024-01-25 05:29:31','05:29','prescripcion de datos
+salto de linia','06:00','2011711467884120240125052931492')-->2024-01-25 05:30:00
+1-->update dns_newtraumatologiaconsultaexterna set clie_id=2,usua_id=1,centro_id=1,atenc_id=5,conext_notasdeevolucion='Noa de evolo
+data prueba',anam_id=358,conext_fechar='2024-01-25',estaatenc_id=1,conext_fecharegistro='2024-01-25 05:29:31',conext_horar='05:29',conext_prescripciones='prescripcion de datos
+salto de linia',conext_horaf='06:00',conext_enlace='2011711467884120240125052931492' where conext_id=174 -->2024-01-25 05:30:03
+1-->insert into dns_newgastroenterologiaconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (2,1,1,5,'Lista veriricacion
+salto de linea',36,'2024-01-25',1,'2024-01-25 05:38:45','05:38','salto de datos 
+para la prueba','08:59','2011711467884120240125053845426')-->2024-01-25 05:39:16
+1-->insert into dns_newcardiologiaconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (2,1,1,5,'lista de datos
+salta la linea',6,'2024-01-25',1,'2024-01-25 05:47:42','05:47','esta es la prescripcion
+y salto de linea','09:45','2011711467884120240125054742231')-->2024-01-25 05:48:16
+1-->insert into dns_newpediatriaconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (2,1,1,5,'LIsta de evolucio
+de los
+datos',85,'2024-01-25',1,'2024-01-25 05:57:20','05:57','esta es la linea
+de los 
+datos linea','07:46','2011711467884120240125055720222')-->2024-01-25 05:57:46

@@ -1,0 +1,14 @@
+update gogess_sisfield set fie_group='16' where fie_id='11713';
+update gogess_sisfield set fie_orden='1' where fie_id='11713';
+update gogess_sisfield set fie_groupprint='1' where fie_id='11713';
+update gogess_sisfield set fie_title='Fecha fin:' where fie_id='11850';
+update gogess_sisfield set fie_group='16' where fie_id='11850';
+update gogess_sisfield set fie_orden='2' where fie_id='11850';
+update gogess_sisfield set fie_groupprint='16' where fie_id='11850';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11850';
+update gogess_sisfield set fie_groupprint='16' where fie_id='11850';
+update gogess_sisfield set fie_groupprint='16' where fie_id='11713';
+update gogess_sisfield set fie_orden='2' where fie_id='11713';
+update gogess_sisfield set fie_orden='1' where fie_id='11850';
+update gogess_sisfield set fie_type='textpeke' where fie_id='11850';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='11850';

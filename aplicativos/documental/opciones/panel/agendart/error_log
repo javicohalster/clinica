@@ -1,0 +1,3 @@
+[12-Oct-2018 16:53:31 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ussliec/public_html/faesa/aplicativos/documental/opciones/panel/agendart/detalle_terapias.php on line 400
+[12-Oct-2018 16:53:40 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ussliec/public_html/faesa/aplicativos/documental/opciones/panel/agendart/detalle_terapias.php on line 400
+[12-Nov-2018 13:35:24 America/Guayaquil] PHP Notice:  Undefined index: usua_idvalx in /home/ussliec/public_html/faesa/aplicativos/documental/opciones/panel/agendart/agendar.php on line 29

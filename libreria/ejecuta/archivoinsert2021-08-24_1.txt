@@ -1,0 +1,181 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','RINOPLASTIA',0,'RINOPLASTIA','',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'','CONOCOTO 19 DE MAYO Y JOSEE ASCASUBI','1723462121','','LASCANO MORA','17',3,'JESSSICA PATRICIA','1701',1,'QUITO',6,'','ESTUDIANTE','1996-07-15',56,'',7,'0987286272','F',4,'jess.96las@gmail.com','',4,'177','2021-08-24 07:56:32','','0117270565071772021082407563232256',NULL,'1','','','')-->2021-08-24 07:59:31
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','LIPOSUCCION',0,'LIPOSUCCION','',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR SANTIAGO PESANTEZ',1,'','SAN CAMILO N72-57 Y SAN FRANCISCO','1003456611','','ARMAS CUASCOTA','17',3,'ANA MARCELA','1701',1,'QUITO',6,'2820128','INGENIERA','1987-02-21',56,'',7,'095246330','F',4,'anarmas.21@gmail.com','',4,'177','2021-08-24 11:02:30','','0117270565071772021082411023037630',NULL,'1','','4','')-->2021-08-24 11:06:21
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='LIPOSUCCION',clie_titularseguro=0,clie_cirugia='LIPOSUCCION',clie_token='',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='OSCAR MENENDEZ',clie_direccion='SAN CAMILO N72-57 Y SAN FRANCISCO',clie_rucci='1003456611',clie_anestesiologo='',clie_apellido='ARMAS CUASCOTA',prob_codigo='17',tippo_id=3,clie_nombre='ANA MARCELA',cant_codigo='1701',civil_id=1,clie_parroquia='QUITO',conve_id=6,clie_telefono='2820128',clie_ocupacion='INGENIERA',clie_fechanacimiento='1987-02-21',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='095246330',clie_genero='F',orien_id=4,clie_email='anarmas.21@gmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='177',clie_registro='2021-08-24 11:02:30',clie_institucion='',clie_enlace='0117270565071772021082411023037630',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=38 -->2021-08-24 11:50:55
+1-->update app_usuario set centro_id='1',usua_carnetconadis='',emp_id=1,usua_tiporuc=0,estab_id=1,usua_siglastitulo='',usua_ruc='',usua_ciruc='0928072701',usua_tipodiscapacidad='',pemision_id=1,usua_nombreruc='',usua_codigoiniciales='KP',usua_codigo='',usua_porcentajediscapacidad='',usua_fechaingrero='2021-08-01',usua_msp='',usua_enlace='011711467884120210806104413432',usua_nombre='KARINA ALEXANDRA',usua_direccionruc='',usua_fechasalida=NULL,usua_apellido='PLUA QUIMIS',usua_paisruc=0,usua_archivocenecyt='',nac_id=56,tipcont_id=1,usua_provinciaruc='',usua_cantonruc='',usua_fechanacimiento='0000-00-00',etn_id=6,usua_archivoauxiliares='',usua_telefonoruc='',usua_piefirma='LCDA. KARINA PLUA',usua_horascontrato='8',usua_mailruc='',usua_celular='0961309141',tipoh_id=1,civil_id=1,usua_genero='FEMENINO',usua_fecha_uingreso='2021-08-20 10:17:15',usua_usuario='0928072701',especi_id=0,usua_hora_uingreso='10:17:15',subespeci_id=0,usua_fecha_cambioclv='2021-08-06 10:51:11',jobt_id=0,usua_email='clinicalospinoslab@hotmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0 where usua_id=176 -->2021-08-24 12:03:35
+1-->insert into beko_documentocabecera (doccab_subtotaliva,doccab_pagacon,doccab_id,doccab_subtotalsiniva,doccab_cambio,emp_id,doccab_subtnoobjetoi,estaf_id,ambi_valor,doccab_subtexentoiva,emis_valor,doccab_iva,tipocmp_codigo,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_apellidorazon_cliente,doccab_direccion_cliente,tipase_id,doccab_fechaemision_cliente,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,doccab_ndet,tippo_id,conve_id,doccab_autorizacion,centro_id,doccab_fpago) values ('0.00',10,'011711467884120210824120356299','2.00',0.50,1,'7.50',1,2,'0.00',1,'0.00','01','','001-001-000000002','1792935261001','9.50','05','1212121212','Paciente','Test','Napo Tena',10,'2021-08-24 12:03:56','0992524221','viky@gmail.com','1212121212','','',1,2,3,0,'',1,'01')-->2021-08-24 12:04:34
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p><!--StartFragment-->-grafico1-<!--EndFragment--></p>
+
+<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-,</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 -->2021-08-24 12:11:00
+174-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'','',1,'REGISTRADO',1,'','',1,'','ARMENIA','0100516673','','YANCHAPAXI BARRAGAN','17',3,'BERTHA MARILU','1701',1,'',6,'','RELIGIOSO','',56,'',1,'099710640086','F',4,'BERTHAYANCHAPAXI@HOTMAIL.COM','',4,'174','2021-08-24 14:01:32','','0117227763491742021082402013216281',NULL,'1','','','')-->2021-08-24 14:04:46
+182-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,39,'0100516673-1','2',182,'2021-08-24 14:14:08','','','0100516673',1,'DOLOR DE HOMBRO IZQUIERDO','2021-08-24 14:14:08','2021-08-24 14:14:08','VIVO','','01100258084118220210824021408389','')-->2021-08-24 14:16:40
+1-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='ww',clie_titularseguro=0,clie_cirugia='www',clie_token='',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='ww',clie_tratante='ww',tipoci_id=1,clie_ayudante='ww',clie_direccion='Napo Tena',clie_rucci='1212121212',clie_anestesiologo='www',clie_apellido='Test',prob_codigo='17',tippo_id=3,clie_nombre='Paciente',cant_codigo='1701',civil_id=2,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='Ingeniero',clie_fechanacimiento='1979-01-26',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='0992524221',clie_genero='M',orien_id=5,clie_email='viky@gmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='1',clie_registro='2021-07-13 14:21:50',clie_institucion='',clie_enlace='01171146788412021071302215032384',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2 -->2021-08-24 14:46:04
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-,</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 -->2021-08-24 14:51:51
+182-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (39,'','',27,1,182,'',4,'','NINGUNA','','','','DOLOR DE HOMBRO IZQUIERDO','','','2021-08-24 14:16:56','','0',0,'HTA Y DM','','0','','3901100258084118220210824021656234','','0','','0',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-08-24 14:54:49
+182-->update dns_traumatologiaanamesis set clie_id=39,anam_planes='CIRUGIA (ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR + LIBERACION CAPSULAR)',anam_referencia='',atenc_id=27,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='NINGUNA',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2021-08-24 14:16:56',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='HTA Y DM',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='3901100258084118220210824021656234',anam_ciclos='',anam_cesareas='0',anam_gesta='',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=14 -->2021-08-24 14:55:41
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-,</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 -->2021-08-24 15:31:20
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 -->2021-08-24 15:33:06
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL como: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 -->2021-08-24 15:37:48
+1-->update app_empresa set temp_id=4,emp_ruc='1792935261001',emp_nombre='CLINICA LOS PINOS',emp_direccion='ELIA LIUT N45-10 Y TELEGRAFO PRIMERO',pais_id=1,prob_codigo='17',cant_codigo='1701',emp_telefono='(593)5001 030',emp_email='info@clinicalospinos.com',emp_estado=1,emp_logo='gogess_data17856MZOWM20210824.png',emp_restaporcentaje='6.5',emp_valorgastosadm='10',emp_valoriva='12' where emp_id=1 -->2021-08-24 15:48:12
+1-->update dns_centrosalud set emp_id=1,centro_consultaexternamedicina='0',zona_id=9,centro_consultaexternapsicologia='0',centro_laboratorio='0',distrito_id='97',centro_odontologia='0',centro_imagenologia='0',tipolo_id=10,centro_fisioterapia='0',centro_ruc='1792935261001',centro_numeroestablecimiento='001',centro_invasivos='0',centro_enfermeria='0',centro_nombre='CLINICA LOS PINOS PINOSMED CIA.LTDA.',permif_id='1',centro_activo=1,centro_numerofuncionamiento='Q86200102',centro_direccion='ELIA LIUT N45-10 Y TELEGRAFO PRIMERO',prob_codigo='17',cant_codigo='1701',centro_parroquia='RUMIPAMBA',centro_vigenciadelpermisodesde='0000-00-00',centro_telefono='(593)5001 030',centro_vigenciadelpermisohasta='0000-00-00',centro_codigo='00000',centro_nombrejefe='ING. GUZMAN BRAVO PATRICIO JAVIER',centro_cargo='GENERAL INSPECTOR',centro_activosistema=1,centro_horaslaborables=8,centro_nombreprint='CLINICA LOS PINOS',centro_enlace='1',centro_iniciales='CLP' where centro_id=1 -->2021-08-24 15:57:15
+1-->update dns_atencion set centro_id=1,clie_id=2,atenc_hc='1212121212-1',tiposerv_id='2',usua_id=1,atenc_fecharegistro='2021-07-13 14:30:41',esept_id='0',atenc_condiciondeingreso='',clie_ci='1212121212',emp_id=1,atenc_observacion='prueba',atenc_fechasalida='2021-07-13 14:30:41',atenc_fechaingreso='2021-07-13 14:30:41',atenc_condiciondeegreso='VIVO',atenc_referencia='',atenc_enlace='011711467884120210713023041386',atenc_archivo='' where atenc_id=5 -->2021-08-24 16:01:22
+182-->update dns_traumatologiaanamesis set clie_id=39,anam_planes='CIRUGIA (ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR + LIBERACION CAPSULAR)',anam_referencia='',atenc_id=27,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='NINGUNA',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE HOMBRO IZQUIERDO',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2021-08-24 14:16:56',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='HTA Y DM',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='3901100258084118220210824021656234',anam_ciclos='',anam_cesareas='0',anam_gesta='',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=14 -->2021-08-24 16:40:13

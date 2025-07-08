@@ -1,0 +1,537 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','RINOPLASTIA',0,'RINOPLASTIA','',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR SANTIAGO PESANTEZ',1,'OSCAR MENENDEZ','ASCASUBI','1722746557','DR ALEXANDRA NOBOA','TIPAN PALLO','17',0,'EDISON ARMANDO','1701',1,'ASCASUBI',0,'2784486','','1988-10-20',56,'',7,'0995416799','M',4,'tiedison@hotmail.com','',4,'177','2021-08-12 08:54:57','','011727056507177202108120854572842',NULL,'1','','4','')
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'','',1,'REGISTRADO',1,'','',1,'','JOSE RICAURTE N44-146 Y TELEGRAFO PRIMERO','1706596127','','RIVERA SANCHEZ','17',0,'MARTHA MERCEDES','1701',2,'',0,'2468914','','1961-03-20',56,'',7,'0999942264','F',4,'martha--rivera@hotmail.com','',4,'177','2021-08-12 09:27:19','','0117270565071772021081209271933266',NULL,'1','','3','')
+176-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,12,'1706596127-1','2',176,'2021-08-12 09:41:36','','','1706596127',1,'HISOPADO ANTIGENO COVID:','2021-08-12 09:41:36','2021-08-12 09:41:36','VIVO','','01092807270117620210812094136442','')
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','REVISION DE MANO TRAUMATICA',0,'REVISION DE MANO TRAUMATICA','',1,'REGISTRADO',1,'TRAUMATOLOGIA','DR RENATO GUERRA',1,'DR FRANCISCO GUZMAN, DR ORLANDO SANTILLAN','SAN MIGUEL DE CALDERON','0930507017','DR ALEXANDRA NOBOA','CHAVEZ PEREZ','17',0,'JORDAN ABEL','1701',1,'QUITO',0,'24510468','','1993-03-03',56,'',7,'098484586','M',4,'alejito93.marzo@gmail.com','',4,'177','2021-08-12 10:11:30','','0117270565071772021081210113021730',NULL,'1','','','')
+1-->insert into dns_certificados (certif_titulo,certif_contenido,emp_id,certif_activo) values ('CERTIFICADO MEDICO','<p style="text-align: center;"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align: right;">-fecha-</p>
+
+<p><strong>CERTIFICO</strong>, que el Sr.(a)-clie_nombre--clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fecha-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, por 30 (treinta) dias desde el -fechainicio- hasta -fechafin-.</p>
+
+<p>Ela paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',1,1)
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO',certif_contenido='<p style="text-align: center;"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align: right;">-fecha-</p>
+
+<p style="text-align: justify;"><strong>CERTIFICO</strong>, que el Sr.(a)-clie_nombre--clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fecha-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, por 30 (treinta) dias desde el -fechainicio- hasta -fechafin-.</p>
+
+<p>Ela paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO',certif_contenido='<p style="text-align:center">-centro-</p>
+
+<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fecha-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, por 30 (treinta) dias desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center">-centro-</p>
+
+<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fecha-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, por 30 (treinta) dias desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center">-centro-</p>
+
+<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fecha-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update app_usuario set usua_carnetconadis='',centro_id='1',emp_id=1,usua_tiporuc=0,usua_siglastitulo='DR.',usua_tipodiscapacidad='',usua_ruc='',estab_id=1,usua_ciruc='1712335114',usua_nombreruc='',usua_codigo='1712335114',pemision_id=0,usua_porcentajediscapacidad='',usua_enlace='01171146788412021080609390660',usua_msp='1712335114',usua_direccionruc='',usua_fechaingrero='2021-08-01',usua_codigoiniciales='FS',usua_fechasalida=NULL,usua_paisruc=0,usua_nombre='DR. FRANCISCO',tipcont_id=1,nac_id=56,usua_provinciaruc='',usua_apellido='SILVA',usua_fechanacimiento='0000-00-00',etn_id=6,usua_archivocenecyt='',usua_cantonruc='',usua_celular='0995747023',usua_piefirma='Dr. Francisco Silva',usua_archivoauxiliares='',usua_telefonoruc='',usua_mailruc='',usua_horascontrato='8',civil_id=2,tipoh_id=1,usua_genero='MASCULINO',usua_fecha_uingreso='2021-08-06 09:44:36',usua_usuario='1712335114',especi_id=0,usua_hora_uingreso='09:44:36',subespeci_id=0,usua_fecha_cambioclv='2021-08-06 09:44:23',jobt_id=0,usua_email='drfranciscosilva@hotmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0 where usua_id=175 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center">-centro-</p>
+
+<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechasolo-, cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center">-centro-</p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp;&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico- , y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center">-centro-</p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center">-centro-</p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+174-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'','',1,'REGISTRADO',1,'','',1,'','KENNEDY','1103520134','','GONZALEZ PALACIOS','17',0,'DAMARIS ELIZABETH','1701',1,'',0,'','','1993-01-16',56,'',7,'0991059568','F',4,'DAMARISEGP@GMAIL.COM','',4,'174','2021-08-12 15:10:07','','0117227763491742021081203100733099',NULL,'1','','','')
+1-->insert into dns_epicrisisanamesis (usua_id,clie_id,centro_id,atenc_id,anam_condicionegreso,anam_altadefinitiva,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_nhoja,anam_resumenclinico,anam_altatransitoria,anam_enlace,anam_discapacidadleve,anam_discapacidadgrave,anam_resumenevolucion,anam_retironoautorizado,anam_defuncionmas48,anam_hallazgos,anam_diasincapacidad,anam_resumentratamiento) values (1,2,1,5,'','','','','','2021-08-12 15:17:26','','','','','','2011711467884120210812031726385','','','','','','','','')
+1-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_diagnosticorecepcion='',clie_titularseguro=0,clie_cirugia='',clie_token='',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='Napo Tena',clie_rucci='1212121212',clie_anestesiologo='',clie_apellido='Test',prob_codigo='17',tippo_id=0,clie_nombre='Paciente',cant_codigo='1701',civil_id=2,clie_parroquia='',conve_id=0,clie_telefono='',clie_ocupacion='Ingeniero',clie_fechanacimiento='1979-01-26',nac_id=56,clie_emergenciatelf='',tarterial_id=7,clie_celular='0992524221',clie_genero='M',orien_id=5,clie_email='viky@gmail.com',clie_emergenciacelu='',idgen_id=4,usua_id='1',clie_registro='2021-07-13 14:21:50',clie_institucion='',clie_enlace='01171146788412021071302215032384',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=2 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-usua_nombre- -usua_apellido-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_epicrisisanamesis set usua_id=1,clie_id=2,centro_id=1,atenc_id=5,anam_condicionegreso='',anam_altadefinitiva='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-08-12 15:17:26',anam_defuncionmenos48='',anam_diasestadia='',anam_nhoja='',anam_resumenclinico='',anam_altatransitoria='',anam_enlace='2011711467884120210812031726385',anam_discapacidadleve='',anam_discapacidadgrave='',anam_resumenevolucion='',anam_retironoautorizado='',anam_defuncionmas48='',anam_hallazgos='',anam_diasincapacidad='',anam_resumentratamiento='' where anam_id=1 
+1-->update dns_epicrisisanamesis set usua_id=1,clie_id=2,centro_id=1,atenc_id=5,anam_condicionegreso='',anam_altadefinitiva='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-08-12 15:17:26',anam_defuncionmenos48='',anam_diasestadia='',anam_nhoja='',anam_resumenclinico='',anam_altatransitoria='',anam_enlace='2011711467884120210812031726385',anam_discapacidadleve='',anam_discapacidadgrave='',anam_resumenevolucion='',anam_retironoautorizado='',anam_defuncionmas48='',anam_hallazgos='',anam_diasincapacidad='',anam_resumentratamiento='' where anam_id=1 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>-medico-</p>
+
+<p><strong>MEDICO TRATANTE</strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update app_usuario set usua_carnetconadis='',centro_id='1',emp_id=1,usua_tiporuc=0,usua_siglastitulo='DR.',usua_tipodiscapacidad='',usua_ruc='',estab_id=1,usua_ciruc='1712335114',usua_nombreruc='',usua_codigo='1712335114',pemision_id=0,usua_porcentajediscapacidad='',usua_enlace='01171146788412021080609390660',usua_msp='1712335114',usua_direccionruc='',usua_fechaingrero='2021-08-01',usua_codigoiniciales='FS',usua_fechasalida=NULL,usua_paisruc=0,usua_nombre='FRANCISCO',tipcont_id=1,nac_id=56,usua_provinciaruc='',usua_apellido='SILVA',usua_fechanacimiento='0000-00-00',etn_id=6,usua_archivocenecyt='',usua_cantonruc='',usua_celular='0995747023',usua_piefirma='Dr. Francisco Silva',usua_archivoauxiliares='',usua_telefonoruc='',usua_mailruc='',usua_horascontrato='8',civil_id=2,tipoh_id=1,usua_genero='MASCULINO',usua_fecha_uingreso='2021-08-06 09:44:36',usua_usuario='1712335114',especi_id=0,usua_hora_uingreso='09:44:36',subespeci_id=0,usua_fecha_cambioclv='2021-08-06 09:44:23',jobt_id=0,usua_email='drfranciscosilva@hotmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0 where usua_id=175 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-cuyo diagnostico es -diagnostico-, y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el&nbsp; -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-,</p>
+
+<p style="text-align:justify">y cirugia realizada por -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->update dns_certificados set certif_titulo='CERTIFICADO MEDICO CLINICA LOS PINOS',certif_contenido='<p style="text-align:center"><strong>CERTIFICADO MEDICO</strong></p>
+
+<p style="text-align:center"><strong>-centro-</strong></p>
+
+<p style="text-align:right">&nbsp;</p>
+
+<p style="text-align:right">Quito-fechaciudad-</p>
+
+<p style="text-align:justify"><strong>CERTIFICO</strong>, que el Sr.(a) -clie_nombre- -clie_apellido-, con cedula de identidad e Historia clinica numero -clie_rucci-, ingreso el -fechaciudad-, cuyo diagnostico es:</p>
+
+<p style="text-align:justify">-diagnostico-,</p>
+
+<p style="text-align:justify">y cirugia realizada por: -cirugia-, el -fechacirugia-, por lo cual, NECESITA REPOSO ABSOLUTO, desde el&nbsp; -desde- hasta -hasta-</p>
+
+<p>El paciente desarrolla su ACTIVIDAD LABORAL en: -actividadlaboral-</p>
+
+<p>&nbsp;</p>
+
+<p><strong>MEDICO TRATANTE:</strong></p>
+
+<p>-medico-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Nota:</strong> Este formulario debe ser entregado al patrono por el afiliado para justificar el ausentismo por:</p>
+
+<p>( ) Enfermedad General&nbsp;&nbsp;&nbsp; ( ) Accidente de trabajo&nbsp;&nbsp; ( ) Enfermedad Profesional&nbsp;&nbsp; ( ) Maternidad (nino vivo)</p>
+
+<p>&nbsp;</p>',emp_id=1,certif_activo=1 where certif_id=5 
+1-->insert into app_usuario (usua_carnetconadis,centro_id,emp_id,usua_tiporuc,usua_siglastitulo,usua_tipodiscapacidad,usua_ruc,estab_id,usua_ciruc,usua_nombreruc,usua_codigo,pemision_id,usua_porcentajediscapacidad,usua_enlace,usua_msp,usua_direccionruc,usua_fechaingrero,usua_codigoiniciales,usua_fechasalida,usua_paisruc,usua_nombre,tipcont_id,nac_id,usua_provinciaruc,usua_apellido,usua_fechanacimiento,etn_id,usua_archivocenecyt,usua_cantonruc,usua_celular,usua_piefirma,usua_archivoauxiliares,usua_telefonoruc,usua_mailruc,usua_horascontrato,civil_id,tipoh_id,usua_genero,usua_fecha_uingreso,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion) values ('','1',1,0,'DR.','','',1,'1714420278','','1714420278',1,'','011711467884120210812045340431','1714420278','','2021-08-01','RG',NULL,0,'RENATO',1,56,'','GUERRA','24-06-1976',6,'','','0995653355','DR. RENATO GUERRA','','','','8',2,1,'MASCULINO','0000-00-00','1714420278',0,'00:00',0,'0000-00-00',0,'doctorguerrita@hotmail.com','','',1,'',0,0,0)
+181-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,clie_ci,emp_id,atenc_observacion,atenc_fechasalida,atenc_fechaingreso,atenc_condiciondeegreso,atenc_referencia,atenc_enlace,atenc_archivo) values (1,14,'1103520134-1','2',181,'2021-08-12 17:04:18','','','1103520134',1,'DOLOR LUMBAR','2021-08-12 17:04:18','2021-08-12 17:04:18','VIVO','','01171442027818120210812050418388','')
+181-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,tipoaler_id,anam_centrorefiere,anam_emferpactual,anam_txtalergias,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (14,'','LIBRE DEMANDA',13,1,181,'NO REFIERE',4,'1','','PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE','','','','','DOLOR LUMBAR','','0','2021-08-12 17:05:25','','0',0,'','','0','','1401171442027818120210812050525206','REULARES','0','0','0',NULL,NULL,'2020-05-04',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)
+181-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+181-->insert into dns_imagenologia (atenc_id,clie_id,imgag_idexterno,centro_id,imgag_tablaexterno,imgag_rxconvencional,imgag_resumenclinico,imgag_motivo,usua_id,imgag_tomografia,imgag_codigo,imgag_resonacia,prob_codigo,imgag_ecografia,prio_id,imgag_procedimiento,cant_codigo,imgag_otros,imgag_describir,imgag_fechasolicitud,imgag_puedemovilizarse,imgag_puederetirarse,imgag_hora,imgag_medicopresente,imgag_tomacama,imgag_parroquia,imgag_fechatoma,imgag_servicio,imgag_sala,imgag_cama,imgag_fecharegistro,imgag_enlace) values (13,14,4,1,'dns_traumatologiaanamesis',0,'DOLOR LUMBAR CON RADICULOPATIA  BILATERAL','DOLOR LUMBAR',181,0,'',1,'17',0,2,0,'1701',0,'RESONANCIA MAGNETICA SIMPLE DE COLUMNA LUMBAR','2021-08-12 17:15:55',1,0,'17:15',0,0,'','2021-08-12 17:15:55','','','','2021-08-12 17:15:55','140117144202781812021081205155569')
+181-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+181-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+181-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->insert into app_usuario (usua_carnetconadis,centro_id,emp_id,usua_tiporuc,usua_siglastitulo,usua_tipodiscapacidad,usua_ruc,estab_id,usua_ciruc,usua_nombreruc,usua_codigo,pemision_id,usua_porcentajediscapacidad,usua_enlace,usua_msp,usua_direccionruc,usua_fechaingrero,usua_codigoiniciales,usua_fechasalida,usua_paisruc,usua_nombre,tipcont_id,nac_id,usua_provinciaruc,usua_apellido,usua_fechanacimiento,etn_id,usua_archivocenecyt,usua_cantonruc,usua_celular,usua_piefirma,usua_archivoauxiliares,usua_telefonoruc,usua_mailruc,usua_horascontrato,civil_id,tipoh_id,usua_genero,usua_fecha_uingreso,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion) values ('','1',1,0,'','','',1,'1002580841','','',1,'','011711467884120210812053310281','','','2021-08-01','FG',NULL,0,'FRANCISCO',1,56,'','GUZMAN','04-08-1980',6,'','','0980162827','DR. FRANCISCO GUZMAN','','','','8',2,1,'MASCULINO','0000-00-00','1002580841',0,'00:00',0,'0000-00-00',0,'drfranciscoguzmanb@hotmail.com','','',1,'',0,0,0)
+182-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+182-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+182-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+182-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+182-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+182-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_traumatologiaanamesis set clie_id=14,anam_planes='',anam_referencia='LIBRE DEMANDA',atenc_id=13,centro_id=1,usua_id=181,anam_observacionaf='NO REFIERE',estaatenc_id=4,tipoaler_id='1',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE DOLOR LUMBAR DE 6 MESES DE EVOLUCION SIN CAUSA APARENTE IRRADIADO A MIEMBROS INFERIORES , HACE UN MES SE ACOMPAÑA DE PARESTESIAS E IMPOTENCIA FUNCIONAL, SE AUTOMEDICA DOLONEUROBION SIN REMITIR CUADRO POR LO QUE ACUDE',anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR LUMBAR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-08-12 17:05:25',anam_observacionrespiratorio='',anam_partos='0',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='0',anam_nhoja='',anam_enlace='1401171442027818120210812050525206',anam_ciclos='REULARES',anam_cesareas='0',anam_gesta='0',anam_hijosvivos='0',anam_fum=NULL,anam_fup=NULL,anam_fuc='2020-05-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=4 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='Paciente refiere que hace 10 días sufre caída desde su propia altura, cayendo sobre muñeca en hiperextensión, posterior a lo cual presentó dolor intenso en la misma. Al momento no refiere dolor.',anam_observacionaf='',anam_centrorefiere='',anam_planes='.',anam_profesionarefiere='',anam_motivoconsulta='Intervención Quirúrgica Programada',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 12:18:19',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810121819427',anam_ciclos='5x30',anam_cesareas='0',anam_cirugia='Osteosíntesis',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Eugenio Peñaherrera',anam_hijosvivos='1',anam_ayudante='Dr. Francisco Silva',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fuc='2020-01-01',anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=3 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='Paciente refiere que hace 10 días sufre caída desde su propia altura, cayendo sobre muñeca en hiperextensión, posterior a lo cual presentó dolor intenso en la misma. Al momento no refiere dolor.',anam_observacionaf='',anam_centrorefiere='',anam_planes='.',anam_profesionarefiere='',anam_motivoconsulta='Intervención Quirúrgica Programada',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 12:18:19',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810121819427',anam_ciclos='5x30',anam_cesareas='0',anam_cirugia='Osteosíntesis',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Eugenio Peñaherrera',anam_hijosvivos='1',anam_ayudante='Dr. Francisco Silva',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fuc='2020-01-01',anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=3 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='Paciente refiere que hace 10 días sufre caída desde su propia altura, cayendo sobre muñeca en hiperextensión, posterior a lo cual presentó dolor intenso en la misma. Al momento no refiere dolor.',anam_observacionaf='',anam_centrorefiere='',anam_planes='.',anam_profesionarefiere='',anam_motivoconsulta='Intervención Quirúrgica Programada',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 12:18:19',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810121819427',anam_ciclos='5x30',anam_cesareas='0',anam_cirugia='Osteosíntesis',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Eugenio Peñaherrera',anam_hijosvivos='1',anam_ayudante='Dr. Francisco Silva',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fuc='2020-01-01',anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=3 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='Paciente refiere que hace 10 días sufre caída desde su propia altura, cayendo sobre muñeca en hiperextensión, posterior a lo cual presentó dolor intenso en la misma. Al momento no refiere dolor.',anam_observacionaf='',anam_centrorefiere='',anam_planes='.',anam_profesionarefiere='',anam_motivoconsulta='Intervención Quirúrgica Programada',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 12:18:19',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810121819427',anam_ciclos='5x30',anam_cesareas='0',anam_cirugia='Osteosíntesis',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Eugenio Peñaherrera',anam_hijosvivos='1',anam_ayudante='Dr. Francisco Silva',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fuc='2020-01-01',anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=3 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='Paciente refiere que hace 10 días sufre caída desde su propia altura, cayendo sobre muñeca en hiperextensión, posterior a lo cual presentó dolor intenso en la misma. Al momento no refiere dolor.',anam_observacionaf='',anam_centrorefiere='',anam_planes='.',anam_profesionarefiere='',anam_motivoconsulta='Intervención Quirúrgica Programada',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 12:18:19',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810121819427',anam_ciclos='5x30',anam_cesareas='0',anam_cirugia='Osteosíntesis',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Eugenio Peñaherrera',anam_hijosvivos='1',anam_ayudante='Dr. Francisco Silva',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. MANOLO CALERO',anam_fuc='2020-01-01',anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=3 
+1-->update dns_hospitalanamesis set usua_id=178,atenc_id=9,anam_referencia='LIBRE DEMANDA',centro_id=1,clie_id=8,estaatenc_id=4,anam_emferpactual='PACIENTE REFIERE QUE SUFRE CAIDA DESDE SU PROPIA ALTURA HACE 10 DIAS, CAYENDO SOBRE MUÑECA IZQUIERDA EN HIPEREXTENSION, POSTERIOR A LO CUAL PRESENTO DOLOR INTENSO, Y ES DIAGNOSTICADA CON FRACTURA DE MUÑECA',anam_observacionaf='',anam_centrorefiere='',anam_planes='QUIRURGICO',anam_profesionarefiere='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_menarquiaedad='',anam_partos='1',anam_fecharegistro='2021-08-10 17:56:59',anam_menopausiaedad='',anam_observacionap='',anam_nhoja='',anam_abortos='0',anam_enlace='801172173839917820210810055659413',anam_ciclos='',anam_cesareas='0',anam_cirugia='OSTEOSINTESIS',anam_especialidad='Traumatología',anam_gesta='1',anam_tratante='Dr. Peñaherrera',anam_hijosvivos='1',anam_ayudante='DR. SILVA',anam_fum='2021-07-23',anam_fup=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fuc=NULL,anam_fechaingreso='2021-08-10',anam_listaverificacion='',anam_metodopfamiliar=0,anam_ambulancia='',anam_consentimientoinformado='',anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=6 

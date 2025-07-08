@@ -1,0 +1,3 @@
+458-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-1045867AA5F117D0EE' and crpadet_id=3309-->2025-02-10 15:21:10
+458-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-1045867AA5F117D0EE' and crpadet_id=3310-->2025-02-10 15:21:12
+458-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-1045867AA5F117D0EE' and crpadet_id=3311-->2025-02-10 15:21:16

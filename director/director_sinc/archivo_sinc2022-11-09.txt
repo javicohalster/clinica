@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_title='Documento Relacionado:' where fie_id='9742';
+update gogess_sisfield set fie_orden='17' where fie_id='9742';
+update gogess_sisfield set fie_orden='18' where fie_id='9650';
+update gogess_sisfield set fie_orden='19' where fie_id='9567';
+update gogess_sisfield set fie_orden='20' where fie_id='9557';
+update gogess_sisfield set fie_orden='21' where fie_id='9558';
+update gogess_sisfield set fie_orden='22' where fie_id='9559';
+update gogess_sisfield set fie_orden='23' where fie_id='9566';
+update gogess_sisfield set fie_orden='24' where fie_id='9560';
+update gogess_sisfield set fie_orden='25' where fie_id='9562';
+update gogess_sisfield set fie_orden='26' where fie_id='9563';

@@ -1,0 +1,44 @@
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4276,centro_id=1,clie_id=5385,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA 26 AÑOS NACIDA Y RESIDENTE EN QUITO, MESTIZA, SOLTERA, ESTUDIANTE UNIVERSITARIA, DIESTRA, CATOLICA, TIPO DE SANGRE ORH + SIN ANTECEDENTES DE IMPORTANCIA REFIERE INCONFORMIDAD CON SU APARIENCIA FISICA POR LO QUE CONSULTA CON MEDICO ESPECIALISTA Y PAUTAN CORRECCION QUIRURGICA, POR LO QUE INGRESA A ESTA CASA DE SALUD.',anam_planes='1 INGRESO A HOSPITALIZACION
+2 NADA POR VIA ORAL 
+3 FIRMAR CONSENTIMIENTOS INFORMADOS
+4 CANALIZAR VIA PERIFERICA
+5 CHEQUEO PREANESTESICO 
+6 CONTROL DE SIGNOS VITALES
+7 SUBIR AL QUIROFANO AL LLAMADO 
+8 ORDENES DR. CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='11 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-07-14 07:42:40',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='538501131202875419620230714074240403',anam_cirugia='LIPOSUCCION',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CHRISTIAN CACERES',anam_hijosvivos='0',anam_ayudante='DRA. DIANA CILLACRES',anam_fum='2023-06-12',anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-14',anam_metodopfamiliar=1,anam_metodopfamiliartex='BARRERA',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1807 -->2023-07-20 10:54:22
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-07-14 11:01:29',atenc_id=4276,centro_id=1,clie_id=5385,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 7600 CC
+4, INJERTO GRASO 720 CC EN CADA GLUTEO',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. DECANTACION DE GRASA Y COLOCACION DE GENTAMICINA 
+10. COLOCACION DE INJERTO GRASO 
+11 COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS INJERTO GRASO',protoop_sintesis='NYLON 5/0
+SEDA 2/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NIGNUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1807',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS INJERTO GRASO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53850117200117312052023071411012949',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-14',protoop_horainicio='08:25',protoop_horafin='10:45' where protoop_id=1273 -->2023-07-20 10:54:26
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-07-14 11:01:29',atenc_id=4276,centro_id=1,clie_id=5385,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 7600 CC
+4, INJERTO GRASO 720 CC EN CADA GLUTEO',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. DECANTACION DE GRASA Y COLOCACION DE GENTAMICINA 
+10. COLOCACION DE INJERTO GRASO 
+11 COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS INJERTO GRASO',protoop_sintesis='NYLON 5/0
+SEDA 2/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NIGNUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1807',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS INJERTO GRASO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53850117200117312052023071411012949',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-14',protoop_horainicio='08:25',protoop_horafin='10:45' where protoop_id=1273 -->2023-07-20 10:54:26

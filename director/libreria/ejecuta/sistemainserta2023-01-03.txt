@@ -1,0 +1,1 @@
+insert into cmb_camposarch (crch_activo,crch_columnaexcel,crch_nameid,crch_nombre,crch_obligatorio,crch_orden,crch_patharchivo,tiparch_id,tipc_id,tipda_id) values (1,'O','archdt_bodega','archdt_bodega',1,7,'',16,1,3)

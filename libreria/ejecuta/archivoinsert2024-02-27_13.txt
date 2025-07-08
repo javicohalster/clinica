@@ -1,0 +1,80 @@
+423-->insert into dns_invegresosvarios (centrod_id,egrec_representante,destv_id,tdes_id,egrec_fecha,emp_id,egrec_otrosdestino,egrec_responsableentrega,tipom_id,tipomov_id,egrec_motivo,centro_id,egrec_cedula,egrec_personalrecibe,egrec_nmemo,egrec_cedularecibe,usua_id,egrec_fecharegistro,egrec_tipo) values (55,'MAYRA POZO',0,1,'2024-02-27',1,'','KARINA ESQUEDA',2,5,'ALTA DE PACIENTR',13,'0962802252','MAYRA POZO','0000','0000000000',423,'2024-02-27 14:11:33',1)-->2024-02-27 14:12:35
+423-->update dns_invegresosvarios set centrod_id=55,egrec_representante='MAYRA POZO',destv_id=0,tdes_id=1,egrec_fecha='2024-02-27',emp_id=1,egrec_otrosdestino='',egrec_responsableentrega='KARINA ESQUEDA',tipom_id=2,tipomov_id=5,egrec_motivo='ALTA DE PACIENTR',centro_id=13,egrec_cedula='0962802252',egrec_personalrecibe='MAYRA POZO',egrec_nmemo='0000',egrec_cedularecibe='0000000000',usua_id=423,egrec_fecharegistro='2024-02-27 14:11:33',egrec_tipo=1 where egrec_id=286 -->2024-02-27 14:14:24
+299-->update dns_atencion set centro_id=1,clie_id=6858,atenc_hc='1719348375-1',tiposerv_id='2',usua_id=340,atenc_fecharegistro='2023-12-11 16:38:16',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2023-12-11 16:38:16',atenc_fechasalida='2023-12-11 16:38:16',atenc_condiciondeegreso='VIVO',atenc_observacion='CONSULTA',emp_id=1,clie_ci='1719348375',atenc_referencia='',atenc_archivo='',atenc_enlace='0117254097323402023121104381693' where atenc_id=5850 -->2024-02-27 16:31:12
+456-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7300,atenc_id='6376',usua_id=448,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-27 10:08:52',protoop_selectiva='1',protoop_cirujanouno='DR ANDRES ANDRADE',protoop_fechaoperacion='2024-02-27',protoop_sintesis='',protoop_idenlace='622',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='10:00',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. PAMELA GORDILLO',protoop_horafin='11:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PROCTOPEXIA PERINEAL + HEMORROIDECTOMIA EXTENSA + ANOSCOPIA',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='PROCTOPEXIA PERINEAL + HEMORROIDECTOMIA EXTENSA + ANOSCOPIA CON DILATACION',protoop_dieresis='PERIANAL EN LOS RADIOS DE LAS 2, 5 Y 9',protoop_examendetalle='HEMORROIDES',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC SUSANA QUEZADA',protoop_enlace='730001100252175344820240227100852149',protoop_circulante='LIC JACQUELINE TORRES',protoop_exposicion='ANOSCOPIA',protoop_anestesiologo='DR. CACHIMUEL',protoop_exploracion='- PROLAPSO MUCOSO ANAL CIRCUNFERENCIAL
+- HEMORROIDES CONGESTIVA GRADO III EN LOS RADIOS DE LAS 2 Y 9
+- HEMORROIDES CONGESTIVAS EN LOS RADIOS DE LAS 5
+- ESTENOSIS ANAL LEVE',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. COLOCACION DE PACIENTE EN POSICION DE NAVAJA SEVILLANA.
+2. SEPARACION DE GLUTEOS CON CINTA ADHESIVA.
+3. ASEPSIA Y ANTISEPSIA.
+4. COLOCACION DE CAMPOS QUIRÚRGICOS.
+5. ANOSCOPIA + DILATACION CON EXPLORACION DE LOS 4 CUADRANTES
+6. HALLAZGOS DESCRITOS.
+7. COLOCACION DE PUNTO HEMOSTATICO EN BASES HEMORROIDALES EN LOS RADIOS DE 2, 5 Y 9
+8. REALIZACION DE HEMORROIDECTOMIA EXTENSA EXTERNA E INTERNA EN LOS RADIOS MENCIONADOS CON ELCTROBISTURI CON TECNICA ABIERTA
+9. REALIZACION DE PROCTOPEXIA PERINEAL EN LOS RADIOS MENCIONADOS CON VYCRIL 2.0
+10. COLOCACION DE APÓSITO HEMOSTÁTICO EN CANAL ANAL.
+11. COLOCACION DE APÓSITOS.',protoop_complicaciones='NINGUNA',protoop_perdida='10',protoop_sangrado='10',protoop_protesico='0',anam_enlace='' where protoop_id=913 -->2024-02-27 18:19:53
+456-->update dns_newhospitalizacionanamesis set clie_id=7300,usua_id=470,centro_id=1,atenc_id=6376,anam_referencia='DERIVADO',les_id='',anam_pdfcirugia='',anam_emferpactual='',anam_planes='',anam_descripcionexafis='',anam_centrorefiere='ISSPOL',anam_analisis='',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='NO APLICA',estaatenc_id=4,anam_cirugia='HEMORROIDECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA POR DERIVACION DE ISSPOL',anam_partos='NO APLICA',anam_especialidad='COLOPROCTORLOGIA',anam_fecharegistro='2024-02-27 09:49:00',anam_menopausiaedad='NO APLICA',anam_tratante='DRA. ANDRADE ANDRES',anam_abortos='NO APLICA',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='NO APLICA',anam_anestesiologo='DR.  CACHIMUEL',anam_cesareas='NO APLICA',anam_enlace='730001180441038747020240227094900493',anam_fechaingreso='2024-02-27',anam_gesta='NO APLICA',anam_hijosvivos='NO APLICA',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NO APLICA',anam_terapiahormonaltext='NO APLICA',anam_edadsex='NO APLICA' where anam_id=622 -->2024-02-27 18:28:27
+456-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7300,atenc_id='6376',usua_id=448,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-27 10:08:52',protoop_selectiva='1',protoop_cirujanouno='DR ANDRES ANDRADE',protoop_fechaoperacion='2024-02-27',protoop_sintesis='',protoop_idenlace='622',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='10:00',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. PAMELA GORDILLO',protoop_horafin='11:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PROCTOPEXIA PERINEAL + HEMORROIDECTOMIA EXTENSA + ANOSCOPIA',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='PROCTOPEXIA PERINEAL + HEMORROIDECTOMIA EXTENSA + ANOSCOPIA CON DILATACION',protoop_dieresis='PERIANAL EN LOS RADIOS DE LAS 2, 5 Y 9',protoop_examendetalle='HEMORROIDES',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC SUSANA QUEZADA',protoop_enlace='730001100252175344820240227100852149',protoop_circulante='LIC JACQUELINE TORRES',protoop_exposicion='ANOSCOPIA',protoop_anestesiologo='DR. CACHIMUEL',protoop_exploracion='- PROLAPSO MUCOSO ANAL CIRCUNFERENCIAL
+- HEMORROIDES CONGESTIVA GRADO III EN LOS RADIOS DE LAS 2 Y 9
+- HEMORROIDES CONGESTIVAS EN LOS RADIOS DE LAS 5
+- ESTENOSIS ANAL LEVE',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. COLOCACION DE PACIENTE EN POSICION DE NAVAJA SEVILLANA.
+2. SEPARACION DE GLUTEOS CON CINTA ADHESIVA.
+3. ASEPSIA Y ANTISEPSIA.
+4. COLOCACION DE CAMPOS QUIRÚRGICOS.
+5. ANOSCOPIA + DILATACION CON EXPLORACION DE LOS 4 CUADRANTES
+6. HALLAZGOS DESCRITOS.
+7. COLOCACION DE PUNTO HEMOSTATICO EN BASES HEMORROIDALES EN LOS RADIOS DE 2, 5 Y 9
+8. REALIZACION DE HEMORROIDECTOMIA EXTENSA EXTERNA E INTERNA EN LOS RADIOS MENCIONADOS CON ELCTROBISTURI CON TECNICA ABIERTA
+9. REALIZACION DE PROCTOPEXIA PERINEAL EN LOS RADIOS MENCIONADOS CON VYCRIL 2.0
+10. COLOCACION DE APÓSITO HEMOSTÁTICO EN CANAL ANAL.
+11. COLOCACION DE APÓSITOS.',protoop_complicaciones='NINGUNA',protoop_perdida='10',protoop_sangrado='10',protoop_protesico='0',anam_enlace='' where protoop_id=913 -->2024-02-27 18:36:52
+456-->update dns_newhospitalizacionanamesis set clie_id=7300,usua_id=470,centro_id=1,atenc_id=6376,anam_referencia='DERIVADO',les_id='',anam_pdfcirugia='',anam_emferpactual='',anam_planes='',anam_descripcionexafis='',anam_centrorefiere='ISSPOL',anam_analisis='',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='NO APLICA',estaatenc_id=4,anam_cirugia='HEMORROIDECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA POR DERIVACION DE ISSPOL',anam_partos='NO APLICA',anam_especialidad='COLOPROCTORLOGIA',anam_fecharegistro='2024-02-27 09:49:00',anam_menopausiaedad='NO APLICA',anam_tratante='DRA. ANDRADE ANDRES',anam_abortos='NO APLICA',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='NO APLICA',anam_anestesiologo='DR.  CACHIMUEL',anam_cesareas='NO APLICA',anam_enlace='730001180441038747020240227094900493',anam_fechaingreso='2024-02-27',anam_gesta='NO APLICA',anam_hijosvivos='NO APLICA',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NO APLICA',anam_terapiahormonaltext='NO APLICA',anam_edadsex='NO APLICA' where anam_id=622 -->2024-02-27 18:38:18
+456-->update dns_newhospitalizacionconsultaexterna set clie_id=7300,usua_id=448,centro_id=1,atenc_id=6376,conext_notasdeevolucion='NOTA DE INGRESO',anam_id=622,conext_fechar='2024-02-27',estaatenc_id=1,conext_fecharegistro='2024-02-27 10:26:13',conext_horar='09:00',conext_prescripciones='RP',conext_horaf='09:10',conext_enlace='730001100252175344820240227102613294' where conext_id=411 -->2024-02-27 18:38:21
+456-->update dns_newhospitalizacionconsultaexterna set clie_id=7300,usua_id=448,centro_id=1,atenc_id=6376,conext_notasdeevolucion='NOTA DE INGRESO
+COLOPROCTOLOGÍA
+
+PACIENTE MASCULINO ADULTO DE 43 AÑOS PROCEDENCIA  SAN MIGUEL DE BOLIVAR Y RESIDENCIA QUITO , POLICIA,  CASADO, CATÓLICO, DIESTRO, TIPO DE SANGRE O RH +
+ALERGIAS: NO REFIERE         TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+APQX:  CIRUGIA DE PTERIGION IZQUIERDO HACE 15 AÑOS
+APF: NO REFIERE
+HÁBITOS: ALIMENTACIÓN 3 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2 VECES DÍA, ALCOHOL: SOCIAL, TABACO NIEGA, ACTIVIDAD FISICA SI
+VACUNAS: SARS COV-2:  4 DOSIS
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA POR DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE MASCULINO DE 43 AÑOS CON CUADRO DE DOLOR EN REGION ANAL QUE INCREMENTA CON LA DEPOSICIÓN DE VARIOS MESES DE EVOLUCION, ADEMAS  DE CONSTIPACION, AL TACTO RECTAL: NO SANGRADO ACTIVO, PRESENCIA DE HECES EN GUANTE , HEMORROIDES EXTERNAS E INTERNAS, ESFINTER ANAL TONICO, SE FILIA A DIAGNOSTICO DE ENFERMEDAD HEMORROIDAL Y FISTULA ANAL, POR LO QUE AMERITA SER TRATADO POR COLOPROCTOLOGIA Y MANEJO INTEGRAL HEMORROIDAL Y FISTULA ANAL, RAZON POR LA CUAL SE DERIVA PARA PROCEDIMIENTO QUIRURGICO. 
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, MUCOSAS ORALES HUMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CORAZÓN RÍTMICOS, SIN SOPLOS, PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS.  ABDOMEN: SUAVE, DEPRESIBLE,  NO DOLOROSO A LA PALPACIÓN, RUIDOS HIDROAEREOS PRESENTES, INGLE -  PERINE: PROLAPSO ANAL HEMORROIDES CONGESTIVAS, NO MASAS, NO SANGRADO, EXTREMIDADES: SIMETRICAS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE MASCULINO, SIN ANTECEDENTES CLINICOS DE IMPORTANCIA, INGRESA PARA INTERVENCION QUIRURGICA DE COLOPROCTOLGIA,  CUENTA CON HORAS DE AYUNO,  A LA ESPERA DE LLAMADO DE QUIROFANO.
+
+IDG: CIE10: HEMORROIDES INTERNAS CON OTRAS COMPLICACIONES CIE10 I841
+PROLAPSO ANAL CIE10 K622
+
+PLAN: RESOLUCIÓN QUIRÚRGICA INDICACIONES',anam_id=622,conext_fechar='2024-02-27',estaatenc_id=1,conext_fecharegistro='2024-02-27 10:26:13',conext_horar='09:00',conext_prescripciones='RP',conext_horaf='09:10',conext_enlace='730001100252175344820240227102613294' where conext_id=411 -->2024-02-27 18:39:28
+456-->update dns_newhospitalizacionconsultaexterna set clie_id=7300,usua_id=448,centro_id=1,atenc_id=6376,conext_notasdeevolucion='NOTA DE INGRESO
+COLOPROCTOLOGÍA
+
+PACIENTE MASCULINO ADULTO DE 43 AÑOS PROCEDENCIA  SAN MIGUEL DE BOLIVAR Y RESIDENCIA QUITO , POLICIA,  CASADO, CATÓLICO, DIESTRO, TIPO DE SANGRE O RH +
+ALERGIAS: NO REFIERE         TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+APQX:  CIRUGIA DE PTERIGION IZQUIERDO HACE 15 AÑOS
+APF: NO REFIERE
+HÁBITOS: ALIMENTACIÓN 3 VECES AL DÍA, DIURESIS 5 VECES DIA, DEFECACIÓN 2 VECES DÍA, ALCOHOL: SOCIAL, TABACO NIEGA, ACTIVIDAD FISICA SI
+VACUNAS: SARS COV-2:  4 DOSIS
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA POR DERIVACION DE ISSPOL
+
+ENFERMEDAD ACTUAL: PACIENTE MASCULINO DE 43 AÑOS CON CUADRO DE DOLOR EN REGION ANAL QUE INCREMENTA CON LA DEPOSICIÓN DE VARIOS MESES DE EVOLUCION, ADEMAS  DE CONSTIPACION, AL TACTO RECTAL: NO SANGRADO ACTIVO, PRESENCIA DE HECES EN GUANTE , HEMORROIDES EXTERNAS E INTERNAS, ESFINTER ANAL TONICO, SE FILIA A DIAGNOSTICO DE ENFERMEDAD HEMORROIDAL Y FISTULA ANAL, POR LO QUE AMERITA SER TRATADO POR COLOPROCTOLOGIA Y MANEJO INTEGRAL HEMORROIDAL Y FISTULA ANAL, RAZON POR LA CUAL SE DERIVA PARA PROCEDIMIENTO QUIRURGICO. 
+
+EXAMEN FÍSICO: PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, MUCOSAS ORALES HUMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CORAZÓN RÍTMICOS, SIN SOPLOS, PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS.  ABDOMEN: SUAVE, DEPRESIBLE,  NO DOLOROSO A LA PALPACIÓN, RUIDOS HIDROAEREOS PRESENTES, INGLE -  PERINE: PROLAPSO ANAL HEMORROIDES CONGESTIVAS, NO MASAS, NO SANGRADO, EXTREMIDADES: SIMETRICAS, NEUROVASCULAR CONSERVADO.
+
+ANALISIS: PACIENTE MASCULINO, SIN ANTECEDENTES CLINICOS DE IMPORTANCIA, INGRESA PARA INTERVENCION QUIRURGICA DE COLOPROCTOLGIA,  CUENTA CON HORAS DE AYUNO,  A LA ESPERA DE LLAMADO DE QUIROFANO.
+
+IDG: CIE10: HEMORROIDES INTERNAS CON OTRAS COMPLICACIONES CIE10 I841
+PROLAPSO ANAL CIE10 K622
+
+PLAN: RESOLUCIÓN QUIRÚRGICA INDICACIONES',anam_id=622,conext_fechar='2024-02-27',estaatenc_id=1,conext_fecharegistro='2024-02-27 10:26:13',conext_horar='09:00',conext_prescripciones='RP',conext_horaf='09:10',conext_enlace='730001100252175344820240227102613294' where conext_id=411 -->2024-02-27 18:44:42

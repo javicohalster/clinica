@@ -1,0 +1,17 @@
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10745';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='10746';
+update gogess_sisfield set fie_title='Fecha Alta:' where fie_id='11798';
+update gogess_sisfield set fie_title='Hora Alta:' where fie_id='11800';
+update gogess_sisfield set field_type='date' where fie_id='11798';
+update gogess_sisfield set field_type='date' where fie_id='11798';
+update gogess_sisfield set fie_orden='3' where fie_id='11798';
+update gogess_sisfield set fie_orden='4' where fie_id='11800';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='11798';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='11800';
+update gogess_sisfield set fie_title='<b>Fecha Alta:</b>' where fie_id='11798';
+update gogess_sisfield set fie_title='<b>Hora Alta:</b>' where fie_id='11800';
+update gogess_sisfield set fie_title='M&eacute;dico Tratante:' where fie_id='11801';
+update gogess_sisfield set fie_type='select' where fie_id='11801';
+update gogess_sisfield set fie_type='selectpeke' where fie_id='11801';
+update gogess_sisfield set fie_typeweb='selectpeke' where fie_id='11801';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11801';

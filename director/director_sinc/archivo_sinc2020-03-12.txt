@@ -1,0 +1,16 @@
+update gogess_sisfield set fie_group='77' where fie_id='5120';
+update gogess_sisfield set fie_group='77' where fie_id='5120';
+update gogess_sisfield set fie_group='88' where fie_id='5125';
+update gogess_sisfield set fie_groupprint='77' where fie_id='5120';
+update gogess_sisfield set fie_groupprint='88' where fie_id='5125';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='4783';
+update gogess_sisfield set fie_groupprint='88' where fie_id='5125';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='5120';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='5125';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='5120';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='4783';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='5120';
+update gogess_sisfield set fie_type='hidden2snf' where fie_id='5120';
+update gogess_sisfield set fie_typeweb='hidden2snf' where fie_id='5120';
+update gogess_sisfield set fie_typeweb='hidden2snf' where fie_id='5125';
+update gogess_sisfield set fie_type='hidden2snf' where fie_id='5125';

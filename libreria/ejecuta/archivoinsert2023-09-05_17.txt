@@ -1,0 +1,88 @@
+250-->update dns_invegresosvarios set egrec_representante='MAYRA POZO',destv_id=0,tdes_id=1,centrod_id=55,emp_id=1,egrec_otrosdestino='',egrec_fecha='2023-09-05',egrec_responsableentrega='NICOLE HARO',tipom_id=2,egrec_motivo='RED PUBLICA',tipomov_id=5,egrec_cedula='1722872346',centro_id=17,egrec_nmemo='0001',egrec_personalrecibe='RAQUEL AJILA',egrec_cedularecibe='1726053836',usua_id=385,egrec_fecharegistro='2023-08-16 17:12:57',egrec_tipo=1 where egrec_id=47 -->2023-09-05 11:55:14
+250-->insert into dns_invegresosvarios (egrec_representante,destv_id,tdes_id,centrod_id,emp_id,egrec_otrosdestino,egrec_fecha,egrec_responsableentrega,tipom_id,egrec_motivo,tipomov_id,egrec_cedula,centro_id,egrec_nmemo,egrec_personalrecibe,egrec_cedularecibe,usua_id,egrec_fecharegistro,egrec_tipo) values ('MAYRA POZO',0,1,55,1,'','2023-09-05','NICOLE HARO',2,'RED PUBLICA',5,'1722872346',17,'001','RAQUEL AJILA','1726053836',250,'2023-09-05 12:05:32',1)-->2023-09-05 12:06:22
+284-->update dns_invegresosvarios set egrec_representante='MAYRA POZO',destv_id=0,tdes_id=1,centrod_id=55,emp_id=1,egrec_otrosdestino='',egrec_fecha='2023-09-05',egrec_responsableentrega='NICOLE HARO',tipom_id=2,egrec_motivo='RED PUBLICA',tipomov_id=5,egrec_cedula='1722872346',centro_id=17,egrec_nmemo='001',egrec_personalrecibe='RAQUEL AJILA',egrec_cedularecibe='1726053836',usua_id=250,egrec_fecharegistro='2023-09-05 12:05:32',egrec_tipo=1 where egrec_id=55 -->2023-09-05 13:20:12
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4816,centro_id=1,clie_id=5835,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 29 AÑOS, NACIDA Y RESIDENTE EN QUITO, DIVORCIADA, INSTRUCCIÓN SUPERIOR, EMPLEADA PRIVADA, CONTADORA, CREYENTE, DIESTRA, TIPO DE SANGRE ORH +.
+PACIENTE ADULTA JOVEN CON COMORBILIDADES REFIERE CUADRO CLÍNICO DE 3 MESES DE EVOLUCIÓN SIN CAUSA APARENTE DE DOLOR ABDOMINAL LOCALIZADO EN REGIÓN UMBILICAL TIPO CONTINUO DE MODERADA INTENSIDAD QUE EN ÚLTIMA SEMANA SE INTENSIFICA A GRAN INTENSIDAD POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, DIAGNOSTICA HERNIA UMBILICAL E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-09-05 11:56:36',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='583501020234257218520230905115636264',anam_cirugia='HERNIOPLASTIA UMBILICAL',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGÍA GENERAL',anam_tratante='DR. OSWALDO ESPINOSA',anam_hijosvivos='1',anam_ayudante='DRA. IZURIETA',anam_fum='2023-08-31',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc='2023-01-00',anam_fechaingreso='2023-09-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1988 -->2023-09-05 16:01:02
+250-->update dns_protocolooperatorio set usua_id=276,protoop_fecharegistro='2023-09-05 15:18:12',atenc_id=4816,centro_id=1,clie_id=5835,protoop_exposicion='de saco herniario y defecto aponeurotico',protoop_exploracion='1. saco que contiene grasa preperitoneal
+2. defceto aponeurotico de 2 cm',protoop_examen='',protoop_procedimiento='1. desbridsmiento detejidos circundantes al saco
+2. desbridamiento de la aponeurosis de los rectos anteriores
+3. reducciond del contenido herniario
+4. sintesis de aponeurosis con tecnica de Mayo
+5. colocacion de protesis de 3x4 preaponeurotica
+5. control de la hemostasia',protoop_proyectada='hernioplastia mas malla',protoop_sintesis='por planos',protoop_cirujanouno='Dr Oswaldo Espinosa',protoop_complicaciones='no',protoop_diagnostico='',protoop_dieresis='paraumbilical',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='1988',protoop_paleativa='',protoop_realizada='idem',protoop_ayudanteuno='dra Yolanda Izurieta',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58350117092953392762023090503181269',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-09-05',protoop_horainicio='14:30',protoop_horafin='15:15' where protoop_id=1547 -->2023-09-05 16:01:12
+250-->update dns_protocolooperatorio set usua_id=276,protoop_fecharegistro='2023-09-05 15:18:12',atenc_id=4816,centro_id=1,clie_id=5835,protoop_exposicion='de saco herniario y defecto aponeurotico',protoop_exploracion='1. saco que contiene grasa preperitoneal
+2. defceto aponeurotico de 2 cm',protoop_examen='',protoop_procedimiento='1. desbridsmiento detejidos circundantes al saco
+2. desbridamiento de la aponeurosis de los rectos anteriores
+3. reducciond del contenido herniario
+4. sintesis de aponeurosis con tecnica de Mayo
+5. colocacion de protesis de 3x4 preaponeurotica
+5. control de la hemostasia',protoop_proyectada='hernioplastia mas malla',protoop_sintesis='por planos',protoop_cirujanouno='Dr Oswaldo Espinosa',protoop_complicaciones='no',protoop_diagnostico='',protoop_dieresis='paraumbilical',protoop_selectiva='1',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='1988',protoop_paleativa='',protoop_realizada='idem',protoop_ayudanteuno='dra Yolanda Izurieta',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58350117092953392762023090503181269',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-09-05',protoop_horainicio='14:30',protoop_horafin='15:15' where protoop_id=1547 -->2023-09-05 16:01:13
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4807,centro_id=1,clie_id=5827,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN CON ANTECEDENTE DE DEPRESIÓN + ANSIEDAD, REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1 INGRESO A CIRUGÍA PLÁSTICA / HAB 302 
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-09-05 07:09:08',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='1',anam_ciclos='REGULARES',anam_enlace='582701172320022426720230905070908267',anam_cirugia='',anam_cesareas='0',anam_gesta='1',anam_especialidad='',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-05',anam_metodopfamiliar=1,anam_metodopfamiliartex='ANTICONCEPTIVOS ORALES',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 8 MESES',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1986 -->2023-09-05 16:02:58
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-05 12:09:58',atenc_id=4807,centro_id=1,clie_id=5827,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 						
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 4000 CC
+5. INJERTO GRASO 600 CC EN CADA GLUTEO						
+6, PROTESIS MAMARIAS MOTIVA 325 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON CANULA ESPECIAL						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. COLOCACION DE DRENES 
+10, TRATAMIENTO DE GRASA CON GENTAMICINA PARA INJERTO GRASO						
+11, COLOCACION DE INJERTO GRASO 600 CC EN CADA GLUTEO					
+12, SUTURA POR PLANOS DE INCISIONES						
+13. INCISION DESCRITA 2 BILATERAL						
+14, DISECCION POR PLANOS 						
+15. DISECCION DE BOLSILLO						
+16, CONTROL DE HEMOSTASIA						
+17. FORMACION DE SURCO INFRAMAMARIO CON PROLENE						
+18. COLOCACION DE PROTESIS MAMARIA 325 CC PREVIA COLOCACION DE GENTAMICIINA
+19, CIERRE DE INCISION POR PLANOS
+20, MISMO PROCEDIMIENTO DE MAMA IZQUIERDA						
+21. COLOCACION DE APOSITOS						
+22. COLOCACION DE PAÑALES 						
+23. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_sintesis='NYLON 5/0
+PROLENE 2/0
+DAFILON 2/0
+MONOCRYL 3 Y 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM 						
+2, INCISION INFRAMAMARIA DE 3 CM',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1986',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58270117200117312052023090512095811',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-05',protoop_horainicio='08:33',protoop_horafin='12:00' where protoop_id=1545 -->2023-09-05 16:03:00
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-09-05 12:09:58',atenc_id=4807,centro_id=1,clie_id=5827,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 						
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 4000 CC
+5. INJERTO GRASO 600 CC EN CADA GLUTEO						
+6, PROTESIS MAMARIAS MOTIVA 325 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON CANULA ESPECIAL						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. COLOCACION DE DRENES 
+10, TRATAMIENTO DE GRASA CON GENTAMICINA PARA INJERTO GRASO						
+11, COLOCACION DE INJERTO GRASO 600 CC EN CADA GLUTEO					
+12, SUTURA POR PLANOS DE INCISIONES						
+13. INCISION DESCRITA 2 BILATERAL						
+14, DISECCION POR PLANOS 						
+15. DISECCION DE BOLSILLO						
+16, CONTROL DE HEMOSTASIA						
+17. FORMACION DE SURCO INFRAMAMARIO CON PROLENE						
+18. COLOCACION DE PROTESIS MAMARIA 325 CC PREVIA COLOCACION DE GENTAMICIINA
+19, CIERRE DE INCISION POR PLANOS
+20, MISMO PROCEDIMIENTO DE MAMA IZQUIERDA						
+21. COLOCACION DE APOSITOS						
+22. COLOCACION DE PAÑALES 						
+23. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_sintesis='NYLON 5/0
+PROLENE 2/0
+DAFILON 2/0
+MONOCRYL 3 Y 4/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM 						
+2, INCISION INFRAMAMARIA DE 3 CM',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1986',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS AUMENTO MAMARIO',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='58270117200117312052023090512095811',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-09-05',protoop_horainicio='08:33',protoop_horafin='12:00' where protoop_id=1545 -->2023-09-05 16:03:00

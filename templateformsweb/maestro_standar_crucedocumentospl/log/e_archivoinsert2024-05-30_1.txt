@@ -1,0 +1,1 @@
+502-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('2.1.10','605','3.6','0166591AB31645150220240530073251186','2024-05-30 19:33:13','502')-->2024-05-30 19:33:13

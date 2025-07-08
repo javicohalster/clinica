@@ -1,0 +1,2 @@
+update factura_cerficado set cert_activo='1',cert_clv='Antonellavella',cert_nombre='JULIANA_PATRICIA_QUEZADA_ORTEGA.p12',cert_path='C:/firma/certificado/',tcert_id=1,usua_ciruc='1718142274' where cert_id=17 
+update factura_cerficado set cert_activo='1',cert_clv='Antonellavella',cert_nombre='JULIANA_PATRICIA_QUEZADA_ORTEGA.p12',cert_path='C:/firma/certificado/',tcert_id=1,usua_ciruc='1718142274' where cert_id=17 

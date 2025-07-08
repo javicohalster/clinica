@@ -1,0 +1,18 @@
+-->update dns_newhospitalizacionanamesis set clie_id=7521,usua_id=419,centro_id=1,atenc_id=7174,anam_referencia='LIBRE DEMANDA',les_id='14',anam_pdfcirugia='',anam_emferpactual='PACIENTE FEMJENINA DE 66 AÑOS QUE MIENTRA SE ENCONTRABA BAJANDO GRADAS SUFRE CAIDA SOBRE PALMA DE LAS MANOS Y RODILLAS PRESENTANDO DOLOR INTENSO EN MANOS Y MUÑECAS POR LO QUE ACUDE A EMERGENCIA DONDE ES VALORADA POR ESPECIALISTA QUIEN AL VALORAR CATALOGO COMO FRACTURA DE RADIO DISTAL BILATERAL E INDICA RESOLUCIÓN QUIRÚRGICA.',anam_planes='1. NADA POR VIA ORAL
+2. INGRESO PARA PROCEDIEMIENTO QUIRURGICO
+3. ELECTROCARDIOGRAMA
+4. CHEQUEO PREQUIRURGICO
+5. CHEQUEO PREANESTESICO
+6. PASAR PARTE OPERATORIO
+
+
+
+
+
+
+
+
+
+
+DR. FRANCISCO GUZMAN
+TRAUMATOLOGO',anam_descripcionexafis='MUÑECA DERECHA. EDEMA +++, DEFORMIDAD, LIMITACIÓN FUNCIONAL CRUJIDO, MUÑECA IZQUIERDA: MUÑECA DERECHA. EDEMA ++, DEFORMIDAD, LIMITACIÓN FUNCIONAL',anam_centrorefiere='',anam_analisis='PACIENTE FEMENINA ADULTA MAYOR ACUDE A EMERGENCIA DE ESTA CASA DE SALUD POR CAIDA DE SU PROPIA ALTURA , SE LE REALIZAN ESTUDIOS DE IMAGEN EN LOS QUE SE EVIDENCIA GRACTURA DE RADIO DISTAL BILATERAL, ES VALORADA POR TRAUMATOLOGÍA QUIEN INDICA RESOLUCIÓN QUI´RURGICA, SE REALIZAN EXAMENES Y CHEQUEO PREQUIRÚRGICOS.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='12',estaatenc_id=4,anam_cirugia='',anam_motivoconsulta='CAIDA, MAS DOLOR EN AMBAS MUÑECAS',anam_partos='0',anam_especialidad='TRAUMATOLOGÍA',anam_fecharegistro='2024-04-26 16:20:52',anam_menopausiaedad='49',anam_tratante='DR. FRANCISCO GUZMAN',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='',anam_cesareas='0',anam_enlace='752101172507226641920240426042052249',anam_fechaingreso='2024-04-26',anam_gesta='0',anam_hijosvivos='0',anam_respiratorio='0',anam_fum='2007-03-16',anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc='2023-04-10',anam_colposcopia=NULL,anam_mamografia='2022-03-09',anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NINGUNO',anam_terapiahormonaltext='NINGUNA',anam_edadsex='19' where anam_id=866 -->2024-04-26 19:16:02

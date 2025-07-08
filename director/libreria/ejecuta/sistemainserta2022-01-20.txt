@@ -1,0 +1,1 @@
+insert into dns_especialidad (especi_nombre,especi_iniciales,especi_codigo,especi_activo,mnupan_id,especi_diagnostico,especi_horasxprocedimiento,especi_horasapertura) values ('Ecografia','ECO','Eco',1,0,'',30,'8')

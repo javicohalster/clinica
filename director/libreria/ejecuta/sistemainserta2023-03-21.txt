@@ -1,0 +1,1 @@
+insert into sth_report (rept_aleatunico,rept_nombre,rept_activo,rept_tabla,rept_campos,rept_archivopersonalizado,categr_id,rept_observacion) values ('171490744920230321023621167','ATS XML',1,'','','standarats_panel.php',17,'Ats xml')

@@ -1,0 +1,1 @@
+update gogess_validaciones set fie_id=3785,prgv_id=1,valid_parametro='true',valid_mensaje_error='Campo Obligatorio',valid_extradata='' where valid_id=722 

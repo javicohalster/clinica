@@ -1,0 +1,10 @@
+2-->update efacfactura_categproducto set catgp_nombre='SERVICIO HOSPITALARIOS VARIOS',catgp_detalle='',catgp_cuentacontable='4.1.1.4' where catgp_id=7 -->2023-04-16 11:54:50
+2-->update efacfactura_categproducto set catgp_nombre='HOSPITALIZACIÓN',catgp_detalle='',catgp_cuentacontable='4.1.1.3' where catgp_id=3 -->2023-04-16 12:07:26
+2-->update efacfactura_categproducto set catgp_nombre='IMAGEN',catgp_detalle='',catgp_cuentacontable='4.1.1.9' where catgp_id=15 -->2023-04-16 12:16:51
+2-->update efacfactura_categproducto set catgp_nombre='EMERGENCIA',catgp_detalle='',catgp_cuentacontable='4.1.1.2' where catgp_id=2 -->2023-04-16 12:22:37
+2-->update factur_porcentajes set id_impuesto=1,porce_nombre='Otras retenciones aplicables el 2.75%',porce_codigo='3440',porce_valor='2.75',porce_orden='64',porce_nombreiva='',porce_cuenta='1.1.5.3.9',porce_activo=0 where porce_id=43 -->2023-04-16 16:30:23
+2-->update factur_porcentajes set id_impuesto=1,porce_nombre='Otras retenciones aplicables el 2.75%',porce_codigo='3440',porce_valor='2.75',porce_orden='64',porce_nombreiva='',porce_cuenta='1.1.5.3.9',porce_activo=0 where porce_id=43 -->2023-04-16 16:35:53
+2-->update factur_porcentajes set id_impuesto=1,porce_nombre='Transferencia de bienes muebles de naturaleza corporal',porce_codigo='312',porce_valor='1.75',porce_orden='13',porce_nombreiva='',porce_cuenta='1.1.5.3.11',porce_activo=1 where porce_id=11 -->2023-04-16 16:55:23
+2-->update factur_porcentajes set id_impuesto=2,porce_nombre='30% Bienes',porce_codigo='1',porce_valor='30',porce_orden='0',porce_nombreiva='- 30%',porce_cuenta='1.1.5.2.1',porce_activo=0 where porce_id=1 -->2023-04-16 16:56:14
+2-->update efacfactura_categproducto set catgp_nombre='EQUIPOS ESPECIALES DE APOYO',catgp_detalle='',catgp_cuentacontable='4.1.1.6' where catgp_id=5 -->2023-04-16 17:05:33
+2-->update efacfactura_categproducto set catgp_nombre='INSUMOS Y MEDICAMENTOS',catgp_detalle='',catgp_cuentacontable='4.1.2' where catgp_id=14 -->2023-04-16 17:10:02

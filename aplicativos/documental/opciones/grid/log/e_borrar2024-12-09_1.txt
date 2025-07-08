@@ -1,0 +1,5 @@
+458-->select * from lpin_cobropago where crb_id='9810'-->2024-12-09 10:03:56
+458-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='11124')-->2024-12-09 10:03:59
+458-->delete from lpin_comprobantecontable where crpadet_id='11124'-->2024-12-09 10:03:59
+458-->delete  from lpin_cobropagodetalle where crb_enlace='2024-12-09458675702C9C6755'-->2024-12-09 10:03:59
+458-->delete from lpin_cobropago where crb_id=9810-->2024-12-09 10:03:59

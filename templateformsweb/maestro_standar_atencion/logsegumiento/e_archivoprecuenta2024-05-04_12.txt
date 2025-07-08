@@ -1,0 +1,2 @@
+2-->update dns_precuenta set precu_observacion='data',precu_fechainicio='2024-04-18',precu_fechafinal='',precu_activo='2',convepr_id='17',categesp_id='4',especipr_id='19',clie_id='2' where precu_id='8412'-->2024-05-04 06:37:21
+2-->update dns_precuenta set precu_observacion='VIRTUAL',precu_fechainicio='2023-10-01',precu_fechafinal='',precu_activo='2',convepr_id='19',categesp_id='4',especipr_id='',clie_id='2' where precu_id='722'-->2024-05-04 06:37:26

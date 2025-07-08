@@ -1,0 +1,18 @@
+-->update dns_newprotocolooperatorio set centro_id=26,clie_id=6284,atenc_id='5303',usua_id=205,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-10-23 11:17:56',protoop_selectiva='1',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_fechaoperacion='2023-10-23',protoop_sintesis='',protoop_idenlace='129',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='08:40',protoop_regional='',protoop_biopsia='',protoop_paleativa='',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_horafin='11:05',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='LIPOESCULTURA',protoop_ayudantedos='',protoop_examen='',protoop_otroanestesia='',protoop_realizada='LIPOESCULTURA',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0,5 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='LIC HEIDY VASQUEZ',protoop_enlace='628401172001173120520231023111756188',protoop_circulante='LIC DENISS PILLIZA',protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA TORACCICA
+3. LIPODISTROFIA LUMBAR Y EN CINTURA
+4. LIPOSUCCION DE 6700
+5. INJERTO GRASO GLUTEO DE 660 CC',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR
+6. EMULSIFICACION DE GRASA CON VASER
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE
+8. COLOCACION DE DRENAJES TIPO PEN ROSE EN INFERIOR DE ABDOMEN Y OMBLIGO
+9. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR Y FORMACION DE TUNELES CON VASER
+10. LIPOASPIRACION CON MICROAIRE
+11. CIERRE DE INCISIONES
+12. PREPARACION DE INJERTO GRASO PARA COLOCACION EN GLUTEOS PREVIA DECANTACION Y COLOCACION DE GENTAMICINA
+13. CIERRE DE INCISIONES Y COLOCACION DE DREN EN LINEA INTERGLUTEA
+14, FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='800',protoop_sangrado='800',protoop_protesico='',anam_enlace='' where protoop_id=173 -->2023-10-23 18:37:40

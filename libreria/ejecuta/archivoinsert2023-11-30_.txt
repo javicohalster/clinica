@@ -1,0 +1,8 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6481,atenc_id='5505',usua_id=428,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-11-30 19:06:46',protoop_selectiva='1',protoop_cirujanouno='DR MAFLA OSCAR',protoop_fechaoperacion='2023-11-30',protoop_sintesis='',protoop_idenlace='307',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR JONATHAN AYALA',protoop_horainicio='16:45',protoop_regional='',protoop_biopsia='',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='18:55',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='manga gastrica + colelitiasis',protoop_ayudantedos='',protoop_examen='',protoop_otroanestesia='',protoop_realizada='manga gastrica + colelitiasis',protoop_dieresis='INCISION SUPRAUMBILICAL DE 25 MM 
+INCISION SUBXIFOIDEA DE 25 MM 
+INCISION SUBCOSTAL IZQUIERDA DE 25 MM
+INCISION FLANCO DERECHO DE 5 MM
+INCISION FLANCO IZQUIERDO DE 5 MM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='648101171797719142820231130070646436',protoop_circulante='',protoop_exposicion='CONFECCION DE CO2 A 15 MMHG CON FLUJO DE 30 LITROS MINUTO',protoop_anestesiologo='DRA NOBOA',protoop_exploracion='PRESENCIA DE VESICULA DE PAREDES DELGADAS CON PRESENCIA DE CALCULO DE 3 CM DE DIAMENTRO EN SU INTERIOR 
+CONDUCTO CISTICO DE 4 MM
+ARTERIA CISTICA EN POSICION ANTERIOR 
+ESTOMAGO AUMENTADO DE TAMAÑO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='',protoop_complicaciones='',protoop_perdida='',protoop_sangrado='',protoop_protesico='',anam_enlace='' where protoop_id=455 -->2023-11-30 20:34:20

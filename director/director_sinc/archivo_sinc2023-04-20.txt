@@ -1,0 +1,4 @@
+update gogess_sisfield set fie_orden='20' where fie_id='6428';
+update gogess_sisfield set fie_orden='39' where fie_id='10563';
+update gogess_sisfield set fie_type='textareapeke' where fie_id='10563';
+update gogess_sisfield set fie_typeweb='textareapeke' where fie_id='10563';

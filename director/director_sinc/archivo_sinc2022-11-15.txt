@@ -1,0 +1,5 @@
+update gogess_sisfield set fie_title='Cuenta contable:' where fie_id='9549';
+update gogess_sisfield set fie_title='Cuenta contable:' where fie_id='9750';
+update gogess_sisfield set fie_orden='4' where fie_id='9750';
+update gogess_sisfield set fie_type='hidden3' where fie_id='9549';
+update gogess_sisfield set fie_typeweb='hidden3' where fie_id='9549';

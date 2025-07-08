@@ -1,0 +1,776 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'ABDOMINOPLASTIA','','ABDOMINOPLASTIA',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. CHRISTIAN CACERES',1,'DRA DIANA VILLACRES','SAN FRANCISCO DE BORJA','1500973126','NARVAEZ POTOSI','15','DR. EDUARDO SANTANA','1507','JESSICA MARILYN',3,6,2,'','','','EMPLEADO PRIVADO',56,'1993-05-08','0958605992',7,'0989067068','F',4,4,'jessnarvaez93@gmail.com','','177','2022-06-21 07:59:18','','0117270565071772022062107591827316',NULL,'1','','2194','4','')-->2022-06-21 08:02:11
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='ABDOMINOPLASTIA',clie_token='',clie_cirugia='ABDOMINOPLASTIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. CHRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='SAN FRANCISCO DE BORJA',clie_rucci='1500973126',clie_apellido='NARVAEZ POTOSI',prob_codigo='15',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1507',clie_nombre='JESSICA MARILYN',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADO PRIVADO',nac_id=56,clie_fechanacimiento='1993-05-08',clie_emergenciatelf='0958605992',tarterial_id=7,clie_celular='0989067068',clie_genero='F',idgen_id=4,orien_id=4,clie_email='jessnarvaez93@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 07:59:18',clie_institucion='',clie_enlace='0117270565071772022062107591827316',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2194',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1959 -->2022-06-21 08:02:11
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='ABDOMINOPLASTIA',clie_token='',clie_cirugia='ABDOMINOPLASTIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. CHRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='SAN FRANCISCO DE BORJA',clie_rucci='1500973126',clie_apellido='NARVAEZ POTOSI',prob_codigo='15',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1507',clie_nombre='JESSICA MARILYN',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADO PRIVADO',nac_id=56,clie_fechanacimiento='1993-05-08',clie_emergenciatelf='0958605992',tarterial_id=7,clie_celular='0989067068',clie_genero='F',idgen_id=4,orien_id=4,clie_email='jessnarvaez93@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 07:59:18',clie_institucion='',clie_enlace='0117270565071772022062107591827316',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2194',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1959 -->2022-06-21 08:03:07
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='ABDOMINOPLASTIA',clie_token='',clie_cirugia='ABDOMINOPLASTIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. CHRISTIAN CACERES',tipoci_id=1,clie_ayudante='DRA DIANA VILLACRES',clie_direccion='SAN FRANCISCO DE BORJA',clie_rucci='1500973126',clie_apellido='NARVAEZ POTOSI',prob_codigo='15',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1507',clie_nombre='JESSICA MARILYN',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADO PRIVADO',nac_id=56,clie_fechanacimiento='1993-05-08',clie_emergenciatelf='0958605992',tarterial_id=7,clie_celular='0989067068',clie_genero='F',idgen_id=4,orien_id=4,clie_email='jessnarvaez93@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 07:59:18',clie_institucion='',clie_enlace='0117270565071772022062107591827316',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2194',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1959 -->2022-06-21 08:03:26
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'DERMOLIPECTOMIA','','DERMOLIPECTOMIA',12,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. SANTIAGO PESANTEZ',1,'DR. OSCAR MENENDEZ','VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA','1002609913','ALBUJA BELTRAN','17','DR. MANOLO CALERO','1701','GARDENIA ELIZABETH',3,6,3,'','','','TECNOLOGA',56,'1979-11-23','0983863000',7,'0988469498','F',4,4,'gardeniaalbuja333@hotmail.com','','177','2022-06-21 08:06:02','','0117270565071772022062108060232054',NULL,'1','','2195','4','')-->2022-06-21 08:13:15
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='DERMOLIPECTOMIA',clie_token='',clie_cirugia='DERMOLIPECTOMIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA',clie_rucci='1002609913',clie_apellido='ALBUJA BELTRAN',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='GARDENIA ELIZABETH',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='TECNOLOGA',nac_id=56,clie_fechanacimiento='1979-11-23',clie_emergenciatelf='0983863000',tarterial_id=7,clie_celular='0988469498',clie_genero='F',idgen_id=4,orien_id=4,clie_email='gardeniaalbuja333@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:06:02',clie_institucion='',clie_enlace='0117270565071772022062108060232054',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2195',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1960 -->2022-06-21 08:13:15
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='DERMOLIPECTOMIA',clie_token='',clie_cirugia='DERMOLIPECTOMIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA',clie_rucci='1002609913',clie_apellido='ALBUJA BELTRAN',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='GARDENIA ELIZABETH',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='TECNOLOGA',nac_id=56,clie_fechanacimiento='1979-11-23',clie_emergenciatelf='0983863000',tarterial_id=7,clie_celular='0988469498',clie_genero='F',idgen_id=4,orien_id=4,clie_email='gardeniaalbuja333@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:06:02',clie_institucion='',clie_enlace='0117270565071772022062108060232054',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2195',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1960 -->2022-06-21 08:13:23
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='DERMOLIPECTOMIA',clie_token='',clie_cirugia='DERMOLIPECTOMIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA',clie_rucci='1002609913',clie_apellido='ALBUJA BELTRAN',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='GARDENIA ELIZABETH',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='TECNOLOGA',nac_id=56,clie_fechanacimiento='1979-11-23',clie_emergenciatelf='0983863000',tarterial_id=7,clie_celular='0988469498',clie_genero='F',idgen_id=4,orien_id=4,clie_email='gardeniaalbuja333@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:06:02',clie_institucion='',clie_enlace='0117270565071772022062108060232054',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2195',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1960 -->2022-06-21 08:14:02
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='DERMOLIPECTOMIA',clie_token='',clie_cirugia='DERMOLIPECTOMIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA',clie_rucci='1002609913',clie_apellido='ALBUJA BELTRAN',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='GARDENIA ELIZABETH',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='TECNOLOGA',nac_id=56,clie_fechanacimiento='1979-11-23',clie_emergenciatelf='0983863000',tarterial_id=7,clie_celular='0988469498',clie_genero='F',idgen_id=4,orien_id=4,clie_email='gardeniaalbuja333@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:06:02',clie_institucion='',clie_enlace='0117270565071772022062108060232054',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2195',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1960 -->2022-06-21 08:16:48
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='DERMOLIPECTOMIA',clie_token='',clie_cirugia='DERMOLIPECTOMIA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO PESANTEZ',tipoci_id=1,clie_ayudante='DR. OSCAR MENENDEZ',clie_direccion='VALPARAISO Y DON BOSCO SECTOR ITCHIMBIA',clie_rucci='1002609913',clie_apellido='ALBUJA BELTRAN',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='GARDENIA ELIZABETH',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='TECNOLOGA',nac_id=56,clie_fechanacimiento='1979-11-23',clie_emergenciatelf='0983863000',tarterial_id=7,clie_celular='0988469498',clie_genero='F',idgen_id=4,orien_id=4,clie_email='gardeniaalbuja333@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:06:02',clie_institucion='',clie_enlace='0117270565071772022062108060232054',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2195',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1960 -->2022-06-21 08:20:29
+185-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1959,'1500973126-1','2',185,'2022-06-21 08:31:16','','','2022-06-21 08:31:16','CIRUGÍA PROGRAMADA','2022-06-21 08:31:16','1500973126','VIVO',1,'','','01020234257218520220621083116259')-->2022-06-21 08:31:45
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','','',12,'REGISTRADO',1,'','',1,'','ELIA LIUT E387','1719345322','ROJAS VILLAGRAN','17','','1701','DIANA LUCIA',3,6,2,'','','','EMPLEADA PRIVADA',56,'1986-12-05','',7,'0995498143','F',4,4,'diarovi@gmail.com','','177','2022-06-21 08:55:07','','0117270565071772022062108550713676',NULL,'1','','2196','4','')-->2022-06-21 08:58:36
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:40
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:40
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:40
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:40
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:41
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:42
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:42
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:44
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='ELIA LIUT E387',clie_rucci='1719345322',clie_apellido='ROJAS VILLAGRAN',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='DIANA LUCIA',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='EMPLEADA PRIVADA',nac_id=56,clie_fechanacimiento='1986-12-05',clie_emergenciatelf='',tarterial_id=7,clie_celular='0995498143',clie_genero='F',idgen_id=4,orien_id=4,clie_email='diarovi@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 08:55:07',clie_institucion='',clie_enlace='0117270565071772022062108550713676',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2196',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1961 -->2022-06-21 08:58:46
+269-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1961,'1719345322-1','2',269,'2022-06-21 08:59:42','','','2022-06-21 08:59:42','CONSULTA EXTERNA','2022-06-21 08:59:42','1719345322','VIVO',1,'','','01172263510726920220621085942494')-->2022-06-21 09:03:59
+185-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (185,'','LIBRE DEMANDA',1180,1,1959,'','','PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA','RESOLUCIÓN QUIRÚRGICA','','','',4,'14 AÑOS','CIRUGÍA PROGRAMADA','0','2022-06-21 08:32:41','','-','','0','CMR','195901020234257218520220621083241104','LIPOSUCCIÓN','2','2','CIRUGÍA PLÁSTICA','DR. CÁCERES','2','DRA. DIANA VILLACRES','2022-05-20','DR. SANTANA',NULL,'2021-04-00','2022-06-21',1,'PRESERVATIVO',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-06-21 09:09:57
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1180,centro_id=1,clie_id=1959,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-06-21 08:32:41',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='195901020234257218520220621083241104',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CÁCERES',anam_hijosvivos='2',anam_ayudante='DRA. DIANA VILLACRES',anam_fum='2022-05-20',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2021-04-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=1,anam_metodopfamiliartex='PRESERVATIVO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=597 -->2022-06-21 09:09:59
+222-->insert into dns_anamesisexamenfisico (anam_referencia,atenc_id,centro_id,clie_id,usua_id,anam_observacionaf,estaatenc_id,anam_planes,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_respiratorio,anam_motivoconsulta,anam_menarquiaedad,anam_vidasexualactivaobs,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',1181,1,1961,222,'APF: MADRE CANCER DE SENO Y HTA',4,'','','PACIENTE REFIERE TOS DISFAGIA RINORREA MIALGIA GENERALIZADA Y ALZA TERMICA DE 1 DIA DE EVOLUCION APP HIJA COVID-19 POSITIVO PARA LO CUAL TOMA ANALGAN DE 1G CON LO CUAL EL CUADRO CEDE PERO PERSISTE , POR LO QUE SE REALIZA PRUEBA ANTIGENO POR HISOPADO CON RESULTADO POSITIVBO','','','1','TOS DOLOR DE GARGANTA, RINORREA MIALGIA GENERALIZADA','','','2022-06-21 09:05:38','','',0,'APP: CLINICOS ALERGIAS: GENTAMICINA CLINICOS: NO REFIERE QX: CESAREA','','','','','196101171650417822220220621090538460','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-06-21 09:13:13
+222-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',atenc_id=1181,centro_id=1,clie_id=1961,usua_id=222,anam_observacionaf='APF: MADRE CANCER DE SENO Y HTA',estaatenc_id=4,anam_planes='PARECTAMOL 1G 1 TABLETA CADA 8 HORAS POR 3 DIAS
+CETIRIZINA 1 TABLETA CADA DIA POR 5 DIAS
+REPOSO Y AISLAMIENTO POR 7 DIAS',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE TOS DISFAGIA RINORREA MIALGIA GENERALIZADA Y ALZA TERMICA DE 1 DIA DE EVOLUCION APP HIJA COVID-19 POSITIVO PARA LO CUAL TOMA ANALGAN DE 1G CON LO CUAL EL CUADRO CEDE PERO PERSISTE , POR LO QUE SE REALIZA PRUEBA ANTIGENO POR HISOPADO CON RESULTADO POSITIVBO',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='1',anam_motivoconsulta='TOS DOLOR DE GARGANTA, RINORREA MIALGIA GENERALIZADA',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2022-06-21 09:05:38',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='APP: CLINICOS ALERGIAS: GENTAMICINA CLINICOS: NO REFIERE QX: CESAREA',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='196101171650417822220220621090538460',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=188 -->2022-06-21 09:14:23
+222-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',atenc_id=1181,centro_id=1,clie_id=1961,usua_id=222,anam_observacionaf='APF: MADRE CANCER DE SENO Y HTA',estaatenc_id=4,anam_planes='PARECTAMOL 1G 1 TABLETA CADA 8 HORAS POR 3 DIAS
+CETIRIZINA 1 TABLETA CADA DIA POR 5 DIAS
+REPOSO Y AISLAMIENTO POR 7 DIAS',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE TOS DISFAGIA RINORREA MIALGIA GENERALIZADA Y ALZA TERMICA DE 1 DIA DE EVOLUCION APP HIJA COVID-19 POSITIVO PARA LO CUAL TOMA ANALGAN DE 1G CON LO CUAL EL CUADRO CEDE PERO PERSISTE , POR LO QUE SE REALIZA PRUEBA ANTIGENO POR HISOPADO CON RESULTADO POSITIVBO',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='1',anam_motivoconsulta='TOS DOLOR DE GARGANTA, RINORREA MIALGIA GENERALIZADA',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2022-06-21 09:05:38',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='APP: CLINICOS ALERGIAS: GENTAMICINA CLINICOS: NO REFIERE QX: CESAREA',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='196101171650417822220220621090538460',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=188 -->2022-06-21 09:14:26
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1180,centro_id=1,clie_id=1959,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-06-21 08:32:41',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='195901020234257218520220621083241104',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CÁCERES',anam_hijosvivos='2',anam_ayudante='DRA. DIANA VILLACRES',anam_fum='2022-05-20',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2021-04-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=1,anam_metodopfamiliartex='PRESERVATIVO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=597 -->2022-06-21 09:16:17
+185-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (185,1180,597,1,1959,1,0,0,0,0,0,0,'dns_hospitalanamesis',0,0,0,0,'',0,0,'',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2022-06-21 09:16:19',0,0,'',0,'',0,0,'1701',0,'09:16',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'','',0,'19590102023425721852022062109161991','2022-06-21 09:16:19',0,0,0,0)-->2022-06-21 09:16:28
+185-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1960,'1002609913-1','2',185,'2022-06-21 09:22:41','','','2022-06-21 09:22:41','CIRUGÍA PROGRAMADA','2022-06-21 09:22:41','1002609913','VIVO',1,'','','01020234257218520220621092241176')-->2022-06-21 09:22:59
+185-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (185,'','LIBRE DEMANDA',1182,1,1960,'','','PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA','','','','',4,'15 AÑOS','CIRUGÍA PROGRAMADA','3','2022-06-21 09:23:03','','-','','0','CMR','19600102023425721852022062109230315','DERMO LIPECTOMÍA','0','3','CIRUGÍA PLÁSTICA','DR. SANTIAGO PESANTEZ','3','DR. ILLESCAS','2022-05-15','DR. CALERO MANOLO',NULL,'2023-03-00','2022-06-21',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-06-21 09:26:39
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1182,centro_id=1,clie_id=1960,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='3',anam_fecharegistro='2022-06-21 09:23:03',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='19600102023425721852022062109230315',anam_cirugia='DERMO LIPECTOMÍA',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. ILLESCAS',anam_fum='2022-05-15',anam_anestesiologo='DR. CALERO MANOLO',anam_fup=NULL,anam_fuc='2023-03-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=598 -->2022-06-21 09:26:55
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'FRACTURA DE HUMERO','','FRACTURA DE HUMERO',12,'REGISTRADO',1,'TRAUMATOLOGIA','DR. FRANCISCO GUZMAN',1,'DR. RENATO GUERRA','MARIA GODOY Y RICARDO CALDERON','1308084597','ESPINOZA ARELLANO','17','DR. EDUARDO SANTANA','1701','MAYRA MAGALI',3,6,2,'','','','COSMETOLOGA',56,'1978-12-29','0967492790',7,'0990971559','F',4,4,'wbarros@puce.edu.ec','','177','2022-06-21 09:36:42','','0117270565071772022062109364211295',NULL,'1','','2197','','')-->2022-06-21 09:40:52
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:40:53
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:41:08
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:41:12
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:41:12
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:41:28
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:41:28
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE HUMERO',clie_token='',clie_cirugia='FRACTURA DE HUMERO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR. RENATO GUERRA',clie_direccion='MARIA GODOY Y RICARDO CALDERON',clie_rucci='1308084597',clie_apellido='ESPINOZA ARELLANO',prob_codigo='17',clie_anestesiologo='DR. EDUARDO SANTANA',cant_codigo='1701',clie_nombre='MAYRA MAGALI',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COSMETOLOGA',nac_id=56,clie_fechanacimiento='1978-12-29',clie_emergenciatelf='0967492790',tarterial_id=7,clie_celular='0990971559',clie_genero='F',idgen_id=4,orien_id=4,clie_email='wbarros@puce.edu.ec',clie_emergenciacelu='',usua_id='177',clie_registro='2022-06-21 09:36:42',clie_institucion='',clie_enlace='0117270565071772022062109364211295',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2197',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=1962 -->2022-06-21 09:44:17
+235-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','','',12,'REGISTRADO',1,'','',1,'','','1707903173','GARCIA RUIZ','17','','1701','MIRTA ELIZABETH',2,2,1,'','','','',56,'','',1,'0992942496','F',4,4,'','','235','2022-06-21 10:35:27','','010940665003235202206211035277270',NULL,'1','','2198','','')-->2022-06-21 10:41:09
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1182,centro_id=1,clie_id=1960,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='3',anam_fecharegistro='2022-06-21 09:23:03',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='19600102023425721852022062109230315',anam_cirugia='DERMO LIPECTOMÍA',anam_cesareas='0',anam_gesta='3',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. SANTIAGO PESANTEZ',anam_hijosvivos='3',anam_ayudante='DR. ILLESCAS',anam_fum='2022-05-15',anam_anestesiologo='DR. CALERO MANOLO',anam_fup=NULL,anam_fuc='2023-03-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=598 -->2022-06-21 12:08:31
+185-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1962,'1308084597-1','2',185,'2022-06-21 12:09:00','','','2022-06-21 12:09:00','CIRUGÍA PROGRAMADA','2022-06-21 12:09:00','1308084597','VIVO',1,'','','010202342572185202206211209001')-->2022-06-21 12:09:16
+185-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (185,'','LIBRE DEMANDA',1183,1,1962,'','','PACIENTE ADULTA JOVEN REFIERE QUE HACE 3 DÍAS MIENTRAS SE TRANSPORTABA EN MOTO SUFRE ACCIDENTE DE TRÁNSITO AL SER IMPACTADA POR VEHÍCULO QUE PRODUCE CAÍDA DE LA MISMA PROVOCANDO DOLOR DE GRAN INTENSIDAD EN BRAZO IZQUIERDO QUE SE ACOMPAÑA DE LIMITACIÓN FUNCIONAL POR LO QUE ES LLEVADA A HOSPITAL DE CALDERÓN DONDE ES VALORADA, SOLICITAN EXÁMENES COMPLEMENTARIOS, DIAGNOSTICAN DE FRACTURA DE HÚMERO QUE AMERITA RESOLUCIÓN QUIRÚRGICA, SIN EMBARGO SE MANTIENE EN ESPERA HASTA EL DÍA DE HOY POR FALTA DE MATERIAL POR LO QUE PACIENTE SOLICITA ALTA VOLUNTARIA Y ACUDE A ESTA CASA DE SALUD','','','','',4,'13 AÑOS','CIRUGÍA PROGRAMADA','3','2022-06-21 12:09:25','','-','','0','CMI','19620102023425721852022062112092573','OTS','0','5','TRAUMATOLOGIA','DR. FRANCISCO GUZMAN','3','DR. RENATO GUERRA','2022-06-13','DR. SANTANA',NULL,'2022-02-00','2022-06-21',1,'SOLUNA 1 AMPOLLA IM MENSUAL',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-06-21 12:17:09
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1183,centro_id=1,clie_id=1962,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE QUE HACE 3 DÍAS MIENTRAS SE TRANSPORTABA EN MOTO SUFRE ACCIDENTE DE TRÁNSITO AL SER IMPACTADA POR VEHÍCULO QUE PRODUCE CAÍDA DE LA MISMA PROVOCANDO DOLOR DE GRAN INTENSIDAD EN BRAZO IZQUIERDO QUE SE ACOMPAÑA DE LIMITACIÓN FUNCIONAL POR LO QUE ES LLEVADA A HOSPITAL DE CALDERÓN DONDE ES VALORADA, SOLICITAN EXÁMENES COMPLEMENTARIOS, DIAGNOSTICAN DE FRACTURA DE HÚMERO QUE AMERITA RESOLUCIÓN QUIRÚRGICA, SIN EMBARGO SE MANTIENE EN ESPERA HASTA EL DÍA DE HOY POR FALTA DE MATERIAL POR LO QUE PACIENTE SOLICITA ALTA VOLUNTARIA Y ACUDE A ESTA CASA DE SALUD',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='3',anam_fecharegistro='2022-06-21 12:09:25',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='19620102023425721852022062112092573',anam_cirugia='OTS',anam_cesareas='0',anam_gesta='5',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='3',anam_ayudante='DR. RENATO GUERRA',anam_fum='2022-06-13',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2022-02-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=1,anam_metodopfamiliartex='SOLUNA 1 AMPOLLA IM MENSUAL',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=599 -->2022-06-21 12:17:16
+1-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',atenc_id=5,centro_id=1,clie_id=2,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',anam_centrorefiere='',anam_emferpactual='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='',anam_motivoconsulta='',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2021-09-01 14:31:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='2011711467884120210713023131169',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1 -->2022-06-21 12:37:47
+185-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1175,centro_id=1,clie_id=1951,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+. PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-06-20 06:52:03',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='195101172300165518920220620065203239',anam_cirugia='LIPOSUCCION MAS PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum='2022-06-07',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-06-20',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=594 -->2022-06-21 12:58:42
+185-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',185,1951,1,1175,'','594','','','','','2022-06-21 12:58:52','','','','PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.','','195101020234257218520220621125852385','','20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.','','','05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132','','','TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN')-->2022-06-21 12:59:23
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:24
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:25
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:26
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:27
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:27
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:28
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:37
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:41
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:42
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:43
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:43
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:44
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 12:59:55
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 13:00:32
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='',protoop_idenlace='594',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 13:00:39
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1951,centro_id=1,atenc_id=1175,anam_altadefinitiva='1',protoop_idenlace='594',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-06-21 12:58:52',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+.
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE
+AGO: FUM: 07/06/22, CMI, G: 1  A: 0  P: 0  C: 1  HV: 1,                            PF: NINGUNO
+AQX: APENDICECTOMÍA HACE 15 AÑOS SIN COMPLICACIONES, 1 CESÁREA SIN COMPLICACIONES, RINOPLASTIA HACE 1 AÑOS LOCAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO NO.
+VACUNA COVID-19: SINOVAC 2DA DOSIS AGO/2021
+APF: PADRE MIELOMA MÚLTIPLE, MADRE Y ABUELA MATERNA HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='195101020234257218520220621125852385',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTA JOVEN SIN COMORBILIDADES INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA + AUMENTO MAMARIO, BAJO ANESTESIA GENERAL, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='05/05/2022: LEUCO 7,5 NEU 63,8% LINFO 31,9% HB 16,5 HCTO 49,8% PLAQ 273000 UREA 20,4 CREA 0,83 TP 14,57 TTP 38,74 INR 1,12
+
+AC PARA SARS COV 2: IGM 36,51 IGG 0,132',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: LIPOESCULTURA + AUMENTO MAMARIO
+HALLAZAGOS QUIRURUGICOS:
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 5400 CC 
+- INJERTO GRASO GLUTEO 600 CC EN CADA GLUTEO
+- PRÓTESIS MAMARIAS DE 350 CC
+ANESTESIA: GENERAL
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- DEXTROSA EN SOLUCION SALINA 5% 1000 ML PASAR IV A 60 ML/HORA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 60 MG IV CADA 12 HORAS
+- METAMIZOL 1 GR IV PRN 
+- OMEPRAZOL 40 MG IV QD 
+- METOCLOPRAMIDA 10 MG IV POR RAZONES NECESARIAS 
+- ONDANSETRON 8 MG IV PRN' where anam_id=286 -->2022-06-21 13:01:19
+185-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=1111,centro_id=1,clie_id=1814,anam_centrorefiere='MEDICOMPANIES',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 30 AÑOS NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, DE INSTRUCCION SUPERIOR, MECANICO AUTOMOTRIZ, DIESTRO, CATOLICO, TIPO DE SANGRE ORH +. SIN ANTECEDENTES DE IMPORTANCIA. PACIENTE REFIERE QUE HACE15 DIAS MIENTRAS SE ENCONTRABA REALZANDO ACTIVIDAD FISICA (FUTBOL) SUFRE TRAUMA INDIRECTO EN RODILLA IZQUIERDA CON APARENTE SUBLUXACION DE LA MISMA LO QUE LE PROVOCA DOLOR INTENSO E IMPOTENCIA FUNCIONAL SE ACOMPAÑA DE SENSACION DE INESTABILIDAD POR LO QUE ACUDE A MEDICO ESPECIALISTA SOLICITAN EXAMENES COMPLEMENTARIOS EN RESONANCIA MAGNETICA SE EVIDENCIA ROTURA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR CON APARENTE LESION DE CUERNO POSTERIOR DE MENISCO LATERAL, AUMENTO DE LIQUIDO EN ARTICULACION, POR LO QUE AMERITA RESOLUCION QUIRURGICA, INGRESA EL DIA DE HOY POR PROGRAMACION DE CIRUGIA.',anam_planes='1 INGRESO A HOSPITLIZACION 
+2 NADA POR VIA ORAL 
+3 FIRMAR CONSENTIMIENTOS INFORMADOS
+4 SUBIR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2022-06-20 13:09:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='18140113120287541962022062001094595',anam_cirugia='PLASTIA ARTROSCOPICA DE LIGAMENTO CRUZADO ANTERIOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. RENATO GUERRA',anam_hijosvivos='',anam_ayudante='DR. FRANCISCO GUZMAN',anam_fum=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-06-20',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=596 -->2022-06-21 13:02:09
+185-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',185,1814,1,1111,'1','596','PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE','1','','1','2022-06-21 13:02:11','','2','','PACIENTE MASCULINO DE 30 AÑOS NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, DE INSTRUCCION SUPERIOR, MECANICO AUTOMOTRIZ, DIESTRO, CATOLICO, TIPO DE SANGRE ORH +. 
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE  
+AQX: NO REFIERE 
+HÁBITOS: ALIMENTARIO 3 VECES/DIA, MICCIONAL 5 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO SOCIAL.
+VACUNA COVID-19: 2 DOSIS SINOVAC SEPTIEMBRE 2021
+APF: MADRE HTA EN TRATAMIENTO PADRE DM2
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE SIN ANTECEDENTES DE IMPORTANCIA. PACIENTE REFIERE QUE HACE15 DIAS MIENTRAS SE ENCONTRABA REALZANDO ACTIVIDAD FISICA (FUTBOL) SUFRE TRAUMA INDIRECTO EN RODILLA IZQUIERDA CON APARENTE SUBLUXACION DE LA MISMA LO QUE LE PROVOCA DOLOR INTENSO E IMPOTENCIA FUNCIONAL SE ACOMPAÑA DE SENSACION DE INESTABILIDAD POR LO QUE ACUDE A MEDICO ESPECIALISTA SOLICITAN EXAMENES COMPLEMENTARIOS EN RESONANCIA MAGNETICA SE EVIDENCIA ROTURA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR CON APARENTE LESION DE CUERNO POSTERIOR DE MENISCO LATERAL, AUMENTO DE LIQUIDO EN ARTICULACION, POR LO QUE AMERITA RESOLUCION QUIRURGICA, INGRESA EL DIA DE HOY POR PROGRAMACION DE CIRUGIA.','','181401020234257218520220621010211127','','20/06/2022: PACIENTE ADULTO JOVEN SIN COMORBILIDADES INGRESADO PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL, BAJO ANESTESIA RAQUÍDEA, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CUMPLIENDO ANTIBIOTICOTERAPIA EMPÍRICA CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.','','','20/06/2022: LEUCO 6,36 NEU 60,5% LINFO 28,8% HB 17,1 HCTO 46,7% PLAQ 327000 UREA 35,2 CREA 1,17 GLUCOSA 65,6 TP 12,5 TTP 40 INR 1,17
+
+AC PARA SARS COV 2: IGM NEGATIVO IGG POSITIVO','','','TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL
+HALLAZAGOS QUIRURUGICOS:
+- HEMARTROSIS ABUNDANTE 
+- ROTURA TOTAL EN INSERCIÓN FEMORAL DE LCA
+- ROTURA DE CUERNO POSTERIOR DE MENISCO MEDIAL
+- EQUIMOSIS HOFFA Y DESGARRO DEL MISMO 
+ANESTESIA: RAQUÍDEA
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 ML + 200 MG DE TRAMADOL PASAR IV CADA 12 HORAS
+- CEFAZOLINA 1 GR IV CADA 6 HORAS (1)
+- OMEPRAZOL 40 MG IV CADA DÍA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS
+ - VITAMINA C 500 MG IV CADA 12 HORAS')-->2022-06-21 13:03:28
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1814,centro_id=1,atenc_id=1111,anam_altadefinitiva='1',protoop_idenlace='596',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-06-21 13:02:11',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 30 AÑOS NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, DE INSTRUCCION SUPERIOR, MECANICO AUTOMOTRIZ, DIESTRO, CATOLICO, TIPO DE SANGRE ORH +. 
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE  
+AQX: NO REFIERE 
+HÁBITOS: ALIMENTARIO 3 VECES/DIA, MICCIONAL 5 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO SOCIAL.
+VACUNA COVID-19: 2 DOSIS SINOVAC SEPTIEMBRE 2021
+APF: MADRE HTA EN TRATAMIENTO PADRE DM2
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE SIN ANTECEDENTES DE IMPORTANCIA. PACIENTE REFIERE QUE HACE15 DIAS MIENTRAS SE ENCONTRABA REALZANDO ACTIVIDAD FISICA (FUTBOL) SUFRE TRAUMA INDIRECTO EN RODILLA IZQUIERDA CON APARENTE SUBLUXACION DE LA MISMA LO QUE LE PROVOCA DOLOR INTENSO E IMPOTENCIA FUNCIONAL SE ACOMPAÑA DE SENSACION DE INESTABILIDAD POR LO QUE ACUDE A MEDICO ESPECIALISTA SOLICITAN EXAMENES COMPLEMENTARIOS EN RESONANCIA MAGNETICA SE EVIDENCIA ROTURA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR CON APARENTE LESION DE CUERNO POSTERIOR DE MENISCO LATERAL, AUMENTO DE LIQUIDO EN ARTICULACION, POR LO QUE AMERITA RESOLUCION QUIRURGICA, INGRESA EL DIA DE HOY POR PROGRAMACION DE CIRUGIA.',anam_nhoja='',anam_enlace='181401020234257218520220621010211127',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTO JOVEN SIN COMORBILIDADES INGRESADO PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL, BAJO ANESTESIA RAQUÍDEA, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CUMPLIENDO ANTIBIOTICOTERAPIA EMPÍRICA CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='20/06/2022: LEUCO 6,36 NEU 60,5% LINFO 28,8% HB 17,1 HCTO 46,7% PLAQ 327000 UREA 35,2 CREA 1,17 GLUCOSA 65,6 TP 12,5 TTP 40 INR 1,17
+
+AC PARA SARS COV 2: IGM NEGATIVO IGG POSITIVO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL
+HALLAZAGOS QUIRURUGICOS:
+- HEMARTROSIS ABUNDANTE 
+- ROTURA TOTAL EN INSERCIÓN FEMORAL DE LCA
+- ROTURA DE CUERNO POSTERIOR DE MENISCO MEDIAL
+- EQUIMOSIS HOFFA Y DESGARRO DEL MISMO 
+ANESTESIA: RAQUÍDEA
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 ML + 200 MG DE TRAMADOL PASAR IV CADA 12 HORAS
+- CEFAZOLINA 1 GR IV CADA 6 HORAS (1)
+- OMEPRAZOL 40 MG IV CADA DÍA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS
+ - VITAMINA C 500 MG IV CADA 12 HORAS' where anam_id=287 -->2022-06-21 13:03:40
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=1814,centro_id=1,atenc_id=1111,anam_altadefinitiva='1',protoop_idenlace='596',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-06-21 13:02:11',anam_defuncionmenos48='',anam_diasestadia='2',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO DE 30 AÑOS NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, DE INSTRUCCION SUPERIOR, MECANICO AUTOMOTRIZ, DIESTRO, CATOLICO, TIPO DE SANGRE ORH +. 
+ALERGIAS: NO REFIERE                   TRANSFUSIONES: NIEGA
+APP: NO REFIERE  
+AQX: NO REFIERE 
+HÁBITOS: ALIMENTARIO 3 VECES/DIA, MICCIONAL 5 VECES/DIA, DEFECATORIO 1 VEZ/DIA, ALCOHOL Y TABACO SOCIAL.
+VACUNA COVID-19: 2 DOSIS SINOVAC SEPTIEMBRE 2021
+APF: MADRE HTA EN TRATAMIENTO PADRE DM2
+ 
+MOTIVO DE CONSULTA: CIRUGÍA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE SIN ANTECEDENTES DE IMPORTANCIA. PACIENTE REFIERE QUE HACE15 DIAS MIENTRAS SE ENCONTRABA REALZANDO ACTIVIDAD FISICA (FUTBOL) SUFRE TRAUMA INDIRECTO EN RODILLA IZQUIERDA CON APARENTE SUBLUXACION DE LA MISMA LO QUE LE PROVOCA DOLOR INTENSO E IMPOTENCIA FUNCIONAL SE ACOMPAÑA DE SENSACION DE INESTABILIDAD POR LO QUE ACUDE A MEDICO ESPECIALISTA SOLICITAN EXAMENES COMPLEMENTARIOS EN RESONANCIA MAGNETICA SE EVIDENCIA ROTURA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR CON APARENTE LESION DE CUERNO POSTERIOR DE MENISCO LATERAL, AUMENTO DE LIQUIDO EN ARTICULACION, POR LO QUE AMERITA RESOLUCION QUIRURGICA, INGRESA EL DIA DE HOY POR PROGRAMACION DE CIRUGIA.',anam_nhoja='',anam_enlace='181401020234257218520220621010211127',anam_discapacidadleve='',anam_resumenevolucion='20/06/2022: PACIENTE ADULTO JOVEN SIN COMORBILIDADES INGRESADO PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL, BAJO ANESTESIA RAQUÍDEA, ACTO QUIRURGICO SIN COMPLICACIONES.
+
+21/06/2022: PACIENTE CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO, CUMPLIENDO ANTIBIOTICOTERAPIA EMPÍRICA CON BUEN MANEJO DEL DOLOR, BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, PACIENTE CLINICA Y HEMODINAMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='20/06/2022: LEUCO 6,36 NEU 60,5% LINFO 28,8% HB 17,1 HCTO 46,7% PLAQ 327000 UREA 35,2 CREA 1,17 GLUCOSA 65,6 TP 12,5 TTP 40 INR 1,17
+
+AC PARA SARS COV 2: IGM NEGATIVO IGG POSITIVO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+20/06/2022: PROCEDIMIENTO: ARTROSCOPIA DIAGNÓSTICA + PLASTIA LCA + PLASTIA MENISCAL
+HALLAZAGOS QUIRURUGICOS:
+- HEMARTROSIS ABUNDANTE 
+- ROTURA TOTAL EN INSERCIÓN FEMORAL DE LCA
+- ROTURA DE CUERNO POSTERIOR DE MENISCO MEDIAL
+- EQUIMOSIS HOFFA Y DESGARRO DEL MISMO 
+ANESTESIA: RAQUÍDEA
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 ML + 200 MG DE TRAMADOL PASAR IV CADA 12 HORAS
+- CEFAZOLINA 1 GR IV CADA 6 HORAS (1)
+- OMEPRAZOL 40 MG IV CADA DÍA
+- PARACETAMOL 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS
+ - VITAMINA C 500 MG IV CADA 12 HORAS' where anam_id=287 -->2022-06-21 13:03:51
+185-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=1111,centro_id=1,clie_id=1814,anam_centrorefiere='MEDICOMPANIES',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 30 AÑOS NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, DE INSTRUCCION SUPERIOR, MECANICO AUTOMOTRIZ, DIESTRO, CATOLICO, TIPO DE SANGRE ORH +. SIN ANTECEDENTES DE IMPORTANCIA. PACIENTE REFIERE QUE HACE15 DIAS MIENTRAS SE ENCONTRABA REALZANDO ACTIVIDAD FISICA (FUTBOL) SUFRE TRAUMA INDIRECTO EN RODILLA IZQUIERDA CON APARENTE SUBLUXACION DE LA MISMA LO QUE LE PROVOCA DOLOR INTENSO E IMPOTENCIA FUNCIONAL SE ACOMPAÑA DE SENSACION DE INESTABILIDAD POR LO QUE ACUDE A MEDICO ESPECIALISTA SOLICITAN EXAMENES COMPLEMENTARIOS EN RESONANCIA MAGNETICA SE EVIDENCIA ROTURA COMPLETA DE LIGAMENTO CRUZADO ANTERIOR CON APARENTE LESION DE CUERNO POSTERIOR DE MENISCO LATERAL, AUMENTO DE LIQUIDO EN ARTICULACION, POR LO QUE AMERITA RESOLUCION QUIRURGICA, INGRESA EL DIA DE HOY POR PROGRAMACION DE CIRUGIA.',anam_planes='1 INGRESO A HOSPITLIZACION 
+2 NADA POR VIA ORAL 
+3 FIRMAR CONSENTIMIENTOS INFORMADOS
+4 SUBIR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2022-06-20 13:09:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='18140113120287541962022062001094595',anam_cirugia='PLASTIA ARTROSCOPICA DE LIGAMENTO CRUZADO ANTERIOR',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. RENATO GUERRA',anam_hijosvivos='',anam_ayudante='DR. FRANCISCO GUZMAN',anam_fum=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-06-20',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=596 -->2022-06-21 13:44:25
+235-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','','',12,'REGISTRADO',1,'','',1,'','','1715485858','BONILLA CUASTUMAL','17','','1701','CHRISTIAN RICARDO',2,2,1,'','','','',56,'','',1,'0983373856','M',4,4,'','','235','2022-06-21 13:48:31','','0109406650032352022062101483148741',NULL,'1','','2199','','')-->2022-06-21 13:49:17
+235-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','','',12,'REGISTRADO',1,'','',1,'','','1760716611','BONILLA TUCUMBI','17','','1701','ADAIA ELIZABETH',2,2,1,'','','','',56,'','',1,'0983373856','M',4,4,'','','235','2022-06-21 13:50:02','','0109406650032352022062101500217795',NULL,'1','','2200','','')-->2022-06-21 13:50:45
+235-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','','',12,'REGISTRADO',1,'','',1,'','','0503327058','TUCUMBI AUCACAMA','17','','1701','MARITZA ELIZABETH',2,2,1,'','','','',56,'','',1,'0983373856','F',4,4,'','','235','2022-06-21 13:52:38','','0109406650032352022062101523832372',NULL,'1','','2201','','')-->2022-06-21 13:53:14
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1180,centro_id=1,clie_id=1959,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-06-21 08:32:41',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='195901020234257218520220621083241104',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CÁCERES',anam_hijosvivos='2',anam_ayudante='DRA. DIANA VILLACRES',anam_fum='2022-05-20',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2021-04-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=1,anam_metodopfamiliartex='PRESERVATIVO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=597 -->2022-06-21 13:55:36
+185-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1175,centro_id=1,clie_id=1951,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 27 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN PILOTO, DIESTRA, ORH+. PACIENTE FEMENINA REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y MAMAS DESDE HACE ALGUNOS AÑOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-06-20 06:52:03',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='195101172300165518920220620065203239',anam_cirugia='LIPOSUCCION MAS PROTESIS MAMARIAS',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='1',anam_ayudante='DRA. VILLACRES',anam_fum='2022-06-07',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-06-20',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=594 -->2022-06-21 14:02:02
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:19
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:19
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:19
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:20
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:20
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:21
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='LA PRENSA',clie_rucci='0503327058',clie_apellido='TUCUMBI AUCACAMA',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='MARITZA ELIZABETH',tippo_id=2,conve_id=2,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AMA DE CASA',nac_id=56,clie_fechanacimiento='1990-05-03',clie_emergenciatelf='0994850070',tarterial_id=7,clie_celular='0983373856',clie_genero='F',idgen_id=4,orien_id=4,clie_email='elizabethtumcumbi@hotmail.com',clie_emergenciacelu='',usua_id='235',clie_registro='2022-06-21 13:52:38',clie_institucion='',clie_enlace='0109406650032352022062101523832372',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2201',clie_instruccion='3',clie_seguroprivadoarchivo='' where clie_id=1966 -->2022-06-21 15:03:22
+269-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,1966,'0503327058-1','2',269,'2022-06-21 15:09:00','','','2022-06-21 15:09:00','CONSULTA EXTERNA','2022-06-21 15:09:00','0503327058','VIVO',1,'','','01172263510726920220621030900360')-->2022-06-21 15:10:49
+222-->insert into dns_anamesisexamenfisico (anam_referencia,atenc_id,centro_id,clie_id,usua_id,anam_observacionaf,estaatenc_id,anam_planes,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_respiratorio,anam_motivoconsulta,anam_menarquiaedad,anam_vidasexualactivaobs,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_ciclos,anam_enlace,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values ('LIBRE DEMANDA',1184,1,1966,222,'',4,'','','PACIENTE REFIERE ARDOR DE OJOS DISFAGIA TOS Y MALESTAR GENERAL, PARA LO CUAL NO TOMA NINGUNA MEDICACION POR LO QUE ACUDE','','1','','tos','','','2022-06-21 15:24:06','','',0,'APP: CLINICOS: NO REFIERE QX: HISTERCTOMIA ALERGIAS: NO REFIERE','','','','','196601171650417822220220621032406436','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-06-21 15:31:14
+222-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',atenc_id=1184,centro_id=1,clie_id=1966,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='PARACETAMOL 1 G 1 TABLETA CADA 8 HORAS POR 3 DIAS',anam_centrorefiere='',anam_emferpactual='PACIENTE REFIERE ARDOR DE OJOS DISFAGIA TOS Y MALESTAR GENERAL, PARA LO CUAL NO TOMA NINGUNA MEDICACION POR LO QUE ACUDE',anam_profesionarefiere='',anam_vidasexualactiva='1',anam_respiratorio='',anam_motivoconsulta='tos',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2022-06-21 15:24:06',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='APP: CLINICOS: NO REFIERE QX: HISTERCTOMIA ALERGIAS: NO REFIERE',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='196601171650417822220220621032406436',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=189 -->2022-06-21 15:31:34
+182-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=1183,centro_id=1,clie_id=1962,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN REFIERE QUE HACE 3 DÍAS MIENTRAS SE TRANSPORTABA EN MOTO SUFRE ACCIDENTE DE TRÁNSITO AL SER IMPACTADA POR VEHÍCULO QUE PRODUCE CAÍDA DE LA MISMA PROVOCANDO DOLOR DE GRAN INTENSIDAD EN BRAZO IZQUIERDO QUE SE ACOMPAÑA DE LIMITACIÓN FUNCIONAL POR LO QUE ES LLEVADA A HOSPITAL DE CALDERÓN DONDE ES VALORADA, SOLICITAN EXÁMENES COMPLEMENTARIOS, DIAGNOSTICAN DE FRACTURA DE HÚMERO QUE AMERITA RESOLUCIÓN QUIRÚRGICA, SIN EMBARGO SE MANTIENE EN ESPERA HASTA EL DÍA DE HOY POR FALTA DE MATERIAL POR LO QUE PACIENTE SOLICITA ALTA VOLUNTARIA Y ACUDE A ESTA CASA DE SALUD',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='3',anam_fecharegistro='2022-06-21 12:09:25',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='19620102023425721852022062112092573',anam_cirugia='OTS',anam_cesareas='0',anam_gesta='5',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='3',anam_ayudante='DR. RENATO GUERRA',anam_fum='2022-06-13',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2022-02-00',anam_fechaingreso='2022-06-21',anam_metodopfamiliar=1,anam_metodopfamiliartex='SOLUNA 1 AMPOLLA IM MENSUAL',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=599 -->2022-06-21 17:14:48
+182-->insert into dns_protocolooperatorio (usua_id,protoop_fecharegistro,atenc_id,centro_id,clie_id,protoop_exposicion,protoop_exploracion,protoop_examen,protoop_procedimiento,protoop_proyectada,protoop_sintesis,protoop_cirujanouno,protoop_complicaciones,protoop_diagnostico,protoop_dieresis,protoop_selectiva,protoop_instrumentista,protoop_examendetalle,protoop_tblprincipal,protoop_emergencia,protoop_cirujanodos,protoop_circulante,protoop_idenlace,protoop_paleativa,protoop_realizada,protoop_ayudanteuno,protoop_anestesiologo,protoop_nhoja,protoop_ayudantedos,protoop_enlace,protoop_ayudanteanestesia,protoop_tecerayudante,protoop_tipoanestesia,protoop_fechaoperacion,protoop_horainicio,protoop_horafin) values (182,'2022-06-21 17:14:50',1183,1,1962,'','','','','','','','','','','','','','dns_hospitalanamesis','','','','599','','','','','','','196201100258084118220220621051450214','','','','','','')-->2022-06-21 17:14:51
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2022-06-21 17:14:50',atenc_id=1183,centro_id=1,clie_id=1962,protoop_exposicion='',protoop_exploracion='',protoop_examen='',protoop_procedimiento='',protoop_proyectada='',protoop_sintesis='',protoop_cirujanouno='',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='',protoop_selectiva='',protoop_instrumentista='',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='',protoop_idenlace='599',protoop_paleativa='',protoop_realizada='',protoop_ayudanteuno='',protoop_anestesiologo='',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='196201100258084118220220621051450214',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='',protoop_horainicio='',protoop_horafin='' where protoop_id=256 -->2022-06-21 17:14:51
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2022-06-21 17:14:50',atenc_id=1183,centro_id=1,clie_id=1962,protoop_exposicion='MANUAL E INSTRUMENTAL 
+IDI',protoop_exploracion='1. FRACTURA DE TERCIO MEDIO PROXIMAL TRANSVERSAL DE HUMERO IZQUIERDO CON TERCER FRAGMENTO
+2. EDEMA DE TEJIDOS BLANDOS',protoop_examen='No',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA
+4. IDENTIFICACION DE PUNTOS DE ENTRADA DE LOS CLAVOS DE TENS A 1 CM POR ENCIMA DEL EPICONDILO LATERAL
+5. REDUCCION CERRADA GUIADA POR IDI
+6. INTRODUCCION DE CLAVOS DE TENS GUIADA CON IDI PARA FIJACION DE FRACTURA
+7. RX DE CONTROL POSTQUIRURGICO
+8. LAVADO DE HERIDA
+9. CIERRE POR PLANOS.',protoop_proyectada='REDUCCION CERRADA + FIJACION PERCUTANEA CON CLAVOS DE TENS',protoop_sintesis='VICRYL 2.0
+ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL EN TERCIO DISTAL DE BRAZO IZQUIERDO',protoop_selectiva='1',protoop_instrumentista='MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR FRANCISCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='599',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='196201100258084118220220621051450214',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='',protoop_horainicio='15:40',protoop_horafin='16:55' where protoop_id=256 -->2022-06-21 17:22:53
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2022-06-21 17:14:50',atenc_id=1183,centro_id=1,clie_id=1962,protoop_exposicion='MANUAL E INSTRUMENTAL 
+IDI',protoop_exploracion='1. FRACTURA DE TERCIO MEDIO PROXIMAL TRANSVERSAL DE HUMERO IZQUIERDO CON TERCER FRAGMENTO
+2. EDEMA DE TEJIDOS BLANDOS',protoop_examen='No',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA
+4. IDENTIFICACION DE PUNTOS DE ENTRADA DE LOS CLAVOS DE TENS A 1 CM POR ENCIMA DEL EPICONDILO LATERAL
+5. REDUCCION CERRADA GUIADA POR IDI
+6. INTRODUCCION DE CLAVOS DE TENS GUIADA CON IDI PARA FIJACION DE FRACTURA
+7. RX DE CONTROL POSTQUIRURGICO
+8. LAVADO DE HERIDA
+9. CIERRE POR PLANOS.',protoop_proyectada='REDUCCION CERRADA + FIJACION PERCUTANEA CON CLAVOS DE TENS',protoop_sintesis='VICRYL 2.0
+ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL EN TERCIO DISTAL DE BRAZO IZQUIERDO',protoop_selectiva='1',protoop_instrumentista='MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR FRANCISCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='599',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='196201100258084118220220621051450214',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='',protoop_horainicio='15:40',protoop_horafin='16:55' where protoop_id=256 -->2022-06-21 17:23:00
+182-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2022-06-21 17:14:50',atenc_id=1183,centro_id=1,clie_id=1962,protoop_exposicion='MANUAL E INSTRUMENTAL 
+IDI',protoop_exploracion='1. FRACTURA DE TERCIO MEDIO PROXIMAL TRANSVERSAL DE HUMERO IZQUIERDO CON TERCER FRAGMENTO
+2. EDEMA DE TEJIDOS BLANDOS',protoop_examen='No',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS DESCRITA
+4. IDENTIFICACION DE PUNTOS DE ENTRADA DE LOS CLAVOS DE TENS A 1 CM POR ENCIMA DEL EPICONDILO LATERAL
+5. REDUCCION CERRADA GUIADA POR IDI
+6. INTRODUCCION DE CLAVOS DE TENS GUIADA CON IDI PARA FIJACION DE FRACTURA
+7. RX DE CONTROL POSTQUIRURGICO
+8. LAVADO DE HERIDA
+9. CIERRE POR PLANOS.',protoop_proyectada='REDUCCION CERRADA + FIJACION PERCUTANEA CON CLAVOS DE TENS',protoop_sintesis='VICRYL 2.0
+ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL EN TERCIO DISTAL DE BRAZO IZQUIERDO',protoop_selectiva='1',protoop_instrumentista='MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR FRANCISCO SILVA',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='599',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='196201100258084118220220621051450214',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='',protoop_horainicio='15:40',protoop_horafin='16:55' where protoop_id=256 -->2022-06-21 17:23:50
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='IMPLANTES MAMARIOS',clie_token='',clie_cirugia='IMPLANTES MAMARIOS',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. HOLMAN GALARZA',tipoci_id=1,clie_ayudante='',clie_direccion='LAS CASAS',clie_rucci='1720992757',clie_apellido='GUAMAN ESPINOSA',prob_codigo='17',clie_anestesiologo='DRA. NOBOA',cant_codigo='1701',clie_nombre='MAYRA SOLEDAD',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='ING CONTABILIDAD',nac_id=56,clie_fechanacimiento='1986-11-08',clie_emergenciatelf='0987525822',tarterial_id=7,clie_celular='0995921099',clie_genero='F',idgen_id=4,orien_id=4,clie_email='sole.maso@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-06-14 05:59:22',clie_institucion='',clie_enlace='0117289538922132022061405592230979',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2166',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1921 -->2022-06-21 18:38:31
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='IMPLANTES MAMARIOS',clie_token='',clie_cirugia='IMPLANTES MAMARIOS',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. HOLMAN GALARZA',tipoci_id=1,clie_ayudante='',clie_direccion='LAS CASAS',clie_rucci='1720992757',clie_apellido='GUAMAN ESPINOSA',prob_codigo='17',clie_anestesiologo='DRA. NOBOA',cant_codigo='1701',clie_nombre='MAYRA SOLEDAD',tippo_id=3,conve_id=6,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='ING CONTABILIDAD',nac_id=56,clie_fechanacimiento='1986-11-08',clie_emergenciatelf='0987525822',tarterial_id=7,clie_celular='0995921099',clie_genero='F',idgen_id=4,orien_id=4,clie_email='sole.maso@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2022-06-14 05:59:22',clie_institucion='',clie_enlace='0117289538922132022061405592230979',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='2166',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=1921 -->2022-06-21 18:38:31

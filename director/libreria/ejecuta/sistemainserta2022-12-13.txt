@@ -1,0 +1,2 @@
+insert into pichinchahumana_extension.dns_convenios (tippo_id,conve_nombre,conve_descuento) values (2,'CONFIAMED',0)
+insert into pichinchahumana_extension.dns_convenios (tippo_id,conve_nombre,conve_descuento) values (2,'PORSSIMED',0)

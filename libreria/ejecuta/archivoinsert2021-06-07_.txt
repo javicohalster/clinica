@@ -1,0 +1,8 @@
+-->update dns_anamesisexamenfisico set anam_referencia='LIBRE DEMANDA',clie_id=3270,usua_id=16,centro_id=5,atenc_id=3320,tipoaler_id='1',anam_centrorefiere='NO',anam_observacionaf='',anam_emferpactual='PACIENTES 60 AÑOS ACUDE POR PRESENTAR ENFERMEDADES CRONICAS DIABETES MELLITUS Y HIPERTENSION ARTERIAL CON TRATAMIENTO MEDICO DESDE HACE 15 AÑOS ASINTOMATICA AL MOMENTO DE LA CONSULTA',anam_planes='MEDIDAS GENERALES
+DIETA BLANDA 
+ABUNDANTES LIQUIDOS
+SEGUIR CON EL TRATAMIENTO
+METFORMINA 500MG VO BID 
+LOSARTAN 100 MG QD VO 
+CLORTALIDONA 25 MG VO QD HS 
+SIGNOS ALARMA ACUDIR CE',estaatenc_id=4,anam_txtalergias='PENICILINA',anam_profesionarefiere='NINGUNO',anam_vidasexualactiva='0',anam_motivoconsulta='PACIENTE ANTECEDENTES ENFERMEDADES CRONICAS',anam_vidasexualactivaobs='NINGUNA',anam_menarquiaedad='15',anam_respiratorio='1',anam_fecharegistro='2021-06-07 11:56:20',anam_partos='1',anam_observacionrespiratorio='NINGUNA',anam_atpreventiva=0,anam_observacionap='PACIENTE CON ANTECEDENTES DE ENFERMEDADES CRONICAS',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='50 AÑOS',anam_enlace='32700117158119621620210607115620173',anam_cesareas='0',anam_gesta='1',anam_hijosvivos='1',anam_fum=NULL,anam_fup='1993-04-30',anam_fuc='2020-00-00',anam_metodopfamiliar=0,anam_metodopfamiliartex='NO',anam_terapiahormonal=0,anam_terapiahormonaltext='NO',anam_biopsia=0,anam_biopsiatext='NO',anam_colposcopia=0,anam_colposcopiatext='NO',anam_mamografia=0,anam_mamografiatxt='NO',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1088 

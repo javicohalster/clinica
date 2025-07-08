@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_title='Precio costo:' where fie_id='9772';
+update gogess_sisfield set field_type='int' where fie_id='9772';

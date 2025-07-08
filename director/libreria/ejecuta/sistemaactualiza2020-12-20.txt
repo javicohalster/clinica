@@ -1,0 +1,452 @@
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=0,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Informaci&oacute;n IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=0,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=0,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Información IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=0,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=0,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=0,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=0,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=0,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=15,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=45,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=55,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=95,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=95,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=150,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=398,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_sistable set ayu_id=0,datab_id=0,instan_id=2,st_id=6,tab_actv=1,tab_archivo=1,tab_archivoimp='',tab_bextras='',tab_campogeneracion='',tab_campoorden='',tab_campoprimario='datos_id',tab_camposecsri='',tab_camposgrid='datos_id',tab_codigo='',tab_compilar=0,tab_crel='',tab_datosf=0,tab_estructura=1,tab_formatotabla=1,tab_historialmedico=0,tab_information='',tab_mdobuscar='',tab_name='dns_datosiess',tab_nlista=30,tab_rel='',tab_scriptorden='order by 	datos_id desc',tab_sqlimp='',tab_sri=0,tab_stringconection='',tab_sysmedico=1,tab_tablaregreso='',tab_tipocampoprimariio='int',tab_tipoimp=0,tab_title='PACIENTES IESS',tab_trel=0,tab_valextguardar='' where tab_id=398 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_orden=150,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='1',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='1',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='mnupan_nordengrid',fie_obl=0,fie_orden=18,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='gogess_menupanel',fie_tactive=1,fie_tblcombogrid='',fie_title='Orden columna grid:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='text',fie_typereport='',fie_typeweb='text',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='gogess_menupanel',ttbl_id=0 where fie_id=7177 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='1',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='1',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='mnupan_nordengrid',fie_obl=0,fie_orden=18,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='gogess_menupanel',fie_tactive=1,fie_tblcombogrid='',fie_title='Orden columna grid:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='text',fie_typereport='',fie_typeweb='text',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='gogess_menupanel',ttbl_id=0 where fie_id=7177 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='1',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='1',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='mnupan_nordengrid',fie_obl=0,fie_orden=18,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='gogess_menupanel',fie_tactive=1,fie_tblcombogrid='',fie_title='Orden columna grid:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='text',fie_typereport='',fie_typeweb='text',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='gogess_menupanel',ttbl_id=0 where fie_id=7177 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_nordengrid='4-asc',mnupan_orden=150,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_nordengrid='4-desc',mnupan_orden=150,mnupan_templatetabla='maestro_standar_base',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_menupanel set con_id=0,especi_id=0,mnupan_activo=1,mnupan_archivo='panel_substandarformularios.php',mnupan_campoarchivo='',mnupan_campoenlace='',mnupan_campogrid='\'datos_id\',\'centro_id\',\'clie_id\',\'datos_hc\',\'datos_fecharegistro\'',mnupan_camposforma='',mnupan_camposformasecundaria='',mnupan_grafico='gogess_data79403QDOWL20201220.png',mnupan_icono='fa fa-smile-o',mnupan_nboton='',mnupan_nombre='Pacientes IESS',mnupan_nordengrid='4-desc',mnupan_orden=150,mnupan_templatetabla='maestro_standar_iess',mnupan_templatetablasec='',mnupan_variablesession='',opcionpa_id=1,posp_id=2,tabgrid_id=0,tabsecundario_id=0,tab_id=398,tipofor_id=0 where mnupan_id=111 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='usua_id,usua_nombre,usua_apellido',fie_evitaambiguo='',fie_group='1',fie_groupprint='1',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='usua_id',fie_obl=0,fie_orden=2,fie_ordengrid=0,fie_placeholder='',fie_sendvar='usua_idx',fie_sql='where usua_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='app_usuario',fie_tactive=1,fie_tblcombogrid='',fie_title='Profesional:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7174 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='usua_id,usua_nombre,usua_apellido',fie_evitaambiguo='',fie_group='88',fie_groupprint='1',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='usua_id',fie_obl=0,fie_orden=2,fie_ordengrid=0,fie_placeholder='',fie_sendvar='usua_idx',fie_sql='where usua_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='app_usuario',fie_tactive=1,fie_tblcombogrid='',fie_title='Profesional:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7174 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='usua_id,usua_nombre,usua_apellido',fie_evitaambiguo='',fie_group='88',fie_groupprint='1',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='usua_id',fie_obl=0,fie_orden=2,fie_ordengrid=0,fie_placeholder='',fie_sendvar='usua_idx',fie_sql='where usua_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='app_usuario',fie_tactive=1,fie_tblcombogrid='',fie_title='Profesional:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7174 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='usua_id,usua_nombre,usua_apellido',fie_evitaambiguo='',fie_group='88',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='usua_id',fie_obl=0,fie_orden=2,fie_ordengrid=0,fie_placeholder='',fie_sendvar='usua_idx',fie_sql='where usua_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='app_usuario',fie_tactive=1,fie_tblcombogrid='',fie_title='Profesional:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7174 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='centro_id,centro_nombre',fie_evitaambiguo='',fie_group='77',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='centro_id',fie_obl=0,fie_orden=6,fie_ordengrid=0,fie_placeholder='',fie_sendvar='centro_idx',fie_sql='where centro_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_centrosalud',fie_tactive=1,fie_tblcombogrid='',fie_title='Establecimiento:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7170 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='int',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='centro_id,centro_nombre',fie_evitaambiguo='',fie_group='77',fie_groupprint='0',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='centro_id',fie_obl=0,fie_orden=6,fie_ordengrid=0,fie_placeholder='',fie_sendvar='centro_idx',fie_sql='where centro_id=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_centrosalud',fie_tactive=1,fie_tblcombogrid='',fie_title='Establecimiento:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='hidden2snf',fie_typereport='',fie_typeweb='hidden2snf',fie_valiextra='',fie_value='replace',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7170 
+update dns_planillasplantillas set plapln_grafico1='49526FBQZ20190215.logo2.png',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='',plapln_nombre='PLANILLA IESS-ISSPOL',plapln_plantilla='<table align="center" border="0" cellpadding="3" cellspacing="2" style="width:100%">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<div>
+			<p style="text-align:center"><strong>PICINCHA HUMANA</strong><br />
+			<strong>PLANILLA CONSOLIDADA UNIDADES DE PRIMER NIVEL DE PICHINCHA HUMANA </strong></p>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="1" cellpadding="0" cellspacing="0" style="width:600px">
+				<tbody>
+					<tr>
+						<td><strong>NUMERO DE PLANILLA:</strong></td>
+						<td>-numero-</td>
+					</tr>
+					<tr>
+						<td><strong>TIPO DE SERVICIO: </strong></td>
+						<td>Ambulatorio</td>
+					</tr>
+					<tr>
+						<td><strong>MONTO SOLICITADO: </strong></td>
+						<td>-totalsumado-</td>
+					</tr>
+					<tr>
+						<td><strong>No DE EXPEDIENTES: </strong></td>
+						<td>-expediente-</td>
+					</tr>
+					<tr>
+						<td><strong>MES Y A&Ntilde;O DE PRESTACION: </strong></td>
+						<td>-mesanio-</td>
+					</tr>
+					<tr>
+						<td><strong>ESTABLECIMIENTO DE SALUD: </strong></td>
+						<td>-establecimiento-</td>
+					</tr>
+					<tr>
+						<td><strong>COBERTURA: </strong></td>
+						<td>IESS-ISSPOL</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>
+			<div>-grafico1-</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>-listados-</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:700px">
+	<tbody>
+		<tr>
+			<td>
+			<div><strong>RECEPCION/REVISION/ ORGANIZACI&Oacute;N /DOCUMENTAL Y PLANILLAJE.</strong></div>
+			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>
+			<div><strong>APROBADO Y VALIDADO POR LA MAXIMA AUTORIDAD DE LA UNIDAD DE SALUD.</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>FIRMA</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>FIRMA</td>
+		</tr>
+		<tr>
+			<td>NOMBRE</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>NOMBRE</td>
+		</tr>
+		<tr>
+			<td>Nro. CC.</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Nro. CC.</td>
+		</tr>
+		<tr>
+			<td>SELLO</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>SELLO</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>' where plapln_id=6 
+update dns_planillasplantillas set plapln_grafico1='',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='',plapln_nombre='OFICIO ISSPOL',plapln_plantilla='<div style="text-align: center;"><strong>PICHINCHA HUMANA<br />
+RED DE CENTROS DE SALUD DE PICHINCHA HUMANA<br />
+-centro-</strong></div>
+
+<div style="text-align: right;"><strong>OFICIO</strong>: -oficio-<br />
+-fecha-</div>
+
+<p>Se&ntilde;or</p>
+
+<p><br />
+<strong>DIRECTOR GENERAL DEL IESS</strong></p>
+
+<p>-ciudad-</p>
+
+<p><strong>ASUNTO:</strong>Remitiendo planillas por las atenciones prestadas a los beneficiarios del ISSPOL por el servicio <strong>AMBULATORIO</strong>, durante el mes de -durante-<br />
+De mis consideraciones:<br />
+<br />
+Adjunto al presente remito a su autoridad:<br />
+<br />
+Las planillas y documentaci&oacute;n habilitante de acuerdo a la Normativa vigente para ser sometida al proceso de Auditor&iacute;a de Calidad de Facturaci&oacute;n de Servicios de Salud, y su pago respectivo por el TR&Aacute;MITE N&deg;_________________________________, por el servicio Ambulatorio, correspondiente al -corresponde-, en total de -expediente- expedientes.<br />
+<br />
+Se adjunta la planilla consolidada y el respectivo respaldo magn&eacute;tico de la informaci&oacute;n de los usuarios/pacientes atendidos en el -centro-, por el monto total de $-entexto-<br />
+<br />
+PACIENTES BENEFICIARIOS ISSPOL 100%: Exp -expediente--numero ---------valor -totalsumado- d&oacute;lares<br />
+<br />
+<br />
+Que luego de la revisi&oacute;n y proceso correspondiente, sean depositados en la cuenta del Banco del Pac&iacute;fico N&deg; 0005161312 a nombre de la Direcci&oacute;n Nacional de Salud de la Polic&iacute;a Nacional.<br />
+<br />
+Particular que remito a usted, para los fines consiguientes.<br />
+Atentamente,</p>
+
+<p>-dr-<br />
+-crg-<br />
+JEFE DEL -centro-<br />
+&nbsp;</p>' where plapln_id=2 
+update dns_planillasplantillas set plapln_grafico1='',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='',plapln_nombre='OFICIO ISSPOL',plapln_plantilla='<div style="text-align: center;"><strong>PICHINCHA HUMANA<br />
+RED DE CENTROS DE SALUD DE PICHINCHA HUMANA<br />
+-centro-</strong></div>
+
+<div style="text-align: right;"><strong>OFICIO</strong>: -oficio-<br />
+-fecha-</div>
+
+<p>Se&ntilde;or</p>
+
+<p><br />
+<strong>DIRECTOR GENERAL DEL IESS</strong></p>
+
+<p>-ciudad-</p>
+
+<p><strong>ASUNTO:</strong>Remitiendo planillas por las atenciones prestadas a los beneficiarios del ISSPOL por el servicio <strong>AMBULATORIO</strong>, durante el mes de -durante-<br />
+De mis consideraciones:<br />
+<br />
+Adjunto al presente remito a su autoridad:<br />
+<br />
+Las planillas y documentaci&oacute;n habilitante de acuerdo a la Normativa vigente para ser sometida al proceso de Auditor&iacute;a de Calidad de Facturaci&oacute;n de Servicios de Salud, y su pago respectivo por el TR&Aacute;MITE N&deg;_________________________________, por el servicio Ambulatorio, correspondiente al -corresponde-, en total de -expediente- expedientes.<br />
+<br />
+Se adjunta la planilla consolidada y el respectivo respaldo magn&eacute;tico de la informaci&oacute;n de los usuarios/pacientes atendidos en el -centro-, por el monto total de $-entexto-<br />
+<br />
+PACIENTES BENEFICIARIOS ISSPOL 100%: Exp -expediente--numero ---------valor -totalsumado- d&oacute;lares<br />
+<br />
+<br />
+Que luego de la revisi&oacute;n y proceso correspondiente, sean depositados en la cuenta del Banco del Pac&iacute;fico N&deg; 0005161312 a nombre de la Direcci&oacute;n Nacional de Salud de la Polic&iacute;a Nacional.<br />
+<br />
+Particular que remito a usted, para los fines consiguientes.<br />
+Atentamente,</p>
+
+<p>-dr-<br />
+-crg-<br />
+JEFE DEL -centro-<br />
+&nbsp;</p>' where plapln_id=2 
+update dns_planillasplantillas set plapln_grafico1='49526FBQZ20190215.logo2.png',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='',plapln_nombre='PLANILLA IESS-ISSPOL',plapln_plantilla='<table align="center" border="0" cellpadding="3" cellspacing="2" style="width:100%">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<div>
+			<p style="text-align:center"><strong>PICHINCHA HUMANA</strong><br />
+			<strong>PLANILLA CONSOLIDADA UNIDADES DE PRIMER NIVEL DE PICHINCHA HUMANA </strong></p>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="1" cellpadding="0" cellspacing="0" style="width:600px">
+				<tbody>
+					<tr>
+						<td><strong>NUMERO DE PLANILLA:</strong></td>
+						<td>-numero-</td>
+					</tr>
+					<tr>
+						<td><strong>TIPO DE SERVICIO: </strong></td>
+						<td>Ambulatorio</td>
+					</tr>
+					<tr>
+						<td><strong>MONTO SOLICITADO: </strong></td>
+						<td>-totalsumado-</td>
+					</tr>
+					<tr>
+						<td><strong>No DE EXPEDIENTES: </strong></td>
+						<td>-expediente-</td>
+					</tr>
+					<tr>
+						<td><strong>MES Y A&Ntilde;O DE PRESTACION: </strong></td>
+						<td>-mesanio-</td>
+					</tr>
+					<tr>
+						<td><strong>ESTABLECIMIENTO DE SALUD: </strong></td>
+						<td>-establecimiento-</td>
+					</tr>
+					<tr>
+						<td><strong>COBERTURA: </strong></td>
+						<td>IESS-ISSPOL</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>
+			<div>-grafico1-</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>-listados-</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:700px">
+	<tbody>
+		<tr>
+			<td>
+			<div><strong>RECEPCION/REVISION/ ORGANIZACI&Oacute;N /DOCUMENTAL Y PLANILLAJE.</strong></div>
+			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>
+			<div><strong>APROBADO Y VALIDADO POR LA MAXIMA AUTORIDAD DE LA UNIDAD DE SALUD.</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>FIRMA</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>FIRMA</td>
+		</tr>
+		<tr>
+			<td>NOMBRE</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>NOMBRE</td>
+		</tr>
+		<tr>
+			<td>Nro. CC.</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Nro. CC.</td>
+		</tr>
+		<tr>
+			<td>SELLO</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>SELLO</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>' where plapln_id=6 
+update dns_planillasplantillas set plapln_grafico1='49526FBQZ20190215.logo2.png',plapln_grafico2='',plapln_grafico3='',plapln_grafico4='',plapln_grafico5='',plapln_nombre='PLANILLA IESS-ISSPOL',plapln_plantilla='<table align="center" border="0" cellpadding="3" cellspacing="2" style="width:100%">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<div>
+			<p style="text-align:center"><strong>PICHINCHA HUMANA</strong><br />
+			<strong>PLANILLA CONSOLIDADA UNIDADES DE PRIMER NIVEL DE PICHINCHA HUMANA </strong></p>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="1" cellpadding="0" cellspacing="0" style="width:600px">
+				<tbody>
+					<tr>
+						<td><strong>NUMERO DE PLANILLA:</strong></td>
+						<td>-numero-</td>
+					</tr>
+					<tr>
+						<td><strong>TIPO DE SERVICIO: </strong></td>
+						<td>Ambulatorio</td>
+					</tr>
+					<tr>
+						<td><strong>MONTO SOLICITADO: </strong></td>
+						<td>-totalsumado-</td>
+					</tr>
+					<tr>
+						<td><strong>No DE EXPEDIENTES: </strong></td>
+						<td>-expediente-</td>
+					</tr>
+					<tr>
+						<td><strong>MES Y A&Ntilde;O DE PRESTACION: </strong></td>
+						<td>-mesanio-</td>
+					</tr>
+					<tr>
+						<td><strong>ESTABLECIMIENTO DE SALUD: </strong></td>
+						<td>-establecimiento-</td>
+					</tr>
+					<tr>
+						<td><strong>COBERTURA: </strong></td>
+						<td>IESS-ISSPOL</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>
+			<div>-grafico1-</div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>-listados-</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:700px">
+	<tbody>
+		<tr>
+			<td>
+			<div><strong>RECEPCION/REVISION/ ORGANIZACI&Oacute;N /DOCUMENTAL Y PLANILLAJE.</strong></div>
+			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>
+			<div><strong>APROBADO Y VALIDADO POR LA MAXIMA AUTORIDAD DE LA UNIDAD DE SALUD.</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>FIRMA</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>FIRMA</td>
+		</tr>
+		<tr>
+			<td>NOMBRE</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>NOMBRE</td>
+		</tr>
+		<tr>
+			<td>Nro. CC.</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Nro. CC.</td>
+		</tr>
+		<tr>
+			<td>SELLO</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>SELLO</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>' where plapln_id=6 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=0,fie_active=0,fie_activelista=0,fie_activesearch=0,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='gridstandar.php',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='subsecodont_enlace',fie_campofecharegistro='cuabas_fecharegistro',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='prod_codigo,prod_descripcion,prod_precio,cuabas_fecharegistro',fie_camposobligatoriosgrid='prod_codigo,prod_descripcion,prod_precio',fie_datadb='',fie_evitaambiguo='',fie_group='4',fie_groupprint='3',fie_guarda=0,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=4,fie_mascara='',fie_naleatorio=0,fie_name='subsecodont_tarifariogrid',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='subsecodont_enlacex',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='cssobj',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='cuabas_id',fie_tablasubgrid='dns_tarifariosubsecuenteodonto',fie_tablasubgridcampos='prod_codigo,prod_descripcion,prod_precio',fie_tabledb='dns_subsecuenteodontologia',fie_tactive=0,fie_tblcombogrid='',fie_title='TARIFARIO',fie_titlereporte='',fie_tituloscamposgrid='Código,Descripción,Precio,Fecha Registro',fie_txtextra='',fie_txtizq='',fie_type='campogrid',fie_typereport='',fie_typeweb='campogrid',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='',fie_y=0,tab_name='dns_subsecuenteodontologia',ttbl_id=2 where fie_id=5583 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='datos_motivoconsulta',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_datosiess',fie_tactive=1,fie_tblcombogrid='',fie_title='Motivo de consulta:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='textareapeke',fie_typereport='',fie_typeweb='textareapeke',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7178 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='datos_motivoconsulta',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_datosiess',fie_tactive=1,fie_tblcombogrid='',fie_title='Motivo de consulta:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='textareapeke',fie_typereport='',fie_typeweb='textareapeke',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7178 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='datos_motivoconsulta',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_datosiess',fie_tactive=1,fie_tblcombogrid='',fie_title='Motivo de consulta:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='textarea',fie_typereport='',fie_typeweb='textarea',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7178 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='datos_motivoconsulta',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_datosiess',fie_tactive=1,fie_tblcombogrid='',fie_title='Motivo de consulta:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='textarea',fie_typereport='',fie_typeweb='textarea',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7178 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='60',fie_limpiarengrid='',fie_lineas=5,fie_mascara='',fie_naleatorio=0,fie_name='datos_motivoconsulta',fie_obl=0,fie_orden=1,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_datosiess',fie_tactive=1,fie_tblcombogrid='',fie_title='Motivo de consulta:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='textarea',fie_typereport='',fie_typeweb='textarea',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_datosiess',ttbl_id=0 where fie_id=7178 

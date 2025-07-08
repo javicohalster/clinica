@@ -1,0 +1,65 @@
+update gogess_sisfield set fie_group='2' where fie_id='6388';
+update gogess_sisfield set fie_orden='32' where fie_id='6388';
+update gogess_sisfield set fie_group='2' where fie_id='6389';
+update gogess_sisfield set fie_orden='33' where fie_id='6389';
+update gogess_sisfield set fie_group='2' where fie_id='6390';
+update gogess_sisfield set fie_orden='34' where fie_id='6390';
+update gogess_sisfield set fie_type='selectafecta' where fie_id='6388';
+update gogess_sisfield set fie_typeweb='selectafecta' where fie_id='6388';
+update gogess_sisfield set fie_type='selectrecibe' where fie_id='6389';
+update gogess_sisfield set fie_typeweb='selectrecibe' where fie_id='6389';
+update gogess_sisfield set fie_typeweb='text' where fie_id='6390';
+update gogess_sisfield set fie_type='text' where fie_id='6390';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3832';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3833';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3842';
+update gogess_sisfield set fie_groupprint='1' where fie_id='6137';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3845';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3834';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3836';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3844';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4306';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3841';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3837';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3839';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4301';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4302';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4303';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4304';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4305';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4775';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4308';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3843';
+update gogess_sisfield set fie_groupprint='1' where fie_id='3838';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4533';
+update gogess_sisfield set fie_groupprint='1' where fie_id='4548';
+update gogess_sisfield set fie_groupprint='1' where fie_id='6386';
+update gogess_sisfield set fie_groupprint='0' where fie_id='4306';
+update gogess_sisfield set fie_orden='21' where fie_id='6391';
+update gogess_sisfield set fie_type='hidden2' where fie_id='6391';
+update gogess_sisfield set fie_typeweb='hidden2' where fie_id='6391';
+update gogess_sisfield set fie_title='C&oacute;digo iniciales:' where fie_id='4307';
+update gogess_sisfield set fie_title='Corre Electr&eacute;nico:' where fie_id='2773';
+update gogess_sisfield set fie_title='Direcci&oacute;n domicilio:' where fie_id='2993';
+update gogess_sisfield set fie_title='Tel&eacute;fono domicilio:' where fie_id='2994';
+update gogess_sisfield set fie_title='Fotograf&iacute;­a:' where fie_id='3231';
+update gogess_sisfield set fie_title='INFORMACIÓN CENTRO MEDICO' where fie_id='5941';
+update gogess_sisfield set fie_title='Fecha ingrero a la Institucion:' where fie_id='4746';
+update gogess_sisfield set fie_title='Fecha salida de la Institucion:' where fie_id='5580';
+update gogess_sisfield set fie_title='Funci&oacute;n de salud:' where fie_id='5576';
+update gogess_sisfield set fie_title='Corre Electronico:' where fie_id='2773';
+update gogess_sisfield set fie_title='Fotografía:' where fie_id='3231';
+update gogess_sisfield set fie_title='INFORMACI&Oacute;N CENTRO MEDICO' where fie_id='5941';
+update gogess_sisfield set fie_title='Apellido del cliente:' where fie_id='6399';
+update gogess_sisfield set fie_orden='12' where fie_id='6399';
+update gogess_sisfield set fie_orden='11' where fie_id='3797';
+update gogess_sisfield set fie_orden='12' where fie_id='3769';
+update gogess_sisfield set fie_orden='13' where fie_id='6399';
+update gogess_sisfield set fie_orden='14' where fie_id='3753';
+update gogess_sisfield set fie_orden='15' where fie_id='6387';
+update gogess_sisfield set fie_orden='16' where fie_id='3754';
+update gogess_sisfield set fie_orden='16' where fie_id='3778';
+update gogess_sisfield set fie_orden='17' where fie_id='3754';
+update gogess_sisfield set fie_type='textpeke' where fie_id='6399';
+update gogess_sisfield set fie_typeweb='textpeke' where fie_id='6399';
+update gogess_sisfield set fie_orden='4' where fie_id='6400';

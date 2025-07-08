@@ -1,0 +1,9 @@
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01667AD1F15487250220240625091929326' and crucue_id=1343-->2024-08-16 12:57:44
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0166289C87CE61019720240424124543106' and crucue_id=1140-->2024-08-16 13:17:09
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01661690C8914B64582024041008144868' and crucue_id=1009-->2024-08-16 13:17:37
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016615DD8E5598745820240409073006232' and crucue_id=998-->2024-08-16 13:18:49
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016614A70D1909745820240408092517386' and crucue_id=957-->2024-08-16 14:42:21
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016614AE8FB3A2145820240408095719312' and crucue_id=958-->2024-08-16 14:49:18
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016614AFCDD222745820240408100237205' and crucue_id=959-->2024-08-16 14:50:19
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='016615556BA3A5B45820240409094915157' and crucue_id=960-->2024-08-16 14:51:41
+502-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='01661559C77755E4582024040910075133' and crucue_id=961-->2024-08-16 14:55:24

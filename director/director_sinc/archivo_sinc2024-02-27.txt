@@ -1,0 +1,15 @@
+update gogess_sisfield set fie_group='19' where fie_id='11840';
+update gogess_sisfield set fie_orden='1' where fie_id='11840';
+update gogess_sisfield set fie_groupprint='19' where fie_id='11840';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11840';
+update gogess_sisfield set fie_type='textarea' where fie_id='11840';
+update gogess_sisfield set fie_typeweb='textarea' where fie_id='11840';
+update gogess_sisfield set fie_orden='1' where fie_id='11842';
+update gogess_sisfield set fie_orden='2' where fie_id='11840';
+update gogess_sisfield set fie_title='Otros:' where fie_id='11843';
+update gogess_sisfield set fie_group='19' where fie_id='11843';
+update gogess_sisfield set fie_orden='3' where fie_id='11843';
+update gogess_sisfield set fie_groupprint='19' where fie_id='11843';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11843';
+update gogess_sisfield set fie_type='textarea' where fie_id='11843';
+update gogess_sisfield set fie_typeweb='textarea' where fie_id='11843';

@@ -1,0 +1,1 @@
+427-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('INYECCION','2024-12-08','','1','6','2','3','10218','0117254097323402024120403252151','2024-12-08 16:40:16','427')-->2024-12-08 16:40:16

@@ -1,0 +1,42 @@
+[30-Jan-2013 23:56:30 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/controlz/public_html/admaqualis/libreria/formulario.php on line 1912
+[30-Jan-2013 23:56:30 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/controlz/public_html/admaqualis/bdialog/resultsearch.php on line 561
+[30-Jan-2013 23:56:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/controlz/public_html/admaqualis/bdialog/resultsearch.php on line 562
+[20-Feb-2013 04:43:22 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/controlz/public_html/admaqualis/bdialog/resultsearch.php on line 561
+[20-Feb-2013 04:43:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/controlz/public_html/admaqualis/bdialog/resultsearch.php on line 562
+[03-Sep-2016 22:07:34 UTC] PHP Notice:  Undefined variable: sessid in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 49
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: sessid in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 49
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: fieldscreen in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 404
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 3928
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 3932
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 4012
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined property: formulario::$tipocampo in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 446
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: datoscon in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 454
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 3928
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 3932
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: i in /home/todoenkargo/public_html/beko/adm_beko/libreria/formulario.php on line 4012
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: camposenl in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 479
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: tablasint in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 562
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Undefined variable: cactivos in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 629
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 620
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 621
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 620
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 621
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 620
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 621
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 620
+[03-Sep-2016 22:07:38 UTC] PHP Notice:  Trying to get property of non-object in /home/todoenkargo/public_html/beko/adm_beko/bdialog/resultsearch.php on line 621
+[22-May-2018 17:55:44 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49
+[12-Jul-2018 19:55:26 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49
+[12-Jul-2018 19:55:28 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49
+[12-Jul-2018 19:55:28 UTC] PHP Notice:  Undefined variable: fieldscreen in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 404
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: i in /home/ussliec/public_html/consuquil/director/libreria/formulario.php on line 4095
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: i in /home/ussliec/public_html/consuquil/director/libreria/formulario.php on line 4099
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: i in /home/ussliec/public_html/consuquil/director/libreria/formulario.php on line 4179
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined property: formulario::$tipooperador in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 469
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: camposenl in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 479
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: datoscon in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 539
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: tablasint in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 588
+[12-Jul-2018 19:55:29 UTC] PHP Notice:  Undefined variable: cactivos in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 629
+[29-Aug-2018 19:51:07 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49
+[29-Aug-2018 19:51:14 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49
+[29-Aug-2018 20:20:19 UTC] PHP Notice:  Undefined variable: sessid in /home/ussliec/public_html/consuquil/director/bdialog/resultsearch.php on line 49

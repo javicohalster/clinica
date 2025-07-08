@@ -1,0 +1,1 @@
+insert into lpin_enlace (mnupan_id,enla_activo,enla_observacion) values (143,1,'FICHA DE PERSONAL')

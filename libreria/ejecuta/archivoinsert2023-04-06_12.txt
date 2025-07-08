@@ -1,0 +1,1 @@
+2-->insert into lpin_plancuentas (planc_codigo,planc_nombre,planc_codigoc,planc_codigoplan,planc_signo,tcuenta_id) values (5,'Alquiler sistema contable','5.2.1.2.27','',0,1)-->2023-04-06 00:03:21

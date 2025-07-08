@@ -1,0 +1,2 @@
+insert into lpin_enlace (mnupan_id,enla_activo,enla_observacion) values (158,1,'ACTIVOS FIJOS')
+insert into lpin_cuentasenlace (enla_id,enlacuenta_numerocuenta,enlacuenta_nombrecuenta,tr_id,enlacuenta_activo,enlacuenta_fecharegistro,actr_id,categ_id,catgp_id,ttra_id) values (5,'5.2.1.2.5','Depreciaciones Propiedad Planta y Equipo Adm.',1,1,'2023-05-08 11:16:24',2,0,0,0)

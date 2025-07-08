@@ -1,0 +1,118 @@
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=300,centro_id=1,clie_id=421,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ACUDE PARA PROCEDIMIENTO QUIRURGICO POGRAMADO DE LIPOABDOMINOPLASTIA + AUMENTO MAMARIO POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION
+2. NOVEDADES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2021-12-20 15:28:44',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='42101172173839917820211220032844130',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GUERRERO',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-11-25',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-12-20',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=206 -->2021-12-21 07:10:51
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,anam_id,conext_notasdeevolucion,conext_fechar,conext_sustentoprescripcion,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (300,178,1,421,206,'EVOLUCIÓN AM
+PACIENTE FEMENINA DE 44 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA + COLOCACION DE PROTESIS MAMARIAS
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA GENERALIZADA
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA.
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. APOSITOS QUIRURGICOS LIMPIOS Y SECOS.
+DRENAJE JACKSON 1: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE Y BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA ORAL A LIQUIDOS CLAROS.
+PLAN: INDICACIONES DE MÉDICO TRATANTE','2021-12-21','',1,'2021-12-21 07:10:52','07:10','42101172173839917820211221071052490')-->2021-12-21 07:10:56
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,anam_id,conext_notasdeevolucion,conext_fechar,conext_sustentoprescripcion,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (300,178,1,421,206,'EVOLUCIÓN AM
+PACIENTE FEMENINA DE 44 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA + COLOCACION DE PROTESIS MAMARIAS
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA GENERALIZADA
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA.
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. APOSITOS QUIRURGICOS LIMPIOS Y SECOS.
+DRENAJE JACKSON 1: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE Y BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA ORAL A LIQUIDOS CLAROS.
+PLAN: INDICACIONES DE MÉDICO TRATANTE','2021-12-21','',1,'2021-12-21 07:10:52','07:10','42101172173839917820211221071052490')-->2021-12-21 07:10:56
+178-->update dns_hospitalconsultaexterna set atenc_id=300,usua_id=178,centro_id=1,clie_id=421,anam_id=206,conext_notasdeevolucion='EVOLUCIÓN AM
+PACIENTE FEMENINA DE 44 AÑOS
+CIRUGIA: LIPOABDOMINOPLASTIA + COLOCACION DE PROTESIS MAMARIAS
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE REFIERE DOLOR EN LECHO QUIRURGICO DE EVA 3/10
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, PALIDEZ MUCOCUTANEA GENERALIZADA
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA.
+CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, DOLOROSO A LA PALPACION, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES. APOSITOS QUIRURGICOS LIMPIOS Y SECOS.
+DRENAJE JACKSON 1: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+DRENAJE JACKSON 2: 10 ML DE CONTENIDO SEROHEMATICO
+EXTREMIDADES: PULSOS DISTALES PRESENTES. SIN EDEMAS
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, SIN COMPLICACIONES, CON EVOLUCION CLINICA FAVORABLE Y BUEN MANEJO DEL DOLOR POSTOPERATORIO. PENDIENTE PROBAR TOLERANCIA ORAL A LIQUIDOS CLAROS.
+PLAN: INDICACIONES DE MÉDICO TRATANTE',conext_fechar='2021-12-21',conext_sustentoprescripcion='',estaatenc_id=1,conext_fecharegistro='2021-12-21 07:10:52',conext_horar='07:10',conext_enlace='42101172173839917820211221071052490' where conext_id=346 -->2021-12-21 07:11:30
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='REFERIDO',atenc_id=289,centro_id=1,clie_id=394,anam_centrorefiere='ISSPOL',anam_consentimientoinformado='',anam_emferpactual='EXTREMIDADES: SIN EDEMAS, BUEN LLENADO CAPILAR, PULSOS DISTALES  PRESENTES. 																																																															
+																																																															
+DOLOR A LA BIPEDESTACION EN CADERA DERECHA, CON DOLOR A LA MOVILIZACIÓN ACTIVA Y PASIVA DE PIERNA DERECHA. ACORTAMIENTO DE MIEMBRO INFERIOR DERECHO EN RELACION A MIEMBRO CONTRALATERAL',anam_planes='1. INGRESO A TRAUMATOLOGIA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-12-20 11:22:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='39401172173839917820211220112206489',anam_cirugia='PROTESIS DE CADERA',anam_cesareas='3',anam_gesta='3',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-12-20',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=205 -->2021-12-21 07:12:13
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,anam_id,conext_notasdeevolucion,conext_fechar,conext_sustentoprescripcion,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (289,178,1,394,205,'PACIENTE FEMENINA DE 57 AÑOS
+DG: COXARTROSIS
+CIRUGÍA: PRÓTESIS TOTAL DE CADERA DERECHA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE AL MOMENTO REFIERE DOLOR DE INTENSIDAD 4/10 EN LECHO QUIRURGICO
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL,
+
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS 
+CUELLO: NO ADENOPATÍAS CERVICALES 
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES.
+EXTREMIDADES: PULSOS DISTALES PRESENTES, SIN EDEMAS. APÓSITO QUIRÚRGICO EN CADERA DERECHA LIMPIO Y SECO. NEUROVASCULAR DISTAL CONSERVADO
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, CON BUENA TOLERANCIA ORAL A LIQUIDOS Y DIURESIS ESPONTANEA. SE MANTIENE EN CONDICION CLINICA ESTABLE
+PLAN: INDICACIONES DE MÉDICO TRATANTE','2021-12-21','',1,'2021-12-21 07:12:15','07:12','3940117217383991782021122107121519')-->2021-12-21 07:12:20
+178-->update dns_hospitalconsultaexterna set atenc_id=289,usua_id=178,centro_id=1,clie_id=394,anam_id=205,conext_notasdeevolucion='PACIENTE FEMENINA DE 57 AÑOS
+DG: COXARTROSIS
+CIRUGÍA: PRÓTESIS TOTAL DE CADERA DERECHA
+DIAS DE HOSPITALIZACIÓN: 1
+
+S: PACIENTE AL MOMENTO REFIERE DOLOR DE INTENSIDAD 4/10 EN LECHO QUIRURGICO
+
+O: CONCIENTE, ORIENTADA, HIDRATADA, AFEBRIL,
+
+OJOS: PUPILAS ISOCÓRICAS, NORMOREACTIVAS, MUCOSAS ORALES SEMIHÚMEDAS 
+CUELLO: NO ADENOPATÍAS CERVICALES 
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA CORAZÓN: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES:  NO RUIDOS SOBREAÑADIDOS.  
+ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, NO PERITONISMO, RUIDOS HIDROAEREOS PRESENTES.
+EXTREMIDADES: PULSOS DISTALES PRESENTES, SIN EDEMAS. APÓSITO QUIRÚRGICO EN CADERA DERECHA LIMPIO Y SECO. NEUROVASCULAR DISTAL CONSERVADO
+
+A: PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO, CON BUENA TOLERANCIA ORAL A LIQUIDOS Y DIURESIS ESPONTANEA. SE MANTIENE EN CONDICION CLINICA ESTABLE
+PLAN: INDICACIONES DE MÉDICO TRATANTE',conext_fechar='2021-12-21',conext_sustentoprescripcion='',estaatenc_id=1,conext_fecharegistro='2021-12-21 07:12:15',conext_horar='07:12',conext_enlace='3940117217383991782021122107121519' where conext_id=348 -->2021-12-21 07:12:51
+213-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','','',12,'REGISTRADO',1,'','',1,'','TELEGRAFO PRIMERO Y LA PRENSA','1719502039','NARAVEZ ARGOTI','17','','1701','SANTIAGO DAVID',3,6,1,'','','','INGENIERO',56,'1990-05-07','',7,'0983245240','M',4,4,'','','213','2021-12-21 08:15:34','','0117289538922132021122108153419559',NULL,'1','','949','4','')-->2021-12-21 08:19:49
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='TELEGRAFO PRIMERO Y LA PRENSA',clie_rucci='1719502039',clie_apellido='NARAVEZ ARGOTI',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='SANTIAGO DAVID',tippo_id=3,conve_id=6,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='INGENIERO',nac_id=56,clie_fechanacimiento='1990-05-07',clie_emergenciatelf='',tarterial_id=7,clie_celular='0983245240',clie_genero='M',idgen_id=4,orien_id=4,clie_email='',clie_emergenciacelu='',usua_id='213',clie_registro='2021-12-21 08:15:34',clie_institucion='',clie_enlace='0117289538922132021122108153419559',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='949',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=422 -->2021-12-21 08:19:52
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='TELEGRAFO PRIMERO Y LA PRENSA',clie_rucci='1719502039',clie_apellido='NARAVEZ ARGOTI',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='SANTIAGO DAVID',tippo_id=3,conve_id=6,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='INGENIERO',nac_id=56,clie_fechanacimiento='1990-05-07',clie_emergenciatelf='',tarterial_id=7,clie_celular='0983245240',clie_genero='M',idgen_id=4,orien_id=4,clie_email='',clie_emergenciacelu='',usua_id='213',clie_registro='2021-12-21 08:15:34',clie_institucion='',clie_enlace='0117289538922132021122108153419559',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='949',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=422 -->2021-12-21 08:20:02
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='',clie_token='',clie_cirugia='',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='TELEGRAFO PRIMERO Y LA PRENSA',clie_rucci='1719502039',clie_apellido='NARAVEZ ARGOTI',prob_codigo='17',clie_anestesiologo='',cant_codigo='1701',clie_nombre='SANTIAGO DAVID',tippo_id=3,conve_id=6,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='INGENIERO',nac_id=56,clie_fechanacimiento='1990-05-07',clie_emergenciatelf='',tarterial_id=7,clie_celular='0983245240',clie_genero='M',idgen_id=4,orien_id=4,clie_email='',clie_emergenciacelu='',usua_id='213',clie_registro='2021-12-21 08:15:34',clie_institucion='',clie_enlace='0117289538922132021122108153419559',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='949',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=422 -->2021-12-21 08:53:12
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='PROTESIS TOTAL DE CADERA',clie_token='',clie_cirugia='PROTESIS TOTAL DE CADERA',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. FRANCISCO GUZMAN',tipoci_id=1,clie_ayudante='DR.RENATO GUERRA',clie_direccion='EL VALLE DE LOS CHILLOS',clie_rucci='1708114903',clie_apellido='ALMEIDA ENCALADA',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='CECILIA ISABEL',tippo_id=8,conve_id=7,civil_id=2,clie_parroquia='',clie_telefono='',clie_codigoisspol='ISSPOL-18601-2021',clie_ocupacion='LICENCIADA',nac_id=56,clie_fechanacimiento='1964-11-16',clie_emergenciatelf='0999550957',tarterial_id=7,clie_celular='0993752128',clie_genero='F',idgen_id=4,orien_id=4,clie_email='calmeidae@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_registro='2021-12-13 13:50:05',clie_institucion='',clie_enlace='0117289538922132021121301500539034',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='920',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=394 -->2021-12-21 09:36:31
+181-->update dns_traumatologiaanamesis set clie_id=295,anam_planes='BIOMETRIA HEMATICA 
+VALORACION CON BIOMETRIA',anam_referencia='REFERIDO',atenc_id=222,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON DIAGNOSTICO DE GONARTROSIS DERECHA, TRATADA DE FORMA QUIRURGICA HACE 8 DIAS, CON BUENOS RESULTADOS, LA PACIENTE REFIERE DOLOR INTENSO DE 24 HORAS DE EVOLUCION , SE ACOMPAÑA DE CALOR EN AREA QUIRURGICA POR LO QUE ACUDE',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CPNSULTA POR DOLOR',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-12-20 16:59:05',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='2950117144202781812021122004590548',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=146 -->2021-12-21 14:57:57
+182-->insert into dns_traumatologiaconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_enlace) values (140,182,1,189,'CONTROL POSTQUIRURGICO DE HOMBRO IZQUIERDO
+PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR DE HOMBRO IZQUIERDO HACE 2 MESES, TERMINO 20 SESIONES DE FISIOTERAPIA CON LO QUE REFIERE MEJORIA DE UN 50%.
+HOMBRO IZQUIERDO: ARCOS DE MOVILIDAD LIMITADOS, ABDUCCION 90º, ANTEPULSION 120º, ROTACION EXTERNA 20º.',80,'2021-12-21',1,'2021-12-21 15:09:40','15:09','1 CONTINUAR CON FISIOTERAPIA','18901100258084118220211221030940213')-->2021-12-21 15:11:46
+182-->update dns_traumatologiaconsultaexterna set atenc_id=140,usua_id=182,centro_id=1,clie_id=189,conext_notasdeevolucion='CONTROL POSTQUIRURGICO DE HOMBRO IZQUIERDO
+PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR DE HOMBRO IZQUIERDO HACE 2 MESES, TERMINO 20 SESIONES DE FISIOTERAPIA CON LO QUE REFIERE MEJORIA DE UN 50%.
+HOMBRO IZQUIERDO: ARCOS DE MOVILIDAD LIMITADOS, ABDUCCION 90º, ANTEPULSION 120º, ROTACION EXTERNA 20º.',anam_id=80,conext_fechar='2021-12-21',estaatenc_id=1,conext_fecharegistro='2021-12-21 15:09:40',conext_horar='15:09',conext_prescripciones='1 CONTINUAR CON FISIOTERAPIA',conext_enlace='18901100258084118220211221030940213' where conext_id=40 -->2021-12-21 15:12:12
+182-->update dns_traumatologiaconsultaexterna set atenc_id=140,usua_id=182,centro_id=1,clie_id=189,conext_notasdeevolucion='CONTROL POSTQUIRURGICO DE HOMBRO IZQUIERDO
+PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR DE HOMBRO IZQUIERDO HACE 2 MESES, TERMINO 20 SESIONES DE FISIOTERAPIA CON LO QUE REFIERE MEJORIA DE UN 50%.
+HOMBRO IZQUIERDO: ARCOS DE MOVILIDAD LIMITADOS, ABDUCCION 90º, ANTEPULSION 120º, ROTACION EXTERNA 20º.',anam_id=80,conext_fechar='2021-12-21',estaatenc_id=1,conext_fecharegistro='2021-12-21 15:09:40',conext_horar='15:09',conext_prescripciones='1 CONTINUAR CON FISIOTERAPIA',conext_enlace='18901100258084118220211221030940213' where conext_id=40 -->2021-12-21 15:15:10
+182-->update dns_traumatologiaconsultaexterna set atenc_id=140,usua_id=182,centro_id=1,clie_id=189,conext_notasdeevolucion='CONTROL POSTQUIRURGICO DE HOMBRO IZQUIERDO
+PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE HOMBRO IZQUIERDO + PLASTIA DEL MANGUITO ROTADOR DE HOMBRO IZQUIERDO HACE 2 MESES, TERMINO 20 SESIONES DE FISIOTERAPIA CON LO QUE REFIERE MEJORIA DE UN 50%.
+HOMBRO IZQUIERDO: ARCOS DE MOVILIDAD LIMITADOS, ABDUCCION 90º, ANTEPULSION 120º, ROTACION EXTERNA 20º.',anam_id=80,conext_fechar='2021-12-21',estaatenc_id=1,conext_fecharegistro='2021-12-21 15:09:40',conext_horar='15:09',conext_prescripciones='1 CONTINUAR CON FISIOTERAPIA',conext_enlace='18901100258084118220211221030940213' where conext_id=40 -->2021-12-21 15:15:16
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'RINOPLASTIA','','RINOPLASTIA',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR. SANTIAGO GUERRERO',1,'DR. ORLANDO SANTILLAN','MACHALA Y VACA DE CASTRO','1313836122','SUAREZ MIELES','17','DRA. ALEXANDRA NOBOA','1701','LADY LAURA',3,6,1,'','','','LABORATORISTA',56,'1996-10-14','0984869594',7,'0992524932','F',4,4,'ladysuarez1421@gmail.com','','177','2021-12-21 15:48:28','','0117270565071772021122103482813637',NULL,'1','','950','4','')-->2021-12-21 15:51:31
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='RINOPLASTIA',clie_token='',clie_cirugia='RINOPLASTIA',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. SANTIAGO GUERRERO',tipoci_id=1,clie_ayudante='DR. ORLANDO SANTILLAN',clie_direccion='MACHALA Y VACA DE CASTRO',clie_rucci='1313836122',clie_apellido='SUAREZ MIELES',prob_codigo='17',clie_anestesiologo='DRA. ALEXANDRA NOBOA',cant_codigo='1701',clie_nombre='LADY LAURA',tippo_id=3,conve_id=6,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='LABORATORISTA',nac_id=56,clie_fechanacimiento='1996-10-14',clie_emergenciatelf='0984869594',tarterial_id=7,clie_celular='0992524932',clie_genero='F',idgen_id=4,orien_id=4,clie_email='ladysuarez1421@gmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2021-12-21 15:48:28',clie_institucion='',clie_enlace='0117270565071772021122103482813637',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='950',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=423 -->2021-12-21 15:54:43

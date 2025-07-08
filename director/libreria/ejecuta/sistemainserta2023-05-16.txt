@@ -1,0 +1,3 @@
+insert into cmb_camposarch (tiparch_id,crch_nombre,crch_activo,crch_orden,tipc_id,crch_nameid,tipda_id,crch_obligatorio,crch_patharchivo,crch_columnaexcel) values (13,'tari_codigo',1,8,1,'tari_codigo',3,1,'','B')
+insert into cmb_camposarch (tiparch_id,crch_nombre,crch_activo,crch_orden,tipc_id,crch_nameid,tipda_id,crch_obligatorio,crch_patharchivo,crch_columnaexcel) values (13,'subcateg_id',1,9,1,'subcateg_id',3,1,'','F')
+insert into cmb_camposarch (tiparch_id,crch_nombre,crch_activo,crch_orden,tipc_id,crch_nameid,tipda_id,crch_obligatorio,crch_patharchivo,crch_columnaexcel) values (13,'cuadrobm_pvp',1,10,1,'cuadrobm_pvp',3,1,'','0')

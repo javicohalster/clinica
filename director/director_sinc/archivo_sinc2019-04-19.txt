@@ -1,0 +1,10 @@
+update gogess_sisfield set fie_orden='36' where fie_id='4114';
+update gogess_sisfield set fie_orden='36' where fie_id='4114';
+update gogess_sisfield set fie_title='Instrucción:' where fie_id='4114';
+update gogess_sisfield set fie_title='Instrucción:' where fie_id='4114';
+update gogess_sisfield set fie_title='Instrucción:' where fie_id='4114';
+update gogess_sisfield set fie_title='Subir Anexo Accidente Tránsito:' where fie_id='6067';
+update gogess_sisfield set fie_title='Subir Anexo Accidente Tránsito:' where fie_id='6067';
+update gogess_sisfield set fie_title='Condición de egreso:' where fie_id='5453';
+update gogess_sisfield set fie_title='Condición de egreso:' where fie_id='5453';
+update gogess_sisfield set fie_title='SIGNOS VITALES' where fie_id='5569';

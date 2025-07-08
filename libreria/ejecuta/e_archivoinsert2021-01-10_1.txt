@@ -1,0 +1,1 @@
+1-->insert into dns_cierrecaja (emp_id,centro_id,cierr_fecha,cierr_observacion,usua_id,cierr_fecharegistro,usuacierra_id,cierr_enlace) values (1,1,'2021-01-10','Prueba cierre de caja',1,'2021-01-10 20:29:59',0,'17114678842021011008295926743')

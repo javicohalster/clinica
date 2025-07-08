@@ -1,0 +1,18 @@
+update gogess_sisfield set fie_title='Seguro:' where fie_id='8335';
+update gogess_sisfield set fie_title='Cirugia Segura:' where fie_id='8042';
+update gogess_sisfield set fie_title='Cirugia Segura:' where fie_id='8042';
+update gogess_sisfield set fie_title='Hoja de Anestecia:' where fie_id='8043';
+update gogess_sisfield set fie_title='Hoja de Anestesia:' where fie_id='8043';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='8042';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='8043';
+update gogess_sisfield set fie_anchocolomna='4' where fie_id='8044';
+update gogess_sisfield set fie_orden='18' where fie_id='8043';
+update gogess_sisfield set fie_orden='17' where fie_id='8044';
+update gogess_sisfield set fie_orden='1' where fie_id='8042';
+update gogess_sisfield set fie_orden='2' where fie_id='8044';
+update gogess_sisfield set fie_orden='3' where fie_id='8043';
+update gogess_sisfield set fie_orden='3' where fie_id='8043';
+update gogess_sisfield set fie_orden='4' where fie_id='7914';
+update gogess_sisfield set fie_orden='5' where fie_id='7982';
+update gogess_sisfield set fie_orden='6' where fie_id='7918';
+update gogess_sisfield set fie_orden='7' where fie_id='7975';

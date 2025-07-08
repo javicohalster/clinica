@@ -1,0 +1,1 @@
+insert into sth_report (categr_id,rept_activo,rept_aleatunico,rept_archivopersonalizado,rept_campos,rept_nombre,rept_observacion,rept_tabla) values (17,1,'171490744920240807041834170','','','MEDICO PACIENTE','Lista de pacientes por medico','')

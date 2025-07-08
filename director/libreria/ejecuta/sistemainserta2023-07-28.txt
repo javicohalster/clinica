@@ -1,0 +1,2 @@
+insert into gogess_validaciones (fie_id,prgv_id,valid_parametro,valid_mensaje_error,valid_extradata) values (3200,2,'validar_rucprovee.php','RUC DIGITOS INCORRECTOS','tipoident_codigocl:function() {return $("#tipoident_codigocl").val();}')
+insert into gogess_validaciones (fie_id,prgv_id,valid_parametro,valid_mensaje_error,valid_extradata) values (9657,2,'validar_cedulaprovee.php','CEDULA DIGITOS INCORRECTOS','tipoident_codigocl:function() {return $("#tipoident_codigocl").val();}')

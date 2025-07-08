@@ -1,0 +1,186 @@
+250-->insert into app_usuario (conve_id,emp_id,centro_id,usua_tiporuc,usua_siglastitulo,usua_ruc,usua_ciruc,estab_id,usua_carnetconadis,usua_nombreruc,usua_codigo,usua_codigoiniciales,pemision_id,usua_tipodiscapacidad,estabr_id,usua_msp,usua_direccionruc,usua_nombre,usua_apellido,usua_paisruc,usua_porcentajediscapacidad,pemisionr_id,usua_puedehacernc,nac_id,usua_archivocenecyt,usua_enlace,usua_provinciaruc,usua_fechanacimiento,usua_cantonruc,estabnc_id,usua_archivoauxiliares,usua_telefonoruc,pemisionnc_id,etn_id,usua_piefirma,usua_mailruc,usua_celular,usua_horascontrato,tipoh_id,usua_fechaingrero,civil_id,usua_fechasalida,usua_genero,usua_fecha_uingreso,tipcont_id,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion,usua_agenda,usua_farmacia,usua_clvfirma) values (0,1,'12',0,'','','1721289591',1,'','','','LIC',1,'',1,'','','YAJAIRA','ESPINOSA',0,'',1,0,56,'','0117228723462502023070808561989','','13-06-1990','',2,'','',2,6,'LIC','','0996647982','0',1,'2023-07-08',2,'2023-07-08','FEMENINO','0000-00-00',1,'1721289591',0,'00:00',0,'0000-00-00',0,'YAJAIRAESPINOZA@GMAIL.COM','','',1,'',0,0,0,'0',0,'')-->2023-07-08 08:59:43
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4214,centro_id=13,clie_id=5329,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-07 10:47:58',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='IRREGULARES',anam_enlace='53290117213010323652023070710475830',anam_cirugia='RINOSEPTOPLASTIA',anam_cesareas='',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR SANTIAGO PESANTES',anam_hijosvivos='',anam_ayudante='',anam_fum='2023-07-03',anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-07',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1780 -->2023-07-08 10:44:46
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-07-07 15:04:49',atenc_id=4214,centro_id=13,clie_id=5329,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA  ANTISEPSIA
+INFILTRACION CON XILOCAINA LOCAL EN DORSO Y TABIQUE NASAL
+COLOCACION DE TAPONES NASALES
+DIERESIS DESCRITA
+DISECCION Y EXTRACCION DE CARTILAGOS ALARES EN SU PORCION DISTAL
+ESQUELETIZACION OSEA
+RETIRO DE JIBA NASAL LEVEMENTE PRONUNCIADA
+FRACTURAS LATERALES OSEAS INTERNAS
+AFINAMIENTO DE DORSO NASAL
+LEVANTAMIENTO DE PUNTA
+LAVADO DE CAVIDAD
+CONTROL DE HEMOSTASIA
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_proyectada='RINOPLASTIA CERRADA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES INTRANASALES QUE COMPROMTEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1780',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53290117092135222182023070703044995',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='12:10',protoop_horafin='14:00' where protoop_id=1237 -->2023-07-08 10:44:48
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-07-07 15:04:49',atenc_id=4214,centro_id=13,clie_id=5329,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA  ANTISEPSIA
+INFILTRACION CON XILOCAINA LOCAL EN DORSO Y TABIQUE NASAL
+COLOCACION DE TAPONES NASALES
+DIERESIS DESCRITA
+DISECCION Y EXTRACCION DE CARTILAGOS ALARES EN SU PORCION DISTAL
+ESQUELETIZACION OSEA
+RETIRO DE JIBA NASAL LEVEMENTE PRONUNCIADA
+FRACTURAS LATERALES OSEAS INTERNAS
+AFINAMIENTO DE DORSO NASAL
+LEVANTAMIENTO DE PUNTA
+LAVADO DE CAVIDAD
+CONTROL DE HEMOSTASIA
+CIERRE POR PLANOS
+PASE A RECUPERACION',protoop_proyectada='RINOPLASTIA CERRADA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES INTRANASALES QUE COMPROMTEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1780',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53290117092135222182023070703044995',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='12:10',protoop_horafin='14:00' where protoop_id=1237 -->2023-07-08 10:44:48
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4214,centro_id=13,clie_id=5329,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-07-07 10:47:58',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='IRREGULARES',anam_enlace='53290117213010323652023070710475830',anam_cirugia='RINOSEPTOPLASTIA',anam_cesareas='',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR SANTIAGO PESANTES',anam_hijosvivos='',anam_ayudante='',anam_fum='2023-07-03',anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-07',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1780 -->2023-07-08 10:45:07
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4202,centro_id=1,clie_id=5324,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 16 AÑOS DE EDAD, NACIDA EN ESTADOS UNIDOS Y RESIDENTE EN QUITO, SOLTERA, CRISTIANO, ESTUDIANTE DE COLEGIO, DIESTRO,  TIPO DE SANGRE ORH +.
+PACIENTE ADULTA JOVEN,  DIFICULTAD RESPIRATORIA CON PREDOMINIO DE FOSA NASAL DERECHA, POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, TOMOGRAFÍA SE DIAGNOSTICA DESVIÓ DE TABIQUE NASAL + HIPERTROFIA DE CORNETES E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A OTORRINOLARINGOLOGÍA/ HAB 202
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DRA. ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='DIFICULTAD RESPIRATORIA',anam_partos='0',anam_fecharegistro='2023-07-07 06:49:05',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='532401172320022426720230707064905495',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum='2023-07-15',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-07',anam_metodopfamiliar=1,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1776 -->2023-07-08 10:46:08
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:12:14',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA  Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTETOMIAS MEDIAL DERECHA Y PARAMEDIALES BILATERAL CON PIEZOTOMO 
+8-OSTEOTOMÍAS BAJAS BILATERAL 
+9-ABORDAJE DE SEPTO
+10- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+11- SEPARACIÓN CONDROVOMERIANA 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-PREPARACIÓN DE INJERTO SEG BILATERAL
+18-COLOCACION DE INJERTO DE EXTENSIÓN SEPTAL Y FIJACIÓN A NEODOMOS
+19-COLOCACION DE INJERTO SHEEN
+20-SINTESIS
+21-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL+ RINOPLASTIA',protoop_sintesis='VICRYL5-0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.	INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='532401110459371832120230707101214208',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1233 -->2023-07-08 10:46:14
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:12:14',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA  Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTETOMIAS MEDIAL DERECHA Y PARAMEDIALES BILATERAL CON PIEZOTOMO 
+8-OSTEOTOMÍAS BAJAS BILATERAL 
+9-ABORDAJE DE SEPTO
+10- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+11- SEPARACIÓN CONDROVOMERIANA 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-PREPARACIÓN DE INJERTO SEG BILATERAL
+18-COLOCACION DE INJERTO DE EXTENSIÓN SEPTAL Y FIJACIÓN A NEODOMOS
+19-COLOCACION DE INJERTO SHEEN
+20-SINTESIS
+21-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL+ RINOPLASTIA',protoop_sintesis='VICRYL5-0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.	INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='532401110459371832120230707101214208',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1233 -->2023-07-08 10:46:14
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:04:06',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='SEPARADOR DOBLE DE BOLAS
+ESPECULOS NASALES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4-INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL DERECHA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO  Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORE
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL',protoop_sintesis='VICRYL5/0',protoop_cirujanouno='Dra. Daniela Romero',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL',protoop_ayudanteuno='Dra. Samantha Suarez',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53240111045937183212023070710040650',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1230 -->2023-07-08 10:46:33
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:04:06',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='SEPARADOR DOBLE DE BOLAS
+ESPECULOS NASALES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4-INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL DERECHA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO  Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORE
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL',protoop_sintesis='VICRYL5/0',protoop_cirujanouno='Dra. Daniela Romero',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL',protoop_ayudanteuno='Dra. Samantha Suarez',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='53240111045937183212023070710040650',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1230 -->2023-07-08 10:46:33
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:12:14',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA  Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTETOMIAS MEDIAL DERECHA Y PARAMEDIALES BILATERAL CON PIEZOTOMO 
+8-OSTEOTOMÍAS BAJAS BILATERAL 
+9-ABORDAJE DE SEPTO
+10- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+11- SEPARACIÓN CONDROVOMERIANA 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-PREPARACIÓN DE INJERTO SEG BILATERAL
+18-COLOCACION DE INJERTO DE EXTENSIÓN SEPTAL Y FIJACIÓN A NEODOMOS
+19-COLOCACION DE INJERTO SHEEN
+20-SINTESIS
+21-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL+ RINOPLASTIA',protoop_sintesis='VICRYL5-0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.	INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='532401110459371832120230707101214208',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1233 -->2023-07-08 10:46:38
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-07 10:12:14',atenc_id=4202,centro_id=1,clie_id=5324,protoop_exposicion='1.ESPECULOS NASALES 
+2.RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+CORNETES INFERIORES  HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA Y ANTISEPSIA
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA  Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA
+7-OSTETOMIAS MEDIAL DERECHA Y PARAMEDIALES BILATERAL CON PIEZOTOMO 
+8-OSTEOTOMÍAS BAJAS BILATERAL 
+9-ABORDAJE DE SEPTO
+10- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+11- SEPARACIÓN CONDROVOMERIANA 
+12- MEDIALIZACION DE TABIQUE
+13- HEMOSTASIA
+14- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+15- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+16-DEFINICION Y CREACIÓN DE NEODOMOS
+17-PREPARACIÓN DE INJERTO SEG BILATERAL
+18-COLOCACION DE INJERTO DE EXTENSIÓN SEPTAL Y FIJACIÓN A NEODOMOS
+19-COLOCACION DE INJERTO SHEEN
+20-SINTESIS
+21-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+22-COLOCACION DE FÉRULA DURA
+23-COLOCACION DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOPLASTIA INFERIOR BILATERAL+ RINOPLASTIA',protoop_sintesis='VICRYL5-0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.	INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='LCDA JAHAIRA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IRENE YAJAMIN',protoop_idenlace='1776',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='532401110459371832120230707101214208',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-07-07',protoop_horainicio='07:55',protoop_horafin='09:50' where protoop_id=1233 -->2023-07-08 10:46:38
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4202,centro_id=1,clie_id=5324,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 16 AÑOS DE EDAD, NACIDA EN ESTADOS UNIDOS Y RESIDENTE EN QUITO, SOLTERA, CRISTIANO, ESTUDIANTE DE COLEGIO, DIESTRO,  TIPO DE SANGRE ORH +.
+PACIENTE ADULTA JOVEN,  DIFICULTAD RESPIRATORIA CON PREDOMINIO DE FOSA NASAL DERECHA, POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, TOMOGRAFÍA SE DIAGNOSTICA DESVIÓ DE TABIQUE NASAL + HIPERTROFIA DE CORNETES E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A OTORRINOLARINGOLOGÍA/ HAB 202
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DRA. ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='DIFICULTAD RESPIRATORIA',anam_partos='0',anam_fecharegistro='2023-07-07 06:49:05',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='532401172320022426720230707064905495',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum='2023-07-15',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-07',anam_metodopfamiliar=1,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1776 -->2023-07-08 10:46:51
+250-->insert into app_usuario (conve_id,emp_id,centro_id,usua_tiporuc,usua_siglastitulo,usua_ruc,usua_ciruc,estab_id,usua_carnetconadis,usua_nombreruc,usua_codigo,usua_codigoiniciales,pemision_id,usua_tipodiscapacidad,estabr_id,usua_msp,usua_direccionruc,usua_nombre,usua_apellido,usua_paisruc,usua_porcentajediscapacidad,pemisionr_id,usua_puedehacernc,nac_id,usua_archivocenecyt,usua_enlace,usua_provinciaruc,usua_fechanacimiento,usua_cantonruc,estabnc_id,usua_archivoauxiliares,usua_telefonoruc,pemisionnc_id,etn_id,usua_piefirma,usua_mailruc,usua_celular,usua_horascontrato,tipoh_id,usua_fechaingrero,civil_id,usua_fechasalida,usua_genero,usua_fecha_uingreso,tipcont_id,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion,usua_agenda,usua_farmacia,usua_clvfirma) values (0,1,'12',0,'','','1726366436',1,'','','','Lic',0,'',1,'','','Edgar Rubén','Chicaiza',0,'',0,1,56,'','0117228723462502023070809144433','','000000000','',2,'','',0,6,'Lic','','0964062714','0',1,'2023-07-08',1,NULL,'MASCULINO','0000-00-00',1,'1726366436',0,'00:00',0,'0000-00-00',0,'Junior.prr.17@gmail.com','','',1,'',0,0,0,'0',0,'')-->2023-07-08 21:19:04
+250-->update app_usuario set conve_id=0,emp_id=1,centro_id='12',usua_tiporuc=0,usua_siglastitulo='',usua_ruc='',usua_ciruc='1726366436',estab_id=1,usua_carnetconadis='',usua_nombreruc='',usua_codigo='',usua_codigoiniciales='Lic',pemision_id=0,usua_tipodiscapacidad='',estabr_id=1,usua_msp='',usua_direccionruc='',usua_nombre='Edgar Rubén',usua_apellido='Chicaiza',usua_paisruc=0,usua_porcentajediscapacidad='',pemisionr_id=0,usua_puedehacernc=1,nac_id=56,usua_archivocenecyt='',usua_enlace='0117228723462502023070809144433',usua_provinciaruc='',usua_fechanacimiento='0000-00-00',usua_cantonruc='',estabnc_id=2,usua_archivoauxiliares='',usua_telefonoruc='',pemisionnc_id=0,etn_id=6,usua_piefirma='Lic',usua_mailruc='',usua_celular='0964062714',usua_horascontrato='0',tipoh_id=1,usua_fechaingrero='2023-07-08',civil_id=1,usua_fechasalida=NULL,usua_genero='MASCULINO',usua_fecha_uingreso='0000-00-00',tipcont_id=1,usua_usuario='1726366436',especi_id=0,usua_hora_uingreso='00:00',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='Junior.prr.17@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0',usua_farmacia=0,usua_clvfirma='' where usua_id=383 -->2023-07-08 21:23:39
+250-->update app_usuario set conve_id=0,emp_id=1,centro_id='12',usua_tiporuc=0,usua_siglastitulo='',usua_ruc='',usua_ciruc='1726366436',estab_id=1,usua_carnetconadis='',usua_nombreruc='',usua_codigo='',usua_codigoiniciales='Lic',pemision_id=0,usua_tipodiscapacidad='',estabr_id=1,usua_msp='',usua_direccionruc='',usua_nombre='Edgar Rubén',usua_apellido='Chicaiza',usua_paisruc=0,usua_porcentajediscapacidad='',pemisionr_id=0,usua_puedehacernc=1,nac_id=56,usua_archivocenecyt='',usua_enlace='0117228723462502023070809144433',usua_provinciaruc='',usua_fechanacimiento='0000-00-00',usua_cantonruc='',estabnc_id=2,usua_archivoauxiliares='',usua_telefonoruc='',pemisionnc_id=0,etn_id=6,usua_piefirma='Lic',usua_mailruc='',usua_celular='0964062714',usua_horascontrato='0',tipoh_id=1,usua_fechaingrero='2023-07-08',civil_id=1,usua_fechasalida=NULL,usua_genero='MASCULINO',usua_fecha_uingreso='2023-07-08 21:24:23',tipcont_id=1,usua_usuario='1726366436',especi_id=0,usua_hora_uingreso='21:24:23',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='Junior.prr.17@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0',usua_farmacia=0,usua_clvfirma='' where usua_id=383 -->2023-07-08 21:26:56

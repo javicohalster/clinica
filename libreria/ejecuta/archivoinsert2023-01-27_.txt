@@ -1,0 +1,10 @@
+-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2669,centro_id=1,clie_id=3843,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTO JOVEN, REFIERE COMO CAUSA APARENTE HACE 1 MES CAÍDA DE SSU PROPIA ALTURA QUE PROVOCA ROTACIÓN INTERNA Y PALANCA DE RODILLA DERECHA PRESENTADO CUADRO CLÍNICO DE DOLOR DE MODERADA A GRAN INTENSIDAD, ACOMPAÑADO DE EDEMA Y LIMITACIÓN FUNCIONAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS RMN E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A TRAUMATOLOGÍA/ HAB 304 A
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. FIRMAR CONSENTIMIENTOS INFORMADOS
+    7. CANALIZAR VÍA PERIFÉRICA
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. EUGENIO PEÑAHERRERA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-01-27 10:52:54',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='384301172320022426720230127105254488',anam_cirugia='ARTROPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-01-27',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1223 -->2023-01-27 19:48:08

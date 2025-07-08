@@ -1,0 +1,1 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','123456','darwineduarrodriguezmontenegro.p12','darwineduarrodriguezmontenegro.p12/.',1,'1804215109')

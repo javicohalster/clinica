@@ -1,0 +1,600 @@
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=217,centro_id=1,clie_id=286,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-13 08:43:54',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='28601020234257218520211113084354440',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2021-11-05',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2020-03-00',anam_fechaingreso='2021-11-13',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=146 -->2021-11-14 06:30:08
+185-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (185,217,146,1,286,1,0,0,0,0,0,0,'dns_hospitalanamesis',0,0,0,0,'',0,0,'',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2021-11-14 06:30:29',0,0,'',0,'',0,0,'1701',0,'06:30',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'307','H3',0,'28601020234257218520211114063029257','2021-11-14 06:30:29',0,0,0,0)-->2021-11-14 06:31:06
+185-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (217,185,1,286,'EVOLUCIÓN AM
+PACIENTE FEMENINA DE 32 AÑOS 
+POST QUIRÚRGICA INMEDIATA DE LIPOESCULTURA.
+S: PACIENTE REFIERE SENSACIÓN DE NAÚSEA QUE NO LLEGA AL VÓMITO, REFIERE SED, MAL DESCANSO NOCTURNO.
+O: PACIENTE CONCIENTE, ORIENTADA, SEMIHIDRATADA, AFEBRIL, NO ÁLGICA, EG: 15/15
+TA 87/55 TAM 66 FC 82 FR 18 S02 90% AA
+PIEL PÁLIDA MO: SEMIHÚMEDAS CUELLO: MOVIL, NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CARDÍACO: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. 
+PULMONES: MV CONSERVADO, SIN RUIDOS AÑADIDOS. ABDOMEN: BLANDO, DEPRESIBLE, LEVEMENTE DOLOROSO EN PUERTOS QUIRÚRGICOS, APÓSITOS SECOS, RHA PRESENTES. R. LUMBAR: PUERTO QUIRÚRGICO APÓSITOS MANCHADOS HEMÁTICOS.
+COLOCADA FAJA PORT OPERATORIA MANCHADA HEMÁTICO EN MODERADA CANTIDAD A NIVEL DE REGIÓN PÉLVICA Y LUMBAR. 
+EXTREMIDADES: MIEMBROS INFERIORES CON MEDIAS DE COMPRESIÓN NEUMÁTICA, LLENADO CAPILAR 2 SEGUNDOS.
+
+A: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO DE LIPOESCULTURA, SE EVIDENCIÓ SANGRADO MODERADO EN PUERTOS QUIRÚRGICOS, POR SANGRADO MODERADO EVIDENCIADO SE INDAGÓ MEDICACIÓN ADMINISTRADA HACE 2 NOCHES, REPORTANDO PACIENTE EQUIVOCACIÓN DE LA MISMA (MEDICO INDICÓ TOMAR PREGABALINA SIN EMBARGO PACIENTE POR EQUIVOCACIÓN SE TOMÓ CLOPIDOGREL), AL TRATARSE DE UN ANTIAGRAGANTE PLAQUETARIO SE COMUNICÓ NOVEDAD A MÉDICOS TRANTANTES, SE ADMINISTRÓ ÁCIDO TRANEXÁMICO, VITAMINA K. EXAMENES DE CONTROL:
+LEUCO 22360 NEU 94.5% LINFO 2.5% HB 10.9 HCTO 29.6% PLAQ 272000 TP 16.3 TTP 22.5 INR 2.10 GS: ORH+
+PACIENTE NO TAQUICÁRDICA, MANTIENE TAM MAYORES A 65, DOLOR CONTROLADO, MANTIENE OXEMIAS ENTRE 90-91% AIRE AMBIENTE, TOLERANDO VÍA ORAL, PENDIENTE BIOMETRIA DE CONTROL HOY, DIURESIS ESPONTANEA PRESENTE, SE MANTIENE EN OBSERVACIÓN CON MONITORIZACIÓN DE SIGNOS VITALES, MANTENDREMOS VIGILANCIA ESTRICTA.',146,'2021-11-14',1,'2021-11-14 06:34:04','06:34','28601020234257218520211114063404388')-->2021-11-14 07:08:01
+213-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)','FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',1,'','REGISTRADO',1,'TRAUMATOLOGIA','DR. SANCHEZ',1,'DR. FRANCISCO RODRIGUEZ','1701692319','CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA','QUSHPE PINEDA','DR. CALERO','17','ROSARIO','1701',3,6,'',6,'','NN','',56,'1929-11-16','0991114772',7,'0982983637','F',4,'','quishpequshpeabelardo@gmail.com',4,'213','2021-11-14 08:45:12','','0117289538922132021111408451227818',NULL,'1','','2','')-->2021-11-14 08:52:21
+213-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_cirugia,grp_id,clie_token,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_rucci,clie_direccion,clie_apellido,clie_anestesiologo,prob_codigo,clie_nombre,cant_codigo,tippo_id,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_codigoisspol,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,clie_emergenciacelu,clie_email,orien_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)','FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',1,'','REGISTRADO',1,'TRAUMATOLOGIA','DR. SANCHEZ',1,'DR. FRANCISCO RODRIGUEZ','1701692319','CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA','QUSHPE PINEDA','DR. CALERO','17','ROSARIO','1701',3,6,'',6,'','NN','',56,'1929-11-16','0991114772',7,'0982983637','F',4,'','quishpequshpeabelardo@gmail.com',4,'213','2021-11-14 08:45:12','','0117289538922132021111408451227818',NULL,'1','','2','')-->2021-11-14 08:52:22
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:30
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:33
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:34
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:38
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:38
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:39
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:39
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:40
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:41
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:51
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:52
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:53
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:53
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:54
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='quishpequshpeabelardo@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:52:54
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:02
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:03
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:04
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:04
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:05
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1701',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:54:06
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:55:36
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:55:37
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 08:55:48
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUSHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 09:20:34
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUISHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 09:24:49
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUISHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 09:39:55
+213-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',clie_cirugia='FRACTURA DE CADERA (OSTEOSINTESIS CON CLAVO CEFALOMEDULAR)',grp_id=1,clie_token='',clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='TRAUMATOLOGIA',clie_tratante='DR. NELSON SANCHEZ',tipoci_id=1,clie_ayudante='DR. FRANCISCO RODRIGUEZ',clie_rucci='1701692319',clie_direccion='CUSUBAMBA BARRIO SAN PEDRO DE CHINCHINLOMA',clie_apellido='QUISHPE PINEDA',clie_anestesiologo='DR. CALERO',prob_codigo='17',clie_nombre='ROSARIO',cant_codigo='1702',tippo_id=3,civil_id=6,clie_parroquia='',conve_id=6,clie_telefono='',clie_ocupacion='NN',clie_codigoisspol='',nac_id=56,clie_fechanacimiento='1929-11-16',clie_emergenciatelf='0991114772',tarterial_id=7,clie_celular='0982983637',clie_genero='F',idgen_id=4,clie_emergenciacelu='',clie_email='abequishpe.65@gmail.com',orien_id=4,usua_id='213',clie_registro='2021-11-14 08:45:12',clie_institucion='',clie_enlace='0117289538922132021111408451227818',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_instruccion='2',clie_seguroprivadoarchivo='' where clie_id=287 -->2021-11-14 18:49:40
+178-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=217,centro_id=1,clie_id=286,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-13 08:43:54',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='28601020234257218520211113084354440',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2021-11-05',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2020-03-00',anam_fechaingreso='2021-11-13',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=146 -->2021-11-14 19:28:31
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (217,178,1,286,'NOTA',146,'2021-11-14',1,'2021-11-14 19:28:40','19:28','28601172173839917820211114072840390')-->2021-11-14 19:28:44
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (217,178,1,286,'EVOLUCIÓN AM PACIENTE FEMENINA DE 32 AÑOS POST QUIRÚRGICA INMEDIATA DE LIPOESCULTURA. S: PACIENTE REFIERE SENSACIÓN DE NAÚSEA QUE NO LLEGA AL VÓMITO, REFIERE SED, MAL DESCANSO NOCTURNO. O: PACIENTE CONCIENTE, ORIENTADA, SEMIHIDRATADA, AFEBRIL, NO ÁLGICA, EG: 15/15 TA 87/55 TAM 66 FC 82 FR 18 S02 90% AA PIEL PÁLIDA MO: SEMIHÚMEDAS CUELLO: MOVIL, NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CARDÍACO: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES: MV CONSERVADO, SIN RUIDOS AÑADIDOS. ABDOMEN: BLANDO, DEPRESIBLE, LEVEMENTE DOLOROSO EN PUERTOS QUIRÚRGICOS, APÓSITOS SECOS, RHA PRESENTES. R. LUMBAR: PUERTO QUIRÚRGICO APÓSITOS MANCHADOS HEMÁTICOS. COLOCADA FAJA PORT OPERATORIA MANCHADA HEMÁTICO EN MODERADA CANTIDAD A NIVEL DE REGIÓN PÉLVICA Y LUMBAR. EXTREMIDADES: MIEMBROS INFERIORES CON MEDIAS DE COMPRESIÓN NEUMÁTICA, LLENADO CAPILAR 2 SEGUNDOS. A: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA CURSANDO PRIMER DÍA POST QUIRÚRGICO INMEDIATO DE LIPOESCULTURA, SE EVIDENCIÓ SANGRADO MODERADO EN PUERTOS QUIRÚRGICOS, POR SANGRADO MODERADO EVIDENCIADO SE INDAGÓ MEDICACIÓN ADMINISTRADA HACE 2 NOCHES, REPORTANDO PACIENTE EQUIVOCACIÓN DE LA MISMA (MEDICO INDICÓ TOMAR PREGABALINA SIN EMBARGO PACIENTE POR EQUIVOCACIÓN SE TOMÓ CLOPIDOGREL), AL TRATARSE DE UN ANTIAGRAGANTE PLAQUETARIO SE COMUNICÓ NOVEDAD A MÉDICOS TRANTANTES, SE ADMINISTRÓ ÁCIDO TRANEXÁMICO, VITAMINA K. EXAMENES DE CONTROL: LEUCO 22360 NEU 94.5% LINFO 2.5% HB 10.9 HCTO 29.6% PLAQ 272000 TP 16.3 TTP 22.5 INR 2.10 GS: ORH+ PACIENTE NO TAQUICÁRDICA, MANTIENE TAM MAYORES A 65, DOLOR CONTROLADO, MANTIENE OXEMIAS ENTRE 90-91% AIRE AMBIENTE, TOLERANDO VÍA ORAL, PENDIENTE BIOMETRIA DE CONTROL HOY, DIURESIS ESPONTANEA PRESENTE, SE MANTIENE EN OBSERVACIÓN CON MONITORIZACIÓN DE SIGNOS VITALES, MANTENDREMOS VIGILANCIA ESTRICTA.',146,'2021-11-14',1,'2021-11-14 19:29:33','19:29','28601172173839917820211114072933356')-->2021-11-14 19:29:37
+178-->update dns_hospitalconsultaexterna set atenc_id=217,usua_id=178,centro_id=1,clie_id=286,conext_notasdeevolucion='PACIENTE FEMENINA DE 32 AÑOS POST QUIRÚRGICA INMEDIATA DE LIPOESCULTURA. 
+SE REALIZA TRASFUSION DE SEIS CONCENTRADOS PLAQUETARIOS. PACIENTE REFIERE SENSACIÓN DE MAREO LEVE QUE NO LLEGA AL VÓMITO
+
+PACIENTE CONCIENTE, ORIENTADA, SEMIHIDRATADA, AFEBRIL, NO ÁLGICA, EG: 15/15 TA 87/55 TAM 66 FC 82 FR 18 S02 90% AA PIEL PÁLIDA MO: SEMIHÚMEDAS CUELLO: MOVIL, NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CARDÍACO: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES: MV CONSERVADO, SIN RUIDOS AÑADIDOS. ABDOMEN: BLANDO, DEPRESIBLE, LEVEMENTE DOLOROSO EN PUERTOS QUIRÚRGICOS, APÓSITOS SECOS, RHA PRESENTES. R. LUMBAR: PUERTO QUIRÚRGICO APÓSITOS MANCHADOS HEMÁTICOS. COLOCADA FAJA PORT OPERATORIA MANCHADA HEMÁTICO EN MODERADA CANTIDAD A NIVEL DE REGIÓN PÉLVICA Y LUMBAR. EXTREMIDADES: MIEMBROS INFERIORES CON MEDIAS DE COMPRESIÓN NEUMÁTICA, LLENADO CAPILAR 2 SEGUNDOS. 
+
+A: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA. SE REALIZA TRASFUSION DE CONCNETRADOS PLAQUETARIOS SIN REACCIONES ADVERSAS. PACIENTE PENDIENTE VALORACION PARA EL ALTA',anam_id=146,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:29:33',conext_horar='19:29',conext_enlace='28601172173839917820211114072933356' where conext_id=262 -->2021-11-14 19:32:32
+178-->update dns_hospitalconsultaexterna set atenc_id=217,usua_id=178,centro_id=1,clie_id=286,conext_notasdeevolucion='PACIENTE FEMENINA DE 32 AÑOS POST QUIRÚRGICA INMEDIATA DE LIPOESCULTURA. 
+SE REALIZA TRASFUSION DE SEIS CONCENTRADOS PLAQUETARIOS. PACIENTE REFIERE SENSACIÓN DE MAREO LEVE QUE NO LLEGA AL VÓMITO
+
+PACIENTE CONCIENTE, ORIENTADA, SEMIHIDRATADA, AFEBRIL, NO ÁLGICA, EG: 15/15 TA 87/55 TAM 66 FC 82 FR 18 S02 90% AA PIEL PÁLIDA MO: SEMIHÚMEDAS CUELLO: MOVIL, NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA, CARDÍACO: RUIDOS CARDIACOS RITMICOS, SIN SOPLOS. PULMONES: MV CONSERVADO, SIN RUIDOS AÑADIDOS. ABDOMEN: BLANDO, DEPRESIBLE, LEVEMENTE DOLOROSO EN PUERTOS QUIRÚRGICOS, APÓSITOS SECOS, RHA PRESENTES. R. LUMBAR: PUERTO QUIRÚRGICO APÓSITOS MANCHADOS HEMÁTICOS. COLOCADA FAJA PORT OPERATORIA MANCHADA HEMÁTICO EN MODERADA CANTIDAD A NIVEL DE REGIÓN PÉLVICA Y LUMBAR. EXTREMIDADES: MIEMBROS INFERIORES CON MEDIAS DE COMPRESIÓN NEUMÁTICA, LLENADO CAPILAR 2 SEGUNDOS. 
+
+A: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA. SE REALIZA TRASFUSION DE CONCNETRADOS PLAQUETARIOS SIN REACCIONES ADVERSAS. PACIENTE PENDIENTE VALORACION PARA EL ALTA',anam_id=146,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:29:33',conext_horar='17:00',conext_enlace='28601172173839917820211114072933356' where conext_id=262 -->2021-11-14 19:32:40
+178-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=217,centro_id=1,clie_id=286,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-11-13 08:43:54',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='CMI',anam_enlace='28601020234257218520211113084354440',anam_cirugia='LIPOSUCCIÓN',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2021-11-05',anam_anestesiologo='DR. SANTANA',anam_fup=NULL,anam_fuc='2020-03-00',anam_fechaingreso='2021-11-13',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=146 -->2021-11-14 19:32:47
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,286,1,217,'','146','','','','','2021-11-14 19:32:50','','','','PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.','','28601172173839917820211114073250300','','13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES','','','19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000','','','TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO')-->2021-11-14 19:34:06
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:08
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:09
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:10
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:11
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:12
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:13
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:23
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:26
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:27
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:27
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:28
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:29
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='',protoop_idenlace='146',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:34:37
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=286,centro_id=1,atenc_id=217,anam_altadefinitiva='1',protoop_idenlace='146',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE.',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2021-11-14 19:32:50',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN AMBATO Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, EMPLEADA PRIVADA CALL CENTER, INSTRUCCIÓN SUPERIOR INCOMPLETA, DIESTRA, GS: ORH.
+ALERGIAS: NINGUNA CONOCIDA      TRANSFUSIONES: NIEGA
+APP: + INFECCIÓN POR SARS COV 2 AGOSTO/2020
+AQX: RINOPLASTIA
+HÁBITOS: ALIMENTARIO 5 VECES/DÍA MICCIONAL 5-6 VECES/DÍA DEFECATORIO 1 VEZ/DÍA ALCOHOL NIEGA TABACO NIEGA
+VACUNA SARS COV 2: ASTRAZENECA (2DA DOSIS) 
+APF: PADRE HIPERTENSIÓN ARTERIAL
+ 
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+ 
+ENFERMEDAD ACTUAL: PACIENTE ADULTA JOVEN SIN ANTECEDENTES CLÍNICOS DE IMPORTANCIA, REFIERE CUADRO CLINICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE A MÉDICO ESPECIALISTA QUIEN INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_nhoja='',anam_enlace='28601172173839917820211114073250300',anam_discapacidadleve='',anam_resumenevolucion='13/11/2021 PACIENTE ADULTA JOVEN, INGRESADA PARA RESOLUCIÓN QUIRÚRGICA, SE REALIZÓ LIPOESCULTURA, BAJO ANESTESIA GENERAL, ACTO QUIRÚRGICO SIN COMPLICACIONES.
+
+POST QUIRÚRGICO INMEDIATO CON BUEN MANEJO DEL DOLOR, NAUSEAS QUE LLEGAN AL VÓMITO POR UNA OCASIÓN QUE CEDE CON ADMINISTRACIÓN DE ANTIHEMÉTICOS, POSTERIOR BUENA TOLERANCIA ORAL, DIURESIS ESPONTÁNEA, AMBULATORIA, SIGNOS VITALES SE HAN MANTENIDO DENTRO DE PARÁMETROS NORMALES, PACIENTE CLINICA Y HEMODINÁMICAMENTE ESTABLE, EN CONDICIONES DE ALTA HOSPITALARIA.
+
+14/11/21 PACIENTE CON CAIDA DE LOS NIVELES DE PLAQUETAS Y HEMOGLOBINA. SE TRASFUNDE 6 CONCENTRADOS PLAQUETARIOS, SIN EFECTOS ADVERSOS
+
+14/11/21 PACIENTE EN CONDICION CLINICA ESTABLE, BUENA TOLERANCIA ORAL. SE OTORGA ALTA + INDICACIONES',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='19/10/2021: LEUCO 7,2 NEU 62,6% LINFO 32,7% HB 15,7 HCTO 46,7% PLAQ 363000 TP 13,96 TTP 38,45 INR 1,07 CREA 0,91 UREA 20,32 BUN 9,48 
+
+ANTICUERPOS PARA SARS COV 2: IGG 23,59 (REACTIVO) IGM 0,321 (NO REACTIVO)
+
+13/11/21:  HEMOGLOBINA 10.9   HEMATOCRITO 29.6   PLAQUETAS: 272000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO:
+09/11/2021: PROCEDIMIENTO: LIPOESCULTURA
+BAJO ANESTESIA GENERAL
+HALLAZGOS QUIRÚRGICOS: 
+- LIPODISTROFIA ABDOMINAL
+- LIPODISTROFIA LUMBAR Y EN CINTURA
+- LIPOSUCCIÓN DE 3500 CC
+- INJERTO GRASO 540 CC EN CADA GLUTEO
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO: 
+- METAMIZOL 2 GRAMOS IV EN CASO DE DOLOR
+- ONDASETRON 4 MG IV EN ESTE MOMENTO
+- METOCLOPRAMIDA 5 MG IV EN ESTE MOMENTO' where anam_id=93 -->2021-11-14 19:35:02
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,287,'1701692319-1','2',178,'2021-11-14 19:35:10','','','2021-11-14 19:35:10','CIRUGIA PROGRAMADA','2021-11-14 19:35:10','1701692319','VIVO',1,'','','0117217383991782021111407351067')-->2021-11-14 19:35:20
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',218,1,287,'','','PACIENTE FEMENINA DE 92 AÑOS DE EDAD SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA.  PACIENTE REFIERE QUE SUFRE CAÍDA DESDE UNA GRADA DE APROXIMADAMENTE 30 CM DE ALTURA, POSTERIOR A LO QUE PRESENTÓ DOLOR INTENSO EN MIEMBRO INFERIOR IZQUIERDO CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA  MANTENER LA BIPEDESTACIÓN, POR LO QUE ACUDE CON FACULTATIVO QUIEN  TRAS REALIZAR RX DIAGNOSTICA FRACTURA A NIVEL DE FÉMUR IZQUIERDO.	
+AL MOMENTO DEL INGRESO PACIENTE PERSISTE CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA LA DEAMBULACIÓN.','','','','',4,'','DOLOR EN CADERA IZQUIERDA','7','2021-11-14 19:35:34','','','','0','','28701172173839917820211114073534419','','0','7','TRAUMATOLOGIA','DR. SANCHEZ','','',NULL,'',NULL,NULL,'2021-11-14',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-11-14 19:38:08
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=218,centro_id=1,clie_id=287,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 92 AÑOS DE EDAD SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA.  PACIENTE REFIERE QUE SUFRE CAÍDA DESDE UNA GRADA DE APROXIMADAMENTE 30 CM DE ALTURA, POSTERIOR A LO QUE PRESENTÓ DOLOR INTENSO EN MIEMBRO INFERIOR IZQUIERDO CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA  MANTENER LA BIPEDESTACIÓN, POR LO QUE ACUDE CON FACULTATIVO QUIEN  TRAS REALIZAR RX DIAGNOSTICA FRACTURA A NIVEL DE FÉMUR IZQUIERDO.	
+AL MOMENTO DEL INGRESO PACIENTE PERSISTE CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA LA DEAMBULACIÓN.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR EN CADERA IZQUIERDA',anam_partos='7',anam_fecharegistro='2021-11-14 19:35:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='28701172173839917820211114073534419',anam_cirugia='',anam_cesareas='0',anam_gesta='7',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-14',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=147 -->2021-11-14 19:38:18
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (218,178,1,287,'EVOLUCION NOCTURNA 
+
+PACIENTE INGRESA PARA RESOLUCION QUIRURGICA POR FRACTURA DE CADERA IZQUIERDA. SE SUSPENDE CIRUGIA POR CUADRO DE ANEMIA EN EL CONTROL PREQUIRURGICO. SE REALIZO TRASFUSION DE 2 CONCENTRADOS DE GLOBULOS ROJOS, Y UN CONCENTRADO PLAQUETARIO, SIN REACCIONES ADVERSAS. AL MOMENTO PACIENTE PRESENTA DOLOR A LA MOVILIZACION DE MIEMBRO INFERIOR IZQUIERDO.',147,'2021-11-14',1,'2021-11-14 19:38:24','19:38','28701172173839917820211114073824469')-->2021-11-14 19:41:11
+178-->update dns_hospitalconsultaexterna set atenc_id=218,usua_id=178,centro_id=1,clie_id=287,conext_notasdeevolucion='EVOLUCION NOCTURNA 
+
+PACIENTE INGRESA PARA RESOLUCION QUIRURGICA POR FRACTURA DE CADERA IZQUIERDA. SE SUSPENDE CIRUGIA POR CUADRO DE ANEMIA EN EL CONTROL PREQUIRURGICO. SE REALIZO TRASFUSION DE 2 CONCENTRADOS DE GLOBULOS ROJOS, Y UN CONCENTRADO PLAQUETARIO, SIN REACCIONES ADVERSAS. AL MOMENTO PACIENTE PRESENTA DOLOR A LA MOVILIZACION DE MIEMBRO INFERIOR IZQUIERDO.',anam_id=147,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:38:24',conext_horar='19:38',conext_enlace='28701172173839917820211114073824469' where conext_id=263 -->2021-11-14 19:41:36
+178-->update dns_hospitalconsultaexterna set atenc_id=218,usua_id=178,centro_id=1,clie_id=287,conext_notasdeevolucion='EVOLUCION NOCTURNA 
+
+PACIENTE INGRESA PARA RESOLUCION QUIRURGICA POR FRACTURA DE CADERA IZQUIERDA. SE SUSPENDE CIRUGIA POR CUADRO DE ANEMIA EN EL CONTROL PREQUIRURGICO. SE REALIZO TRASFUSION DE 2 CONCENTRADOS DE GLOBULOS ROJOS, Y UN CONCENTRADO PLAQUETARIO, SIN REACCIONES ADVERSAS. AL MOMENTO PACIENTE PRESENTA DOLOR A LA MOVILIZACION DE MIEMBRO INFERIOR IZQUIERDO.',anam_id=147,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:38:24',conext_horar='19:38',conext_enlace='28701172173839917820211114073824469' where conext_id=263 -->2021-11-14 19:41:42
+178-->update dns_hospitalconsultaexterna set atenc_id=218,usua_id=178,centro_id=1,clie_id=287,conext_notasdeevolucion='EVOLUCION NOCTURNA 
+
+PACIENTE INGRESA PARA RESOLUCION QUIRURGICA POR FRACTURA DE CADERA IZQUIERDA. SE SUSPENDE CIRUGIA POR CUADRO DE ANEMIA EN EL CONTROL PREQUIRURGICO. SE REALIZO TRASFUSION DE 2 CONCENTRADOS DE GLOBULOS ROJOS, Y UN CONCENTRADO PLAQUETARIO, SIN REACCIONES ADVERSAS. AL MOMENTO PACIENTE PRESENTA DOLOR A LA MOVILIZACION DE MIEMBRO INFERIOR IZQUIERDO.',anam_id=147,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:38:24',conext_horar='19:38',conext_enlace='28701172173839917820211114073824469' where conext_id=263 -->2021-11-14 19:41:47
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=218,centro_id=1,clie_id=287,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 92 AÑOS DE EDAD SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA.  PACIENTE REFIERE QUE SUFRE CAÍDA DESDE UNA GRADA DE APROXIMADAMENTE 30 CM DE ALTURA, POSTERIOR A LO QUE PRESENTÓ DOLOR INTENSO EN MIEMBRO INFERIOR IZQUIERDO CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA  MANTENER LA BIPEDESTACIÓN, POR LO QUE ACUDE CON FACULTATIVO QUIEN  TRAS REALIZAR RX DIAGNOSTICA FRACTURA A NIVEL DE FÉMUR IZQUIERDO.	
+AL MOMENTO DEL INGRESO PACIENTE PERSISTE CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA LA DEAMBULACIÓN.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR EN CADERA IZQUIERDA',anam_partos='7',anam_fecharegistro='2021-11-14 19:35:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='28701172173839917820211114073534419',anam_cirugia='',anam_cesareas='0',anam_gesta='7',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-14',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=147 -->2021-11-14 19:41:59
+178-->update dns_hospitalconsultaexterna set atenc_id=218,usua_id=178,centro_id=1,clie_id=287,conext_notasdeevolucion='EVOLUCION NOCTURNA 
+
+PACIENTE INGRESA PARA RESOLUCION QUIRURGICA POR FRACTURA DE CADERA IZQUIERDA. SE SUSPENDE CIRUGIA POR CUADRO DE ANEMIA EN EL CONTROL PREQUIRURGICO. SE REALIZO TRASFUSION DE 2 CONCENTRADOS DE GLOBULOS ROJOS, Y UN CONCENTRADO PLAQUETARIO, SIN REACCIONES ADVERSAS. AL MOMENTO PACIENTE PRESENTA DOLOR A LA MOVILIZACION DE MIEMBRO INFERIOR IZQUIERDO.',anam_id=147,conext_fechar='2021-11-14',estaatenc_id=1,conext_fecharegistro='2021-11-14 19:38:24',conext_horar='19:38',conext_enlace='28701172173839917820211114073824469' where conext_id=263 -->2021-11-14 19:42:04
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=218,centro_id=1,clie_id=287,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 92 AÑOS DE EDAD SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA.  PACIENTE REFIERE QUE SUFRE CAÍDA DESDE UNA GRADA DE APROXIMADAMENTE 30 CM DE ALTURA, POSTERIOR A LO QUE PRESENTÓ DOLOR INTENSO EN MIEMBRO INFERIOR IZQUIERDO CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA  MANTENER LA BIPEDESTACIÓN, POR LO QUE ACUDE CON FACULTATIVO QUIEN  TRAS REALIZAR RX DIAGNOSTICA FRACTURA A NIVEL DE FÉMUR IZQUIERDO.	
+AL MOMENTO DEL INGRESO PACIENTE PERSISTE CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA LA DEAMBULACIÓN.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR EN CADERA IZQUIERDA',anam_partos='7',anam_fecharegistro='2021-11-14 19:35:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='28701172173839917820211114073534419',anam_cirugia='',anam_cesareas='0',anam_gesta='7',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-14',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=147 -->2021-11-14 19:42:11
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=218,centro_id=1,clie_id=287,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 92 AÑOS DE EDAD SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR TRAUMATOLOGÍA.  PACIENTE REFIERE QUE SUFRE CAÍDA DESDE UNA GRADA DE APROXIMADAMENTE 30 CM DE ALTURA, POSTERIOR A LO QUE PRESENTÓ DOLOR INTENSO EN MIEMBRO INFERIOR IZQUIERDO CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA  MANTENER LA BIPEDESTACIÓN, POR LO QUE ACUDE CON FACULTATIVO QUIEN  TRAS REALIZAR RX DIAGNOSTICA FRACTURA A NIVEL DE FÉMUR IZQUIERDO.	
+AL MOMENTO DEL INGRESO PACIENTE PERSISTE CON IMPOTENCIA FUNCIONAL E INCAPACIDAD PARA LA DEAMBULACIÓN.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR EN CADERA IZQUIERDA',anam_partos='7',anam_fecharegistro='2021-11-14 19:35:34',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='28701172173839917820211114073534419',anam_cirugia='',anam_cesareas='0',anam_gesta='7',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. SANCHEZ',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-11-14',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=147 -->2021-11-14 19:42:23

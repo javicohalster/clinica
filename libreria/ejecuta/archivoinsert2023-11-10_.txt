@@ -1,0 +1,6 @@
+-->update dns_newconsultaexternaanamesis set clie_id=5821,usua_id=296,centro_id=1,atenc_id=5511,anam_referencia='',anam_emferpactual='paciente que no hay notas en el sistema. no se ha granado. acude a segundo control con igual sintomatología. al momento regresa solo con informe de rx.',anam_planes='dieta
+higiene
+baños de asientos
+tratamiento de la especialidad dt. ga. df. 
+necesito imagen de rx. 
+novedades',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='prurito, proctorragia.',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2023-11-10 11:17:19',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='58210111037829812962023111011171957' where anam_id=304 -->2023-11-10 17:04:02

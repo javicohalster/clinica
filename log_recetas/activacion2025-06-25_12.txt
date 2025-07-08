@@ -1,0 +1,9 @@
+update dns_centrosalud set centro_activodespacho='' where centro_id='29'->12->2->2025-06-25 13:15:02
+update dns_centrosalud set centro_activodispositivos='' where centro_id='29'->12->2->2025-06-25 13:15:03
+update dns_centrosalud set centro_activoentrecentros='' where centro_id='29'->12->2->2025-06-25 13:15:04
+update dns_centrosalud set centro_activodespacho='1' where centro_id='29'->12->2->2025-06-25 13:16:27
+update dns_centrosalud set centro_activodispositivos='1' where centro_id='29'->12->2->2025-06-25 13:16:29
+update dns_centrosalud set centro_activoentrecentros='1' where centro_id='29'->12->2->2025-06-25 13:16:30
+update dns_centrosalud set centro_activodespacho='' where centro_id='29'->12->2->2025-06-25 13:18:28
+update dns_centrosalud set centro_activodispositivos='' where centro_id='29'->12->2->2025-06-25 13:18:29
+update dns_centrosalud set centro_activoentrecentros='' where centro_id='29'->12->2->2025-06-25 13:18:30

@@ -1,0 +1,13 @@
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='REFERIDO',atenc_id=2923,centro_id=14,clie_id=4084,anam_centrorefiere='FARMAENLACE',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN CON ANTECEDENTES DESCRITOS, ACUDE A ESTA CASA DE SALUD REFIRIENDO PRESENTAR DESDE EL DIA JUEVES ALZA TÉRMICA NO CUANTIFICADA TRATADA CON PARACETAMOL VIA ORAL NO REFIERE DOSIS. REFIERE ADEMÁS PRESENCIA DE MALESTAR GENERAL Y DOLOR DE CUERPO, REFIERE DESDE EL DIA DE AYER (09/09/2023) DOLOR QUE INICIA EN REGION DE FOSA ILIACA IZQUIERDA Y SE IRRADIA HACIA HIPOGASTRIO Y MESOGATRIO, Y REGION LUMBAR SE ACOMPAÑA DE NAUSEA QUE NO LLEGA AL VÓMITO. NO REFIERE MOLESTIAS URINARIAS NI OTRA SINTOMATOLOGÍA.',anam_planes='1.- INGRESO A MEDICINA INTERNA
+2.- ALERGIAS NO REFIERE
+V.- CONTROL DE SIGNOS VITALES
+      CONTROL DE INGESTA Y EXCRETA
+      CURVA TERMICA
+D.- DIETA GENERAL 
+I.- LACTATO RINGER 1000 MILILITROS IV A 120 MILILITROS HORA
+M.- CEFTRIAXONE 2 GRAMOS INTRAVENOSO CADA DIA (1)        
+PARACETAMOL 1 GRAMO INTRAVENOSO CAD 8 HORAS  
+OMEPRAZOL 40 MG IV CADA DIA 
+RIVAROXABAN 10 MG VIA ORAL CADA DIA
+E.- UROCULTIVO PENDIENTE RESULTADO
+      ECO RENAL (YA)',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='11',anam_motivoconsulta='DOLOR ABDOMINAL Y FIEBRE',anam_partos='0',anam_fecharegistro='2023-09-09 13:45:52',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='1',anam_ciclos='IREGULARES',anam_enlace='408401100388420036220230909014552321',anam_cirugia='NINGUNA',anam_cesareas='0',anam_gesta='1',anam_especialidad='MEDICINA INTERNA',anam_tratante='DR. IVAN AYABACA',anam_hijosvivos='0',anam_ayudante='NA',anam_fum='2023-08-15',anam_anestesiologo='NA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-09-09',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=2004 -->2023-09-09 14:56:09

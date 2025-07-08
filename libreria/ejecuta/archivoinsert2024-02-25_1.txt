@@ -1,0 +1,683 @@
+272-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DACA0E7B38627220240225120310360',0,2725,NULL,'',5,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0,1,0,'','001-002-000007841','1792935261001',5,'04','1760286417001','YURWUIN ANABELLE MENDOZA','LA CONCEPCION',10,'0963845172','yurwuin.05@gmail.com','1754643888','','',272,3,6,1,'01',5,0.00,'',0)-->2024-02-25 00:04:21
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DACA0E7B38627220240225120310360',doccab_subtotaliva=0,proveeve_id=2725,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=5,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25',doccab_subtnoobjetoi='',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078410000784115',doccab_ndocumento='001-002-000007841',doccab_rucempresa='1792935261001',doccab_total=5,tipoident_codigo='04',doccab_rucci_cliente='1760286417001',doccab_nombrerazon_cliente='YURWUIN ANABELLE MENDOZA',doccab_direccion_cliente='LA CONCEPCION',tipase_id=10,doccab_telefono_cliente='0963845172',doccab_email_cliente='yurwuin.05@gmail.com',doccab_identificacionpaciente='1754643888',doccab_nautorizacion='2502202401179293526100120010020000078410000784115',doccab_fechaaut='',usua_id=272,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=5,doccab_cambio=0.00,doccab_adicional='',doccab_pgacont=0 where doccab_id='0165DACA0E7B38627220240225120310360' -->2024-02-25 00:04:31
+272-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,1,0,'2024-02-25',2725,'','1.1.1.1','efectivo','',NULL,0,0,272,'2024-02-25 00:04:51',1,'cobro','2024-02-2527265DACA738A92E','0165DACA0E7B38627220240225120310360',0)-->2024-02-25 00:05:32
+272-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2024-02-25',proveep_id=2725,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='efectivo',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=272,crb_fecharegistro='2024-02-25 00:04:51',crb_efectivo=1,crb_descripcion='cobro',crb_enlace='2024-02-2527265DACA738A92E',doccab_id='0165DACA0E7B38627220240225120310360',compra_id=0 where crb_id=2529 -->2024-02-25 00:05:35
+272-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2024-02-25',proveep_id=2725,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='efectivo',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=272,crb_fecharegistro='2024-02-25 00:04:51',crb_efectivo=1,crb_descripcion='cobro',crb_enlace='2024-02-2527265DACA738A92E',doccab_id='0165DACA0E7B38627220240225120310360',compra_id=0 where crb_id=2529 -->2024-02-25 00:05:36
+272-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2024-02-25',proveep_id=2725,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='efectivo',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=272,crb_fecharegistro='2024-02-25 00:04:51',crb_efectivo=1,crb_descripcion='cobro',crb_enlace='2024-02-2527265DACA738A92E',doccab_id='0165DACA0E7B38627220240225120310360',compra_id=0 where crb_id=2529 -->2024-02-25 00:05:37
+272-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2024-02-25',proveep_id=2725,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='efectivo',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=272,crb_fecharegistro='2024-02-25 00:04:51',crb_efectivo=1,crb_descripcion='cobro',crb_enlace='2024-02-2527265DACA738A92E',doccab_id='0165DACA0E7B38627220240225120310360',compra_id=0 where crb_id=2529 -->2024-02-25 00:05:42
+272-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7389,atenc_id='6379',usua_id=465,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-09 16:17:34',protoop_selectiva='1',protoop_cirujanouno='DR. RAFAEL LOPEZ',protoop_fechaoperacion='2024-02-09',protoop_sintesis='',protoop_idenlace='575',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='14:30',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. ANGELICA LEMA',protoop_horafin='16:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='COLOCACION DE CATETER DE DIALISIS TUNELIZADO YUGULAR IZQUIERDO',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='1',protoop_realizada='IDEM',protoop_dieresis='1. INCISION EN OJAL DE 2 CM EN LA PERIFERIE DE CATETER PREVIO
+2. INCISION DE 1 CM EN HEMITORAX SUPERIOR IZQUIERDO',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='738901060290084746520240209041734184',protoop_circulante='JIMENA BARROS',protoop_exposicion='ECO GUIADA DE VENA YUGULAR INTERNA IZQUIERDA',protoop_anestesiologo='',protoop_exploracion='1. VENA YUGULAR INTERNA PERMEABLE CON FLUJO ADECUADO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA
+2. COLOCAION DE CAMPOS ESTERILES
+3. DIERESIS NUMERO 1 
+4. INTRODUCCION DE GUIA METALICA A TRAVES DE CATETER PREVIO
+5. RETIRO DE CATETER
+6. TUNELIZACION EN EL TEJIDO CELULAR SUBCUTANEO DE CATETER
+7. INTRODUCCION ENDOVENOSA MEDIANTE Y METALICA DE EXTREMO LIBRE
+8. RETIRO DE GUIA METALICA 
+9. FIJACION CON PUNTOS DE APROXIMACION DE CATETER Y CIERRE DE HERIDA DEL OJAL.',protoop_complicaciones='NINGUNA',protoop_perdida='30 ML',protoop_sangrado='30 ML',protoop_protesico='0',anam_enlace='' where protoop_id=866 -->2024-02-25 00:09:30
+272-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DACAFFDAF9227220240225120711417',0,5269,NULL,'',24.4,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0,1,0,'','001-002-000007842','1792935261001',24.4,'04','0602900847001','DR RAFAEL LOPEZ','MIRAFLORES',10,'0992637471','rafic.lopez@gmail.com','1706639836','','',272,3,6,1,'01',24.4,0.00,'PACIENTE:ROSA MARIA QUISHPE FAUTA	
+SERVICIO DE LABORATORIO',0)-->2024-02-25 00:10:02
+272-->insert into lpin_lote (lottar_recap,redc_id,lottar_fechai,lottar_fechaf,usua_id,lottar_fecharegistro) values ('1195',1,'2024-02-24','2024-02-24',0,'2024-02-25 00:26:44')-->2024-02-25 00:26:58
+272-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-25',5316,'','1.1.2.5.5','1140','',NULL,0,341,272,'2024-02-25 00:26:23',0,'COBRO','2024-02-2527265DACF7FE8148','0165DA4FD56584827220240224032141208',0)-->2024-02-25 00:27:35
+272-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-25',proveep_id=5316,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='1140',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=341,usua_id=272,crb_fecharegistro='2024-02-25 00:26:23',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2527265DACF7FE8148',doccab_id='0165DA4FD56584827220240224032141208',compra_id=0 where crb_id=2530 -->2024-02-25 00:27:40
+272-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-25',proveep_id=5316,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='1140',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=341,usua_id=272,crb_fecharegistro='2024-02-25 00:26:23',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2527265DACF7FE8148',doccab_id='0165DA4FD56584827220240224032141208',compra_id=0 where crb_id=2530 -->2024-02-25 00:27:40
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DACAFFDAF9227220240225120711417',doccab_subtotaliva=0,proveeve_id=5269,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=24.4,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078420000784218',doccab_ndocumento='001-002-000007842',doccab_rucempresa='1792935261001',doccab_total=24.4,tipoident_codigo='04',doccab_rucci_cliente='0602900847001',doccab_nombrerazon_cliente='DR RAFAEL LOPEZ',doccab_direccion_cliente='MIRAFLORES',tipase_id=10,doccab_telefono_cliente='0992637471',doccab_email_cliente='rafic.lopez@gmail.com',doccab_identificacionpaciente='1706639836',doccab_nautorizacion='2502202401179293526100120010020000078420000784218',doccab_fechaaut='',usua_id=272,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=24.4,doccab_cambio=0,doccab_adicional='PACIENTE:ROSA MARIA QUISHPE FAUTA	
+SERVICIO DE LABORATORIO',doccab_pgacont=0 where doccab_id='0165DACAFFDAF9227220240225120711417' -->2024-02-25 01:30:42
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DACAFFDAF9227220240225120711417',doccab_subtotaliva=0,proveeve_id=5269,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=24.4,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078420000784218',doccab_ndocumento='001-002-000007842',doccab_rucempresa='1792935261001',doccab_total=24.4,tipoident_codigo='04',doccab_rucci_cliente='0602900847001',doccab_nombrerazon_cliente='DR RAFAEL LOPEZ',doccab_direccion_cliente='MIRAFLORES',tipase_id=10,doccab_telefono_cliente='0992637471',doccab_email_cliente='rafic.lopez@gmail.com',doccab_identificacionpaciente='1706639836',doccab_nautorizacion='2502202401179293526100120010020000078420000784218',doccab_fechaaut='',usua_id=272,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=24.4,doccab_cambio=0,doccab_adicional='PACIENTE:ROSA MARIA QUISHPE FAUTA	
+SERVICIO DE LABORATORIO',doccab_pgacont=0 where doccab_id='0165DACAFFDAF9227220240225120711417' -->2024-02-25 01:31:07
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DACAFFDAF9227220240225120711417',doccab_subtotaliva=0,proveeve_id=5269,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=24.4,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078420000784218',doccab_ndocumento='001-002-000007842',doccab_rucempresa='1792935261001',doccab_total=24.4,tipoident_codigo='04',doccab_rucci_cliente='0602900847001',doccab_nombrerazon_cliente='DR RAFAEL LOPEZ',doccab_direccion_cliente='MIRAFLORES',tipase_id=10,doccab_telefono_cliente='0992637471',doccab_email_cliente='rafic.lopez@gmail.com',doccab_identificacionpaciente='1706639836',doccab_nautorizacion='2502202401179293526100120010020000078420000784218',doccab_fechaaut='',usua_id=272,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=24.4,doccab_cambio=0,doccab_adicional='PACIENTE:ROSA MARIA QUISHPE FAUTA	
+SERVICIO DE LABORATORIO',doccab_pgacont=0 where doccab_id='0165DACAFFDAF9227220240225120711417' -->2024-02-25 01:31:12
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DA6B288F84427220240224051816165',doccab_subtotaliva=153.78,proveeve_id=5319,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=878.81,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=18.45,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078400000784018',doccab_ndocumento='001-002-000007840',doccab_rucempresa='1792935261001',doccab_total=1051.04,tipoident_codigo='05',doccab_rucci_cliente='1726696956',doccab_nombrerazon_cliente='MARIA EMILIA ENDARA ACOSTA',doccab_direccion_cliente='LA KENNEDY, HUMBERTO MARTINEZ N53-211 Y LOS PINOS',tipase_id=10,doccab_telefono_cliente='0963382482',doccab_email_cliente='emiliyendara@hotmail.com',doccab_identificacionpaciente='1726696956',doccab_nautorizacion='2402202401179293526100120010020000078400000784018',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=1059.04,doccab_cambio=0,doccab_adicional='PACIENTE:MARIA EMILIA ENDARA ACOSTA',doccab_pgacont=0 where doccab_id='0165DA6B288F84427220240224051816165' -->2024-02-25 01:33:03
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DA6B288F84427220240224051816165',doccab_subtotaliva=153.78,proveeve_id=5319,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=878.81,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=18.45,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078400000784018',doccab_ndocumento='001-002-000007840',doccab_rucempresa='1792935261001',doccab_total=1051.04,tipoident_codigo='05',doccab_rucci_cliente='1726696956',doccab_nombrerazon_cliente='MARIA EMILIA ENDARA ACOSTA',doccab_direccion_cliente='LA KENNEDY, HUMBERTO MARTINEZ N53-211 Y LOS PINOS',tipase_id=10,doccab_telefono_cliente='0963382482',doccab_email_cliente='emiliyendara@hotmail.com',doccab_identificacionpaciente='1726696956',doccab_nautorizacion='2402202401179293526100120010020000078400000784018',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=1059.04,doccab_cambio=0,doccab_adicional='PACIENTE:MARIA EMILIA ENDARA ACOSTA
+DRA. ROMERO',doccab_pgacont=0 where doccab_id='0165DA6B288F84427220240224051816165' -->2024-02-25 01:33:41
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DA6B288F84427220240224051816165',doccab_subtotaliva=153.78,proveeve_id=5319,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=878.81,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=18.45,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078400000784018',doccab_ndocumento='001-002-000007840',doccab_rucempresa='1792935261001',doccab_total=1051.04,tipoident_codigo='05',doccab_rucci_cliente='1726696956',doccab_nombrerazon_cliente='MARIA EMILIA ENDARA ACOSTA',doccab_direccion_cliente='LA KENNEDY, HUMBERTO MARTINEZ N53-211 Y LOS PINOS',tipase_id=10,doccab_telefono_cliente='0963382482',doccab_email_cliente='emiliyendara@hotmail.com',doccab_identificacionpaciente='1726696956',doccab_nautorizacion='2402202401179293526100120010020000078400000784018',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=1059.04,doccab_cambio=0,doccab_adicional='PACIENTE:MARIA EMILIA ENDARA ACOSTA
+DRA. ROMERO',doccab_pgacont=0 where doccab_id='0165DA6B288F84427220240224051816165' -->2024-02-25 01:33:42
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DA6B288F84427220240224051816165',doccab_subtotaliva=153.78,proveeve_id=5319,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=878.81,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=18.45,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078400000784018',doccab_ndocumento='001-002-000007840',doccab_rucempresa='1792935261001',doccab_total=1051.04,tipoident_codigo='05',doccab_rucci_cliente='1726696956',doccab_nombrerazon_cliente='MARIA EMILIA ENDARA ACOSTA',doccab_direccion_cliente='LA KENNEDY, HUMBERTO MARTINEZ N53-211 Y LOS PINOS',tipase_id=10,doccab_telefono_cliente='0963382482',doccab_email_cliente='emiliyendara@hotmail.com',doccab_identificacionpaciente='1726696956',doccab_nautorizacion='2402202401179293526100120010020000078400000784018',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=1059.04,doccab_cambio=0,doccab_adicional='PACIENTE:MARIA EMILIA ENDARA ACOSTA
+DRA. ROMERO',doccab_pgacont=0 where doccab_id='0165DA6B288F84427220240224051816165' -->2024-02-25 02:08:38
+272-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DA6B288F84427220240224051816165',doccab_subtotaliva=153.78,proveeve_id=5319,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=878.81,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=18.45,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078400000784018',doccab_ndocumento='001-002-000007840',doccab_rucempresa='1792935261001',doccab_total=1051.04,tipoident_codigo='05',doccab_rucci_cliente='1726696956',doccab_nombrerazon_cliente='MARIA EMILIA ENDARA ACOSTA',doccab_direccion_cliente='LA KENNEDY, HUMBERTO MARTINEZ N53-211 Y LOS PINOS',tipase_id=10,doccab_telefono_cliente='0963382482',doccab_email_cliente='emiliyendara@hotmail.com',doccab_identificacionpaciente='1726696956',doccab_nautorizacion='2402202401179293526100120010020000078400000784018',doccab_fechaaut='',usua_id=272,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=1051.04,doccab_cambio=0.00,doccab_adicional='PACIENTE:MARIA EMILIA ENDARA ACOSTA
+DRA. ROMERO',doccab_pgacont=0 where doccab_id='0165DA6B288F84427220240224051816165' -->2024-02-25 02:09:26
+446-->insert into dns_newhospitalizacionconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (7506,446,1,6477,'EVOLUCIÓN AM
+NEUROCIRUGIA/MEDICINA INTERNA
+
+PACIENTE MASCULINO DE 39 AÑOS DE EDAD
+DIAGNÓSTICOS: TRASTORNO DE DISCO LUMBAR Y OTROS, CON RADICULOPATÍA CIE 10: M511 + HIPERTENSION ARTERIAL CIE10: I10X
+
+DÍA DE HOSPITALIZACIÓN: 4
+
+SUBJETIVO: PACIENTE REFIERE DESCANSO REGULAR, DOLOR CONTROLADO CON ANALGÉSICOS. REALIZA MICCION ESPONTANEA Y DEFECACION. 
+
+OBJETIVO:
+TA:  126/80 MMHG
+FC: 74 X
+FR: 18 X
+T: 36.2°C
+SATO2: 96 % AA
+EXAMEN FÍSICO:  PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: OJOS PUPILAS ISOCORICAS, MUCOSAS ORALES HUMEDAS, CUELLO: SIN ADENOPATIAS,     TORAX: CAMPOS PULMONARES VENTILADOS, CORAZON: RUIDOS CARDIACOS SINCRONICOS CON PULSO, ABDOMEN: RUIDOS HIDROAEREOS CONSERVADOS, BLANDO, DEPRESIBLE, NO DOLOROSO. REGION INGUINO GENITAL: DIURESIS ESPONTANEA. REGION LUMBAR: PUNTOS DOLOROSOS A NIVEL LUMBAR L5 S1 CON IRRADIACION HACIA MIEMBRO INFERIOR DERECHO, ACOMPAÑADO DE PARESTESIA HASTA LA PLANTA DE LOS PIES, NIVEL SENSITIVO L5 S1 DISMINUIDO. EXTREMIDADES: MIEMBRO INFERIOR DERECHO: ATROFIA MUSCULAR, LASSEGUE POSITIVO.
+
+INGESTA: 2490 ML
+EXCRETA: 1370 ML
+BALANCE HIDRICO   +1120  ML
+GASTO URINARIO:  0.6 ML/KG/H EN 24 HORAS
+
+ANÁLISIS: PACIENTE MASCULINO DE 39 AÑOS DE EDAD, CURSANDO SU CUARTO DÍA DE HOSPITALIZACIÓN,  AL MOMENTO HEMODINAMICAMENTE ESTABLE, AUTONOMIA RESPIRATORIA, SIN APORTE DE OXIGENO, DOLOR CONTROLADO POR ANALGESIA PAUTADA, VALORADO POR MEDICINA INTERNA QUIEN INDICA MANEJO ANTIHIPERTENSIVO  ADEMAS DE ANALGESIA PAUTADA. EL DIA DE AYER PRESENTA MAREO ATRIBUIDO A MEDICACION ANALGESICA POR LO QUE SE AGREGA PRESCRIPCIONES. DESDE AYER EN LA TARDE PRESENTA MEJORIA DE PRESIONES ARTERIALES,  ACTUALMENTE A LA ESPERA DE CONTROL DE TENSIONES ARTERIALES PARA REPROGRAMAR PROCEDIMIENTO QUIRURGICO.
+
+
+PLAN: INDICACIONES',607,'2024-02-25',1,'2024-02-25 06:16:44','06:00','Rp/.
+A: NEUROCIRUGÍA/MEDICINA INTERNA HAB. 306A
+D: YA DESCRITO
+C: ESTABLE
+A: NO REFIERE
+V: CONTROL DE SIGNOS VITALES CADA 8 HORAS.
+A: AMBULATORIO
+N:
+- HABITUALES DE ENFERMERÍA
+- CONTROL DE INGESTA Y ELIMINACION
+
+D: DIETA HIPOSODICA E HIPOGRASA
+
+I: DISH
+
+M:
+CEFAZOLINA 1 G INTRAVENOSO CADA 8 HORAS
+LOSARTAN 100 MG VIA ORAL CADA DIA 7AM
+CLORTALIDONA 50 MG VIA ORAL CADA DIA 7 AM
+CARVEDILOL 12.5 MG VIA ORAL 12 PM
+AMLODIPINO 10 MG VIA ORAL CADA DIA 7 PM
+TRAMADOL 100MG IV DILUIDO LENTO CADA 8 HORAS
+PARACETAMOL 1 G INTRAVENOSO POR RAZONES NECESARIAS
+ENOXAPARINA 60MG SUBCUTANEA CADA DIABETES
+OMEPRAZOL 40 MG INTRAVENOSO DÍA.
+ONDANSETRON 8 MG INTRAVENOSO CADA 8 HORAS
+
+E: NINGUNO
+L: NINGUNO
+C: NOVEDADES.
+O: ÓRDENES DR. ANDRÉS GUERRERO/DR. IVAN AYABACA
+
+
+
+DR. ANDRÉS GUERRERO
+NEUROCIRUGÍA
+
+
+
+
+
+DR. IVAN AYABACA
+MEDICINA INTERNA 
+
+
+
+
+MD. GABRIELA MARIN
+MÉDICO RESIDENTE','06:30','75060101067611744462024022506164485')-->2024-02-25 06:17:55
+446-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=446,centro_id=1,atenc_id=6477,conext_notasdeevolucion='EVOLUCIÓN AM
+NEUROCIRUGIA/MEDICINA INTERNA
+
+PACIENTE MASCULINO DE 39 AÑOS DE EDAD
+DIAGNÓSTICOS: TRASTORNO DE DISCO LUMBAR Y OTROS, CON RADICULOPATÍA CIE 10: M511 + HIPERTENSION ARTERIAL CIE10: I10X
+
+DÍA DE HOSPITALIZACIÓN: 4
+
+SUBJETIVO: PACIENTE REFIERE DESCANSO REGULAR, DOLOR CONTROLADO CON ANALGÉSICOS. REALIZA MICCION ESPONTANEA Y DEFECACION. 
+
+OBJETIVO:
+TA:  126/80 MMHG
+FC: 74 X
+FR: 18 X
+T: 36.2°C
+SATO2: 96 % AA
+EXAMEN FÍSICO:  PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: OJOS PUPILAS ISOCORICAS, MUCOSAS ORALES HUMEDAS, CUELLO: SIN ADENOPATIAS,     TORAX: CAMPOS PULMONARES VENTILADOS, CORAZON: RUIDOS CARDIACOS SINCRONICOS CON PULSO, ABDOMEN: RUIDOS HIDROAEREOS CONSERVADOS, BLANDO, DEPRESIBLE, NO DOLOROSO. REGION INGUINO GENITAL: DIURESIS ESPONTANEA. REGION LUMBAR: PUNTOS DOLOROSOS A NIVEL LUMBAR L5 S1 CON IRRADIACION HACIA MIEMBRO INFERIOR DERECHO, ACOMPAÑADO DE PARESTESIA HASTA LA PLANTA DE LOS PIES, NIVEL SENSITIVO L5 S1 DISMINUIDO. EXTREMIDADES: MIEMBRO INFERIOR DERECHO: ATROFIA MUSCULAR, LASSEGUE POSITIVO.
+
+INGESTA: 2490 ML
+EXCRETA: 1370 ML
+BALANCE HIDRICO   +1120  ML
+GASTO URINARIO:  0.6 ML/KG/H EN 24 HORAS
+
+ANÁLISIS: PACIENTE MASCULINO DE 39 AÑOS DE EDAD, CURSANDO SU CUARTO DÍA DE HOSPITALIZACIÓN,  AL MOMENTO HEMODINAMICAMENTE ESTABLE, AUTONOMIA RESPIRATORIA, SIN APORTE DE OXIGENO, DOLOR CONTROLADO POR ANALGESIA PAUTADA, VALORADO POR MEDICINA INTERNA QUIEN INDICA MANEJO ANTIHIPERTENSIVO  ADEMAS DE ANALGESIA PAUTADA. EL DIA DE AYER PRESENTA MAREO ATRIBUIDO A MEDICACION ANALGESICA POR LO QUE SE AGREGA PRESCRIPCIONES. DESDE AYER EN LA TARDE PRESENTA MEJORIA DE PRESIONES ARTERIALES,  ACTUALMENTE A LA ESPERA DE CONTROL DE TENSIONES ARTERIALES PARA REPROGRAMAR PROCEDIMIENTO QUIRURGICO.
+
+
+PLAN: INDICACIONES',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 06:16:44',conext_horar='06:00',conext_prescripciones='Rp/.
+A: NEUROCIRUGÍA/MEDICINA INTERNA HAB. 306A
+D: YA DESCRITO
+C: ESTABLE
+A: NO REFIERE
+V: CONTROL DE SIGNOS VITALES CADA 8 HORAS.
+A: AMBULATORIO
+N:
+- HABITUALES DE ENFERMERÍA
+- CONTROL DE INGESTA Y ELIMINACION
+
+D: DIETA HIPOSODICA E HIPOGRASA
+
+I: DISH
+
+M:
+CEFAZOLINA 1 G INTRAVENOSO CADA 8 HORAS
+LOSARTAN 100 MG VIA ORAL CADA DIA 7AM
+CLORTALIDONA 50 MG VIA ORAL CADA DIA 7 AM
+CARVEDILOL 12.5 MG VIA ORAL 12 PM
+AMLODIPINO 10 MG VIA ORAL CADA DIA 7 PM
+TRAMADOL 100MG IV DILUIDO LENTO CADA 8 HORAS
+PARACETAMOL 1 G INTRAVENOSO POR RAZONES NECESARIAS
+ENOXAPARINA 60MG SUBCUTANEA CADA DIABETES
+OMEPRAZOL 40 MG INTRAVENOSO DÍA.
+ONDANSETRON 8 MG INTRAVENOSO CADA 8 HORAS
+
+E: NINGUNO
+L: NINGUNO
+C: NOVEDADES.
+O: ÓRDENES DR. ANDRÉS GUERRERO/DR. IVAN AYABACA
+
+
+
+DR. ANDRÉS GUERRERO
+NEUROCIRUGÍA
+
+
+
+
+
+DR. IVAN AYABACA
+MEDICINA INTERNA 
+
+
+
+
+MD. GABRIELA MARIN
+MÉDICO RESIDENTE',conext_horaf='06:30',conext_enlace='75060101067611744462024022506164485' where conext_id=387 -->2024-02-25 06:18:32
+446-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=446,centro_id=1,atenc_id=6477,conext_notasdeevolucion='EVOLUCIÓN AM
+NEUROCIRUGIA/MEDICINA INTERNA
+
+PACIENTE MASCULINO DE 39 AÑOS DE EDAD
+DIAGNÓSTICOS: TRASTORNO DE DISCO LUMBAR Y OTROS, CON RADICULOPATÍA CIE 10: M511 + HIPERTENSION ARTERIAL CIE10: I10X
+
+DÍA DE HOSPITALIZACIÓN: 4
+
+SUBJETIVO: PACIENTE REFIERE DESCANSO REGULAR, DOLOR CONTROLADO CON ANALGÉSICOS. REALIZA MICCION ESPONTANEA Y DEFECACION. 
+
+OBJETIVO:
+TA:  126/80 MMHG
+FC: 74 X
+FR: 18 X
+T: 36.2°C
+SATO2: 96 % AA
+EXAMEN FÍSICO:  PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: OJOS PUPILAS ISOCORICAS, MUCOSAS ORALES HUMEDAS, CUELLO: SIN ADENOPATIAS,     TORAX: CAMPOS PULMONARES VENTILADOS, CORAZON: RUIDOS CARDIACOS SINCRONICOS CON PULSO, ABDOMEN: RUIDOS HIDROAEREOS CONSERVADOS, BLANDO, DEPRESIBLE, NO DOLOROSO. REGION INGUINO GENITAL: DIURESIS ESPONTANEA. REGION LUMBAR: PUNTOS DOLOROSOS A NIVEL LUMBAR L5 S1 CON IRRADIACION HACIA MIEMBRO INFERIOR DERECHO, ACOMPAÑADO DE PARESTESIA HASTA LA PLANTA DE LOS PIES, NIVEL SENSITIVO L5 S1 DISMINUIDO. EXTREMIDADES: MIEMBRO INFERIOR DERECHO: ATROFIA MUSCULAR, LASSEGUE POSITIVO.
+
+INGESTA: 2490 ML
+EXCRETA: 1370 ML
+BALANCE HIDRICO   +1120  ML
+GASTO URINARIO:  0.6 ML/KG/H EN 24 HORAS
+
+ANÁLISIS: PACIENTE MASCULINO DE 39 AÑOS DE EDAD, CURSANDO SU CUARTO DÍA DE HOSPITALIZACIÓN,  AL MOMENTO HEMODINAMICAMENTE ESTABLE, AUTONOMIA RESPIRATORIA, SIN APORTE DE OXIGENO, DOLOR CONTROLADO POR ANALGESIA PAUTADA, VALORADO POR MEDICINA INTERNA QUIEN INDICA MANEJO ANTIHIPERTENSIVO  ADEMAS DE ANALGESIA PAUTADA. EL DIA DE AYER PRESENTA MAREO ATRIBUIDO A MEDICACION ANALGESICA POR LO QUE SE AGREGA PRESCRIPCIONES. DESDE AYER EN LA TARDE PRESENTA MEJORIA DE PRESIONES ARTERIALES,  ACTUALMENTE A LA ESPERA DE CONTROL DE TENSIONES ARTERIALES PARA REPROGRAMAR PROCEDIMIENTO QUIRURGICO.
+
+
+PLAN: INDICACIONES',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 06:16:44',conext_horar='06:00',conext_prescripciones='Rp/.
+A: NEUROCIRUGÍA/MEDICINA INTERNA HAB. 306A
+D: YA DESCRITO
+C: ESTABLE
+A: NO REFIERE
+V: CONTROL DE SIGNOS VITALES CADA 8 HORAS.
+A: AMBULATORIO
+N:
+- HABITUALES DE ENFERMERÍA
+- CONTROL DE INGESTA Y ELIMINACION
+
+D: DIETA HIPOSODICA E HIPOGRASA
+
+I: DISH
+
+M:
+CEFAZOLINA 1 G INTRAVENOSO CADA 8 HORAS
+LOSARTAN 100 MG VIA ORAL CADA DIA 7AM
+CLORTALIDONA 50 MG VIA ORAL CADA DIA 7 AM
+CARVEDILOL 12.5 MG VIA ORAL 12 PM
+AMLODIPINO 10 MG VIA ORAL CADA DIA 7 PM
+TRAMADOL 100MG IV DILUIDO LENTO CADA 8 HORAS
+PARACETAMOL 1 G INTRAVENOSO POR RAZONES NECESARIAS
+ENOXAPARINA 60MG SUBCUTANEA CADA DIABETES
+OMEPRAZOL 40 MG INTRAVENOSO DÍA.
+ONDANSETRON 8 MG INTRAVENOSO CADA 8 HORAS
+
+E: NINGUNO
+L: NINGUNO
+C: NOVEDADES.
+O: ÓRDENES DR. ANDRÉS GUERRERO/DR. IVAN AYABACA
+
+
+
+DR. ANDRÉS GUERRERO
+NEUROCIRUGÍA
+
+
+
+
+
+DR. IVAN AYABACA
+MEDICINA INTERNA 
+
+
+
+
+MD. GABRIELA MARIN
+MÉDICO RESIDENTE',conext_horaf='06:30',conext_enlace='75060101067611744462024022506164485' where conext_id=387 -->2024-02-25 06:21:55
+446-->update dns_newhospitalizacionanamesis set clie_id=7533,usua_id=446,centro_id=1,atenc_id=6502,anam_referencia='LIBRE DEMANDA',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE FEMENINA DE 55 AÑOS, DIVORCIADA, PROCEDENCIA Y RESIDENCIA QUITO, INSTRUCCION SUPERIOR, EMPLEADA PUBLICA, DIESTRA, MESTIZA, REFIERE INCONFORMIDAD CON APARIENCIA CORPORAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA QUIEN PAUTA CIRUGÍA PLÁSTICA, POR LO QUE ES INGRESADA A ESTA CASA DE SALUD.',anam_planes='1 INGRESO A HOSPITALIZACIÓN HAB. 303
+2 NADA POR VÍA ORAL 
+3 CONTROL DE SIGNOS DE VITALES 
+4 CHEQUEO PREANESTÉSICO 
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR A QUIRÓFANO AL LLAMADO 
+7 ORDENES DR. HIDALGO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTA CON ANTECEDENTES CLINICOS DESCRITOS, ACUDE PARA PROCEDIMIENTO QUIRURGICO POR CIRUGIA PLASTICA, CUMPLE CON HORAS DE AYUNO, EXAMENES Y VALORACION PREQUIRURGICOS QUE AUTORIZAN PROCEDIMIENTO, A LA ESPERA DE LLAMADO A QUIROFANO.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='12',estaatenc_id=4,anam_cirugia='RITIDECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2024-02-24 09:00:48',anam_menopausiaedad='49',anam_tratante='DR. PABLO HIDALGO',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='DR. KAREL BATALLA',anam_nhoja='',anam_ciclos='NO APLICA',anam_anestesiologo='DR. SANTANA',anam_cesareas='1',anam_enlace='753301010676117444620240224090048378',anam_fechaingreso='2024-02-24',anam_gesta='1',anam_hijosvivos='1',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc='2023-11-00',anam_colposcopia=NULL,anam_mamografia='2023-11-00',anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NINGUNO',anam_terapiahormonaltext='NINGUNO',anam_edadsex='' where anam_id=614 -->2024-02-25 06:22:10
+446-->insert into dns_newhospitalizacionconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (7533,446,1,6502,'EVOLUCIÓN AM
+CIRUGÍA PLASTICA
+
+PACIENTE FEMENINA DE 55 AÑOS DE EDAD
+DIAGNÓSTICOS: OTRAS CIRUGIAS PLASTICAS POR RAZONES ESTETICAS
+CIRUGÍA: RITIDECTOMIA + MINILIFTING
+
+DÍAS DE HOSPITALIZACIÓN: 2
+DIAS POSTQUIRURGICOS: 1
+
+SUBJETIVO: PACIENTE REFIERE DESCANSO IRREGULAR. AL MOMENTO REFIERE DISMINUCION DE DOLOR DE SITIO QUIRURGICO. REALIZA MICCION ESPONTANEA. 
+
+OBJETIVO:
+TA:  100/60 MMHG
+FC: 71 X
+FR: 18 X
+T: 36.8°C
+SATO2: 92 % AA
+EXAMEN FÍSICO:  PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: PRESENCIA DE VENDAJE LIMPIO Y SECO, OJOS PUPILAS ISOCORICAS, MUCOSAS ORALES HUMEDAS, CUELLO: SIN ADENOPATIAS,  TORAX: CAMPOS PULMONARES VENTILADOS, CORAZON: RUIDOS CARDIACOS SINCRONICOS CON PULSO, ABDOMEN: RUIDOS HIDROAEREOS CONSERVADOS, BLANDO, DEPRESIBLE, NO DOLOROSO. RIG: DIURESIS ESPONTANEA, EXTREMIDADES: MOVILES, SIMETRICAS, NEUROVASCULAR CONSERVADO.
+
+INGESTA: 2413 ML
+EXCRETA: 1870 ML
+BALANCE HIDRICO   +543  ML
+GASTO URINARIO:  2.1 ML/KG/ EN 18 HORAS
+
+ANÁLISIS: PACIENTE ADULTA MEDIA, CURSANDO SU SEGUNDO DÍA DE HOSPITALIZACIÓN,  AL MOMENTO HEMODINAMICAMENTE ESTABLE, AUTONOMIA RESPIRATORIA, SIN APORTE DE OXIGENO, DOLOR CONTROLADO IRREGULARMENTE POR ANALGESIA PAUTADA QUE REQUIERE NUEVA PRESCRIPCION EL DIA DE AYER. ADEMAS AYER PRESENTA RESEQUEDAD OCULAR POR LO QUE SE PRESCRIBE LAGRIMAS ARTIFICIALES TID. REALIZA MICCION ESPONTANEA, HOY INICIA DEAMBULACION, TOLERANCIA ORAL ADECUADA, A LA ESPERA DE INDICACIONES POR MEDICO TRATANTE. HOY VALORACION PARA EL ALTA
+
+PLAN: INDICACIONES',614,'2024-02-25',1,'2024-02-25 06:22:15','06:00','Rp/.
+A: CIRUGÍA PLASTICA HAB. 303
+D: YA DESCRITO
+C: ESTABLE
+A: NO REFIERE
+V: CONTROL DE SIGNOS VITALES CADA 8 HORAS
+A: SEMIFOWLER
+N:
+- HABITUALES DE ENFERMERÍA
+- CONTROL DE INGESTA Y ELIMINACION
+
+D: DIETA BLANDA
+
+I:
+LACTATO DE RINGER 1000 ML IV PASAR A 75 ML/H
+
+M:
+CEFAZOLINA 1 G IV CADA 8 HORAS
+PARACETAMOL 1 G IV CADA 8 HORAS
+KETOROLACO 30 MG IV CADA 8 HORAS
+LAGRIMAS ARTIFICIALES 3 GOTAS EN CADA OJO CADA 8 HORAS (TIENE PACIENTE)
+TRAMADOL 200 MG IV EN 100 ML DE SS AL 0,9% PASAR A 4 ML/H PREVIO PASAR METOCLOPRAMIDA 10 MG IV
+
+E: NINGUNO
+L: NINGUNO
+C: NOVEDADES.
+O: ÓRDENES DR. PABLO HIDALGO
+
+
+
+DR. PABLO HIDALGO
+CIRUGÍA PLASTICA
+
+
+
+
+MD. GABRIELA MARIN
+MÉDICO RESIDENTE','06:30','753301010676117444620240225062215304')-->2024-02-25 06:22:43
+446-->update dns_newhospitalizacionconsultaexterna set clie_id=7533,usua_id=446,centro_id=1,atenc_id=6502,conext_notasdeevolucion='EVOLUCIÓN AM
+CIRUGÍA PLASTICA
+
+PACIENTE FEMENINA DE 55 AÑOS DE EDAD
+DIAGNÓSTICOS: OTRAS CIRUGIAS PLASTICAS POR RAZONES ESTETICAS
+CIRUGÍA: RITIDECTOMIA + MINILIFTING
+
+DÍAS DE HOSPITALIZACIÓN: 2
+DIAS POSTQUIRURGICOS: 1
+
+SUBJETIVO: PACIENTE REFIERE DESCANSO IRREGULAR. AL MOMENTO REFIERE DISMINUCION DE DOLOR DE SITIO QUIRURGICO. REALIZA MICCION ESPONTANEA. 
+
+OBJETIVO:
+TA:  100/60 MMHG
+FC: 71 X
+FR: 18 X
+T: 36.8°C
+SATO2: 92 % AA
+EXAMEN FÍSICO:  PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: PRESENCIA DE VENDAJE LIMPIO Y SECO, OJOS PUPILAS ISOCORICAS, MUCOSAS ORALES HUMEDAS, CUELLO: SIN ADENOPATIAS,  TORAX: CAMPOS PULMONARES VENTILADOS, CORAZON: RUIDOS CARDIACOS SINCRONICOS CON PULSO, ABDOMEN: RUIDOS HIDROAEREOS CONSERVADOS, BLANDO, DEPRESIBLE, NO DOLOROSO. RIG: DIURESIS ESPONTANEA, EXTREMIDADES: MOVILES, SIMETRICAS, NEUROVASCULAR CONSERVADO.
+
+INGESTA: 2413 ML
+EXCRETA: 1870 ML
+BALANCE HIDRICO   +543  ML
+GASTO URINARIO:  2.1 ML/KG/ EN 18 HORAS
+
+ANÁLISIS: PACIENTE ADULTA MEDIA, CURSANDO SU SEGUNDO DÍA DE HOSPITALIZACIÓN,  AL MOMENTO HEMODINAMICAMENTE ESTABLE, AUTONOMIA RESPIRATORIA, SIN APORTE DE OXIGENO, DOLOR CONTROLADO IRREGULARMENTE POR ANALGESIA PAUTADA QUE REQUIERE NUEVA PRESCRIPCION EL DIA DE AYER. ADEMAS AYER PRESENTA RESEQUEDAD OCULAR POR LO QUE SE PRESCRIBE LAGRIMAS ARTIFICIALES TID. REALIZA MICCION ESPONTANEA, HOY INICIA DEAMBULACION, TOLERANCIA ORAL ADECUADA, A LA ESPERA DE INDICACIONES POR MEDICO TRATANTE. HOY VALORACION PARA EL ALTA
+
+PLAN: INDICACIONES',anam_id=614,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 06:22:15',conext_horar='06:00',conext_prescripciones='Rp/.
+A: CIRUGÍA PLASTICA HAB. 303
+D: YA DESCRITO
+C: ESTABLE
+A: NO REFIERE
+V: CONTROL DE SIGNOS VITALES CADA 8 HORAS
+A: SEMIFOWLER
+N:
+- HABITUALES DE ENFERMERÍA
+- CONTROL DE INGESTA Y ELIMINACION
+
+D: DIETA BLANDA
+
+I:
+LACTATO DE RINGER 1000 ML IV PASAR A 75 ML/H
+
+M:
+CEFAZOLINA 1 G IV CADA 8 HORAS
+PARACETAMOL 1 G IV CADA 8 HORAS
+KETOROLACO 30 MG IV CADA 8 HORAS
+LAGRIMAS ARTIFICIALES 3 GOTAS EN CADA OJO CADA 8 HORAS (TIENE PACIENTE)
+TRAMADOL 200 MG IV EN 100 ML DE SS AL 0,9% PASAR A 4 ML/H PREVIO PASAR METOCLOPRAMIDA 10 MG IV
+
+E: NINGUNO
+L: NINGUNO
+C: NOVEDADES.
+O: ÓRDENES DR. PABLO HIDALGO
+
+
+
+DR. PABLO HIDALGO
+CIRUGÍA PLASTICA
+
+
+
+
+MD. GABRIELA MARIN
+MÉDICO RESIDENTE',conext_horaf='06:30',conext_enlace='753301010676117444620240225062215304' where conext_id=388 -->2024-02-25 06:22:56
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165D9C9AE830EC2012024022405491844',doccab_subtotaliva=0,proveeve_id=1436,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=12690.2,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078350000783510',doccab_ndocumento='001-002-000007835',doccab_rucempresa='1792935261001',doccab_total=12690.2,tipoident_codigo='05',doccab_rucci_cliente='1714884879',doccab_nombrerazon_cliente='DIANA CUEVA',doccab_direccion_cliente='LA GRANJA',tipase_id=10,doccab_telefono_cliente='0984202812',doccab_email_cliente='facturasorlando8@gmail.com',doccab_identificacionpaciente='',doccab_nautorizacion='2402202401179293526100120010020000078350000783510',doccab_fechaaut='',usua_id=201,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=12690.2,doccab_cambio=0,doccab_adicional='ATENCION CIRUGIAS JULIO 2023 -FEBRERO 2024',doccab_pgacont=0 where doccab_id='0165D9C9AE830EC2012024022405491844' -->2024-02-25 07:15:37
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165D981765D35F20120240224124110412',doccab_subtotaliva=0,proveeve_id=2031,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=1059,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078340000783418',doccab_ndocumento='001-002-000007834',doccab_rucempresa='1792935261001',doccab_total=1059,tipoident_codigo='05',doccab_rucci_cliente='1000661106',doccab_nombrerazon_cliente='MENDEZ VALENZUELA KATIA DEL CARMEN',doccab_direccion_cliente='CENTRO HISTORICO',tipase_id=10,doccab_telefono_cliente='0984678376',doccab_email_cliente='sjosueth@hotmail.com',doccab_identificacionpaciente='',doccab_nautorizacion='2402202401179293526100120010020000078340000783418',doccab_fechaaut='',usua_id=201,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=1059,doccab_cambio=0,doccab_adicional='ATENCION QUIRURGICA PCTE GUMAN AMPARO 
+DR GUERRERO',doccab_pgacont=0 where doccab_id='0165D981765D35F20120240224124110412' -->2024-02-25 07:15:56
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165D9C9AE830EC2012024022405491844',doccab_subtotaliva=0,proveeve_id=1436,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=12690.2,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-24 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2402202401179293526100120010020000078350000783510',doccab_ndocumento='001-002-000007835',doccab_rucempresa='1792935261001',doccab_total=12690.2,tipoident_codigo='05',doccab_rucci_cliente='1714884879',doccab_nombrerazon_cliente='DIANA CUEVA',doccab_direccion_cliente='LA GRANJA',tipase_id=10,doccab_telefono_cliente='0984202812',doccab_email_cliente='facturasorlando8@gmail.com',doccab_identificacionpaciente='',doccab_nautorizacion='2402202401179293526100120010020000078350000783510',doccab_fechaaut='',usua_id=201,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=12690.2,doccab_cambio=0,doccab_adicional='ATENCION CIRUGIAS JULIO 2023 -FEBRERO 2024',doccab_pgacont=0 where doccab_id='0165D9C9AE830EC2012024022405491844' -->2024-02-25 07:16:11
+196-->insert into dns_newemergenciaanamesis (les_id,clie_id,usua_id,centro_id,atenc_id,anam_observacionaf,estaatenc_id,anam_fechaatencion,anam_fechahoraevento,anam_vialibre,anam_gestas,anam_biometria,anam_planes,anam_horaevento,anam_domicilio,anam_horaatencion,anam_lugarevento,anam_viaobstruida,anam_partos,anam_quimica,anam_fecharegistro,anam_consultaext,anam_trauma,anam_direccionevento,anam_condestable,anam_abortos,anam_gasometria,anam_enlace,anam_observacionalta,anam_clinica,anam_custodiapolicial,anam_condinestable,anam_exobstruida,anam_cesareas,anam_nhoja,anam_endoscopia,anam_internacion,anam_obstetrica,anam_accidentetransito,anam_excabeza,anam_mestruacion,anam_rxabdomen,anam_emferpactual,anam_referencia,tipoetnia_id,anam_quirurgica,anam_caida,anam_excuello,anam_gestacion,anam_tomografia,anam_servreferencia,anam_fechaadmision,anam_policia,anam_quemadura,anam_antalergico,anam_extorax,anam_movfetal,anam_ecografia,anam_establecimiento,anam_ocupacion,anam_otromotivo,anam_mordedura,anam_antclinico,anam_exabdomen,anam_frefetal,anam_interconsulta,conve_id,anam_ahogamiento,anam_antginecologico,anam_excolumna,anam_memrotas,anam_motivoconsulta,anam_uroanalisis,zona_id,anam_lugarnacimiento,anam_egresavivo,anam_referido,anam_rh,anam_cuerpoextra,anam_anttraumatologico,anam_expelvis,anam_tiempo,anam_electrolitos,anam_condicionestable,anam_avisar,anam_aplastamiento,anam_antquirurgico,anam_exextremidad,anam_uterina,anam_electrocardiograma,anam_condicioninestable,anam_perentesco,anam_otroaccidente,anam_antfarmacologico,anam_exobservacion,anam_presentacion,anam_rxtorax,anam_diasincapacidad,anam_direccionpariente,anam_armafuego,anam_antpsiquiatrico,anam_dilatacion,anam_rxosea,anam_muerto,anam_telefonopariente,anam_armapunzante,anam_antotro,anam_borramiento,anam_resonancia,anam_observacionap,anam_causamuerto,anam_rina,anam_plano,anam_ecografiaabdomen,anam_ambulatorio,anam_violenciafamiliar,anam_pelvisutil,anam_otrosexamenes,anam_ambulancia,anam_abusofisico,anam_horafin,anam_vaginal,anam_otrotransporte,anam_psicologico,anam_contracciones,anam_fuenteinfo,anam_sexual,anam_obsesvacionobs,anam_entrega,anam_otraviolencia,anam_telefonoentrega,anam_intoxalcoholica,anam_intoxalimentaria,anam_intoxdrogas,anam_gases,anam_otraintoxicacion,anam_envenenamiento,anam_picadura,anam_anafilaxia,anam_observacioneseve,anam_etilico,anam_alcocheck) values ('',7539,196,1,6507,'',4,'2024-02-25',NULL,'1','','1','','','','09:30','','','','1','2024-02-25 09:33:12','','','','1','','','753901131202875419620240225093312144','','1','','','','','','','','','','',NULL,'','PACIENTE FEMENINA DE 37 AÑOS, MESTIZA, SOLTERA, DE INTRUCCION SUPERIOR, DIESTRA, CATOLICA, COMO ANTECEDENTE DE IMPORTANCIA ALERGIA A LA PENICILINA, REFIERE QUE DESDE HACE 12 HORAS APROXIMADAMENTE PRESENTA  DEPOSICIONES DIARREICAS EN NUMERO DE 7, VOMITOS 4 OCASIONES, NIEGA ALZA TERMICA, Y DECIDE ACUDIR A ESTA CASA DE SALUD YA QUE NO ES CONTROLADO. REFIERE QUE ESTUVO DURANTE LA SEMANA EN REGION AMAZONICA ALIMENTANDOSE DE MANERA IRREGULAR.','','1','','','','','','','2024-02-25','','','','','','','','RELACIONES INTERNACIONALES','','','','1','','','19','','','','','DOLOR ABDOMINAL + DIARREA + VOMITO','',1,'AMBATO','','','O RH +','','','','','','','TERESA ABRIL','','','','','','','MADRE','','','MUCOSA ORAL: SECA
+ABDOMEN SUAVE DEPRESIBLE DOLOROSO A LA PALPACION DE EPIGASTRIO Y MARCO COLONICO, NO SIGNOS APENDICULARES, RUIDOS HIDROAEREOS AUMENTADOS','','','','CALLE D O 329 Y AV BRASIL','','','','','','0995091336','','','','','ALERGIAS: PENICILINA
+APP: NO REFIERE 
+APQX: DEDO EN GATILLO 2002 
+APF: PADRE HIPERTENSION ARTERIAL MADRE HIPERTENSION ARTERIAL','','','','','1','','','PCR + ELECTROLITOS','','','','','','','','PACIENTE','','','','','','','','','','','','','','','','')-->2024-02-25 09:47:32
+196-->update dns_newemergenciaanamesis set les_id='',clie_id=7539,usua_id=196,centro_id=1,atenc_id=6507,anam_observacionaf='',estaatenc_id=4,anam_fechaatencion='2024-02-25',anam_fechahoraevento=NULL,anam_vialibre='1',anam_gestas='',anam_biometria='1',anam_planes='1 CANALIZAR VIA PERIFERICA
+2 BIOMETRIA, GLUCOSA, UREA, CREATININA, SODIO, CLORO, POTASIO, PCR 
+3 LACTATO RINGER 300 MILILITROS INTRAVENOSO EN BOLO EN ESTE MOMENTO 
+4 LUEGO LACTATO RINGER 100 MILILITROS INTRAVENOSO/HORA
+5 OMEPRAZOL 40 MILIGRAMOS INTRAVENOSO EN ESTE MOMENTO 
+6 ONDANSETRON 8 MILIGRAMOS INTRAVENOSO LUEGO DE OMEPRAZOL 
+7 PARACETAMOL 1 GRAMO INTRAVENOSO LUEGO DE OMEPRAZOL',anam_horaevento='',anam_domicilio='',anam_horaatencion='09:30',anam_lugarevento='',anam_viaobstruida='',anam_partos='',anam_quimica='1',anam_fecharegistro='2024-02-25 09:33:12',anam_consultaext='',anam_trauma='',anam_direccionevento='',anam_condestable='1',anam_abortos='',anam_gasometria='',anam_enlace='753901131202875419620240225093312144',anam_observacionalta='1',anam_clinica='1',anam_custodiapolicial='',anam_condinestable='',anam_exobstruida='',anam_cesareas='',anam_nhoja='',anam_endoscopia='',anam_internacion='',anam_obstetrica='',anam_accidentetransito='',anam_excabeza='',anam_mestruacion=NULL,anam_rxabdomen='',anam_emferpactual='PACIENTE FEMENINA DE 37 AÑOS, MESTIZA, SOLTERA, DE INTRUCCION SUPERIOR, DIESTRA, CATOLICA, COMO ANTECEDENTE DE IMPORTANCIA ALERGIA A LA PENICILINA, REFIERE QUE DESDE HACE 12 HORAS APROXIMADAMENTE PRESENTA  DEPOSICIONES DIARREICAS EN NUMERO DE 7, VOMITOS 4 OCASIONES, NIEGA ALZA TERMICA, Y DECIDE ACUDIR A ESTA CASA DE SALUD YA QUE NO ES CONTROLADO, SE AUTOMEDICA ENTEROGERMINA POR 3 OCASIONES SIN MEJORIA. REFIERE QUE ESTUVO DURANTE LA SEMANA EN REGION AMAZONICA ALIMENTANDOSE DE MANERA IRREGULAR.',anam_referencia='',tipoetnia_id='1',anam_quirurgica='',anam_caida='',anam_excuello='',anam_gestacion='',anam_tomografia='',anam_servreferencia='',anam_fechaadmision='2024-02-25',anam_policia='',anam_quemadura='',anam_antalergico='',anam_extorax='',anam_movfetal='',anam_ecografia='',anam_establecimiento='',anam_ocupacion='RELACIONES INTERNACIONALES',anam_otromotivo='',anam_mordedura='',anam_antclinico='',anam_exabdomen='1',anam_frefetal='',anam_interconsulta='',conve_id='19',anam_ahogamiento='',anam_antginecologico='',anam_excolumna='',anam_memrotas='',anam_motivoconsulta='DOLOR ABDOMINAL + DIARREA + VOMITO',anam_uroanalisis='',zona_id=1,anam_lugarnacimiento='AMBATO',anam_egresavivo='',anam_referido='',anam_rh='O RH +',anam_cuerpoextra='',anam_anttraumatologico='',anam_expelvis='',anam_tiempo='',anam_electrolitos='',anam_condicionestable='',anam_avisar='TERESA ABRIL',anam_aplastamiento='',anam_antquirurgico='',anam_exextremidad='',anam_uterina='',anam_electrocardiograma='',anam_condicioninestable='',anam_perentesco='MADRE',anam_otroaccidente='',anam_antfarmacologico='',anam_exobservacion='MUCOSA ORAL: SECA
+ABDOMEN SUAVE DEPRESIBLE DOLOROSO A LA PALPACION DE EPIGASTRIO Y MARCO COLONICO, NO SIGNOS APENDICULARES, RUIDOS HIDROAEREOS AUMENTADOS',anam_presentacion='',anam_rxtorax='',anam_diasincapacidad='',anam_direccionpariente='CALLE D O 329 Y AV BRASIL',anam_armafuego='',anam_antpsiquiatrico='',anam_dilatacion='',anam_rxosea='',anam_muerto='',anam_telefonopariente='0995091336',anam_armapunzante='',anam_antotro='',anam_borramiento='',anam_resonancia='',anam_observacionap='ALERGIAS: PENICILINA
+APP: NO REFIERE 
+APQX: DEDO EN GATILLO 2002 
+APF: PADRE HIPERTENSION ARTERIAL MADRE HIPERTENSION ARTERIAL',anam_causamuerto='',anam_rina='',anam_plano='',anam_ecografiaabdomen='',anam_ambulatorio='1',anam_violenciafamiliar='',anam_pelvisutil='',anam_otrosexamenes='PCR + ELECTROLITOS',anam_ambulancia='',anam_abusofisico='',anam_horafin='',anam_vaginal='',anam_otrotransporte='',anam_psicologico='',anam_contracciones='',anam_fuenteinfo='PACIENTE',anam_sexual='',anam_obsesvacionobs='',anam_entrega='',anam_otraviolencia='',anam_telefonoentrega='',anam_intoxalcoholica='',anam_intoxalimentaria='',anam_intoxdrogas='',anam_gases='',anam_otraintoxicacion='',anam_envenenamiento='',anam_picadura='',anam_anafilaxia='',anam_observacioneseve='',anam_etilico='',anam_alcocheck='' where anam_id=462 -->2024-02-25 09:50:53
+196-->insert into dns_newlaboratorio (centro_id,clie_id,usua_id,atenc_id,lab_idexterno,lab_micromuestra,lab_coagulacionhemostacia,lab_quimicasanguinea,lab_inmunologiainfecc,lab_orina,lab_eosinofilosmoconasal,lab_heces,lab_tablaexterno,lab_citoquimicos,lab_cvasculares,lab_inmunos,lab_nivelfarmatera,lab_hormonas,lab_gaselectro,lab_serologia,lab_medicinatransfu,lab_moleculargenetica,lab_micrositioana,lab_microseleccionuno,lab_codigo,serlab_id,lab_estudiokoh,prob_codigo,lab_hematologia,lab_cultivomico,lab_fechasolicitud,lab_uno,cant_codigo,lab_dos,lab_hora,lab_tres,lab_microselecciondos,lab_parroquia,prio_id,lab_especialidad,lab_cama,lab_sala,lab_enlace,lab_fecharegistro,lab_nombretomamuestra,lab_tratamiento) values (1,7539,196,6507,462,'','0,0,0,0,0,0,0,0,0,0,','1,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,','dns_newemergenciaanamesis','0,0,0,0,0,0,','0,0,0,0,0,0,0,','0,0,0,0,','0,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','1,2,3,0,0,0,0,0,0,0,','0,0,0,0,0,0,0,8,0,0,0,','0,0,0,','','','0,0,0,0,','',1,'','17','1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,','','2024-02-25 09:51:10','','1701','','09:51','','0,0,0,','LA CONCEPCION',2,'EMERGENCIAS','1','PB','753901131202875419620240225095110335','2024-02-25 09:51:10','LIC. YOLANDA CADENA','')-->2024-02-25 09:53:23
+427-->update lpin_lote set lottar_recap='1233',redc_id=1,lottar_fechai='2024-02-23',lottar_fechaf='2024-02-23',usua_id=0,lottar_fecharegistro='2024-02-24 10:24:29' where lottar_id=337 -->2024-02-25 09:53:43
+427-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-23',5303,'','1.1.2.5.5','6233','',NULL,0,337,427,'2024-02-25 09:53:08',0,'COBRO','2024-02-2542765DB545466E4D','0165D8A01B371424452024022308393960',0)-->2024-02-25 09:53:59
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-23',proveep_id=5303,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6233',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024-02-25 09:53:08',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB545466E4D',doccab_id='0165D8A01B371424452024022308393960',compra_id=0 where crb_id=2531 -->2024-02-25 09:54:01
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-23',proveep_id=5303,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6233',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024-02-25 09:53:08',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB545466E4D',doccab_id='0165D8A01B371424452024022308393960',compra_id=0 where crb_id=2531 -->2024-02-25 09:54:03
+427-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-25',5304,'','1.1.2.5.5','6235','',NULL,0,337,427,'2024-02-25 09:54:26',0,'COBRO','2024-02-2542765DB54A21FC96','0165D8BAE061B0044520240223103352228',0)-->2024-02-25 09:55:13
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-25',proveep_id=5304,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6235',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024-02-25 09:54:26',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB54A21FC96',doccab_id='0165D8BAE061B0044520240223103352228',compra_id=0 where crb_id=2532 -->2024-02-25 09:55:15
+427-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-23',5305,'','1.1.2.5.5','6236','',NULL,0,337,427,'2024-02-25 09:55:46',0,'COBRO','2024-02-2542765DB54F2CD79B','0165D8CF2F236C044520240223120031271',0)-->2024-02-25 09:56:30
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-23',proveep_id=5305,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6236',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024-02-25 09:55:46',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB54F2CD79B',doccab_id='0165D8CF2F236C044520240223120031271',compra_id=0 where crb_id=2533 -->2024-02-25 09:56:32
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-25',proveep_id=5304,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6235',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB54A21FC96',doccab_id='0165D8BAE061B0044520240223103352228',compra_id=0 where crb_id=2532 -->2024-02-25 09:56:54
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-23',proveep_id=5304,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6235',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB54A21FC96',doccab_id='0165D8BAE061B0044520240223103352228',compra_id=0 where crb_id=2532 -->2024-02-25 09:57:05
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-23',proveep_id=5304,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='6235',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=337,usua_id=427,crb_fecharegistro='2024',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DB54A21FC96',doccab_id='0165D8BAE061B0044520240223103352228',compra_id=0 where crb_id=2532 -->2024-02-25 09:57:12
+391-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (7224,391,1,6222,'DERIVADO','POST OPERATORIO CIRUGIA BARIATRICA','','',1,'DR MAFLA','','CONSULTA POST QUIRURGICA','','0','2024-02-25 10:59:55','',0,'','722401176034196439120240225105955459')-->2024-02-25 11:00:59
+391-->update dns_newconsultaexternaanamesis set clie_id=7224,usua_id=391,centro_id=1,atenc_id=6222,anam_referencia='DERIVADO',anam_emferpactual='POST OPERATORIO CIRUGIA BARIATRICA',anam_planes='SEGUIMIENTO NUTRICIONAL',anam_centrorefiere='',estaatenc_id=1,anam_profesionarefiere='DR MAFLA',anam_vidasexualactiva='',anam_motivoconsulta='CONSULTA POST QUIRURGICA',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-02-25 10:59:55',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='722401176034196439120240225105955459' where anam_id=919 -->2024-02-25 11:01:25
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DB6F403ACC542720240225114800229',0,924,NULL,'',3,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0,1,0,'','001-002-000007843','1792935261001',3,'05','9999999999','CONSUMIDOR FINAL','',10,'','contabilidad@clinicalospinos.com','','','',427,3,0,1,'01',3,0.00,'TOMA DE SIGNO VITALES',0)-->2024-02-25 11:48:34
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB6F403ACC542720240225114800229',doccab_subtotaliva=0,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078430000784310',doccab_ndocumento='001-002-000007843',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='',doccab_nautorizacion='2502202401179293526100120010020000078430000784310',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='TOMA DE SIGNO VITALES',doccab_pgacont=0 where doccab_id='0165DB6F403ACC542720240225114800229' -->2024-02-25 11:48:41
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB6F403ACC542720240225114800229',doccab_subtotaliva=0,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078430000784310',doccab_ndocumento='001-002-000007843',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='',doccab_nautorizacion='2502202401179293526100120010020000078430000784310',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='TOMA DE SIGNO VITALES',doccab_pgacont=0 where doccab_id='0165DB6F403ACC542720240225114800229' -->2024-02-25 11:48:43
+196-->update dns_newemergenciaanamesis set les_id='',clie_id=7539,usua_id=196,centro_id=1,atenc_id=6507,anam_observacionaf='',estaatenc_id=4,anam_fechaatencion='2024-02-25',anam_fechahoraevento=NULL,anam_vialibre='1',anam_gestas='',anam_biometria='1',anam_planes='1 CANALIZAR VIA PERIFERICA
+2 BIOMETRIA, GLUCOSA, UREA, CREATININA, SODIO, CLORO, POTASIO, PCR 
+3 LACTATO RINGER 300 MILILITROS INTRAVENOSO EN BOLO EN ESTE MOMENTO 
+4 LUEGO LACTATO RINGER 100 MILILITROS INTRAVENOSO/HORA
+5 OMEPRAZOL 40 MILIGRAMOS INTRAVENOSO EN ESTE MOMENTO 
+6 ONDANSETRON 8 MILIGRAMOS INTRAVENOSO LUEGO DE OMEPRAZOL 
+7 PARACETAMOL 1 GRAMO INTRAVENOSO LUEGO DE OMEPRAZOL',anam_horaevento='',anam_domicilio='',anam_horaatencion='09:30',anam_lugarevento='',anam_viaobstruida='',anam_partos='',anam_quimica='1',anam_fecharegistro='2024-02-25 09:33:12',anam_consultaext='',anam_trauma='',anam_direccionevento='',anam_condestable='1',anam_abortos='',anam_gasometria='',anam_enlace='753901131202875419620240225093312144',anam_observacionalta='1',anam_clinica='1',anam_custodiapolicial='',anam_condinestable='',anam_exobstruida='',anam_cesareas='',anam_nhoja='',anam_endoscopia='',anam_internacion='',anam_obstetrica='',anam_accidentetransito='',anam_excabeza='',anam_mestruacion=NULL,anam_rxabdomen='',anam_emferpactual='PACIENTE FEMENINA DE 37 AÑOS, MESTIZA, SOLTERA, DE INTRUCCION SUPERIOR, DIESTRA, CATOLICA, COMO ANTECEDENTE DE IMPORTANCIA ALERGIA A LA PENICILINA, REFIERE QUE DESDE HACE 12 HORAS APROXIMADAMENTE PRESENTA  DEPOSICIONES DIARREICAS EN NUMERO DE 7, VOMITOS 4 OCASIONES, NIEGA ALZA TERMICA, Y DECIDE ACUDIR A ESTA CASA DE SALUD YA QUE NO ES CONTROLADO, SE AUTOMEDICA ENTEROGERMINA POR 3 OCASIONES SIN MEJORIA. REFIERE QUE ESTUVO DURANTE LA SEMANA EN REGION AMAZONICA ALIMENTANDOSE DE MANERA IRREGULAR.',anam_referencia='',tipoetnia_id='1',anam_quirurgica='',anam_caida='',anam_excuello='',anam_gestacion='',anam_tomografia='',anam_servreferencia='',anam_fechaadmision='2024-02-25',anam_policia='',anam_quemadura='',anam_antalergico='',anam_extorax='',anam_movfetal='',anam_ecografia='',anam_establecimiento='',anam_ocupacion='RELACIONES INTERNACIONALES',anam_otromotivo='',anam_mordedura='',anam_antclinico='',anam_exabdomen='1',anam_frefetal='',anam_interconsulta='',conve_id='19',anam_ahogamiento='',anam_antginecologico='',anam_excolumna='',anam_memrotas='',anam_motivoconsulta='DOLOR ABDOMINAL + DIARREA + VOMITO',anam_uroanalisis='',zona_id=1,anam_lugarnacimiento='AMBATO',anam_egresavivo='',anam_referido='',anam_rh='O RH +',anam_cuerpoextra='',anam_anttraumatologico='',anam_expelvis='',anam_tiempo='',anam_electrolitos='',anam_condicionestable='',anam_avisar='TERESA ABRIL',anam_aplastamiento='',anam_antquirurgico='',anam_exextremidad='',anam_uterina='',anam_electrocardiograma='',anam_condicioninestable='',anam_perentesco='MADRE',anam_otroaccidente='',anam_antfarmacologico='',anam_exobservacion='MUCOSA ORAL: SECA
+ABDOMEN SUAVE DEPRESIBLE DOLOROSO A LA PALPACION DE EPIGASTRIO Y MARCO COLONICO, NO SIGNOS APENDICULARES, RUIDOS HIDROAEREOS AUMENTADOS',anam_presentacion='',anam_rxtorax='',anam_diasincapacidad='',anam_direccionpariente='CALLE D O 329 Y AV BRASIL',anam_armafuego='',anam_antpsiquiatrico='',anam_dilatacion='',anam_rxosea='',anam_muerto='',anam_telefonopariente='0995091336',anam_armapunzante='',anam_antotro='',anam_borramiento='',anam_resonancia='',anam_observacionap='ALERGIAS: PENICILINA
+APP: NO REFIERE 
+APQX: DEDO EN GATILLO 2002 
+APF: PADRE HIPERTENSION ARTERIAL MADRE HIPERTENSION ARTERIAL',anam_causamuerto='',anam_rina='',anam_plano='',anam_ecografiaabdomen='',anam_ambulatorio='1',anam_violenciafamiliar='',anam_pelvisutil='',anam_otrosexamenes='PCR + ELECTROLITOS',anam_ambulancia='',anam_abusofisico='',anam_horafin='',anam_vaginal='',anam_otrotransporte='',anam_psicologico='',anam_contracciones='',anam_fuenteinfo='PACIENTE',anam_sexual='',anam_obsesvacionobs='',anam_entrega='',anam_otraviolencia='',anam_telefonoentrega='',anam_intoxalcoholica='',anam_intoxalimentaria='',anam_intoxdrogas='',anam_gases='',anam_otraintoxicacion='',anam_envenenamiento='',anam_picadura='',anam_anafilaxia='',anam_observacioneseve='',anam_etilico='',anam_alcocheck='0' where anam_id=462 -->2024-02-25 13:14:23
+427-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,1,'05','','1715733273','DIANA CAROLINA ARMENDARIZ ABRIL','CALLE D O 329 Y AV BRASIL','','','0999710477','diana_armendariz1@hotmail.com',0,'2024-02-25 13:17:15')-->2024-02-25 13:17:22
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DB82E00B26342720240225011144347',5.55,5320,NULL,'',119.48,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0.67,1,0,'','001-002-000007844','1792935261001',125.7,'05','1715733273','DIANA CAROLINA ARMENDARIZ ABRIL','CALLE D O 329 Y AV BRASIL',10,'0999710477','diana_armendariz1@hotmail.com','1715733273','','',427,2,19,1,'01',125.7,0.00,'PACIENTE DIANA CAROLINA ARMENDARIZ 
+ATENCION POR EMERGECNIA
+SEGURO CONFIAMED 
+ATENDIDO POR DRA GEMA ORTIZ',0)-->2024-02-25 13:17:28
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB82E00B26342720240225011144347',doccab_subtotaliva=5.55,proveeve_id=5320,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=119.48,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078440000784413',doccab_ndocumento='001-002-000007844',doccab_rucempresa='1792935261001',doccab_total=125.7,tipoident_codigo='05',doccab_rucci_cliente='1715733273',doccab_nombrerazon_cliente='DIANA CAROLINA ARMENDARIZ ABRIL',doccab_direccion_cliente='CALLE D O 329 Y AV BRASIL',tipase_id=10,doccab_telefono_cliente='0999710477',doccab_email_cliente='diana_armendariz1@hotmail.com',doccab_identificacionpaciente='1715733273',doccab_nautorizacion='2502202401179293526100120010020000078440000784413',doccab_fechaaut='',usua_id=427,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=125.7,doccab_cambio=0,doccab_adicional='PACIENTE DIANA CAROLINA ARMENDARIZ 
+ATENCION POR EMERGECNIA
+SEGURO CONFIAMED 
+ATENDIDO POR DRA GEMA ORTIZ',doccab_pgacont=0 where doccab_id='0165DB82E00B26342720240225011144347' -->2024-02-25 13:17:56
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB82E00B26342720240225011144347',doccab_subtotaliva=5.55,proveeve_id=5320,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=119.48,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0.67,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078440000784413',doccab_ndocumento='001-002-000007844',doccab_rucempresa='1792935261001',doccab_total=125.7,tipoident_codigo='05',doccab_rucci_cliente='1715733273',doccab_nombrerazon_cliente='DIANA CAROLINA ARMENDARIZ ABRIL',doccab_direccion_cliente='CALLE D O 329 Y AV BRASIL',tipase_id=10,doccab_telefono_cliente='0999710477',doccab_email_cliente='diana_armendariz1@hotmail.com',doccab_identificacionpaciente='1715733273',doccab_nautorizacion='2502202401179293526100120010020000078440000784413',doccab_fechaaut='',usua_id=427,tippo_id=2,conve_id=19,centro_id=1,doccab_fpago='01',doccab_pagacon=125.7,doccab_cambio=0,doccab_adicional='PACIENTE DIANA CAROLINA ARMENDARIZ 
+ATENCION POR EMERGECNIA
+SEGURO CONFIAMED 
+ATENDIDO POR DRA GEMA ORTIZ',doccab_pgacont=0 where doccab_id='0165DB82E00B26342720240225011144347' -->2024-02-25 13:17:56
+427-->insert into lpin_lote (lottar_recap,redc_id,lottar_fechai,lottar_fechaf,usua_id,lottar_fecharegistro) values ('1196',1,'2024-02-25','2024-02-25',0,'2024-02-25 13:18:41')-->2024-02-25 13:18:52
+427-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-25',5320,'','1.1.2.5.5','1146','',NULL,0,342,427,'2024-02-25 13:18:19',0,'COBRO','2024-02-2542765DB846B8D712','0165DB82E00B26342720240225011144347',0)-->2024-02-25 13:19:06
+264-->update dns_newhospitalizacionanamesis set clie_id=7506,usua_id=362,centro_id=1,atenc_id=6477,anam_referencia='DERIVADO',les_id='15',anam_pdfcirugia='',anam_emferpactual='PACIENTE MASCULINO CON ANTECEDENTE DE DOLOR LUMBAR CON IRRADIACIÓN HACIA PIERNA DERECHA, REFIERE HABER REALIZADO FISIOTERAPIA + INFILTRACIONES, LO CUAL GENERA CALMA  MOMENTANEA DE DOLOR, SIN EMBARGO  EN EL TRASCURSO DE ESTE TIEMPO, DESDE HACE MAS O MENOS 5 MESES PRESENTA AUMENTO DE DOLOR QUE IMPOSIBILITA LA DEAMBULACION, POR LO CUAL ACUDE A VALORACION POR ESPECIALISTA  DE NEUROCIRUGÍA QUIEN SUGIERE RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA A ESTA CASA DE SALUD, PROCEDIMIENTO PAUTADO PARA EL DÍA 2024/02/23.',anam_planes='1. INGRESO A HOSPITALIZACION
+2. DIETA GENERAL  Y NPO A PARTIR DE LAS 22:O00
+3. CONTROL DE SIGNOS VITALES
+4. CUIDADO DE ENFERMERIA HABITUALES
+5. AMBULATORIO.
+6. DISH
+7. PARACETAMOL INTRAVENOSO 1 G CADA 6 HORAS.
+8. KETOROLACO 30 MG CADA 8 HORAS.
+9. OMEPRAZOL 40 MG INTRAVENOSO DIA.
+10. CEFAZOLINA 1 GR INTRAVENOSOS CADA 8 HORAS.
+11. EXAMENES DE LABORATORIO; BIOMETRÍA HEMÁTICA, GLUCOSA, ÚREA, CREATININA, TP, TTP, INR, SODIO, POTASIO, CLORO. ELECTROCARDIOGRAMA Y RX DE TÓRAX.
+12. RADIOGRAFIA DINÁMICA LUMBAR (FLEXIÓN Y EXTENSIÓN).
+13. PENDIENTE CIRUGÍA 23/02/2024 13:30.
+14. INTERCONSULTA MEDICINA INTERNA PARA APROBACION DE CIRUGÍA.
+15. FIRMAR CONSENTIMIENTO PREVIA CIRUGÍA.
+16. REPORTAR NOVEDADES.',anam_descripcionexafis='SE EVIDENCIA EN MIEMBRO INFERIOR DERECHO ATROFIA MUSCULAR, ADEMÁS LASSEGUE POSITIVO, PUNTOS DOLOROSOS A NIVEL LUMBAR L5 S1 CON IRRADIACION HACIA MIEMBRO INFERIOR DERECHO, ACOMPAÑADO DE PARESTESIA HASTA LA PLANTA DE LOS PIES, NIVEL SENSITIVO L5 S1 DISMINUIDO. EVA 8/10',anam_centrorefiere='ISSPOL',anam_analisis='PACIENTE MASCULINO CON ANTECEDENTE DESCRITO EN QUIEN SE VALORA PROCEDIMIENTO QUIRÚRGICO, POR LO CUAL INGRESA A ESTA CASA DE SALUD. SE REALIZA EXÁMENES Y CHEQUEO PREQUIRÚRGICOS Y VALORACIÓN POR MEDICINA INTERNA.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='NO APLICA',estaatenc_id=4,anam_cirugia='LAMINECTOMÍA DE L5 + DISCECTOMIA DE L5-S1',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='NO APLICA',anam_especialidad='NEUROCIRUGÍA',anam_fecharegistro='2024-02-22 12:06:08',anam_menopausiaedad='NO APLICA',anam_tratante='DR. ANDRES GUERRERO',anam_abortos='NO APLICA',anam_atpreventiva=1,anam_ayudante='DE TURNO',anam_nhoja='',anam_ciclos='NO APLICA',anam_anestesiologo='DE TURNO',anam_cesareas='NO APLICA',anam_enlace='750601100388420036220240222120608445',anam_fechaingreso='2024-02-22',anam_gesta='NO APLICA',anam_hijosvivos='NO APLICA',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NO APLICA',anam_terapiahormonaltext='NO APLICA',anam_edadsex='NO APLICA' where anam_id=607 -->2024-02-25 14:19:10
+264-->insert into dns_newhospitalizacionconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (7506,264,1,6477,'PCTE 39 AÑOS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',607,'2024-02-25',1,'2024-02-25 14:19:13','14:00','1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA','14:45','750601171044278926420240225021913485')-->2024-02-25 14:27:47
+264-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=264,centro_id=1,atenc_id=6477,conext_notasdeevolucion='PCTE 39 AÑOS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 14:19:13',conext_horar='14:00',conext_prescripciones='1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA',conext_horaf='14:45',conext_enlace='750601171044278926420240225021913485' where conext_id=389 -->2024-02-25 14:27:56
+264-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=264,centro_id=1,atenc_id=6477,conext_notasdeevolucion='PCTE 39 AÑOS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 14:19:13',conext_horar='14:00',conext_prescripciones='1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA',conext_horaf='14:45',conext_enlace='750601171044278926420240225021913485' where conext_id=389 -->2024-02-25 14:28:24
+264-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=264,centro_id=1,atenc_id=6477,conext_notasdeevolucion='PCTE 39 AÑOS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 14:19:13',conext_horar='14:00',conext_prescripciones='1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA',conext_horaf='14:45',conext_enlace='750601171044278926420240225021913485' where conext_id=389 -->2024-02-25 14:28:32
+264-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=264,centro_id=1,atenc_id=6477,conext_notasdeevolucion='NOTA DE MEDICINA INTERNA 
+PCTE 39 AÑOS 
+DIAS DE HOSPITALIZACION  . 3 DIAS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 14:19:13',conext_horar='14:00',conext_prescripciones='1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA',conext_horaf='14:45',conext_enlace='750601171044278926420240225021913485' where conext_id=389 -->2024-02-25 14:29:36
+264-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=264,centro_id=1,atenc_id=6477,conext_notasdeevolucion='NOTA DE MEDICINA INTERNA 
+PCTE 39 AÑOS 
+DIAS DE HOSPITALIZACION  . 3 DIAS 
+S.- ASINTOMATICO CARDIOVASCULAR NO TOS NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , REFIRE DOLOR MODERADO EN MIEMBRO INFERIOR DERECHO  EVA 6/10 
+O.- TA 130/80 FC 74 FR 16 SAT 96  T 36.7 ISOCORIA PUPILAR MUCOSAS ORALES HUMEDAS CUELLO NO IY TIROIDES OA NO ADENOPATIAS CORAZON RUIDOS CARDIACOS RITMICOS NO SOPLOS PULMONES MURMULLO VESICULAR PRESENTE NO RALES , ABDOMEN SUAVE DEPRESIBLE RUIDOS HIDROAEREOS PRESENTES, MIEMBROS INFERIORES NO EDEMAS , LASEGUE POSITIVO DERECHO',anam_id=607,conext_fechar='2024-02-25',estaatenc_id=1,conext_fecharegistro='2024-02-25 14:19:13',conext_horar='14:00',conext_prescripciones='1.- LOSARTAN 100 MG  VIA ORAL 7 AM 
+2.- CLORTALIDONA 50 MG VIA ORAL 7 AM 
+3.- CARVEDILOL 12,5 MG VIA ORAL 12H00 DEL MEDIO DIA
+4.- AMLODIPINA 10 MG VIA ORAL 7 PM 
+5.- TRAMADOL 100 MG INTRAVENOSO DILUIDO LENTO CADA 8 HORAS
+6.- ONDASENTRON 8 MG INTRAVENOSO CADA 8 HORAS
+7.- INDICACIONES DE NEUROCIRUGIA',conext_horaf='14:45',conext_enlace='750601171044278926420240225021913485' where conext_id=389 -->2024-02-25 14:29:45
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7432,atenc_id='6423',usua_id=245,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-20 16:00:41',protoop_selectiva='1',protoop_cirujanouno='DR. DAZA JOSE',protoop_fechaoperacion='2024-02-20',protoop_sintesis='',protoop_idenlace='598',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='15:30',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. ZURITA DIEGO',protoop_horafin='16:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='LAPAROSCOPIA EXPLORATORIA + HERNIORRAFIA INGUINAL BILATERAL',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='LAPAROSCOPIA EXPLORATORIA + HERNIORRAFIA INGUINAL DERECHA.
+49320 Laparoscopia diagnostica
+49500 Reparo de hernia inguinal, inicial de 6 meses a menos de 5 años',protoop_dieresis='INCISION UMBILICAL DE 6 MILIMETROS PARA TROCAR DE 5 MILIMETROS,',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JIMENA BARROS',protoop_enlace='743201170922699524520240220040041101',protoop_circulante='RUBEN CHICAIZA',protoop_exposicion='VIDEOSCOPIA E INSUFLACION CON CO2.',protoop_anestesiologo='OSCAR CACHIMUEL',protoop_exploracion='HERNIA INGUINAL INDIRECTA DERECHA SIN CONTENIDO EN SU INTERIOR',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSIS Y ANTISEPSIA 
+COLOCACION DE CAMPOS QUIRURIGICOS 
+INCISION NUMERO 1 DESCRITA Y COLOCACION DE TROCAR NUMERO 1 PARA VIDEOSCOPIA 
+HALLAZGOS DESCRITOS 
+INCISION DE 1.5 MILIMETROS EN REGION INGUINAL DERECHA 
+HIDRODISECCION CON SOLUCION SALINA DE CONDUCTO PERITONEO VAGINAL 
+PASO DE PUNTO PERCUTANEO CON PROLENE 3-0 
+LIGADURA CON SUTURA EXTRACORPOREA CON POLIESTER 3-0 
+LAPAROSCOPIA EXPLORATORIA Y VERIFICACION DE HEMOSTASIA 
+CIERRE DE APONEUROSIS UMBILICAL CON VICRYL 3-0 
+CIERRE DE PIEL CON MONOCRYL 4-0',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=892 -->2024-02-25 15:00:00
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DB9EA3102B142720240225031011439',0,924,NULL,'',3,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0,1,0,'','001-002-000007845','1792935261001',3,'05','9999999999','CONSUMIDOR FINAL','',10,'','contabilidad@clinicalospinos.com','999999999','','',427,3,0,1,'01',3,0.00,'COLOCACION DE UNA INYECCION',0)-->2024-02-25 15:11:04
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB9EA3102B142720240225031011439',doccab_subtotaliva=0,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078450000784516',doccab_ndocumento='001-002-000007845',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='999999999',doccab_nautorizacion='2502202401179293526100120010020000078450000784516',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='COLOCACION DE UNA INYECCION',doccab_pgacont=0 where doccab_id='0165DB9EA3102B142720240225031011439' -->2024-02-25 15:13:19
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DB9EA3102B142720240225031011439',doccab_subtotaliva=0,proveeve_id=924,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=3,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078450000784516',doccab_ndocumento='001-002-000007845',doccab_rucempresa='1792935261001',doccab_total=3,tipoident_codigo='05',doccab_rucci_cliente='9999999999',doccab_nombrerazon_cliente='CONSUMIDOR FINAL',doccab_direccion_cliente='',tipase_id=10,doccab_telefono_cliente='',doccab_email_cliente='contabilidad@clinicalospinos.com',doccab_identificacionpaciente='999999999',doccab_nautorizacion='2502202401179293526100120010020000078450000784516',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=0,centro_id=1,doccab_fpago='01',doccab_pagacon=3,doccab_cambio=0,doccab_adicional='COLOCACION DE UNA INYECCION',doccab_pgacont=0 where doccab_id='0165DB9EA3102B142720240225031011439' -->2024-02-25 15:13:22
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6738,atenc_id='5809',usua_id=219,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-02-09 11:09:32',protoop_selectiva='',protoop_cirujanouno='DRA. ALEXANDRA URQUIZO',protoop_fechaoperacion='2024-02-09',protoop_sintesis='',protoop_idenlace='571',protoop_general='1',protoop_transquirurgico='BIOPSIA DE ENDOMETRIO',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='10:05',protoop_sintesisimagen='',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='11:05',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='LEGRADO UTERINO INSTRUMENTAL HEMOSTATICO Y DIAGNOSTICO, EXTRACCION DE POLIPO ENDOMETRIAL Y COLOCACION DE DISPOSITIVO INTRAUTERINO',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='LEGRADO UTERINO INSTRUMENTAL HEMOSTATICO Y DIAGNOSTICO, EXTRACCION DE POLIPO ENDOMETRIAL Y COLOCACION DE DISPOSITIVO INTRAUTERINO',protoop_dieresis='',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='XIMENA BARROS',protoop_enlace='67380117092372242192024020911093256',protoop_circulante='DENIS PILLIZA',protoop_exposicion='CON ESPECULO VAGINAL',protoop_anestesiologo='DRA.ALEXANDRA NOBOA',protoop_exploracion='UTERO EN AVF 1X
+CERVIX ENTREABIERTO
+HISTEROMETRIA DE 8 CM
+ESCASA CANTIDAD DE MATERIAL ENDOMETRIAL
+SANGRADO 40 CC
+NO COMPLICACIONES',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='ASEPSCIA Y ANTISEPSCIA
+COLOCACION DE CVAMPOS
+TACTO VAGINAL
+COLOCACION DE ESPEJO VAGINAL
+ASEPSCIA DE CUELLO
+COLOCACION DE PINZA POSEE A LAS 11
+HISTEROMETRIA
+DILATACION DE CERVIX
+LEGRADO PROPIAMENTE DICHO
+REVISION DE HEMOSTASIA
+ESTRACCION DE MUESTRA
+COLOCACION DE DISPOSITIVO INTYRAUTERINA
+EXTRACCION DE PINZA POSEE
+EXTRACCION DE ESPEJO VAGINAL',protoop_complicaciones='NO',protoop_perdida='40 CC',protoop_sangrado='40CC',protoop_protesico='0',anam_enlace='' where protoop_id=865 -->2024-02-25 16:27:27
+445-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_lugarnacimiento,clie_fechanacimiento,clie_encadodeemergencia,clie_parentescocontacto,nac_id,tarterial_id,clie_emergenciatelf,clie_direccioncontacto,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_tipoempresa,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',12,'','',1,'REGISTRADO','',1,'','NUEVOS HORISONTEZ DEL SUR 
+S40-90','1752683514','PURUNCAJAS JUMBO','17','',3,'1701','JERSON ALDAIR',6,'NN',1,'','','','PICHINCHA QUITO CHIMBACALLE','2001-02-08','NN','NN',56,7,'NN','NN','0989442939','M',4,4,'pozoluis1974@gmail.com','','445','','2024-02-25 16:30:47','0117614227554452024022504304739997',NULL,'1','','7242','','NN','','3','')-->2024-02-25 16:33:37
+445-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechaingreso,atenc_fechasalida,atenc_condiciondeegreso,atenc_observacion,emp_id,clie_ci,atenc_referencia,atenc_archivo,atenc_enlace) values (1,7540,'1752683514-1','2',445,'2024-02-25 16:33:42','','','2024-02-25 16:33:42','2024-02-25 16:33:42','VIVO','CONSULTA',1,'1752683514','','','01176142275544520240225043342301')-->2024-02-25 16:33:51
+196-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (7540,196,1,6508,'AUTOREFERENCIA','PACIENTE MASCULINO DE 23 AÑOS, NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, BACHILLER, TRABAJADOR PRIVADO, DIESTRO, SIN RELIGION. SIN ANTECEDENTES DE IMPORTANCIA, REFIERE QUE HOY DESDE HACE 12 HORAS PRESENTA DOLOR ABDOMINAL TIPO COLICO, QUE SE ACOMPAÑA DE MALESTAR GENERAL, DOLOR ARTICULAR, REFEIRE ALZA TERMICA NO CUANTIFICADA. NIEGA AUTOMEDICARSE.','','',4,'','','DOLOR ABDOMINAL + MALESTAR GENERAL','','0','2024-02-25 16:49:51','',0,'','754001131202875419620240225044951372')-->2024-02-25 16:56:52
+196-->update dns_newconsultaexternaanamesis set clie_id=7540,usua_id=196,centro_id=1,atenc_id=6508,anam_referencia='AUTOREFERENCIA',anam_emferpactual='PACIENTE MASCULINO DE 23 AÑOS, NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, BACHILLER, TRABAJADOR PRIVADO, DIESTRO, SIN RELIGION. SIN ANTECEDENTES DE IMPORTANCIA, REFIERE QUE HOY DESDE HACE 12 HORAS PRESENTA DOLOR ABDOMINAL TIPO COLICO, QUE SE ACOMPAÑA DE MALESTAR GENERAL, DOLOR ARTICULAR, REFEIRE ALZA TERMICA NO CUANTIFICADA. NIEGA AUTOMEDICARSE.',anam_planes='',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR ABDOMINAL + MALESTAR GENERAL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-02-25 16:49:51',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='754001131202875419620240225044951372' where anam_id=920 -->2024-02-25 17:03:16
+196-->update dns_newconsultaexternaanamesis set clie_id=7540,usua_id=196,centro_id=1,atenc_id=6508,anam_referencia='AUTOREFERENCIA',anam_emferpactual='PACIENTE MASCULINO DE 23 AÑOS, NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, BACHILLER, TRABAJADOR PRIVADO, DIESTRO, SIN RELIGION. SIN ANTECEDENTES DE IMPORTANCIA, REFIERE QUE HOY DESDE HACE 12 HORAS PRESENTA DOLOR ABDOMINAL TIPO COLICO, QUE SE ACOMPAÑA DE MALESTAR GENERAL, DOLOR ARTICULAR, REFEIRE ALZA TERMICA NO CUANTIFICADA. NIEGA AUTOMEDICARSE.',anam_planes='ALTA 
+DIETA BLANDA
+PARACETAMOL 1 GRAMO VIA ORAL CADA 8 HORAS POR 3 DIAS
+BIOFLORA PLUS SOBRE CADA 12 HORAS POR 3 DIAS
+DOLONEUROBION 1 AMPOLLA PASANDO UN DIA POR 3 DIAS 
+CERTIFICADO MEDICO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR ABDOMINAL + MALESTAR GENERAL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-02-25 16:49:51',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='754001131202875419620240225044951372' where anam_id=920 -->2024-02-25 17:07:04
+196-->update dns_newconsultaexternaanamesis set clie_id=7540,usua_id=196,centro_id=1,atenc_id=6508,anam_referencia='AUTOREFERENCIA',anam_emferpactual='PACIENTE MASCULINO DE 23 AÑOS, NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, BACHILLER, TRABAJADOR PRIVADO, DIESTRO, SIN RELIGION. SIN ANTECEDENTES DE IMPORTANCIA, REFIERE QUE HOY DESDE HACE 12 HORAS PRESENTA DOLOR ABDOMINAL TIPO COLICO, QUE SE ACOMPAÑA DE MALESTAR GENERAL, DOLOR ARTICULAR, REFEIRE ALZA TERMICA NO CUANTIFICADA. NIEGA AUTOMEDICARSE.',anam_planes='ALTA 
+DIETA BLANDA
+PARACETAMOL 1 GRAMO VIA ORAL CADA 8 HORAS POR 3 DIAS
+BIOFLORA PLUS SOBRE CADA 12 HORAS POR 3 DIAS
+DOLONEUROBION 1 AMPOLLA PASANDO UN DIA POR 3 DIAS 
+CERTIFICADO MEDICO',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='DOLOR ABDOMINAL + MALESTAR GENERAL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-02-25 16:49:51',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='1',anam_enlace='754001131202875419620240225044951372' where anam_id=920 -->2024-02-25 17:14:04
+427-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,1,'05','','1752683514','PURUNCAJAS JUMBO JERSON ALDAIR','NUEVOS HORISONTEZ DEL SUR 
+S40-90','','','0989442939','pozoluis1974@gmail.com',0,'2024-02-25 17:47:05')-->2024-02-25 17:48:31
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DBC336A7AAC42720240225054614345',0,5321,NULL,'',20,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',0,1,0,'','001-002-000007846','1792935261001',20,'05','1752683514','PURUNCAJAS JUMBO JERSON ALDAIR','NUEVOS HORISONTEZ DEL SUR S40-90',10,'0989442939','pozoluis1974@gmail.com','1752683514','','',427,3,6,1,'01',20,0.00,'PCTE PURUNCAJAS JUMBO JERSON
+CONSULTA MEDICINA GENERAL',0)-->2024-02-25 17:48:37
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DBC336A7AAC42720240225054614345',doccab_subtotaliva=0,proveeve_id=5321,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=20,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078460000784619',doccab_ndocumento='001-002-000007846',doccab_rucempresa='1792935261001',doccab_total=20,tipoident_codigo='05',doccab_rucci_cliente='1752683514',doccab_nombrerazon_cliente='PURUNCAJAS JUMBO JERSON ALDAIR',doccab_direccion_cliente='NUEVOS HORISONTEZ DEL SUR S40-90',tipase_id=10,doccab_telefono_cliente='0989442939',doccab_email_cliente='pozoluis1974@gmail.com',doccab_identificacionpaciente='1752683514',doccab_nautorizacion='2502202401179293526100120010020000078460000784619',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=20,doccab_cambio=0,doccab_adicional='PCTE PURUNCAJAS JUMBO JERSON
+CONSULTA MEDICINA GENERAL',doccab_pgacont=0 where doccab_id='0165DBC336A7AAC42720240225054614345' -->2024-02-25 17:49:09
+427-->insert into lpin_cobropago (ttra_id,frocob_id,subfp_id,crb_fecha,proveep_id,crb_paguesealaorden,crb_cuenta,crb_ncomprobante,crb_ncheque,crb_fechacheque,cuentb_id,lote_id,usua_id,crb_fecharegistro,crb_efectivo,crb_descripcion,crb_enlace,doccab_id,compra_id) values (1,4,0,'2024-02-25',5321,'','1.1.2.5.5','1147','',NULL,0,342,427,'2024-02-25 17:49:11',0,'COBRO','2024-02-2542765DBC3E7E572D','0165DBC336A7AAC42720240225054614345',0)-->2024-02-25 17:49:54
+427-->update lpin_cobropago set ttra_id=1,frocob_id=4,subfp_id=0,crb_fecha='2024-02-25',proveep_id=5321,crb_paguesealaorden='',crb_cuenta='1.1.2.5.5',crb_ncomprobante='1147',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=342,usua_id=427,crb_fecharegistro='2024-02-25 17:49:11',crb_efectivo=0,crb_descripcion='COBRO',crb_enlace='2024-02-2542765DBC3E7E572D',doccab_id='0165DBC336A7AAC42720240225054614345',compra_id=0 where crb_id=2535 -->2024-02-25 17:49:56
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DBC336A7AAC42720240225054614345',doccab_subtotaliva=0,proveeve_id=5321,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=20,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078460000784619',doccab_ndocumento='001-002-000007846',doccab_rucempresa='1792935261001',doccab_total=20,tipoident_codigo='05',doccab_rucci_cliente='1752683514',doccab_nombrerazon_cliente='PURUNCAJAS JUMBO JERSON ALDAIR',doccab_direccion_cliente='NUEVOS HORISONTEZ DEL SUR S40-90',tipase_id=10,doccab_telefono_cliente='0989442939',doccab_email_cliente='pozoluis1974@gmail.com',doccab_identificacionpaciente='1752683514',doccab_nautorizacion='2502202401179293526100120010020000078460000784619',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=20,doccab_cambio=0,doccab_adicional='PCTE PURUNCAJAS JUMBO JERSON
+CONSULTA MEDICINA GENERAL',doccab_pgacont=0 where doccab_id='0165DBC336A7AAC42720240225054614345' -->2024-02-25 17:50:55
+427-->update beko_documentocabecera set doccab_ndocuafecta='',doccab_id='0165DBC336A7AAC42720240225054614345',doccab_subtotaliva=0,proveeve_id=5321,doccab_retfechaemision=NULL,tipocmp_codigoafectado='',doccab_subtotalsiniva=20,emp_id=1,tipocmp_codigo='01',doccab_retnumdoc='',doccab_fechadocmodi=NULL,doccab_fechaemision_cliente='2024-02-25 00:00:00',doccab_subtnoobjetoi='0',estaf_id=1,doccab_retautorizacion='',doccab_autoirzacionmodif='',ambi_valor=2,doccab_subtexentoiva='0',doccab_archivoxmlret='',doccab_motivo='',doccab_iva=0,emis_valor=1,doccab_descuento=0,doccab_clavedeaccesos='2502202401179293526100120010020000078460000784619',doccab_ndocumento='001-002-000007846',doccab_rucempresa='1792935261001',doccab_total=20,tipoident_codigo='05',doccab_rucci_cliente='1752683514',doccab_nombrerazon_cliente='PURUNCAJAS JUMBO JERSON ALDAIR',doccab_direccion_cliente='NUEVOS HORISONTEZ DEL SUR S40-90',tipase_id=10,doccab_telefono_cliente='0989442939',doccab_email_cliente='pozoluis1974@gmail.com',doccab_identificacionpaciente='1752683514',doccab_nautorizacion='2502202401179293526100120010020000078460000784619',doccab_fechaaut='',usua_id=427,tippo_id=3,conve_id=6,centro_id=1,doccab_fpago='01',doccab_pagacon=20,doccab_cambio=0,doccab_adicional='PCTE PURUNCAJAS JUMBO JERSON
+CONSULTA MEDICINA GENERAL',doccab_pgacont=0 where doccab_id='0165DBC336A7AAC42720240225054614345' -->2024-02-25 17:50:56
+196-->update dns_newhospitalizacionanamesis set clie_id=7506,usua_id=362,centro_id=1,atenc_id=6477,anam_referencia='DERIVADO',les_id='15',anam_pdfcirugia='',anam_emferpactual='PACIENTE MASCULINO CON ANTECEDENTE DE DOLOR LUMBAR CON IRRADIACIÓN HACIA PIERNA DERECHA, REFIERE HABER REALIZADO FISIOTERAPIA + INFILTRACIONES, LO CUAL GENERA CALMA  MOMENTANEA DE DOLOR, SIN EMBARGO  EN EL TRASCURSO DE ESTE TIEMPO, DESDE HACE MAS O MENOS 5 MESES PRESENTA AUMENTO DE DOLOR QUE IMPOSIBILITA LA DEAMBULACION, POR LO CUAL ACUDE A VALORACION POR ESPECIALISTA  DE NEUROCIRUGÍA QUIEN SUGIERE RESOLUCIÓN QUIRÚRGICA, POR LO QUE INGRESA A ESTA CASA DE SALUD, PROCEDIMIENTO PAUTADO PARA EL DÍA 2024/02/23.',anam_planes='1. INGRESO A HOSPITALIZACION
+2. DIETA GENERAL  Y NPO A PARTIR DE LAS 22:O00
+3. CONTROL DE SIGNOS VITALES
+4. CUIDADO DE ENFERMERIA HABITUALES
+5. AMBULATORIO.
+6. DISH
+7. PARACETAMOL INTRAVENOSO 1 G CADA 6 HORAS.
+8. KETOROLACO 30 MG CADA 8 HORAS.
+9. OMEPRAZOL 40 MG INTRAVENOSO DIA.
+10. CEFAZOLINA 1 GR INTRAVENOSOS CADA 8 HORAS.
+11. EXAMENES DE LABORATORIO; BIOMETRÍA HEMÁTICA, GLUCOSA, ÚREA, CREATININA, TP, TTP, INR, SODIO, POTASIO, CLORO. ELECTROCARDIOGRAMA Y RX DE TÓRAX.
+12. RADIOGRAFIA DINÁMICA LUMBAR (FLEXIÓN Y EXTENSIÓN).
+13. PENDIENTE CIRUGÍA 23/02/2024 13:30.
+14. INTERCONSULTA MEDICINA INTERNA PARA APROBACION DE CIRUGÍA.
+15. FIRMAR CONSENTIMIENTO PREVIA CIRUGÍA.
+16. REPORTAR NOVEDADES.',anam_descripcionexafis='SE EVIDENCIA EN MIEMBRO INFERIOR DERECHO ATROFIA MUSCULAR, ADEMÁS LASSEGUE POSITIVO, PUNTOS DOLOROSOS A NIVEL LUMBAR L5 S1 CON IRRADIACION HACIA MIEMBRO INFERIOR DERECHO, ACOMPAÑADO DE PARESTESIA HASTA LA PLANTA DE LOS PIES, NIVEL SENSITIVO L5 S1 DISMINUIDO. EVA 8/10',anam_centrorefiere='ISSPOL',anam_analisis='PACIENTE MASCULINO CON ANTECEDENTE DESCRITO EN QUIEN SE VALORA PROCEDIMIENTO QUIRÚRGICO, POR LO CUAL INGRESA A ESTA CASA DE SALUD. SE REALIZA EXÁMENES Y CHEQUEO PREQUIRÚRGICOS Y VALORACIÓN POR MEDICINA INTERNA.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='NO APLICA',estaatenc_id=4,anam_cirugia='LAMINECTOMÍA DE L5 + DISCECTOMIA DE L5-S1',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='NO APLICA',anam_especialidad='NEUROCIRUGÍA',anam_fecharegistro='2024-02-22 12:06:08',anam_menopausiaedad='NO APLICA',anam_tratante='DR. ANDRES GUERRERO',anam_abortos='NO APLICA',anam_atpreventiva=1,anam_ayudante='DE TURNO',anam_nhoja='',anam_ciclos='NO APLICA',anam_anestesiologo='DE TURNO',anam_cesareas='NO APLICA',anam_enlace='750601100388420036220240222120608445',anam_fechaingreso='2024-02-22',anam_gesta='NO APLICA',anam_hijosvivos='NO APLICA',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='NO APLICA',anam_terapiahormonaltext='NO APLICA',anam_edadsex='NO APLICA' where anam_id=607 -->2024-02-25 22:00:18
+196-->update dns_newhospitalizacionconsultaexterna set clie_id=7506,usua_id=446,centro_id=1,atenc_id=6477,conext_notasdeevolucion='EVOLUCIÓN PM
+NEUROCIRUGIA /MEDICINA INTERNA
+
+PACIENTE MASCULINO DE 39 AÑOS.
+DIAGNOSTICO: TRASTORNOS DEL DISCO LUMBAR  Y OTROS, CON RADICULOPATÍA.  +  HIPERTENSION ARTERIAL
+
+S: PACIENTE AL MOMENTO TRANQUILO, REFIERE LEVE MAREO Y PARESTESIAS DE MIEMBRO INFERIOR  DERECHO  EN MUSLO POSTERIOR
+
+O: EXAMEN FÍSICO:  TA  120/86 SAT O2 91% FR 17 FC 63 T 36.1
+PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO
+CEFÁLICA. OJOS: PUPILAS ISOCÓRICAS, NORMO REACTIVAS. BOCA: MUCOSAS SEMIHÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES.
+TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RUIDOS RÍTMICOS, NO SOPLOS. PULMONES: MURMULLO VESICULAR CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO A LA PALPACIÓN, RHA PRESENTES NO SIGNOS PERITONEALES, EXTREMIDADES: MIEMBRO INFERIOR DERECHO: ATROFIA MUSCULAR, LASSEGUE POSITIVO, PRESENCIA DE PARESTESIAS QUE INICIAN EN MUSLO POSTERIOR Y QUE SE IRRADIAN HASTA RODILLA POSTERIOR, LLENADO CAPILAR DE 2 SEGUNDOS, MOVILIDAD CONSERVADA.   
+
+A: PACIENTE ADULTO AL MOMENTO CON MAREO POR MEDICACION PRESCRITA POR LO QUE SE AGREGA PRESCRIPCION, CON MANEJO ANTIHIPERTENSIVO INDICADO POR MEDICINA INTERNA PERMANECE CON PRESIONES ARTERIALES DE DIFICIL MANEJO, EL DIA DE HOY CON MEJORIA. DOLOR LUMBAR CONTROLADO CON ANALGESIA PAUTADA, SEGUIMIENTO POR MEDICINA INTERNA, REPROGRAMAR CIRUGÍA CON TENSIONES ARTERIALES NORMALES.
+
+P: INDICACIONES',anam_id=607,conext_fechar='2024-02-24',estaatenc_id=1,conext_fecharegistro='2024-02-24 19:15:08',conext_horar='18:00',conext_prescripciones='Rp/.
+
+1. ONDANSETRON 8 MG IV STAT Y CADA 8 HORAS
+2. CONTINUAR RESTO DE INDICACIONES IGUALES
+3. COMUNICAR NOVEDADES
+
+
+
+
+
+
+
+
+DR. ANDRES GUERRERO 
+NEUROCIRUGIA
+
+
+
+
+DRA GABRIELA MARIN
+MEDICO RESIDENTE',conext_horaf='18:30',conext_enlace='750601010676117444620240224071508228' where conext_id=386 -->2024-02-25 22:00:41
+196-->insert into dns_newhospitalizacionconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_horaf,conext_enlace) values (7506,196,1,6477,'*****EVOLUCIÓN PM*****
+*NEUROCIRUGIA - MEDICINA INTERNA*
+
+PACIENTE MASCULINO DE 39 AÑOS.
+DIAGNOSTICO: TRASTORNOS DEL DISCO LUMBAR  Y OTROS, CON RADICULOPATÍA.  +  HIPERTENSION ARTERIAL
+DIAS DE HOSPITALIZACION: 3
+
+S: PACIENTE AL MOMENTO TRANQUILO, NO REFIERE MOLESTIAS. DOLOR CONTROLADO A BASE DE ANALGESIA 
+
+O: 
+EXAMEN FÍSICO:  
+TA: 128/80
+FC: 61
+FR: 19
+SAT O2: 93% 
+T: 36.7
+
+PACIENTE CONSCIENTE, ORIENTADO, HIDRATADO, AFEBRIL, GLASGOW 15/15. CARDIOPULMONAR CONSERVADO, ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO A LA PALPACIÓN, RHA PRESENTES NO SIGNOS PERITONEALES, EXTREMIDADES: MIEMBRO INFERIOR DERECHO: ATROFIA MUSCULAR, LASSEGUE POSITIVO, PRESENCIA DE PARESTESIAS QUE INICIAN EN MUSLO POSTERIOR Y QUE SE IRRADIAN HASTA RODILLA POSTERIOR, LLENADO CAPILAR DE 2 SEGUNDOS, MOVILIDAD CONSERVADA.   
+
+A: PACIENTE MASCULINO ADULTO MEDIO, CON DIAGNOSTICOS DESCRITOS, AL MOMENTO HEMODINAMICAMENTE ESTABLE, SE LOGRA OBTENER TENSION ARTERIAL DENTRO DE PARAMETROS ESPERADOS POR 24 HORAS CON MANEJO DE TRIPLE TERPIA ANTIHIPERTENISVA PAUTADA POR MEDICINA INTERNA, EL MANEJO DE DOLOR ES ADECUADO, SERVICIO DE NEUROCIRUGIA ESPERA PAUTAR RESOLUCION QUIRURGICA CON MAYOR ESTABILIDAD EN TIEMPO DE TENSION ARTERIAL.  
+
+P: INDICACIONES',607,'2024-02-25',1,'2024-02-25 22:00:53','22:00','CONTINUAR INDICACIONES AM 
+COMUNICAR NOVEDADES
+
+
+MD. GEMA ORTIZ
+MEDICO RESIDENTE','22:45','750601131202875419620240225100053490')-->2024-02-25 22:15:30
+427-->insert into beko_documentocabecera (doccab_ndocuafecta,doccab_id,doccab_subtotaliva,proveeve_id,doccab_retfechaemision,tipocmp_codigoafectado,doccab_subtotalsiniva,emp_id,tipocmp_codigo,doccab_retnumdoc,doccab_fechadocmodi,doccab_fechaemision_cliente,doccab_subtnoobjetoi,estaf_id,doccab_retautorizacion,doccab_autoirzacionmodif,ambi_valor,doccab_subtexentoiva,doccab_archivoxmlret,doccab_motivo,doccab_iva,emis_valor,doccab_descuento,doccab_clavedeaccesos,doccab_ndocumento,doccab_rucempresa,doccab_total,tipoident_codigo,doccab_rucci_cliente,doccab_nombrerazon_cliente,doccab_direccion_cliente,tipase_id,doccab_telefono_cliente,doccab_email_cliente,doccab_identificacionpaciente,doccab_nautorizacion,doccab_fechaaut,usua_id,tippo_id,conve_id,centro_id,doccab_fpago,doccab_pagacon,doccab_cambio,doccab_adicional,doccab_pgacont) values ('','0165DBFE4F4520C4272024022509582357',209.9,4124,NULL,'',1179.12,1,'01','',NULL,'2024-02-25','',1,'','',2,'','','',25.19,1,0,'','001-002-000007847','1792935261001',1414.21,'05','1717060212','Galo Fernando Guzmán Castillo','CUMBAYA',10,'0999803379','galofernandogc@gmail.com','','','',427,3,6,1,'01',1414.21,0.00,'PCTE UREÑA NUÑEZ AMILY SUSANA
+CIRUGIA ORTOGNATICA BI MAXILAR
+DR GALO GUZMAN',0)-->2024-02-25 22:17:57

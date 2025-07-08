@@ -1,0 +1,517 @@
+185-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,434,'1000698108-1','2',185,'2022-01-04 08:16:39','','','2022-01-04 08:16:39','CIRUGIA PROGRAMADA','2022-01-04 08:16:39','1000698108','VIVO',1,'','','01020234257218520220104081639302')-->2022-01-04 08:16:51
+185-->update dns_atencion set centro_id=1,clie_id=434,atenc_hc='1000698108-1',tiposerv_id='2',usua_id=185,atenc_fecharegistro='2022-01-04 08:16:39',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2022-01-04 08:16:39',atenc_observacion='CIRUGIA PROGRAMADA',atenc_fechaingreso='2022-01-04 08:16:39',clie_ci='1000698108',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01020234257218520220104081639302' where atenc_id=308 -->2022-01-04 08:16:59
+185-->insert into dns_laboratorio (usua_id,atenc_id,lab_idexterno,centro_id,clie_id,lab_hemabiometria,lab_copocopro,lab_hiv,lab_quiglucosa,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_tablaexterno,lab_quitrans,lab_hemaindices,lab_hepatitisa,lab_urogota,lab_otros,lab_coposangre,lab_bactziehl,lab_servicio,lab_quihoras,lab_copoinv,lab_hepatitisb,lab_codigo,lab_bacthongos,lab_uroprueba,prob_codigo,lab_quioxa,lab_hemaplaquetas,lab_bactfresco,lab_coporotavirus,lab_asto,lab_rflatex,lab_quiurea,lab_fechasolicitud,lab_bactcultivo,lab_hemat,lab_coproseriado,lab_pcr,lab_bactmuestra,lab_hemagrupo,lab_quifosfa,cant_codigo,lab_psa,lab_hora,lab_quicreatina,lab_hematiempo,lab_hepisuero,lab_hemareticulocitos,lab_quiacidourico,lab_hepihe,lab_parroquia,lab_hemadrepa,lab_dengue,lab_hemahematozoario,lab_quihdl,prio_id,lab_vdrl,lab_quibilirrubinas,lab_hemacoombs,lab_hemacelula,lab_quibilirrubinadirecta,lab_quildl,lab_rpr,lab_albumina,lab_quiproteinas,lab_febriles,lab_hemaindirecto,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_globulina,lab_cama,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (185,308,0,1,434,1,0,0,0,0,0,0,'',0,0,0,0,'',0,0,'TRAUMATOLOGÍA',0,0,0,'',0,0,'17',0,0,0,0,0,0,0,'2022-01-04',0,0,'',0,'',0,0,'1701',0,'08:00',0,0,0,0,0,0,'RUMIPAMBA',0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'303','H3',0,'4340102023425721852022010408170524','2022-01-04 08:17:05',0,0,0,0)-->2022-01-04 08:18:01
+181-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (295,'','REFERIDO',222,1,181,'',1,'ISSPOL','PACIENTE CON DIAGNOSTICO DE ARTROSIS DE RODILLA DERECHA, TRATADA DE FORMA QUIRURGICA CON PROTESIS TOTAL CEMENTADA 13 DE DICIEMBRE, PRESENTA COMO COMPLICACION INFECCION SUPERFICIAL, TRATADA CON ANTIBIOTICOTERAPIA, ACUDE A CONTROL , REFIER DOLOR LEVE','','','','CONTROL','','0','2022-01-04 11:08:50','','',0,'','','','','29501171442027818120220104110850481','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-04 11:11:53
+181-->update dns_traumatologiaanamesis set clie_id=295,anam_planes='PACIENTE REQUIERE FISIOTERAPIA',anam_referencia='REFERIDO',atenc_id=222,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON DIAGNOSTICO DE ARTROSIS DE RODILLA DERECHA, TRATADA DE FORMA QUIRURGICA CON PROTESIS TOTAL CEMENTADA 13 DE DICIEMBRE, PRESENTA COMO COMPLICACION INFECCION SUPERFICIAL, TRATADA CON ANTIBIOTICOTERAPIA, ACUDE A CONTROL , REFIER DOLOR LEVE',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 11:08:50',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='29501171442027818120220104110850481',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=153 -->2022-01-04 11:12:05
+181-->update dns_traumatologiaanamesis set clie_id=295,anam_planes='PACIENTE REQUIERE FISIOTERAPIA',anam_referencia='REFERIDO',atenc_id=222,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON DIAGNOSTICO DE ARTROSIS DE RODILLA DERECHA, TRATADA DE FORMA QUIRURGICA CON PROTESIS TOTAL CEMENTADA 13 DE DICIEMBRE, PRESENTA COMO COMPLICACION INFECCION SUPERFICIAL, TRATADA CON ANTIBIOTICOTERAPIA, ACUDE A CONTROL , REFIER DOLOR LEVE',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 11:08:50',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='29501171442027818120220104110850481',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=153 -->2022-01-04 11:26:16
+181-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (369,'','DERIVADO',276,1,181,'',1,'ISSPOL','PACIENTE CON ANTECEDENTE DE RLCA Y ROTURA MENISCAL RODILLA DERECHA, TRATADO DE FORMA QUIRURGICA CON PLASTIAS ARTROSCOPICAS, PRESENTA COMO COMPLCACION, HEMATOMA EN REGION TIBIAL INTERNA, QUE SE RESUELVA CON DRENAJE DEL MISMO Y ANTIBIOTICO TERAPIA, AL MOMENTO NO REFIERE MOLESTIAS','','','','CONTROL','','','2022-01-04 12:07:31','','',0,'','','','','36901171442027818120220104120731475','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-04 12:10:26
+181-->update dns_traumatologiaanamesis set clie_id=369,anam_planes='PACIENTE DEBE CONTINUAR CON RESTRICCION DE CARGA Y DEBE INICIAR CON FISIOTERAPIA, MISMAS QUE LAS VA A REALIZAR EN LA CIUDAD DE RESIDENCIA, SE EXTIENDE INDICACIONES DE FISIOTERAPIA CON RESTRICCION DE EJERCICIOS DE CADENA ABIERTA',anam_referencia='DERIVADO',atenc_id=276,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON ANTECEDENTE DE RLCA Y ROTURA MENISCAL RODILLA DERECHA, TRATADO DE FORMA QUIRURGICA CON PLASTIAS ARTROSCOPICAS, PRESENTA COMO COMPLCACION, HEMATOMA EN REGION TIBIAL INTERNA, QUE SE RESUELVA CON DRENAJE DEL MISMO Y ANTIBIOTICO TERAPIA, AL MOMENTO NO REFIERE MOLESTIAS',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2022-01-04 12:07:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='36901171442027818120220104120731475',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 -->2022-01-04 12:11:26
+185-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (185,'','LIBRE DEMANDA',308,1,434,'','','.','','','','',4,'','','','2022-01-04 12:11:06','','','','','','4340102023425721852022010412110612','','','','','','','',NULL,'',NULL,NULL,'2022-01-03',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-04 12:11:56
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=308,centro_id=1,clie_id=434,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='',anam_partos='',anam_fecharegistro='2022-01-04 12:11:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='4340102023425721852022010412110612',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-03',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=214 -->2022-01-04 12:12:04
+185-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=308,centro_id=1,clie_id=434,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='',anam_partos='',anam_fecharegistro='2022-01-04 12:11:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='4340102023425721852022010412110612',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-03',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=214 -->2022-01-04 12:12:11
+185-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',185,434,1,308,'','214','','','','','2022-01-04 12:12:13','','','','APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.','','43401020234257218520220104121213360','','03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.','','','03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000','','','TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL')-->2022-01-04 12:13:02
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:03
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:05
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:08
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:10
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:12
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:13
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:22
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:26
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:28
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:31
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:33
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:35
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='',protoop_idenlace='214',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:13:46
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='1',protoop_idenlace='214',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE.',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:14:43
+185-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=185,clie_id=434,centro_id=1,atenc_id=308,anam_altadefinitiva='1',protoop_idenlace='214',anam_condicionegreso='PACIENTE EGRESA EN CONDICIONES ESTABLES, SE ENTREGA RECETA MÉDICA, INDICACIONES DE ALTA, SIGNOS DE ALARMA Y CONTROL POR CONSULTA EXTERNA.
+
+PRONÓSTICO FAVORABLE.',anam_asintomatico='1',anam_discapacidadmoderada='',anam_retiroautorizado='1',anam_fecharegistro='2022-01-04 12:12:13',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='APP: HTA EN TTO CON LOSARTAN 50 MG VO QD, SD DE PIERNAS INQUIETAS EN TTO CON PRAMIPEXOL 0,375 MG VO QD.
+APQX: EXERESIS DE QUISTE DE OVARIO HACE 30 AÑOS, CESAREA POR SITUACIÓN TRANSVERSA HACE 32 AÑOS.
+ALERGIAS: NO REFIERE
+APF: MADRE HTA.
+HABITOS: HABITOS: TABACO 10 UNIDADES AL DÍA HASTA HACE 20 AÑOS (AL MOMENTO CONSUMO SOCIAL). NIEGA ALCOHOL.
+VACUNAS: COVID: 3RA DOSIS DE ASTRAZENECA 06/12/2021 (DOSIS PREVIAS CON PFIZER) 
+MOTIVO DE CONSULTA: GONARTROSIS
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 71 AÑOS DE EDAD, DIESTRA, NACIDA Y RESIDENTE EN IBARRA, NIVEL DE INSTRUCCIÓN: SUPERIOR (TRABAJADORA SOCIAL), OCUPACIÓN: JUBILADA, TIPO DE SANGRE: O RH +, RELIGION: CATÓLICA. PACIENTE REFIERE QUE DESDE HACE APROXIMADAMENTE 1 AÑO PRESENTA DOLOR EN ARTICULACIÓN DE RODILLA DERECHA, QUE AUMENTA CON LA DEAMBULACIÓN Y LIMITA LA ACTIVIDAD FÍSICA, REFIERE QUE HA IDO AUMENTANDO PROGRESIVAMENTE DE INTENSIDAD Y NO CEDE CON MEDICACIÓN ANALGÉSICA CONVENCIONAL, POR ESTO MOTIVO CONSULTA CON MÉDICO FACULTATIVO QUIEN ESTABLECIÓ EL DIAGNÓSTICO DE ARTROSIS DE RODILLA DERECHA Y DECIDE SU INGRESO A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA MEDIATE PROTESIS TOTAL.',anam_nhoja='',anam_enlace='43401020234257218520220104121213360',anam_discapacidadleve='',anam_resumenevolucion='03/01/2022: PACIENTE ADULTA MAYOR INGRESADA CON DIAGNÓSTICO DE GONARTROSIS DERECHA PARA INTERVENCIÓN QUIRÚRGICA, SE REALIZÓ ARTROPLASTIA TOTAL DE RODILLA DERECHA, BAJO ANESTESIA RAQUÍDEA + SEDACIÓN, ACTO QUIRÚRGICO SIN COMPLICACIONES. 
+
+04/01/2022: POSTQUIRÚRGICO INMEDIATO CON BUEN MANEJO DE ANALGESIA, BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA, CLINICA Y HEMODINAMICAMENTE ESTABLE, MOVILIDAD Y SENSIBILIDAD CONSERVADAS EN CONDICIONES DE ALTA HOSPITALARIA.',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='03/01/2022: LEUCO 7170 NEU 46,5% LINFO 40,6% HB 13,9 HCTO 38,3% PLAQ 263000 TP 12,1 TTP 29,3 INR 1,11 GLUCOSA 84,2 UREA 49,3 CREA 1 EMO NO INFECCIOSO 
+RX AP Y LATERAL DE RODILLA DERECHA: IMPRESIONA PRÓTESIS EN POSICIÓN ADECUADA
+
+04/01/2022: LEUCO 11190 NEU 74,1% LINFO 17,7% HB 12 HCTO 32,3 PLAQ 244000',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='TRATAMIENTO QUIRÚRGICO: 
+03/01/2022: PROCEDIMIENTO QUIRURGICO: ARTROPLASTIA TOTAL DE RODILLA DERECHA
+HALLAZGOS QUIRÚRGICOS:
+- GONARTROSIS TRICOMPARTIMENTAL GRADO IV
+- OSTEOFITOS MARGINALES TANTO EN CÓNDILOS FEMORALES COMO EN PLATILLOS TIBIALES
+- POCA CANTIDAD DE LÍQUIDO INTRA ARTICULAR
+ANESTESIA: RAQUÍDEA + SEDACIÓN
+COMPLICACIONES: NINGUNA
+
+TRATAMIENTO CLÍNICO:- LACTATO RINGER 1000 CC PASAR IV CADA 12 HORAS 
+- CEFAZOLINA 1 GR IV CADA 8 HORAS
+- KETOROLACO 30 MG IV CADA 8 HORAS 
+- PARACETAMOL 1 GRAMO IV CADA 8 HORAS 
+- OMEPRAZOL 40 MG IV HORA SUEÑO
+- ENOXAPARINA 40 MG SC 6 AM
+- HIELO LOCAL' where anam_id=127 -->2022-01-04 12:14:47
+181-->update dns_traumatologiaanamesis set clie_id=369,anam_planes='PACIENTE DEBE CONTINUAR CON RESTRICCION DE CARGA Y DEBE INICIAR CON FISIOTERAPIA, MISMAS QUE LAS VA A REALIZAR EN LA CIUDAD DE RESIDENCIA, SE EXTIENDE INDICACIONES DE FISIOTERAPIA CON RESTRICCION DE EJERCICIOS DE CADENA ABIERTA',anam_referencia='DERIVADO',atenc_id=276,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=1,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE CON ANTECEDENTE DE RLCA Y ROTURA MENISCAL RODILLA DERECHA, TRATADO DE FORMA QUIRURGICA CON PLASTIAS ARTROSCOPICAS, PRESENTA COMO COMPLCACION, HEMATOMA EN REGION TIBIAL INTERNA, QUE SE RESUELVA CON DRENAJE DEL MISMO Y ANTIBIOTICO TERAPIA, AL MOMENTO NO REFIERE MOLESTIAS',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL',anam_menarquiaedad='',anam_respiratorio='',anam_fecharegistro='2022-01-04 12:07:31',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='36901171442027818120220104120731475',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=154 -->2022-01-04 14:07:34
+182-->insert into dns_traumatologiaconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_enlace) values (289,182,1,394,'CONTROL POSTQUIRURGICO
+PACIENTE CON ANTECEDENTES DE PTC DERECHA HACE 15 DIAS, ACUDE PARA RETIRO DE PUNTOS E INICIO DE LA FISIOTERAPIA.
+AL MOMENTO CON LEVE DOLOR EN CADERA DERECHA
+FLEXION 120º, EXTENSION 0º, ABDUCCION 45º, HERIDA QUIRURGICA OK, SE RETIRAN GRAPAS DE PIEL.',138,'2022-01-04',1,'2022-01-04 14:09:37','14:09','1. FISIOTERAPIA','3940110025808411822022010402093721')-->2022-01-04 14:16:58
+182-->update dns_traumatologiaconsultaexterna set atenc_id=289,usua_id=182,centro_id=1,clie_id=394,conext_notasdeevolucion='CONTROL POSTQUIRURGICO
+PACIENTE CON ANTECEDENTES DE PTC DERECHA HACE 15 DIAS, ACUDE PARA RETIRO DE PUNTOS E INICIO DE LA FISIOTERAPIA.
+AL MOMENTO CON LEVE DOLOR EN CADERA DERECHA
+FLEXION 120º, EXTENSION 0º, ABDUCCION 45º, HERIDA QUIRURGICA OK, SE RETIRAN GRAPAS DE PIEL.',anam_id=138,conext_fechar='2022-01-04',estaatenc_id=1,conext_fecharegistro='2022-01-04 14:09:37',conext_horar='14:09',conext_prescripciones='1. FISIOTERAPIA',conext_enlace='3940110025808411822022010402093721' where conext_id=42 -->2022-01-04 14:17:02
+182-->update dns_traumatologiaconsultaexterna set atenc_id=289,usua_id=182,centro_id=1,clie_id=394,conext_notasdeevolucion='CONTROL POSTQUIRURGICO
+PACIENTE CON ANTECEDENTES DE PTC DERECHA HACE 15 DIAS, ACUDE PARA RETIRO DE PUNTOS E INICIO DE LA FISIOTERAPIA.
+AL MOMENTO CON LEVE DOLOR EN CADERA DERECHA
+FLEXION 120º, EXTENSION 0º, ABDUCCION 45º, HERIDA QUIRURGICA OK, SE RETIRAN GRAPAS DE PIEL.',anam_id=138,conext_fechar='2022-01-04',estaatenc_id=1,conext_fecharegistro='2022-01-04 14:09:37',conext_horar='14:09',conext_prescripciones='1. FISIOTERAPIA',conext_enlace='3940110025808411822022010402093721' where conext_id=42 -->2022-01-04 14:24:30
+182-->update dns_traumatologiaconsultaexterna set atenc_id=289,usua_id=182,centro_id=1,clie_id=394,conext_notasdeevolucion='CONTROL POSTQUIRURGICO
+PACIENTE CON ANTECEDENTES DE PTC DERECHA HACE 15 DIAS, ACUDE PARA RETIRO DE PUNTOS E INICIO DE LA FISIOTERAPIA.
+AL MOMENTO CON LEVE DOLOR EN CADERA DERECHA
+FLEXION 120º, EXTENSION 0º, ABDUCCION 45º, HERIDA QUIRURGICA OK, SE RETIRAN GRAPAS DE PIEL.',anam_id=138,conext_fechar='2022-01-04',estaatenc_id=1,conext_fecharegistro='2022-01-04 14:09:37',conext_horar='14:09',conext_prescripciones='1. FISIOTERAPIA',conext_enlace='3940110025808411822022010402093721' where conext_id=42 -->2022-01-04 14:25:20
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','','',1,'REGISTRADO',1,'','',1,'','QUEVEDO','1203369580','MONSERRATE MORAN','12','','1205','GLEN AUSTRY',3,6,1,'','','','COMERCIANTE',56,'1969-12-31','',7,'0986562297','M',4,4,'','','177','2022-01-04 15:12:35','','011727056507177202201040312355473',NULL,'1','','965','','')-->2022-01-04 15:15:19
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='COLOCACIÓN DE CATÉTER',clie_token='',clie_cirugia='COLOCACIÓN DE CATÉTER',grp_id=1,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA VASCULAR',clie_tratante='DRA. XIMENA AVILA',tipoci_id=1,clie_ayudante='DRA.KATHY POZO',clie_direccion='QUEVEDO',clie_rucci='1203369580',clie_apellido='MONSERRATE MORAN',prob_codigo='12',clie_anestesiologo='',cant_codigo='1205',clie_nombre='GLEN AUSTRY',tippo_id=3,conve_id=6,civil_id=1,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='COMERCIANTE',nac_id=56,clie_fechanacimiento='1969-12-31',clie_emergenciatelf='',tarterial_id=7,clie_celular='0986562297',clie_genero='M',idgen_id=4,orien_id=4,clie_email='',clie_emergenciacelu='',usua_id='177',clie_registro='2022-01-04 15:12:35',clie_institucion='',clie_enlace='011727056507177202201040312355473',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='965',clie_instruccion='',clie_seguroprivadoarchivo='' where clie_id=438 -->2022-01-04 15:15:51
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','','',5,'REGISTRADO',1,'','',1,'','COTOCOLLAO SANTA TERESA N65-188 Y VICENTE LOPEZ','1724815541','MORENO AZUAGA','17','','1701','ANDRES EMMANUEL',3,6,1,'','','','ESTUDIANTE',56,'2008-06-21','',5,'0987926786','M',4,4,'jazam44@hotmail.es','','177','2022-01-04 16:02:59','','0117270565071772022010404025939493',NULL,'1','','966','','')-->2022-01-04 16:05:39
+181-->update dns_imagenologia set atenc_id=281,clie_id=378,imgag_idexterno=150,centro_id=1,imgag_tablaexterno='dns_traumatologiaanamesis',imgag_rxconvencional=1,imgag_resumenclinico='Resumen_Clinico
+"MARCHA DISBASICA CON COJERA IZQUIERDA, FLEXION DE 110 GRADOS EXTENSION 0 ROTACION EXTERNA 30 GRADOS INTERNA 0 GRADOS CON DOLOR ABDUCCION 20 GRADOS. PACIENTE ACUDE SIN RADIOGRAFIAS, POR LO QUE SOLICITA RADIOGRAFIAS PARA DECIDIR CONDUCTA"
+"MARCHA DISBASICA POR DOLOR, CADERA IZIQUIERDA CON APOSITOS SECOS NO SANGRADO ACTIVO, NO ESTIGMAS INFLAMATORIOS, FLEXION 90 GRADOS EXTENSION 0 GRADOS ROTACION EXTERNA 30 GRADOS ROTACION INTERNA 5 GRADOS MUY DOLOROSO"',imgag_motivo='DESCARTAR FRACTURA O LUXACION DE PROTESIS DE CADERA IZQUIERDA',usua_id=181,imgag_tomografia=0,imgag_codigo='',imgag_resonacia=0,prob_codigo='17',imgag_ecografia=0,prio_id=1,imgag_procedimiento=0,cant_codigo='1701',imgag_otros=0,imgag_describir='RX AP DE PELVIS + AP CON ABDUCCION DE CADERAS',imgag_fechasolicitud='2021-12-28 11:18:44',imgag_puedemovilizarse=1,imgag_puederetirarse=0,imgag_hora='11:18',imgag_medicopresente=0,imgag_tomacama=0,imgag_parroquia='',imgag_fechatoma='2021-12-28 11:18:44',imgag_servicio='',imgag_sala='',imgag_cama='',imgag_fecharegistro='2021-12-28 11:18:44',imgag_enlace='37801171442027818120211228111844353' where imgag_id=52 -->2022-01-04 16:25:32
+181-->update dns_traumatologiaanamesis set clie_id=378,anam_planes='RX AP DE PELVIS MAS AXIAL DE CADERA IZUIQERDA 
+VALORACION CON IMAGEN',anam_referencia='DERIVADO',atenc_id=281,centro_id=1,usua_id=181,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='ISSPOL',anam_emferpactual='PACIENTE REFIERE QUE A LAS CUATRO DE LA MAÑANA DE HOY AL REALIZAR UN MOVIMI9ENTO DE ROTACION DE CADERA IZQUIERDA PRESENTA DOLOR INTENSO E IMPOTENCIA FUNCIONAL POR LO QUE ACUDE',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR SUBITO DE CADERA IZQUIERDA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-12-28 11:14:36',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='37801171442027818120211228111436314',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=150 -->2022-01-04 16:25:36
+182-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,439,'1724815541-1','2',182,'2022-01-04 16:26:11','','','2022-01-04 16:26:11','ACUDE A CONSULTA','2022-01-04 16:26:11','1724815541','VIVO',1,'','','01100258084118220220104042611347')-->2022-01-04 16:26:23
+182-->update dns_atencion set centro_id=1,clie_id=439,atenc_hc='1724815541-1',tiposerv_id='2',usua_id=182,atenc_fecharegistro='2022-01-04 16:26:11',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2022-01-04 16:26:11',atenc_observacion='ACUDE A CONSULTA',atenc_fechaingreso='2022-01-04 16:26:11',clie_ci='1724815541',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01100258084118220220104042611347' where atenc_id=309 -->2022-01-04 16:26:32
+182-->insert into dns_traumatologiaanamesis (clie_id,anam_planes,anam_referencia,atenc_id,centro_id,usua_id,anam_observacionaf,estaatenc_id,anam_centrorefiere,anam_emferpactual,anam_profesionarefiere,anam_vidasexualactiva,anam_vidasexualactivaobs,anam_motivoconsulta,anam_menarquiaedad,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_partos,anam_atpreventiva,anam_observacionap,anam_menopausiaedad,anam_abortos,anam_nhoja,anam_enlace,anam_ciclos,anam_cesareas,anam_gesta,anam_hijosvivos,anam_fum,anam_fup,anam_fuc,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (439,'','LIBRE DEMANDA',309,1,182,'',4,'','ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.','','','','CONTROL DE LA MARCHA','','0','2022-01-04 16:26:40','','',0,'SINDROME DE ASPERGER','','','','43901100258084118220220104042640187','','','','',NULL,NULL,NULL,0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-04 16:45:27
+182-->update dns_traumatologiaanamesis set clie_id=439,anam_planes='1. RX AP DE PELVIS
+2. RX AXIAL DE CADERAS BILATERAL',anam_referencia='LIBRE DEMANDA',atenc_id=309,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL DE LA MARCHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 16:26:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SINDROME DE ASPERGER',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='43901100258084118220220104042640187',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=155 -->2022-01-04 16:45:57
+182-->update dns_traumatologiaanamesis set clie_id=439,anam_planes='1. RX AP DE PELVIS
+2. RX AXIAL DE CADERAS BILATERAL',anam_referencia='LIBRE DEMANDA',atenc_id=309,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL DE LA MARCHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 16:26:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SINDROME DE ASPERGER',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='43901100258084118220220104042640187',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=155 -->2022-01-04 16:48:58
+182-->update dns_traumatologiaanamesis set clie_id=439,anam_planes='1. RX AP DE PELVIS
+2. RX AXIAL DE CADERAS BILATERAL',anam_referencia='LIBRE DEMANDA',atenc_id=309,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL DE LA MARCHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 16:26:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SINDROME DE ASPERGER',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='43901100258084118220220104042640187',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=155 -->2022-01-04 16:54:52
+182-->update dns_traumatologiaanamesis set clie_id=439,anam_planes='1. RX AP DE PELVIS
+2. RX AXIAL DE CADERAS BILATERAL',anam_referencia='LIBRE DEMANDA',atenc_id=309,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL DE LA MARCHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 16:26:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SINDROME DE ASPERGER',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='43901100258084118220220104042640187',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=155 -->2022-01-04 16:55:00
+182-->update dns_traumatologiaanamesis set clie_id=439,anam_planes='1. RX AP DE PELVIS
+2. RX AXIAL DE CADERAS BILATERAL',anam_referencia='LIBRE DEMANDA',atenc_id=309,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='ABUELA DE PACIENTE REFIERE QUE DESDE HACE 1 AÑO Y SIN CAUSA PRESENTA DOLOR DE CADERAS BILATERAL ACOMPAÑADO DE MARCHA CON ROTACION EXTERNA, AL MOMENTO EL DOLOR ES LEVE PERO LA ROTACION EXTERNA DE LOS MIEMBROS INFERIORES POR LO QUE ACUDE.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='CONTROL DE LA MARCHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2022-01-04 16:26:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SINDROME DE ASPERGER',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='43901100258084118220220104042640187',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=155 -->2022-01-04 16:55:07

@@ -1,0 +1,1 @@
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0165E33468B133445820240302091504400' and crucue_id=926-->2024-03-20 16:02:45

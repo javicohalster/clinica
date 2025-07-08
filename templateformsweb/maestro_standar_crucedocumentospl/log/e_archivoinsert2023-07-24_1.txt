@@ -1,0 +1,3 @@
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17CF74B2F219720230714115103408' and crucue_id=747-->2023-07-24 09:41:11
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17A8393D3119720230714114035107' and crucue_id=745-->2023-07-24 09:41:52
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17C5F2B4831972023071411483124' and crucue_id=746-->2023-07-24 09:42:31

@@ -1,0 +1,10 @@
+update gogess_sisfield set fie_title='Empresa:' where fie_id='8315';
+update gogess_sisfield set fie_title='Nombre Quirofano:' where fie_id='8316';
+update gogess_sisfield set fie_title='Observaci&oacute;n:' where fie_id='8317';
+update gogess_sisfield set fie_type='hidden2' where fie_id='8315';
+update gogess_sisfield set fie_group='11' where fie_id='8318';
+update gogess_sisfield set fie_group='11' where fie_id='8319';
+update gogess_sisfield set fie_orden='3' where fie_id='8318';
+update gogess_sisfield set fie_orden='4' where fie_id='8319';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8318';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8319';

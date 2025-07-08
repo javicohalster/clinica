@@ -1,0 +1,16 @@
+458-->select * from lpin_cobropago where crb_id='7896'-->2024-10-22 13:22:49
+458-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9123')-->2024-10-22 13:22:52
+458-->delete from lpin_comprobantecontable where crpadet_id='9123'-->2024-10-22 13:22:52
+458-->delete  from lpin_cobropagodetalle where crb_enlace='2024-09-2545866F44F9D434EC'-->2024-10-22 13:22:52
+458-->delete from lpin_cobropago where crb_id=7896-->2024-10-22 13:22:52
+458-->select * from lpin_cobropago where crb_id='7896'-->2024-10-22 13:22:52
+458-->delete  from lpin_cobropagodetalle where crb_enlace=''-->2024-10-22 13:22:52
+458-->delete from lpin_cobropago where crb_id=7896-->2024-10-22 13:22:52
+458-->select * from lpin_cobropago where crb_id='7908'-->2024-10-22 15:25:43
+458-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='9135')-->2024-10-22 15:25:45
+458-->delete from lpin_comprobantecontable where crpadet_id='9135'-->2024-10-22 15:25:45
+458-->delete  from lpin_cobropagodetalle where crb_enlace='2024-09-2545866F4691C45CBF'-->2024-10-22 15:25:45
+458-->delete from lpin_cobropago where crb_id=7908-->2024-10-22 15:25:45
+458-->select * from lpin_cobropago where crb_id='7908'-->2024-10-22 15:25:47
+458-->delete  from lpin_cobropagodetalle where crb_enlace=''-->2024-10-22 15:25:47
+458-->delete from lpin_cobropago where crb_id=7908-->2024-10-22 15:25:47

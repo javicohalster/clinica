@@ -1,0 +1,1 @@
+update sth_report set rept_aleatunico='171490744920230321023621167',rept_nombre='ATS COMPRAS VENTAS',rept_activo=1,rept_tabla='',rept_campos='',rept_archivopersonalizado='standarats_panel.php',categr_id=17,rept_observacion='Ats xml' where rept_id=36 

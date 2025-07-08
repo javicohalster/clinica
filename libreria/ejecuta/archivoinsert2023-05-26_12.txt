@@ -1,0 +1,109 @@
+250-->update app_usuario set centro_id='1',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_ciruc='0603125691',usua_ruc='',usua_siglastitulo='',pemision_id=1,usua_codigoiniciales='dr.',usua_codigo='',usua_nombreruc='',usua_carnetconadis='',usua_nombre='ORLANDO',usua_direccionruc='',estabr_id=1,usua_msp='',usua_tipodiscapacidad='',usua_apellido='SANTILLÁN',pemisionr_id=1,usua_porcentajediscapacidad='',usua_paisruc=0,usua_puedehacernc=1,usua_provinciaruc='',usua_enlace='01172287234625020230428051842437',usua_archivocenecyt='',nac_id=56,usua_fechanacimiento='1985-01-17',usua_cantonruc='',estabnc_id=2,usua_archivoauxiliares='',usua_telefonoruc='',pemisionnc_id=2,etn_id=6,usua_piefirma='DR',usua_mailruc='',usua_horascontrato='0',usua_celular='0987433813',tipoh_id=1,usua_fechaingrero='2023-04-28',civil_id=1,usua_fechasalida=NULL,usua_genero='MASCULINO',usua_fecha_uingreso='2023-05-26 07:46:35',tipcont_id=1,usua_usuario='0603125691',especi_id=0,usua_hora_uingreso='07:46:35',subespeci_id=0,usua_fecha_cambioclv='2023-04-28 17:23:48',jobt_id=0,usua_email='orlando.cplastica@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0',usua_farmacia=0 where usua_id=359 -->2023-05-26 08:31:54
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=3600,centro_id=13,clie_id=4783,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='ALIMENTARIO: 4 VECES/DÍA, MICCIONAL: 5 VECES/DÍA, DEFECATORIO: 1 VECES/DÍA, ALCOHOL: SOCIAL, TABACO: SOCIAL',anam_planes='RINOPLASTIA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-05-05 08:06:06',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='478301172575763530420230505080606125',anam_cirugia='RINOPLASTIA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1570 -->2023-05-26 11:40:55
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-05-05 14:22:40',atenc_id=3600,centro_id=13,clie_id=4783,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. PUNTA HIOPROYECTADA Y BULBOSA 
+2. ALARES AMPLIOS 
+3. LATERORRINEA EN S ITALICA DE DORSO CARTILAGINOSO Y OSEO 
+4. RETRACCION DE PIEL EN ALAR IZQUIERDO 
+5. CALLO OSEO IMPORTANTE EN TODO EL DORSO 
+6. SEPTO NASAL DESANCLADO DE ESPINA NASAL CON DESVIO SUPERIOR 
+7. AUSENSIA DE ESPINA NASAL',protoop_examen='',protoop_procedimiento='RETIRO DE COSTILLA 
+1. INCISION DESCRITA 1
+2. DISECCION POR PLANOS 
+3. DISECCION DE MUSCULOS PECTORALES 
+4. IDENTIFICACION DE COSTILLA 5TA 
+5. DESPERIOSTIZACION CON ELECTROBISTURI 
+6. DESPERIOSTIZACION CON HUNTER Y FREE DAZE 
+7. IDENTIFICACION DE COSTILA 
+8. COLOCACION DE COLA DE CHANCHO 
+9. RETIRO DE COSTILLA 
+10. COLOCACION DE AGUA A DESCARTAR NEUMOTORAX CON MANIOBRA DE VALSALVA 
+11. SUTURA POR PLANOS 
+RINOPLASTIA 
+1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 2 QUE SE UNE A 3
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES PARA COLOCACION DE SPREADER GRAFS
+14. COLOCACION DE SPREADER GRAFS A SEPTO
+15. FIJACION DE BORDE CAUDAL DE SEPTO NASAL A RESIDUO DE ESPINA NASAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE SHEEN EN PUNTA 
+21. CIERRE DE INCISIONES 
+22COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA FUNCIONAL CON RETIRO DE INJERTO COSTAL',protoop_sintesis='NYLON 6/0 NYLON 5/0 VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION SUBMAMARIA DE 4.5 CM EN LADO DERECHO 
+2. INCISION COLUMELAR Y PARACOLUMELAR 
+3. INCISION MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1570',protoop_paleativa='',protoop_realizada='RINOPLASTIA FUNCIONAL CON RETIRO DE INJERTO COSTAL',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='DR DIEGO GUAQUIPANA',protoop_enlace='478301172001173120520230505022240203',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-05-05',protoop_horainicio='08:45',protoop_horafin='14:05' where protoop_id=931 -->2023-05-26 11:40:59
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-05-05 14:22:40',atenc_id=3600,centro_id=13,clie_id=4783,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. PUNTA HIOPROYECTADA Y BULBOSA 
+2. ALARES AMPLIOS 
+3. LATERORRINEA EN S ITALICA DE DORSO CARTILAGINOSO Y OSEO 
+4. RETRACCION DE PIEL EN ALAR IZQUIERDO 
+5. CALLO OSEO IMPORTANTE EN TODO EL DORSO 
+6. SEPTO NASAL DESANCLADO DE ESPINA NASAL CON DESVIO SUPERIOR 
+7. AUSENSIA DE ESPINA NASAL',protoop_examen='',protoop_procedimiento='RETIRO DE COSTILLA 
+1. INCISION DESCRITA 1
+2. DISECCION POR PLANOS 
+3. DISECCION DE MUSCULOS PECTORALES 
+4. IDENTIFICACION DE COSTILLA 5TA 
+5. DESPERIOSTIZACION CON ELECTROBISTURI 
+6. DESPERIOSTIZACION CON HUNTER Y FREE DAZE 
+7. IDENTIFICACION DE COSTILA 
+8. COLOCACION DE COLA DE CHANCHO 
+9. RETIRO DE COSTILLA 
+10. COLOCACION DE AGUA A DESCARTAR NEUMOTORAX CON MANIOBRA DE VALSALVA 
+11. SUTURA POR PLANOS 
+RINOPLASTIA 
+1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 2 QUE SE UNE A 3
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES PARA COLOCACION DE SPREADER GRAFS
+14. COLOCACION DE SPREADER GRAFS A SEPTO
+15. FIJACION DE BORDE CAUDAL DE SEPTO NASAL A RESIDUO DE ESPINA NASAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE SHEEN EN PUNTA 
+21. CIERRE DE INCISIONES 
+22COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA FUNCIONAL CON RETIRO DE INJERTO COSTAL',protoop_sintesis='NYLON 6/0 NYLON 5/0 VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION SUBMAMARIA DE 4.5 CM EN LADO DERECHO 
+2. INCISION COLUMELAR Y PARACOLUMELAR 
+3. INCISION MARGINAL BILATERAL',protoop_selectiva='1',protoop_instrumentista='LIC YAHAIRA ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1570',protoop_paleativa='',protoop_realizada='RINOPLASTIA FUNCIONAL CON RETIRO DE INJERTO COSTAL',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='DR DIEGO GUAQUIPANA',protoop_enlace='478301172001173120520230505022240203',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-05-05',protoop_horainicio='08:45',protoop_horafin='14:05' where protoop_id=931 -->2023-05-26 11:40:59
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3759,centro_id=13,clie_id=4928,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACEINTE FEMENINA DE 9 AÑOS NACIDA Y RESIDENTE EN TULCAN, MESTIZA, ESTUDIANTE ESCOLAR, DIESTRA, CATOLICA, TIPO DE SANGRE ARH +. REFIERE COMO ANTECEDENTE DE IMPORTANCIA HIPOTONIA MUSCULAR DESDE LOS 6 MESES DE EDAD POR LO QUE RECIBE TRATAMIENTO DE TERAPIA FISICA, SE IDENTIFICA PIE VALGO POR LO QUE USO PLANTILLAS POR LARGA DATA, CONSULTAN A MEDICO ESPECIALISTA DE TRAUMATOLOGIA QUIEN PROGRAMA INTERVENCION QUIRURGICA PARA CORRECCION. INGRESA A ESTA CASA DE SALUD CUMPLIENDO CON HORAS DE AYUNO Y EXAMENES DENTRO DE PARAMETROS ESPERADOS.',anam_planes='1 INGRESO A HOSPITALIZACION
+2 NADA POR VIA ORAL 
+3 CANALIZAR VIA PERIFERICA 
+4 DEXTROSA AL 5% EN SOLUCION SALINA 1000 ML + 20 MEQ DE CLORURO DE POTASIO PASAR IV A 67 ML/H (100% DE BASALES)',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='0',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-05-22 11:50:54',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='49280113120287541962023052211505430',anam_cirugia='ARTRODESIS SUBASTRAGALINA',anam_cesareas='0',anam_gesta='0',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. VALENCIA',anam_hijosvivos='0',anam_ayudante='DE TURNO',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-22',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1627 -->2023-05-26 11:48:36
+250-->update dns_protocolooperatorio set usua_id=277,protoop_fecharegistro='2023-05-22 18:39:47',atenc_id=3759,centro_id=13,clie_id=4928,protoop_exposicion='FARBEUF Y ZEN MULLER',protoop_exploracion='PIE PLANO CON VALGO DEL CALCANEO',protoop_examen='',protoop_procedimiento='POR VIA LATERAL SE ABORDA SENO DEL TARSO , SE INDENTIFICA CARILLA ARTICULAR PSTERO LATERAL SE COLOCA CLAVO DE KIRSCHNNER Y SE APOYA CON IMAGEN DE RX PORTATIL , SE PERFORA Y SE COLOCA TORNILLO 4.5  ESPONJOSA DE ROSCA PARCIAL DE 40 MM , CONTROL CON RX , LAVADO Y SINTESIS EN DOS PLANOS',protoop_proyectada='ARTRORRISIS',protoop_sintesis='TCS VICRUL 3/0 
+PIEL NYLON 3/0',protoop_cirujanouno='DR. EDWIN VALENCIA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='2 CM EN CARA LATERAL DEL PIE DERCEHO',protoop_selectiva='',protoop_instrumentista='Jahaira ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='IR. CARLOS VALENCIA',protoop_circulante='JACKELINE TORRES',protoop_idenlace='1627',protoop_paleativa='',protoop_realizada='ARTRORRISIS',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='492801170801220627720230522063947443',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2022-05-22',protoop_horainicio='17:15',protoop_horafin='18:00' where protoop_id=1022 -->2023-05-26 11:48:39
+250-->update dns_protocolooperatorio set usua_id=277,protoop_fecharegistro='2023-05-22 18:39:47',atenc_id=3759,centro_id=13,clie_id=4928,protoop_exposicion='FARBEUF Y ZEN MULLER',protoop_exploracion='PIE PLANO CON VALGO DEL CALCANEO',protoop_examen='',protoop_procedimiento='POR VIA LATERAL SE ABORDA SENO DEL TARSO , SE INDENTIFICA CARILLA ARTICULAR PSTERO LATERAL SE COLOCA CLAVO DE KIRSCHNNER Y SE APOYA CON IMAGEN DE RX PORTATIL , SE PERFORA Y SE COLOCA TORNILLO 4.5  ESPONJOSA DE ROSCA PARCIAL DE 40 MM , CONTROL CON RX , LAVADO Y SINTESIS EN DOS PLANOS',protoop_proyectada='ARTRORRISIS',protoop_sintesis='TCS VICRUL 3/0 
+PIEL NYLON 3/0',protoop_cirujanouno='DR. EDWIN VALENCIA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='2 CM EN CARA LATERAL DEL PIE DERCEHO',protoop_selectiva='',protoop_instrumentista='Jahaira ESPINOZA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='IR. CARLOS VALENCIA',protoop_circulante='JACKELINE TORRES',protoop_idenlace='1627',protoop_paleativa='',protoop_realizada='ARTRORRISIS',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='492801170801220627720230522063947443',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2022-05-22',protoop_horainicio='17:15',protoop_horafin='18:00' where protoop_id=1022 -->2023-05-26 11:48:39
+250-->insert into dns_invegresosvarios (egrec_representante,destv_id,tdes_id,centrod_id,emp_id,egrec_otrosdestino,egrec_fecha,egrec_responsableentrega,tipom_id,egrec_motivo,tipomov_id,egrec_cedula,centro_id,egrec_nmemo,egrec_personalrecibe,egrec_cedularecibe,usua_id,egrec_fecharegistro,egrec_tipo) values ('MAYRA POZO',0,1,55,1,'','2023-05-26','NICOLE HARO',2,'EQUIVOCACION DE DESCARGO',5,'1722872346',12,'002','MAYRA POZO','1722120811',250,'2023-05-26 12:05:24',1)-->2023-05-26 12:06:15
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3799,centro_id=13,clie_id=4963,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN SAN GABRIEL, CARCHI, RESIDENTE EN QUITO, MESTIZA, SOLTERA, DE INSTRUCCION SUPERIOR, LIC RADIOLOGIA, DIESTRA, CATOLICA, TIPO DE SANGRE ORH +. PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA, INGRESA A ESTA CASA DE SALUD POR PROCEDIMEINTO QUIRURGICO PROGRAMADO, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1 INGRESO A HOSPITALIZACION 
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS VITALES 
+4 CANALIZAR VIA PERIFERICA 
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR AL QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-05-26 07:20:45',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='496301131202875419620230526072045436',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GUERRERO',anam_hijosvivos='0',anam_ayudante='DE TURNO',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1644 -->2023-05-26 12:47:28
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3799,centro_id=13,clie_id=4963,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 32 AÑOS, NACIDA EN SAN GABRIEL, CARCHI, RESIDENTE EN QUITO, MESTIZA, SOLTERA, DE INSTRUCCION SUPERIOR, LIC RADIOLOGIA, DIESTRA, CATOLICA, TIPO DE SANGRE ORH +. PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA, INGRESA A ESTA CASA DE SALUD POR PROCEDIMEINTO QUIRURGICO PROGRAMADO, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1 INGRESO A HOSPITALIZACION 
+2 NADA POR VIA ORAL 
+3 CONTROL DE SIGNOS VITALES 
+4 CANALIZAR VIA PERIFERICA 
+5 FIRMAR CONSENTIMIENTOS INFORMADOS 
+6 SUBIR AL QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-05-26 07:20:45',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='496301131202875419620230526072045436',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GUERRERO',anam_hijosvivos='0',anam_ayudante='DE TURNO',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-05-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1644 -->2023-05-26 12:47:34

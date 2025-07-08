@@ -1,0 +1,9 @@
+update cmb_tipoarchivo set tiparch_fila=3,tiparch_nombre='HORASEXTRAS',tiparch_nombrebase='pichinchahumana_original',tiparch_ntabla='',tiparch_ntablafija='' where tiparch_id=18 
+update cmb_tipoarchivo set tiparch_fila=3,tiparch_nombre='HORASEXTRAS',tiparch_nombrebase='pichinchahumana_original',tiparch_ntabla='grid_horasextras18',tiparch_ntablafija='' where tiparch_id=18 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='F',crch_nameid='horas_mes',crch_nombre='Mes',crch_obligatorio=1,crch_orden=3,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=1 where crch_id=167 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='E',crch_nameid='horas_anio',crch_nombre='Anio',crch_obligatorio=1,crch_orden=3,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=1 where crch_id=166 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='F',crch_nameid='horas_mes',crch_nombre='Mes',crch_obligatorio=1,crch_orden=4,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=1 where crch_id=167 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='G',crch_nameid='horas_ncincuenta',crch_nombre='Horas Cincuenta',crch_obligatorio=1,crch_orden=5,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=5 where crch_id=168 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='H',crch_nameid='horas_valorcincuenta',crch_nombre='Valor Cincuenta',crch_obligatorio=1,crch_orden=6,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=5 where crch_id=169 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='I',crch_nameid='horas_nhorascien',crch_nombre='N Horas Cien',crch_obligatorio=1,crch_orden=7,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=5 where crch_id=170 
+update cmb_camposarch set crch_activo=1,crch_columnaexcel='J',crch_nameid='horas_valorcien',crch_nombre='Valor Cien',crch_obligatorio=1,crch_orden=8,crch_patharchivo='',tiparch_id=18,tipc_id=1,tipda_id=5 where crch_id=171 

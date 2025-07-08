@@ -1,0 +1,9 @@
+update gogess_sisfield set fie_group='12' where fie_id='8758';
+update gogess_sisfield set fie_orden='1' where fie_id='8758';
+update gogess_sisfield set fie_group='1' where fie_id='8758';
+update gogess_sisfield set fie_group='12' where fie_id='9031';
+update gogess_sisfield set fie_orden='18' where fie_id='9031';
+update gogess_sisfield set fie_groupprint='12' where fie_id='9031';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='9031';
+update gogess_sisfield set fie_type='hidden3' where fie_id='9031';
+update gogess_sisfield set fie_typeweb='hidden3' where fie_id='9031';

@@ -1,0 +1,2 @@
+-->delete from beko_documentodetalle where docdet_id=7-->2022-12-11 17:14:53
+-->delete from beko_documentodetalle where docdet_id=8-->2022-12-11 17:20:34

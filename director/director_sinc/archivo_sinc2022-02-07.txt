@@ -1,0 +1,5 @@
+update gogess_sisfield set fie_title='M&eacute;dico:' where fie_id='8350';
+update gogess_sisfield set fie_title='D&iacute;a:' where fie_id='8351';
+update gogess_sisfield set fie_title='Hora Inicio:' where fie_id='8352';
+update gogess_sisfield set fie_title='Hora Fin:' where fie_id='8353';
+update gogess_sisfield set fie_title='Activo:' where fie_id='8354';

@@ -1,0 +1,1 @@
+update gogess_virtualtable set datab_id=1,sorload_id=0,virtual_activo=1,virtual_name='lista_compras',virtual_scriptalert='SELECT * FROM dns_compras_vista2',virtual_stringconection='localhost,drodriguez,79Drodri$,pichinchahumana_original' where virtual_id=10 

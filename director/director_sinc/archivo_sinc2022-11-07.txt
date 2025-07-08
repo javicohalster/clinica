@@ -1,0 +1,4 @@
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='9651';
+update gogess_sisfield set fie_type='hidden3' where fie_id='9651';
+update gogess_sisfield set fie_type='hidden2' where fie_id='9651';
+update gogess_sisfield set fie_typeweb='hidden2' where fie_id='9651';

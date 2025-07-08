@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_group='9' where fie_id='11441';
+update gogess_sisfield set fie_group='9' where fie_id='11442';
+update gogess_sisfield set fie_group='8' where fie_id='11536';
+update gogess_sisfield set fie_orden='1' where fie_id='11536';
+update gogess_sisfield set fie_groupprint='8' where fie_id='11536';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11536';
+update gogess_sisfield set fie_title='Patologo que reporta:' where fie_id='11538';
+update gogess_sisfield set fie_group='6' where fie_id='11538';
+update gogess_sisfield set fie_orden='7' where fie_id='11538';
+update gogess_sisfield set fie_groupprint='6' where fie_id='11538';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='11538';

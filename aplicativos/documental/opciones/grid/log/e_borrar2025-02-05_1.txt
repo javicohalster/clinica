@@ -1,0 +1,5 @@
+541-->select * from lpin_cobropago where crb_id='11937'-->2025-02-05 15:37:56
+541-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='13314')-->2025-02-05 15:37:58
+541-->delete from lpin_comprobantecontable where crpadet_id='13314'-->2025-02-05 15:37:58
+541-->delete  from lpin_cobropagodetalle where crb_enlace='2025-02-0554167A3CB5978CE4'-->2025-02-05 15:37:58
+541-->delete from lpin_cobropago where crb_id=11937-->2025-02-05 15:37:58

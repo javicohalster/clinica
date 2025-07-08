@@ -1,0 +1,32 @@
+-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2987,centro_id=1,clie_id=4158,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 43 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, UNIÓN LIBRE, CATÓLICA, NIVEL DE INSTRUCCIÓN SUPERIOR, SERVIDORA PUBLICA, ORH+. 
+PACIENTE REFIERE QUE HACE 10 DÍAS SUFRE CAÍDA DESDE SU PROPIA ALTURA, CON IMPACTO EN MANO DERECHA PROVOCANDO EDEMA , DOLOR, PERDIDA DE LA MOVILIDAD, POR LO QUE ACUDE A FACULTATIVO QUIEN REALIZA RX EVIDENCIÁNDOSE FRACTURA IV METACARPIANO MANO DERECHA.',anam_planes='1.	INGRESO A TRAUMATOLOGIA /HAB. 202 C
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERÍA
+6.	CANALIZAR VÍA PERIFÉRICA
+7.	SOLUCION SALINA 0.9% 1000 CC IV A 40 CC/H
+8.	CEFAZOLINA 2GR IV 20 MINUTOS PREVIOS A SUBIR A QUIROFANO 
+9.	FIRMAR CONSENTIMIENTOS INFORMADOS
+10.	PASE AL QUIRÓFANO AL LLAMADO
+11.	CHEQUEO PRE QUIRURGICO/ MEDICINA INTERNA 
+12.	MEDIAS ANTIEMBOLIKCAS
+13.	BH, GLUCOSA, CREATININCA, TP, TTP
+14.	ELECTROCARDIOGRAMA 
+15.	ORDENES DR. PEÑAHERRERA.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-03-02 09:45:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGUALES',anam_enlace='41580117232002242672023030209455314',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum='2023-03-01',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-03-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 2 AÑOS',anam_mamografia=1,anam_mamografiatxt='HACE 2 AÑOS',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1353 -->2023-03-02 12:30:40
+-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2987,centro_id=1,clie_id=4158,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 43 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, UNIÓN LIBRE, CATÓLICA, NIVEL DE INSTRUCCIÓN SUPERIOR, SERVIDORA PUBLICA, ORH+. 
+PACIENTE REFIERE QUE HACE 10 DÍAS SUFRE CAÍDA DESDE SU PROPIA ALTURA, CON IMPACTO EN MANO DERECHA PROVOCANDO EDEMA , DOLOR, PERDIDA DE LA MOVILIDAD, POR LO QUE ACUDE A FACULTATIVO QUIEN REALIZA RX EVIDENCIÁNDOSE FRACTURA IV METACARPIANO MANO DERECHA.',anam_planes='1.	INGRESO A TRAUMATOLOGIA /HAB. 202 C
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERÍA
+6.	CANALIZAR VÍA PERIFÉRICA
+7.	SOLUCION SALINA 0.9% 1000 CC IV A 40 CC/H
+8.	CEFAZOLINA 2GR IV 20 MINUTOS PREVIOS A SUBIR A QUIROFANO 
+9.	FIRMAR CONSENTIMIENTOS INFORMADOS
+10.	PASE AL QUIRÓFANO AL LLAMADO
+11.	CHEQUEO PRE QUIRURGICO/ MEDICINA INTERNA 
+12.	MEDIAS ANTIEMBOLIKCAS
+13.	BH, GLUCOSA, CREATININCA, TP, TTP
+14.	ELECTROCARDIOGRAMA 
+15.	ORDENES DR. PEÑAHERRERA.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-03-02 09:45:53',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGUALES',anam_enlace='41580117232002242672023030209455314',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum='2023-03-01',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-03-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 2 AÑOS',anam_mamografia=1,anam_mamografiatxt='HACE 2 AÑOS',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1353 -->2023-03-02 12:33:25

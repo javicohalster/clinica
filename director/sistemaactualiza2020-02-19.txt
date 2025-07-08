@@ -1,0 +1,5 @@
+update pichinchahumana_extension.dns_convenios set conve_descuento=9,conve_nombre='Convenio 1',tippo_id=2 where 
+update pichinchahumana_extension.dns_convenios set conve_descuento=9,conve_nombre='Convenio 1',tippo_id=2 where 
+update pichinchahumana_extension.dns_tipoproceso set emp_id=1,tippo_nombre='Convenios' where 
+update pichinchahumana_extension.dns_tipoproceso set emp_id=1,tippo_nombre='Convenios1' where 
+update pichinchahumana_extension.dns_tipoproceso set emp_id=1,tippo_nombre='Convenios' where 

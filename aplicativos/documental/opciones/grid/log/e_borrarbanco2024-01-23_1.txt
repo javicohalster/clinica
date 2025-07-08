@@ -1,0 +1,5 @@
+458-->select * from app_movimientobancos where movban_id='1510'-->2024-01-23 12:58:13
+458-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1510')-->2024-01-23 12:58:15
+458-->delete from lpin_comprobantecontable where comcont_tabla='app_movimientobancos' and comcont_idtabla='1510'-->2024-01-23 12:58:15
+458-->delete  from lpin_movbancos where movban_enlace='2024-01-2345865AFFD12C2EB7'-->2024-01-23 12:58:15
+458-->delete from app_movimientobancos where movban_id=1510-->2024-01-23 12:58:15

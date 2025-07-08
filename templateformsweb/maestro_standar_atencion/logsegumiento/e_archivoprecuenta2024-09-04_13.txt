@@ -1,0 +1,2 @@
+269-->update dns_precuenta set precu_observacion='CIRUGIA',precu_fechainicio='2024-09-03',precu_fechafinal='',precu_activo='1',convepr_id='7',categesp_id='4',especipr_id='16',clie_id='8864' where precu_id='11169'-->2024-09-04 05:01:30
+381-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('CONSULTA','2024-09-04','','1','14','2','3','9453','01180375981838120240904040646223','2024-09-04 16:07:41','381')-->2024-09-04 16:07:41

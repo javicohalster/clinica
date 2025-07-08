@@ -1,0 +1,2 @@
+2-->update pichinchahumana_extension.lpin_crucecuentas set crucue_cuenta='2.1.3.1.3',crucue_persona='705',crucue_valorpago='575.69' where crucue_id='212'-->2023-10-19 15:11:05
+2-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164ADD38EA439E27820230711051126276' and crucue_id=466-->2023-10-19 15:28:13

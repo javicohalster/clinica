@@ -1,0 +1,5 @@
+update gogess_sisfield set fie_ordengrid='1' where fie_id='9638';
+update gogess_sisfield set fie_ordengrid='3' where fie_id='9642';
+update gogess_sisfield set fie_ordengrid='5' where fie_id='9643';
+update gogess_sisfield set fie_ordengrid='2' where fie_id='9646';
+update gogess_sisfield set fie_ordengrid='4' where fie_id='9743';

@@ -1,0 +1,6 @@
+update pichinchahumana_extension.dns_convenios set tippo_id=4,conve_nombre='IESS',conve_descuento=0,conve_redpublica=1 where conve_id=28 
+update pichinchahumana_extension.dns_convenios set tippo_id=8,conve_nombre='ISSPOL',conve_descuento=0,conve_redpublica=1 where conve_id=7 
+update pichinchahumana_extension.dns_convenios set tippo_id=8,conve_nombre='ISSFA',conve_descuento=0,conve_redpublica=1 where conve_id=27 
+update pichinchahumana_extension.dns_convenios set tippo_id=4,conve_nombre='IESS',conve_descuento=0,conve_redpublica=0 where conve_id=28 
+update pichinchahumana_extension.dns_convenios set tippo_id=8,conve_nombre='ISSPOL',conve_descuento=0,conve_redpublica=0 where conve_id=7 
+update pichinchahumana_extension.dns_convenios set tippo_id=8,conve_nombre='ISSFA',conve_descuento=0,conve_redpublica=0 where conve_id=27 

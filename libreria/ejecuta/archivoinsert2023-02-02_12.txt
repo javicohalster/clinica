@@ -1,0 +1,255 @@
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:18:08
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:18:08
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:20:23
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:20:23
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:22:34
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:22:35
+1-->update dns_anamesisexamenfisico set anam_referencia='CONTRAREFERIDO',atenc_id=5,centro_id=1,clie_id=2,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',anam_centrorefiere='',anam_emferpactual='444',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='fff',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-02-01 13:14:09',anam_observacionrespiratorio='',anam_partos='4',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='4',anam_nhoja='',anam_ciclos='3',anam_enlace='2011711467884120230201011409485',anam_cesareas='4',anam_gesta='3',anam_hijosvivos='4',anam_fum=NULL,anam_fup=NULL,anam_fuc='2008-02-18',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=487 -->2023-02-02 08:23:30
+1-->update dns_anamesisexamenfisico set anam_referencia='CONTRAREFERIDO',atenc_id=5,centro_id=1,clie_id=2,usua_id=1,anam_observacionaf='',estaatenc_id=4,anam_planes='',anam_centrorefiere='',anam_emferpactual='444',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='fff',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-02-01 13:14:09',anam_observacionrespiratorio='',anam_partos='4',anam_atpreventiva=1,anam_observacionap='',anam_menopausiaedad='',anam_abortos='4',anam_nhoja='',anam_ciclos='3',anam_enlace='2011711467884120230201011409485',anam_cesareas='4',anam_gesta='3',anam_hijosvivos='4',anam_fum=NULL,anam_fup=NULL,anam_fuc='2008-02-18',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=487 -->2023-02-02 08:23:30
+1-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2725,centro_id=1,clie_id=3898,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA  NACIDA EN CUENCA, RESIDENTE EN QUITO, CON ANTECEDENTE DE HIPERTENSION CONTROLADA,  REFIERE INCONFORMIDAD CON TAMAÑO DE  MAMAS  POR LO QUE CONSULTA A MEDICO TRATANTE, ES VALORADA CON  EXÁMENES COMPLEMENTARIOS E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGÍA PLÁSTICA/ HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. FIRMAR CONSENTIMIENTOS INFORMADOS
+    7. CANALIZAR VÍA PERIFÉRICA
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DEL DR. CHRISTIAN CÁCERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2023-02-02 07:29:45',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='2',anam_ciclos='IRREGULARES',anam_enlace='38980117232002242672023020207294575',anam_cirugia='',anam_cesareas='1',anam_gesta='3',anam_especialidad='',anam_tratante='',anam_hijosvivos='1',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-02-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='HACE 6 MESES',anam_mamografia=1,anam_mamografiatxt='NINGUNA',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1237 -->2023-02-02 08:24:11
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:25:30
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:25:30
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:25:56
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS ,, PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:25:56
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:26:49
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:28:03
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:28:03
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:29:23
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:29:23
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:30:24
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:30:31
+1-->update dns_anamesisexamenfisico set anam_referencia='DERIVADO',atenc_id=2695,centro_id=14,clie_id=3866,usua_id=222,anam_observacionaf='',estaatenc_id=4,anam_planes='DG
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO ALTO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA 
+LOSARTAN 100 MG AM 
+AMLODIPINA 10 MG 1 TABLETA 7 PM 
+FUROSEMIDA 40 MG 1 TABLETA 8 AM 
+EVITAR NEFROTOXICOS  ( AINES , AMINOGLUCOSIDOS , CONTRASTES , INHIBIDOR DE BOMBA DE PROTONES ,
+NO SOBREHIDRATAR AL PACIENTE EN HOSPITALIZACION',anam_centrorefiere='',anam_emferpactual='ACUDE A CHEQUEO PREQUIRURGICO , ASINTOMATICO CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR TORACICO , NO PALPITACIONES,  NO SINCOPE, NO LIPOTIMIA, NO EDEMAS EN MIEMBROS INFERIORES . 
+EXAMENES.-  HCTO 50 HB 16.2   GB 5230 SEG 65%  PLAQ 200.000  TP 12.8 SEG INR 1.17 TTP 31,9   GLUCOSA 92 CREATININA 1,82  CLEARANCE CALCULADO 36 ML MIN
+ELCTROCARDIOGRAMA.- RITMO SINUSAL FC 64, EJE - 30 GRADOS , PR 0.18 QRS 0.09 NO ARRITMIA , NO ISQUEMIA , NO CRECIMIENTO VENTRICULAR 
+RX ST DE TORAX NO EVIDENCIA DE LESION PLEUROPULMONAR',anam_profesionarefiere='',anam_vidasexualactiva='',anam_respiratorio='0',anam_motivoconsulta='CHEQUEO PREQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_fecharegistro='2023-01-31 09:39:40',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_ciclos='',anam_enlace='386601171650417822220230131093940355',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=483 -->2023-02-02 08:30:31
+2-->update app_proveedor set emp_id=1,tipop_id=2,tipoident_codigocl='04',provee_ruc='1791334493001',provee_cedula='',provee_nombre='VIDA SANA S.A.',provee_direccion='Av. Río Amazonas E4-69 y, Quito 170526',provee_nombrecomercial='SISTEMA DE MEDICINA PREPAGADA DEL ECUADOR VIDASANA S.A.',provee_representante='BUSTAMANTE CRESPO JUAN FELIPE',provee_telefono='3949430',provee_email='janneth.jaramillo@vidabuena.es',provee_cespecial=1,provee_fecharegistro='0000-00-00 00:00:00' where provee_id=463 -->2023-02-02 09:51:50
+2-->insert into app_proveedor (emp_id,tipop_id,tipoident_codigocl,provee_ruc,provee_cedula,provee_nombre,provee_direccion,provee_nombrecomercial,provee_representante,provee_telefono,provee_email,provee_cespecial,provee_fecharegistro) values (1,2,'04','1768185730001','','SERVICIO PÚBLICO PARA PAGO DE ACCIDENTES DE TRÁNSITO','JUAN LEON MERA N26-220 Y AV. FRANCISCO DE ORELLANA','SERVICIO PÚBLICO PARA PAGO DE ACCIDENTES DE TRÁNSITO','','22229927 / 2229909','edison.sanchez@sppat.gob.ec.',0,'2023-02-02 16:18:09')-->2023-02-02 16:22:09
+2-->update app_proveedor set emp_id=1,tipop_id=2,tipoident_codigocl='04',provee_ruc='1768185730001',provee_cedula='',provee_nombre='SERVICIO PÚBLICO PARA PAGO DE ACCIDENTES DE TRÁNSITO',provee_direccion='JUAN LEON MERA N26-220 Y AV. FRANCISCO DE ORELLANA',provee_nombrecomercial='SERVICIO PÚBLICO PARA PAGO DE ACCIDENTES DE TRÁNSITO',provee_representante='',provee_telefono='22229927 / 2229909',provee_email='edison.sanchez@sppat.gob.ec.',provee_cespecial=1,provee_fecharegistro='2023-02-02 16:18:09' where provee_id=759 -->2023-02-02 16:23:53
+2-->update efacsistema_producto set emp_id=1,prod_nivel=1,tipp_id='2',catgp_id=7,prod_codigo='SER-H-09999999',prod_nombre='ATENCIONES EN EL SERVICIO DE HOSPITALIZACION',prod_codigotarifario='',prod_nombredespliegue='',impu_codigo='2',tari_codigo='0',prod_precio='0',prod_preciotarifarionacional='0',sisu_id=0,prod_activo='1',prod_fecharegistro='2023-02-02 16:19:34',prod_enlace='01172110981520120230202041934106',prod_preciocosto=0,prod_codigos='',prod_porcentaje=0,prod_medicamentosprecio=0 where prod_id=525 -->2023-02-02 16:26:05
+2-->insert into app_usuario (centro_id,usua_tiporuc,emp_id,conve_id,estab_id,usua_ciruc,usua_ruc,usua_siglastitulo,usua_carnetconadis,usua_codigo,usua_codigoiniciales,usua_nombreruc,pemision_id,usua_nombre,usua_direccionruc,estabr_id,usua_fechaingrero,usua_msp,usua_tipodiscapacidad,usua_paisruc,usua_fechasalida,usua_porcentajediscapacidad,usua_apellido,pemisionr_id,usua_archivocenecyt,estabnc_id,usua_provinciaruc,tipcont_id,usua_enlace,nac_id,usua_cantonruc,usua_fechanacimiento,pemisionnc_id,etn_id,usua_archivoauxiliares,usua_telefonoruc,usua_horascontrato,usua_piefirma,usua_mailruc,usua_celular,tipoh_id,civil_id,usua_genero,usua_fecha_uingreso,usua_usuario,especi_id,usua_hora_uingreso,subespeci_id,usua_fecha_cambioclv,jobt_id,usua_email,usua_code,usua_archivo,usua_estado,usua_nacionalidad,usua_adm,usua_subadm,usua_admrecaudacion,usua_agenda) values ('13',0,1,0,1,'0984584228','','','','','CC','',1,'CORAIMA','',1,'2023-01-03','','',0,NULL,'','CADENA',1,'',0,'',2,'01171490744922023020204241142',56,'','2001-03-05',0,6,'','','','','','0984584228',1,1,'FEMENINO','0000-00-00','0984584228',0,'00:00',0,'0000-00-00',0,'nayelicdn@gmail.com','','',1,'',0,0,0,'0')-->2023-02-02 16:29:28
+2-->update app_usuario set centro_id='13',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_ciruc='1750351940',usua_ruc='',usua_siglastitulo='',usua_carnetconadis='',usua_codigo='',usua_codigoiniciales='CC',usua_nombreruc='',pemision_id=1,usua_nombre='CORAIMA',usua_direccionruc='',estabr_id=1,usua_fechaingrero='2023-01-03',usua_msp='',usua_tipodiscapacidad='',usua_paisruc=0,usua_fechasalida=NULL,usua_porcentajediscapacidad='',usua_apellido='CADENA',pemisionr_id=1,usua_archivocenecyt='',estabnc_id=0,usua_provinciaruc='',tipcont_id=2,usua_enlace='01171490744922023020204241142',nac_id=56,usua_cantonruc='',usua_fechanacimiento='2001-03-05',pemisionnc_id=0,etn_id=6,usua_archivoauxiliares='',usua_telefonoruc='',usua_horascontrato='0',usua_piefirma='',usua_mailruc='',usua_celular='0984584228',tipoh_id=1,civil_id=1,usua_genero='FEMENINO',usua_fecha_uingreso='0000-00-00',usua_usuario='0984584228',especi_id=0,usua_hora_uingreso='00:00',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='nayelicdn@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0' where usua_id=303 -->2023-02-02 18:08:33
+2-->update app_usuario set centro_id='13',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_ciruc='1750351940',usua_ruc='',usua_siglastitulo='',usua_carnetconadis='',usua_codigo='',usua_codigoiniciales='CC',usua_nombreruc='',pemision_id=1,usua_nombre='CORAIMA',usua_direccionruc='',estabr_id=1,usua_fechaingrero='2023-01-03',usua_msp='',usua_tipodiscapacidad='',usua_paisruc=0,usua_fechasalida=NULL,usua_porcentajediscapacidad='',usua_apellido='CADENA',pemisionr_id=1,usua_archivocenecyt='',estabnc_id=0,usua_provinciaruc='',tipcont_id=2,usua_enlace='01171490744922023020204241142',nac_id=56,usua_cantonruc='',usua_fechanacimiento='2001-03-05',pemisionnc_id=0,etn_id=6,usua_archivoauxiliares='',usua_telefonoruc='',usua_horascontrato='0',usua_piefirma='',usua_mailruc='',usua_celular='0984584228',tipoh_id=1,civil_id=1,usua_genero='FEMENINO',usua_fecha_uingreso='0000-00-00',usua_usuario='0984584228',especi_id=0,usua_hora_uingreso='00:00',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='nayelicdn@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0' where usua_id=303 -->2023-02-02 18:09:12
+2-->update app_usuario set centro_id='13',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_ciruc='1750351940',usua_ruc='',usua_siglastitulo='',usua_carnetconadis='',usua_codigo='',usua_codigoiniciales='CC',usua_nombreruc='',pemision_id=1,usua_nombre='CORAIMA',usua_direccionruc='',estabr_id=1,usua_fechaingrero='2023-01-03',usua_msp='',usua_tipodiscapacidad='',usua_paisruc=0,usua_fechasalida=NULL,usua_porcentajediscapacidad='',usua_apellido='CADENA',pemisionr_id=1,usua_archivocenecyt='',estabnc_id=0,usua_provinciaruc='',tipcont_id=2,usua_enlace='01171490744922023020204241142',nac_id=56,usua_cantonruc='',usua_fechanacimiento='2001-03-05',pemisionnc_id=0,etn_id=6,usua_archivoauxiliares='',usua_telefonoruc='',usua_horascontrato='0',usua_piefirma='',usua_mailruc='',usua_celular='0984584228',tipoh_id=1,civil_id=1,usua_genero='FEMENINO',usua_fecha_uingreso='0000-00-00',usua_usuario='0984584228',especi_id=0,usua_hora_uingreso='00:00',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='nayelicdn@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0' where usua_id=303 -->2023-02-02 18:09:20
+2-->update app_usuario set centro_id='13',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_ciruc='1750351940',usua_ruc='',usua_siglastitulo='',usua_carnetconadis='',usua_codigo='',usua_codigoiniciales='CC',usua_nombreruc='',pemision_id=1,usua_nombre='CORAIMA',usua_direccionruc='',estabr_id=1,usua_fechaingrero='2023-01-03',usua_msp='',usua_tipodiscapacidad='',usua_paisruc=0,usua_fechasalida=NULL,usua_porcentajediscapacidad='',usua_apellido='CADENA',pemisionr_id=1,usua_archivocenecyt='',estabnc_id=0,usua_provinciaruc='',tipcont_id=2,usua_enlace='01171490744922023020204241142',nac_id=56,usua_cantonruc='',usua_fechanacimiento='2001-03-05',pemisionnc_id=0,etn_id=6,usua_archivoauxiliares='',usua_telefonoruc='',usua_horascontrato='0',usua_piefirma='',usua_mailruc='',usua_celular='0984584228',tipoh_id=1,civil_id=1,usua_genero='FEMENINO',usua_fecha_uingreso='0000-00-00',usua_usuario='1750351940',especi_id=0,usua_hora_uingreso='00:00',subespeci_id=0,usua_fecha_cambioclv='0000-00-00',jobt_id=0,usua_email='nayelicdn@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0' where usua_id=303 -->2023-02-02 18:10:50

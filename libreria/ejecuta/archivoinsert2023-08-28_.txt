@@ -1,0 +1,10 @@
+-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4733,centro_id=1,clie_id=5765,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN CON DIFICULTAD RESPIRATORIA CON PREDOMINIO DE FOSA NASAL DERECHA, RINORREA, CONGESTIÓN NASAL,   POR LO QUE  ACUDE A MEDICO TRATANTE QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A OTORORRINONARINGOLOGIA  HAB 306 A
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DRA. ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='DIFICULTAD RESPIRATORIA',anam_partos='0',anam_fecharegistro='2023-08-28 06:48:12',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGUALRES',anam_enlace='576501172320022426720230828064812224',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='DRA. ROMERO',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-28',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='NINGUNO',anam_mamografia=1,anam_mamografiatxt='NINGUNO',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1963 -->2023-08-28 07:48:58

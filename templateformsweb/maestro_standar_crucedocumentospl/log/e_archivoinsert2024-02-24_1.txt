@@ -1,0 +1,3 @@
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('1.1.1.1','208','10.76','0165DA471DD852545820240224024429212','2024-02-24 14:44:44','458')-->2024-02-24 14:44:44
+458-->insert into pichinchahumana_extension.lpin_crucecuentas (crucue_cuenta,crucue_persona,crucue_valorpago,crudoc_enlace,crucue_fecharegistro,usua_id) values ('1.1.1.1','208','10.76','0165DA471DD852545820240224024429212','2024-02-24 14:44:44','458')-->2024-02-24 14:44:44
+458-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0165DA471DD852545820240224024429212' and crucue_id=918-->2024-02-24 14:44:46

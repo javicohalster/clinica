@@ -1,0 +1,6 @@
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';
+update gogess_sisfield set fie_title='Cantidad en cada unidad almacenada para consumo:' where fie_id='9598';

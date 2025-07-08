@@ -1,0 +1,1 @@
+456-->update dns_enfermeria set atenc_id=9142,centro_id=27,clie_id=10318,usua_id=456,protoop_tblprincipal='',enferm_fecharegistro='2024-12-29 21:45:17',protoop_idenlace='',enferm_enlace='1031801025014168645620241229094517472',enferm_archivo='' where enferm_id=869 -->2024-12-30 05:32:51

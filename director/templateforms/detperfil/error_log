@@ -1,0 +1,13 @@
+[14-Jun-2018 13:35:42 UTC] PHP Notice:  Undefined variable: vbus in /home/ussliec/public_html/faesa/director/templateforms/detperfil/listamenu.php on line 6
+[14-Jun-2018 13:35:42 UTC] PHP Notice:  Undefined variable: orden in /home/ussliec/public_html/faesa/director/templateforms/detperfil/listamenu.php on line 6
+[31-Aug-2018 18:42:03 UTC] PHP Notice:  Undefined variable: vbus in /home/ussliec/public_html/faesa/director/templateforms/detperfil/listamenu.php on line 6
+[31-Aug-2018 18:42:03 UTC] PHP Notice:  Undefined variable: orden in /home/ussliec/public_html/faesa/director/templateforms/detperfil/listamenu.php on line 6
+[31-Aug-2018 18:42:12 UTC] PHP Deprecated:  Function split() is deprecated in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 56
+[31-Aug-2018 18:42:12 UTC] PHP Notice:  Undefined offset: 1 in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 60
+[31-Aug-2018 18:42:12 UTC] PHP Notice:  Undefined variable: listav in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 105
+[31-Aug-2018 18:42:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 56
+[31-Aug-2018 18:42:16 UTC] PHP Notice:  Undefined offset: 1 in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 60
+[31-Aug-2018 18:42:16 UTC] PHP Notice:  Undefined variable: listav in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 105
+[31-Aug-2018 18:42:17 UTC] PHP Deprecated:  Function split() is deprecated in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 56
+[31-Aug-2018 18:42:17 UTC] PHP Notice:  Undefined variable: listav in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 64
+[31-Aug-2018 18:42:17 UTC] PHP Notice:  Undefined offset: 3 in /home/ussliec/public_html/faesa/director/templateforms/detperfil/combo_dperfil.php on line 60

@@ -1,0 +1,344 @@
+340-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',12,'LIPOLASER','CIRUGIA PALSTICA',1,'REGISTRADO','DR SANTIAGO GUERRERO',1,'','AMBATO','1805408604','AGUILAR GUERRERO','18','DR MANOLO CALERO',3,'1801','KARLA IVETTE',6,'',1,'','','','1999-11-23',56,7,'0998259451','0982483605','F',4,4,'karla9923aguilar@gmail.com','','340','','2023-10-29 07:27:32','0117254097323402023102907273237318',NULL,'1','','6094','','','4','')-->2023-10-29 07:30:15
+340-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechaingreso,atenc_fechasalida,atenc_condiciondeegreso,atenc_observacion,emp_id,clie_ci,atenc_referencia,atenc_archivo,atenc_enlace) values (1,6359,'1805408604-1','2',340,'2023-10-29 07:35:39','','','2023-10-29 07:35:39','2023-10-29 07:35:39','VIVO','CIRUGIA',1,'1805408604','','','01172540973234020231029073539423')-->2023-10-29 07:35:49
+340-->update dns_atencion set centro_id=1,clie_id=6359,atenc_hc='1805408604-1',tiposerv_id='2',usua_id=340,atenc_fecharegistro='2023-10-29 07:35:39',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2023-10-29 07:35:39',atenc_fechasalida='2023-10-29 07:35:39',atenc_condiciondeegreso='VIVO',atenc_observacion='CIRUGIA',emp_id=1,clie_ci='1805408604',atenc_referencia='',atenc_archivo='',atenc_enlace='01172540973234020231029073539423' where atenc_id=5378 -->2023-10-29 07:36:05
+340-->update dns_atencion set centro_id=1,clie_id=3057,atenc_hc='1725763633-1',tiposerv_id='2',usua_id=281,atenc_fecharegistro='2022-12-28 15:19:36',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2022-12-28 15:19:36',atenc_fechasalida='2022-12-28 15:19:36',atenc_condiciondeegreso='VIVO',atenc_observacion='consulta',emp_id=1,clie_ci='1725763633',atenc_referencia='',atenc_archivo='',atenc_enlace='01175453993828120221228031936250' where atenc_id=2376 -->2023-10-29 07:52:47
+340-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=1,clie_diagnosticorecepcion='',clie_token='',grp_id=12,clie_cirugia='',clie_especialidad='',emp_id=1,clie_registrado='REGISTRADO',clie_tratante='',tipoci_id=1,clie_ayudante='',clie_direccion='RIO DE JANEIRO OE3 1017 Y URUGAY',clie_rucci='1725763633',clie_apellido='ASCUNTAR ESTACIO',prob_codigo='17',clie_anestesiologo='',tippo_id=2,cant_codigo='1701',clie_nombre='FRANCIA VIVIANA',conve_id=14,clie_parroquia='',civil_id=1,clie_codigoisspol='',clie_telefono='',clie_ocupacion='DEPENDIENTE DE FARMACIA',clie_fechanacimiento='1998-03-28',nac_id=56,tarterial_id=7,clie_emergenciatelf='0999903559',clie_celular='0983404393',clie_genero='F',idgen_id=4,orien_id=4,clie_email='viviana0598@hotmail.com',clie_emergenciacelu='',usua_id='213',clie_institucion='',clie_registro='2022-10-27 07:58:59',clie_enlace='0117289538922132022102707585947026',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='3027',clie_dondetrabaja='',clie_puestotrabaja='',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=3057 -->2023-10-29 07:56:26
+304-->insert into dns_newhospitalizacionanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,les_id,anam_pdfcirugia,anam_emferpactual,anam_planes,anam_descripcionexafis,anam_centrorefiere,anam_analisis,anam_pdfconsentido,anam_profesionarefiere,anam_pdfanestesia,anam_menarquiaedad,estaatenc_id,anam_cirugia,anam_motivoconsulta,anam_partos,anam_especialidad,anam_fecharegistro,anam_menopausiaedad,anam_tratante,anam_abortos,anam_atpreventiva,anam_ayudante,anam_nhoja,anam_ciclos,anam_anestesiologo,anam_cesareas,anam_enlace,anam_fechaingreso,anam_gesta,anam_hijosvivos,anam_respiratorio,anam_fum,anam_observacionrespiratorio,anam_fup,anam_fuc,anam_colposcopia,anam_mamografia,anam_fuaprostatico,anam_fuecoprostatico,anam_metodopfamiliartex,anam_terapiahormonaltext,anam_edadsex) values (6358,304,13,5377,'','','','PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA','','','','PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS','','','','',4,'SAFENECTOMIA','CIRUGIA PROGRAMADA','','CIRUGIA VASCULAR','2023-10-29 07:50:06','','DRA KATHY POZO','',0,'','','','DR. SANTANA','','635801172575763530420231029075006140','2023-10-29 07:55','','','',NULL,'',NULL,NULL,NULL,NULL,'','','','','')-->2023-10-29 07:57:43
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29 07:55',anam_gesta='',anam_hijosvivos='',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 07:57:52
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29 07:55',anam_gesta='',anam_hijosvivos='',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 07:57:59
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29 07:55',anam_gesta='',anam_hijosvivos='',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 08:24:34
+219-->insert into dns_ginecologiaconsultaexterna (clie_id,usua_id,centro_id,atenc_id,conext_notasdeevolucion,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_prescripciones,conext_enlace) values (3057,219,1,2376,'PACIENTE ACUDE PARA PLANIFICACION FAMILIAR CON IMPLANON PARA 3 AÑOS, LUEDO DE 7 MESERS DE PUERPERIO.
+FUM 28/10/2023
+SE COLOCA IMPLANTE SUBDERMICO, LUEGO DE ANESTESIA LOCAL SIN COMPLICACIONES.',104,'2023-10-29',1,'2023-10-29 08:27:54','08:27','IBURPOFENO 400MG VO CADA 8 HORAS X 2 TOMAS
+COLOCACION DE IMPLANTE Y DE VENDA.
+VOLVER CON SIGNOS DE ALARMA','305701170923722421920231029082754136')-->2023-10-29 08:30:53
+194-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,tarterial_id,clie_emergenciatelf,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','',1,'','',1,'REGISTRADO','',1,'','POMPEYA S9 113 Y YANACONAS','0400313979','MONTENEGRO CANO','17','',3,'1701','ROSALIA',6,'',2,'','','','1948-12-18',56,7,'','0998777476','F',4,4,'rocios108@gmail.com','','194','','2023-10-29 08:30:04','011723074629194202310290830043914',NULL,'1','','6095','','','3','')-->2023-10-29 08:31:46
+194-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechaingreso,atenc_fechasalida,atenc_condiciondeegreso,atenc_observacion,emp_id,clie_ci,atenc_referencia,atenc_archivo,atenc_enlace) values (1,6360,'0400313979-1','2',194,'2023-10-29 08:31:56','','','2023-10-29 08:31:56','2023-10-29 08:31:56','VIVO','consulta',1,'0400313979','','','01172307462919420231029083156308')-->2023-10-29 08:32:09
+194-->update dns_atencion set centro_id=1,clie_id=6360,atenc_hc='0400313979-1',tiposerv_id='2',usua_id=194,atenc_fecharegistro='2023-10-29 08:31:56',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2023-10-29 08:31:56',atenc_fechasalida='2023-10-29 08:31:56',atenc_condiciondeegreso='VIVO',atenc_observacion='consulta',emp_id=1,clie_ci='0400313979',atenc_referencia='',atenc_archivo='',atenc_enlace='01172307462919420231029083156308' where atenc_id=5379 -->2023-10-29 08:32:28
+304-->insert into dns_newhospitalizacionanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,les_id,anam_pdfcirugia,anam_emferpactual,anam_planes,anam_descripcionexafis,anam_centrorefiere,anam_analisis,anam_pdfconsentido,anam_profesionarefiere,anam_pdfanestesia,anam_menarquiaedad,estaatenc_id,anam_cirugia,anam_motivoconsulta,anam_partos,anam_especialidad,anam_fecharegistro,anam_menopausiaedad,anam_tratante,anam_abortos,anam_atpreventiva,anam_ayudante,anam_nhoja,anam_ciclos,anam_anestesiologo,anam_cesareas,anam_enlace,anam_fechaingreso,anam_gesta,anam_hijosvivos,anam_respiratorio,anam_fum,anam_observacionrespiratorio,anam_fup,anam_fuc,anam_colposcopia,anam_mamografia,anam_fuaprostatico,anam_fuecoprostatico,anam_metodopfamiliartex,anam_terapiahormonaltext,anam_edadsex) values (6359,304,1,5378,'','','','PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.','','','','PACIENTE ADULTA JOVEN INGRESA APARA PROCEDIMIENTO QUIRURGICO PROGRAMADO CUMPLE HORAS DE AYUNO SIGNOS VITALES DENTRO DE PARAMETROS','','','','10 AÑOS',4,'LIPOLASER','CIRUGIA PROGRAMADA','0','CIRUGIA PLASTICA','2023-10-29 08:30:54','','DR. GUERRERO','0',0,'','','REGULARES','DR. CALERO','0','63590117257576353042023102908305427','2023-10-29 08:31','0','0','',NULL,'',NULL,NULL,NULL,NULL,'','','','','')-->2023-10-29 08:33:14
+304-->update dns_newhospitalizacionanamesis set clie_id=6359,usua_id=304,centro_id=1,atenc_id=5378,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1. INGRESO A HOSPITALIZACIÓN/ HAB 307
+    2. NPO
+    3. CONTROL DE SIGNOS VITALES
+    4. CUIDADOS DE ENFERMERÍA
+    5. DISH 
+    6. CHEQUEO PREANESTÉSICO
+    7. CONSENTIMIENTO INFORMADO 
+    8. MEDIAS ANTIEMBOLICAS
+    9. ÓRDENES DR.  SANTIAGO GUERRERO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTA JOVEN INGRESA APARA PROCEDIMIENTO QUIRURGICO PROGRAMADO CUMPLE HORAS DE AYUNO SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='10 AÑOS',estaatenc_id=4,anam_cirugia='LIPOLASER',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2023-10-29 08:30:54',anam_menopausiaedad='',anam_tratante='DR. GUERRERO',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='0',anam_enlace='63590117257576353042023102908305427',anam_fechaingreso='2023-10-29 08:31',anam_gesta='0',anam_hijosvivos='0',anam_respiratorio='',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='',anam_fuecoprostatico='',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=163 -->2023-10-29 08:33:24
+194-->update dns_ginecologiaanamesis set clie_id=6178,usua_id=219,centro_id=1,atenc_id=5198,anam_referencia='',anam_emferpactual='PACIENTE CONSCIENTE ORIENTADA 
+ABDOMEN SUAVE DEPRESIBLE NO DOLOROSO HERIDA EN BUEN ESTADO  SE RETIRA PUNTOS DE HERIDA SIN NINGUNA COMPLICACION',tipoaler_id='',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL PORQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-10-27 12:32:19',anam_partos='',anam_observacionrespiratorio='',anam_menopausiaedad='',anam_atpreventiva=1,anam_observacionap='',anam_nhoja='',anam_planes='MEDIDAS GENERALES',anam_abortos='',anam_ciclos='',anam_enlace='617801170923722421920231027123219187',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=168 -->2023-10-29 10:54:36
+194-->update dns_ginecologiaanamesis set clie_id=6178,usua_id=219,centro_id=1,atenc_id=5198,anam_referencia='',anam_emferpactual='PACIENTE CONSCIENTE ORIENTADA 
+ABDOMEN SUAVE DEPRESIBLE NO DOLOROSO HERIDA EN BUEN ESTADO  SE RETIRA PUNTOS DE HERIDA SIN NINGUNA COMPLICACION',tipoaler_id='',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL PORQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-10-27 12:32:19',anam_partos='',anam_observacionrespiratorio='',anam_menopausiaedad='',anam_atpreventiva=1,anam_observacionap='',anam_nhoja='',anam_planes='MEDIDAS GENERALES',anam_abortos='',anam_ciclos='',anam_enlace='617801170923722421920231027123219187',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=168 -->2023-10-29 10:54:40
+194-->update dns_ginecologiaanamesis set clie_id=6178,usua_id=219,centro_id=1,atenc_id=5198,anam_referencia='',anam_emferpactual='PACIENTE CONSCIENTE ORIENTADA 
+ABDOMEN SUAVE DEPRESIBLE NO DOLOROSO HERIDA EN BUEN ESTADO  SE RETIRA PUNTOS DE HERIDA SIN NINGUNA COMPLICACION',tipoaler_id='',anam_centrorefiere='',anam_observacionaf='',estaatenc_id=4,anam_txtalergias='',anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL PORQUIRURGICO',anam_menarquiaedad='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-10-27 12:32:19',anam_partos='',anam_observacionrespiratorio='',anam_menopausiaedad='',anam_atpreventiva=1,anam_observacionap='',anam_nhoja='',anam_planes='MEDIDAS GENERALES',anam_abortos='',anam_ciclos='',anam_enlace='617801170923722421920231027123219187',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=168 -->2023-10-29 10:54:55
+194-->update dns_newtraumatologiaanamesis set clie_id=5185,usua_id=182,centro_id=1,atenc_id=5345,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DEL LCA DE REVISION + SUTURA DE MENISCO INTERNO Y EXTERNO + MOSAICOPLASTIA EN CONDILO FEMORAL EXTERNO HACE 15 DIAS, AL MOMENTO CON LEVE DOLOR, ACUDE AL CONTROL CLINICO Y RADIOLOGICO.',anam_planes='1. CONTROL EN 2 SEMANAS',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL POSTQUIRURGICO DE RODILLA DERECHA',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-10-26 14:06:50',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='518501100258084118220231026020650279' where anam_id=229 -->2023-10-29 11:06:30
+194-->update dns_newtraumatologiaanamesis set clie_id=5185,usua_id=182,centro_id=1,atenc_id=5345,anam_referencia='LIBRE DEMANDA',anam_emferpactual='PACIENTE CON ANTECEDENTES DE ARTROSCOPIA DE RODILLA DERECHA + PLASTIA DEL LCA DE REVISION + SUTURA DE MENISCO INTERNO Y EXTERNO + MOSAICOPLASTIA EN CONDILO FEMORAL EXTERNO HACE 15 DIAS, AL MOMENTO CON LEVE DOLOR, ACUDE AL CONTROL CLINICO Y RADIOLOGICO.',anam_planes='1. CONTROL EN 2 SEMANAS',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CONTROL POSTQUIRURGICO DE RODILLA DERECHA',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-10-26 14:06:50',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='518501100258084118220231026020650279' where anam_id=229 -->2023-10-29 11:11:03
+340-->update dns_atencion set centro_id=1,clie_id=5627,atenc_hc='1709237224-1',tiposerv_id='2',usua_id=340,atenc_fecharegistro='2023-08-11 11:05:04',esept_id='0',atenc_condiciondeingreso='',atenc_fechaingreso='2023-08-11 11:05:04',atenc_fechasalida='2023-08-11 11:05:04',atenc_condiciondeegreso='VIVO',atenc_observacion='CONSULTA',emp_id=1,clie_ci='1709237224',atenc_referencia='',atenc_archivo='',atenc_enlace='01172540973234020230811110504355' where atenc_id=4583 -->2023-10-29 12:21:38
+314-->update dns_newhospitalizacionanamesis set clie_id=6359,usua_id=304,centro_id=1,atenc_id=5378,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1. INGRESO A HOSPITALIZACIÓN/ HAB 307
+    2. NPO
+    3. CONTROL DE SIGNOS VITALES
+    4. CUIDADOS DE ENFERMERÍA
+    5. DISH 
+    6. CHEQUEO PREANESTÉSICO
+    7. CONSENTIMIENTO INFORMADO 
+    8. MEDIAS ANTIEMBOLICAS
+    9. ÓRDENES DR.  SANTIAGO GUERRERO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTA JOVEN INGRESA APARA PROCEDIMIENTO QUIRURGICO PROGRAMADO CUMPLE HORAS DE AYUNO SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='10 AÑOS',estaatenc_id=4,anam_cirugia='LIPOLASER',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2023-10-29 08:30:54',anam_menopausiaedad='',anam_tratante='DR. GUERRERO',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='0',anam_enlace='63590117257576353042023102908305427',anam_fechaingreso='2023-10-29',anam_gesta='0',anam_hijosvivos='0',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=163 -->2023-10-29 13:54:27
+314-->insert into dns_newprotocolooperatorio (centro_id,clie_id,atenc_id,usua_id,protoop_tblprincipal,protoop_fecharegistro,protoop_selectiva,protoop_cirujanouno,protoop_fechaoperacion,protoop_sintesis,protoop_idenlace,protoop_general,protoop_transquirurgico,protoop_emergencia,protoop_cirujanodos,protoop_horainicio,protoop_regional,protoop_biopsia,protoop_paleativa,protoop_ayudanteuno,protoop_horafin,protoop_sedacion,protoop_bioresultado,protoop_proyectada,protoop_ayudantedos,protoop_examen,protoop_otroanestesia,protoop_realizada,protoop_dieresis,protoop_examendetalle,protoop_tecerayudante,protoop_patologo,protoop_instrumentista,protoop_enlace,protoop_circulante,protoop_exposicion,protoop_anestesiologo,protoop_exploracion,protoop_ayudanteanestesia,protoop_otrointegrante,protoop_procedimiento,protoop_complicaciones,protoop_perdida,protoop_sangrado,protoop_protesico,anam_enlace) values (1,6359,'5378',314,'dns_newhospitalizacionanamesis','2023-10-29 13:54:45','','','','','163','','','','','','','','','','','','','','','','','','','','','','','63590117139350033142023102901544554','','','','','','','','','','','','')-->2023-10-29 13:54:45
+314-->insert into dns_newprotocolooperatorio (centro_id,clie_id,atenc_id,usua_id,protoop_tblprincipal,protoop_fecharegistro,protoop_selectiva,protoop_cirujanouno,protoop_fechaoperacion,protoop_sintesis,protoop_idenlace,protoop_general,protoop_transquirurgico,protoop_emergencia,protoop_cirujanodos,protoop_horainicio,protoop_regional,protoop_biopsia,protoop_paleativa,protoop_ayudanteuno,protoop_horafin,protoop_sedacion,protoop_bioresultado,protoop_proyectada,protoop_ayudantedos,protoop_examen,protoop_otroanestesia,protoop_realizada,protoop_dieresis,protoop_examendetalle,protoop_tecerayudante,protoop_patologo,protoop_instrumentista,protoop_enlace,protoop_circulante,protoop_exposicion,protoop_anestesiologo,protoop_exploracion,protoop_ayudanteanestesia,protoop_otrointegrante,protoop_procedimiento,protoop_complicaciones,protoop_perdida,protoop_sangrado,protoop_protesico,anam_enlace) values (1,6359,'5378',314,'dns_newhospitalizacionanamesis','2023-10-29 13:54:45','','','','','163','','','','','','','','','','','','','','','','','','','','','','','63590117139350033142023102901544554','','','','','','','','','','','','')-->2023-10-29 13:54:45
+314-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6359,atenc_id='5378',usua_id=314,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-10-29 13:54:45',protoop_selectiva='',protoop_cirujanouno='DR SANTIAGO GUERRERO',protoop_fechaoperacion='2023-10-29',protoop_sintesis='',protoop_idenlace='163',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR ORLANDO SANTILLAN',protoop_horainicio='09:20',protoop_regional='',protoop_biopsia='',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='13:20',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='',protoop_ayudantedos='',protoop_examen='',protoop_otroanestesia='',protoop_realizada='',protoop_dieresis='PUERTOS SUPRAPUBICOS, UMBILICAL, SUBMAMARIOS, INTERGLUTEOS, DORSALES INFRAGLUTEOS',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='HEIDY VASQUEZ',protoop_enlace='63590117139350033142023102901544554',protoop_circulante='',protoop_exposicion='',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='LIPODISTROFIA CORPORAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='-ASEPSIA Y ANTISEPSIA
+-COLOCACION DE CAMPOS QUIRURGICOS
+-DIERESIS
+-INFILTRACION POR PUERTOS CON CANULA DE INFILTRACION SOLUCION DE KLEIN PARTE DELANTERA 3200 CC Y ESPALDA 3000 CC
+-PAUSA QUIRUGICA DE 10 MINUTOS
+-EMULSIFICACION DE GRASA CON ULTRASONIDO HEUS 20 MINUTOS PARTE DELANTERA Y POSTERIOR 17 MINUTOS.
+-LIPOASPIRACION CON CANULAS EQUIPO MICROAIRE, OBTENIENDOSE EN PARTE DELANTERA 2000 CC Y POSTERIOR 2800 CC
+-LIPOINJERTO EN REGION TROCANTERICAS 200 CC POR LADO Y GLUTEOS 300 CC
+-RETRACCION TISULAR UBCUTNEA CON LASER DIODI 1470 NM 
+-COLOCACION DE DREN ASPIRATIVO EN REGION SUPRAPUBICA.
+-SINTESIS DE PUERTOIS',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='',anam_enlace='' where protoop_id=226 -->2023-10-29 14:01:22
+294-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5810,atenc_id='4802',usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-09-21 12:47:44',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_fechaoperacion='2023-09-21',protoop_sintesis='',protoop_idenlace='24',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='11:55',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_horafin='12:55',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='URETEROSCOPIA SEMIRRIGIDA+ FLEXIBLE+ DILATACION URETERAL+ PIELOSCOPIA+ LITOTRIPSIA INTRACORPOREA LASER+ EXTRACCION DE LITOS + COLOCACION DE CATETER DOBLE J DERECHO.',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='581001171602008440720230921124744331',protoop_circulante='IBRAILA MONCAYO',protoop_exposicion='ENDOSCOPICA',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='1. ESTENOSIS URETERAL DE 1/3 INFERIOR DE APROX 60% DE LUZ URETRAL 
+2. LITO DE 1CM DE LOCALIZADO EN CALIZ SUPERIOR DE RIÑON DERECHO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS ESTERILES
+3. INTRODUCCION DE URETEROSCOPIO SEMIRIGIDO Y DILATACION DE ESTENOSIS DESCRITA
+4. COLOCACION DE GUIA URETERAL CEBRA Y PTFE 
+5. RETIRO DE INSTRUMENTAL SEMIRIGIDO 
+5. COLOCACION DE CAMISA URETERAL 11/13FR
+6. PIELOSCOPIA E IDENTIFICACION DE LITO DESCRITO (52351)
+7. ENDOCOPIA RENAL  CON REMOCION DE LITO (50580) 
+8. LITOTRIPSIA INTRACORPOREA MEDIANTE LASER HOLMIUM 100W (52353)
+9. EXTRACCION DE LITOS FRAGMENTADOS MEDIANTE CANASTILLA DAKOTA (52352)
+10. RETIRO DE CAMISA URETERAL 
+11. COLOCACION DE CATETER DOBLE J DERECHO MEDIANTE VISION DIRECTA (52282)
+12. COLOCACION DE SONDA NELATON 12FR PARA VACIADO VESICAL 
+13. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='ESCASO',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=38 -->2023-10-29 16:20:53
+294-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5810,atenc_id='4802',usua_id=407,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-09-21 12:47:44',protoop_selectiva='1',protoop_cirujanouno='DRA. CRISTINA CRUZ',protoop_fechaoperacion='2023-09-21',protoop_sintesis='',protoop_idenlace='24',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='11:55',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR. RICARDO YEPEZ',protoop_horafin='12:55',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='URETEROSCOPIA SEMIRRIGIDA+ FLEXIBLE+ DILATACION URETERAL+ PIELOSCOPIA+ LITOTRIPSIA INTRACORPOREA LASER+ EXTRACCION DE LITOS + COLOCACION DE CATETER DOBLE J DERECHO.',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='',protoop_dieresis='ENDOSCOPICA',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='',protoop_enlace='581001171602008440720230921124744331',protoop_circulante='IBRAILA MONCAYO',protoop_exposicion='ENDOSCOPICA',protoop_anestesiologo='DR. MANOLO CALERO',protoop_exploracion='1. ESTENOSIS URETERAL DE 1/3 INFERIOR DE APROX 60% DE LUZ URETRAL 
+2. LITO DE 1CM DE LOCALIZADO EN CALIZ SUPERIOR DE RIÑON DERECHO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS ESTERILES
+3. INTRODUCCION DE URETEROSCOPIO SEMIRIGIDO Y DILATACION DE ESTENOSIS DESCRITA
+4. COLOCACION DE GUIA URETERAL CEBRA Y PTFE 
+5. RETIRO DE INSTRUMENTAL SEMIRIGIDO 
+5. COLOCACION DE CAMISA URETERAL 11/13FR
+6. PIELOSCOPIA E IDENTIFICACION DE LITO DESCRITO (52351)
+7. ENDOCOPIA RENAL  CON REMOCION DE LITO (50580) 
+8. LITOTRIPSIA INTRACORPOREA MEDIANTE LASER HOLMIUM 100W (52353)
+9. EXTRACCION DE LITOS FRAGMENTADOS MEDIANTE CANASTILLA DAKOTA (52352)
+10. RETIRO DE CAMISA URETERAL 
+11. COLOCACION DE CATETER DOBLE J DERECHO MEDIANTE VISION DIRECTA (52282)
+12. COLOCACION DE SONDA NELATON 12FR PARA VACIADO VESICAL 
+13. FIN DE CIRUGIA',protoop_complicaciones='NINGUNA',protoop_perdida='ESCASO',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=38 -->2023-10-29 16:20:53
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29',anam_gesta='',anam_hijosvivos='',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 16:37:28
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29',anam_gesta='',anam_hijosvivos='',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 16:37:32
+304-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29',anam_gesta='',anam_hijosvivos='',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 16:37:34
+294-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5981,atenc_id='4965',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-09-25 18:45:25',protoop_selectiva='1',protoop_cirujanouno='DE. RENATO GUERRA',protoop_fechaoperacion='2023-09-25',protoop_sintesis='',protoop_idenlace='39',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_horainicio='16:30',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='DESCOMPRESION ENDOSCOPICA L4L5 L5S1',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='IDEM + LAMINECTOMIA+FORAMINECTOMIA L4L5 L5S1',protoop_dieresis='PORTALES ENDOSCOPICOS LUMBARES INTERLAMINARES L4-L5 L5-S1',protoop_examendetalle='FRAGMENTOS DE DISCO',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='YAHAYRA ESPINOZA',protoop_enlace='598101171442027818120230925064525375',protoop_circulante='IBRAYLA',protoop_exposicion='EQUIPO VERTEBRIS LUMBAR
+FRESA ENDOSCOPICA VERTEBRAL
+FLOUROSCOPIA TODOS LOS TIEMPOS 
+INTENSIFICADOR DE IMAGEN
+BOMBA DE IRRIGACION  + KIT DE IRRAGACION Y MANGUERAS 
+TORRE DE ENDOSCOPIA TODOS LOS TIEMPOS',protoop_anestesiologo='DR. CALERO MANOLO',protoop_exploracion='ESTRECHAMIENTO MODERADO DE CANAL L4-L5 L5-S1
+HERNIAS L4-L5 L5-S1 FIBROSAS CON OSTEOFITOS Y COMPRESIÓN DE TEJIDO NERVIOSO
+TEJIDO INFLAMATORIO ABUNDANTE
+OSTEOFITOS EN PLATILLOS VERTEBRALES',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L4-L5
+5.	LOCALIZACION DE VENTANA INTERLAMINAR DERECHA L4-L5 CON FLOUROSCOPIA COLOCACIÓN DE GUÍA
+6.	COLOCACIÓN DE DILATADOR EN VENTANA IZQUIERDA DE L4-L5
+7.	COLOCACIÓN DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+8.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+9.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE LIGAMENTO AMARILLO
+10.	FORAMINECTOMIA +LAMINECTOMIA CON CONSOLA Y  MICROFRESAS 
+11.	FLAVECTOMIA + LAMINECTOMIA Y FORAMINOTOMIA CON KERRISON ENDOSCOPICA
+12.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+13.	ANULOTOMIA CON BASKET
+14.	DISCECTOMIA MECANICA
+15.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+16.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+17.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L5S1
+18.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR IZQUIERDA DE L5S1
+19.	COLOCACION DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+20.	INTRODUCCIÓN DE ÓPTICA DE TRABAJO CON IRRIGACION DE SOLUCIÓN SALINA 0.9 % 1000 CC (TOTAL 8) TODOS LOS TIEMPOS 
+21.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACIÓN DE VENTANA Y LIGAMENTO AMARILLO
+22.	LAMINECTOMIA FORAMINECTOMIA FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+23.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+24.	RETIRO DE OSTEOFITO POSTERIOR CON JUEGO DE PINZAS ENDOSCOPICAS 
+25.	HEMOSTASIA DE PLEXO LATERAL CON RADIOFRECUENCIA 
+26.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+27.	RETIRO DE ENDOSCOPIO 
+28.	SÍNTESIS  
+
+CODIGOS
+63047 * 2 FORAMINECTOMIA
+62287 *2 TERMONUCLEOPLASTIA
+63030*2 DESCOMPRESION DE RAICES NERVIOSAS',protoop_complicaciones='NO',protoop_perdida='60',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=61 -->2023-10-29 17:02:00
+294-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5981,atenc_id='4965',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-09-25 18:45:25',protoop_selectiva='1',protoop_cirujanouno='DE. RENATO GUERRA',protoop_fechaoperacion='2023-09-25',protoop_sintesis='',protoop_idenlace='39',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_horainicio='16:30',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='DESCOMPRESION ENDOSCOPICA L4L5 L5S1',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='IDEM + LAMINECTOMIA+FORAMINECTOMIA L4L5 L5S1',protoop_dieresis='PORTALES ENDOSCOPICOS LUMBARES INTERLAMINARES L4-L5 L5-S1',protoop_examendetalle='FRAGMENTOS DE DISCO',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='YAHAYRA ESPINOZA',protoop_enlace='598101171442027818120230925064525375',protoop_circulante='IBRAYLA',protoop_exposicion='EQUIPO VERTEBRIS LUMBAR
+FRESA ENDOSCOPICA VERTEBRAL
+FLOUROSCOPIA TODOS LOS TIEMPOS 
+INTENSIFICADOR DE IMAGEN
+BOMBA DE IRRIGACION  + KIT DE IRRAGACION Y MANGUERAS 
+TORRE DE ENDOSCOPIA TODOS LOS TIEMPOS',protoop_anestesiologo='DR. CALERO MANOLO',protoop_exploracion='ESTRECHAMIENTO MODERADO DE CANAL L4-L5 L5-S1
+HERNIAS L4-L5 L5-S1 FIBROSAS CON OSTEOFITOS Y COMPRESIÓN DE TEJIDO NERVIOSO
+TEJIDO INFLAMATORIO ABUNDANTE
+OSTEOFITOS EN PLATILLOS VERTEBRALES',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L4-L5
+5.	LOCALIZACION DE VENTANA INTERLAMINAR DERECHA L4-L5 CON FLOUROSCOPIA COLOCACIÓN DE GUÍA
+6.	COLOCACIÓN DE DILATADOR EN VENTANA IZQUIERDA DE L4-L5
+7.	COLOCACIÓN DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+8.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+9.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE LIGAMENTO AMARILLO
+10.	FORAMINECTOMIA +LAMINECTOMIA CON CONSOLA Y  MICROFRESAS 
+11.	FLAVECTOMIA + LAMINECTOMIA Y FORAMINOTOMIA CON KERRISON ENDOSCOPICA
+12.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+13.	ANULOTOMIA CON BASKET
+14.	DISCECTOMIA MECANICA
+15.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+16.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+17.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L5S1
+18.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR IZQUIERDA DE L5S1
+19.	COLOCACION DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+20.	INTRODUCCIÓN DE ÓPTICA DE TRABAJO CON IRRIGACION DE SOLUCIÓN SALINA 0.9 % 1000 CC (TOTAL 8) TODOS LOS TIEMPOS 
+21.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACIÓN DE VENTANA Y LIGAMENTO AMARILLO
+22.	LAMINECTOMIA FORAMINECTOMIA FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+23.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+24.	RETIRO DE OSTEOFITO POSTERIOR CON JUEGO DE PINZAS ENDOSCOPICAS 
+25.	HEMOSTASIA DE PLEXO LATERAL CON RADIOFRECUENCIA 
+26.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+27.	RETIRO DE ENDOSCOPIO 
+28.	SÍNTESIS  
+
+CODIGOS
+63047 * 2 FORAMINECTOMIA
+62287 *2 TERMONUCLEOPLASTIA
+63030*2 DESCOMPRESION DE RAICES NERVIOSAS',protoop_complicaciones='NO',protoop_perdida='60',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=61 -->2023-10-29 17:02:00
+294-->update dns_newprotocolooperatorio set centro_id=1,clie_id=5981,atenc_id='4965',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-09-25 18:45:25',protoop_selectiva='1',protoop_cirujanouno='DE. RENATO GUERRA',protoop_fechaoperacion='2023-09-25',protoop_sintesis='',protoop_idenlace='39',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_horainicio='16:30',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='19:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='DESCOMPRESION ENDOSCOPICA L4L5 L5S1',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='IDEM + LAMINECTOMIA+FORAMINECTOMIA L4L5 L5S1',protoop_dieresis='PORTALES ENDOSCOPICOS LUMBARES INTERLAMINARES L4-L5 L5-S1',protoop_examendetalle='FRAGMENTOS DE DISCO',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='YAHAYRA ESPINOZA',protoop_enlace='598101171442027818120230925064525375',protoop_circulante='IBRAYLA',protoop_exposicion='EQUIPO VERTEBRIS LUMBAR
+FRESA ENDOSCOPICA VERTEBRAL
+FLOUROSCOPIA TODOS LOS TIEMPOS 
+BOMBA DE IRRIGACION  + KIT DE IRRAGACION Y MANGUERAS 
+CONSOLA Y PUNTA DE PLASMA
+TORRE DE ENDOSCOPIA TODOS LOS TIEMPOS',protoop_anestesiologo='DR. CALERO MANOLO',protoop_exploracion='ESTRECHAMIENTO MODERADO DE CANAL L4-L5 L5-S1
+HERNIAS L4-L5 L5-S1 FIBROSAS CON OSTEOFITOS Y COMPRESIÓN DE TEJIDO NERVIOSO
+TEJIDO INFLAMATORIO ABUNDANTE
+OSTEOFITOS EN PLATILLOS VERTEBRALES',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L4-L5
+5.	LOCALIZACION DE VENTANA INTERLAMINAR DERECHA L4-L5 CON FLOUROSCOPIA COLOCACIÓN DE GUÍA
+6.	COLOCACIÓN DE DILATADOR EN VENTANA IZQUIERDA DE L4-L5
+7.	COLOCACIÓN DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+8.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+9.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE LIGAMENTO AMARILLO
+10.	FORAMINECTOMIA +LAMINECTOMIA CON CONSOLA Y  MICROFRESAS 
+11.	FLAVECTOMIA + LAMINECTOMIA Y FORAMINOTOMIA CON KERRISON ENDOSCOPICA
+12.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+13.	ANULOTOMIA CON BASKET
+14.	DISCECTOMIA MECANICA
+15.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+16.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+17.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L5S1
+18.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR IZQUIERDA DE L5S1
+19.	COLOCACION DE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+20.	INTRODUCCIÓN DE ÓPTICA DE TRABAJO CON IRRIGACION DE SOLUCIÓN SALINA 0.9 % 1000 CC (TOTAL 8) TODOS LOS TIEMPOS 
+21.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACIÓN DE VENTANA Y LIGAMENTO AMARILLO
+22.	LAMINECTOMIA FORAMINECTOMIA FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+23.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+24.	RETIRO DE OSTEOFITO POSTERIOR CON JUEGO DE PINZAS ENDOSCOPICAS 
+25.	HEMOSTASIA DE PLEXO LATERAL CON RADIOFRECUENCIA MAS CONSOLA Y PUNTO DE PLASMA
+26.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+27.	RETIRO DE ENDOSCOPIO 
+28.	SÍNTESIS  
+
+CODIGOS
+63047 * 2 FORAMINECTOMIA
+62287 *2 TERMONUCLEOPLASTIA
+63030*2 DESCOMPRESION DE RAICES NERVIOSAS',protoop_complicaciones='NO',protoop_perdida='60',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=61 -->2023-10-29 17:05:34
+304-->update dns_newhospitalizacionanamesis set clie_id=6359,usua_id=304,centro_id=1,atenc_id=5378,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1. INGRESO A HOSPITALIZACIÓN/ HAB 307
+    2. NPO
+    3. CONTROL DE SIGNOS VITALES
+    4. CUIDADOS DE ENFERMERÍA
+    5. DISH 
+    6. CHEQUEO PREANESTÉSICO
+    7. CONSENTIMIENTO INFORMADO 
+    8. MEDIAS ANTIEMBOLICAS
+    9. ÓRDENES DR.  SANTIAGO GUERRERO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTA JOVEN INGRESA APARA PROCEDIMIENTO QUIRURGICO PROGRAMADO CUMPLE HORAS DE AYUNO SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='10 AÑOS',estaatenc_id=4,anam_cirugia='LIPOLASER',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2023-10-29 08:30:54',anam_menopausiaedad='',anam_tratante='DR. GUERRERO',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='0',anam_enlace='63590117257576353042023102908305427',anam_fechaingreso='2023-10-29',anam_gesta='0',anam_hijosvivos='0',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=163 -->2023-10-29 19:04:39
+304-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6359,atenc_id='5378',usua_id=314,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-10-29 13:54:45',protoop_selectiva='',protoop_cirujanouno='DR SANTIAGO GUERRERO',protoop_fechaoperacion='2023-10-29',protoop_sintesis='',protoop_idenlace='163',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR ORLANDO SANTILLAN',protoop_horainicio='09:20',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='13:20',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='',protoop_dieresis='PUERTOS SUPRAPUBICOS, UMBILICAL, SUBMAMARIOS, INTERGLUTEOS, DORSALES INFRAGLUTEOS',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='HEIDY VASQUEZ',protoop_enlace='63590117139350033142023102901544554',protoop_circulante='',protoop_exposicion='',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='LIPODISTROFIA CORPORAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='-ASEPSIA Y ANTISEPSIA
+-COLOCACION DE CAMPOS QUIRURGICOS
+-DIERESIS
+-INFILTRACION POR PUERTOS CON CANULA DE INFILTRACION SOLUCION DE KLEIN PARTE DELANTERA 3200 CC Y ESPALDA 3000 CC
+-PAUSA QUIRUGICA DE 10 MINUTOS
+-EMULSIFICACION DE GRASA CON ULTRASONIDO HEUS 20 MINUTOS PARTE DELANTERA Y POSTERIOR 17 MINUTOS.
+-LIPOASPIRACION CON CANULAS EQUIPO MICROAIRE, OBTENIENDOSE EN PARTE DELANTERA 2000 CC Y POSTERIOR 2800 CC
+-LIPOINJERTO EN REGION TROCANTERICAS 200 CC POR LADO Y GLUTEOS 300 CC
+-RETRACCION TISULAR UBCUTNEA CON LASER DIODI 1470 NM 
+-COLOCACION DE DREN ASPIRATIVO EN REGION SUPRAPUBICA.
+-SINTESIS DE PUERTOIS',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=226 -->2023-10-29 19:04:41
+304-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6359,atenc_id='5378',usua_id=314,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-10-29 13:54:45',protoop_selectiva='',protoop_cirujanouno='DR SANTIAGO GUERRERO',protoop_fechaoperacion='2023-10-29',protoop_sintesis='',protoop_idenlace='163',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DR ORLANDO SANTILLAN',protoop_horainicio='09:20',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='13:20',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='',protoop_dieresis='PUERTOS SUPRAPUBICOS, UMBILICAL, SUBMAMARIOS, INTERGLUTEOS, DORSALES INFRAGLUTEOS',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='HEIDY VASQUEZ',protoop_enlace='63590117139350033142023102901544554',protoop_circulante='',protoop_exposicion='',protoop_anestesiologo='DR MANOLO CALERO',protoop_exploracion='LIPODISTROFIA CORPORAL',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='-ASEPSIA Y ANTISEPSIA
+-COLOCACION DE CAMPOS QUIRURGICOS
+-DIERESIS
+-INFILTRACION POR PUERTOS CON CANULA DE INFILTRACION SOLUCION DE KLEIN PARTE DELANTERA 3200 CC Y ESPALDA 3000 CC
+-PAUSA QUIRUGICA DE 10 MINUTOS
+-EMULSIFICACION DE GRASA CON ULTRASONIDO HEUS 20 MINUTOS PARTE DELANTERA Y POSTERIOR 17 MINUTOS.
+-LIPOASPIRACION CON CANULAS EQUIPO MICROAIRE, OBTENIENDOSE EN PARTE DELANTERA 2000 CC Y POSTERIOR 2800 CC
+-LIPOINJERTO EN REGION TROCANTERICAS 200 CC POR LADO Y GLUTEOS 300 CC
+-RETRACCION TISULAR UBCUTNEA CON LASER DIODI 1470 NM 
+-COLOCACION DE DREN ASPIRATIVO EN REGION SUPRAPUBICA.
+-SINTESIS DE PUERTOIS',protoop_complicaciones='NINGUNA',protoop_perdida='',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=226 -->2023-10-29 19:04:41
+304-->update dns_newhospitalizacionanamesis set clie_id=6359,usua_id=304,centro_id=1,atenc_id=5378,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA INGRESA PARA CIRUGIA PROGRAMADA, CUMPLE CON HORAS DE AYUNO, EXAMENES COMPLEMENTARIOS DENTRO DE PARAMETROS NORMALES.',anam_planes='1. INGRESO A HOSPITALIZACIÓN/ HAB 307
+    2. NPO
+    3. CONTROL DE SIGNOS VITALES
+    4. CUIDADOS DE ENFERMERÍA
+    5. DISH 
+    6. CHEQUEO PREANESTÉSICO
+    7. CONSENTIMIENTO INFORMADO 
+    8. MEDIAS ANTIEMBOLICAS
+    9. ÓRDENES DR.  SANTIAGO GUERRERO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTA JOVEN INGRESA APARA PROCEDIMIENTO QUIRURGICO PROGRAMADO CUMPLE HORAS DE AYUNO SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='10 AÑOS',estaatenc_id=4,anam_cirugia='LIPOLASER',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2023-10-29 08:30:54',anam_menopausiaedad='',anam_tratante='DR. GUERRERO',anam_abortos='0',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. CALERO',anam_cesareas='0',anam_enlace='63590117257576353042023102908305427',anam_fechaingreso='2023-10-29',anam_gesta='0',anam_hijosvivos='0',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=163 -->2023-10-29 19:09:09
+304-->insert into dns_laboratorio (clie_id,usua_id,atenc_id,lab_idexterno,centro_id,lab_hemabiometria,lab_quiglucosa,lab_copocopro,lab_uroelemental,lab_bactgram,lab_eosinofilosmoconasal,lab_hiv,lab_tablaexterno,lab_hemaindices,lab_quitrans,lab_coposangre,lab_urogota,lab_bactziehl,lab_otros,lab_hepatitisa,lab_codigo,lab_servicio,lab_quihoras,lab_copoinv,lab_bacthongos,lab_hepatitisb,prob_codigo,lab_hemaplaquetas,lab_quioxa,lab_coporotavirus,lab_uroprueba,lab_bactfresco,lab_asto,lab_fechasolicitud,lab_hemat,lab_quiurea,lab_bactcultivo,lab_rflatex,lab_coproseriado,cant_codigo,lab_hemagrupo,lab_quifosfa,lab_bactmuestra,lab_pcr,lab_hora,lab_hematiempo,lab_quicreatina,lab_psa,lab_hemareticulocitos,lab_quiacidourico,lab_hepisuero,lab_parroquia,lab_hemadrepa,lab_hepihe,prio_id,lab_hemahematozoario,lab_quihdl,lab_dengue,lab_hemacoombs,lab_quibilirrubinas,lab_vdrl,lab_hemacelula,lab_quildl,lab_rpr,lab_quibilirrubinadirecta,lab_hemaindirecto,lab_quiproteinas,lab_febriles,lab_albumina,lab_quitrigliseridos,lab_hematocritohemoglobina,lab_cama,lab_globulina,lab_sala,lab_tiemposangria,lab_enlace,lab_fecharegistro,lab_quicolesterol,lab_fosfatasaacida,lab_hierroserico,lab_amilasa) values (6359,304,5378,0,1,1,0,0,0,0,0,0,'',0,0,0,0,0,'',0,'','',0,0,0,0,'17',0,0,0,0,0,0,'2023-10-29 19:09:41',0,0,0,0,'','1701',0,0,'',0,'19:09',0,0,0,0,0,0,'RUMIPAMBA',0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'',0,'',0,'635901172575763530420231029070941334','2023-10-29 19:09:41',0,0,0,0)-->2023-10-29 19:10:16
+294-->update dns_newconsultaexternaanamesis set clie_id=3412,usua_id=296,centro_id=1,atenc_id=2175,anam_referencia='LIBRE DEMANDA',anam_emferpactual='paciente conocido por el servicio con diagnostico de fistula perianal. acude para programar cirugia',anam_planes='ciruga
+prequirurgicos',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='acude para control y programacion quirurgica',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-08-15 09:44:21',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='341201110378298129620230815094421369' where anam_id=7 -->2023-10-29 20:03:25
+294-->update dns_newconsultaexternaanamesis set clie_id=3412,usua_id=264,centro_id=1,atenc_id=2175,anam_referencia='DERIVADO',anam_emferpactual='ASINTOMATICA CARDIOVASCULAR , NO TOS , NO DISNEA , NO DOLOR  TORACICO , NO PALPITACIONES , NO SINCOPE , NO LIPOTIMIA , NO EDEMAS DE MIMEBROS INFERIORES 
+EXAMENES  ELECTROCARDIOGRAMA  RITMO SINUSAL , FRECUENCIA CARDIACA 60X EJE   60 GRADOS INTERVALO PR 0.16 QRS 0.09  SEGMENTOI S-T NORMAL , NO SUPRA NI INFRADESNIVEL , ONDA T NORMAL, TRAZADO NORMAL , LABORATORIO  HCTO 50  HB 16  GB 5020 SEG 56%  PLAQUETAS 275000 TP 11.3 SEGUNDOS INR  1.0 TTP 31 SEGUNDOS  GLUCOSA 83 CREATININA 0,95',anam_planes='DIAGNOSTICO 
+RIESGO CLINICO BAJO ACA/AHA
+RIESGO QUIRURGICO MODERADO ACA/AHA
+RIESGO DE EMBOLISMO MODERADO 
+NO HAY CONTRAINDICACION PARA LA CIRUGIA',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='CHEQUEO PREQUIRURGICO POR FISTULA ANAL',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-08-29 17:32:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='34120117104427892642023082905320729' where anam_id=48 -->2023-10-29 20:03:39
+185-->update dns_newhospitalizacionanamesis set clie_id=6350,usua_id=419,centro_id=1,atenc_id=5367,anam_referencia='DERIVADO',les_id='5',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE CUADRO DE 15 AÑOS DE EVOLUCIÓN DE DIFICULTAD AL RESPIRAR, CON PREDOMINIO DEL LADO DERECHO, ESTORNUDOS,    POR LO QUE  ACUDE A MEDICO TRATANTE QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A HOSPITALIZACION HAB 301
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DR. CHRISTIAN CACERES',anam_descripcionexafis='HIPERTROFIA DE CORNETES, GIBA OSEA',anam_centrorefiere='',anam_analisis='PACIENTE CON CUADRO YA DESCRITO,    ACUDE A MEDICO TRATANTE QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='12',estaatenc_id=4,anam_cirugia='SEPTOPLASTIA',anam_motivoconsulta='DIFICULTAD PARA RESPIRAR',anam_partos='1',anam_especialidad='CIRUGIA PLASTICA',anam_fecharegistro='2023-10-28 08:31:24',anam_menopausiaedad='NO APLICA',anam_tratante='DR. CHRISTIAN CACERES',anam_abortos='0',anam_atpreventiva=1,anam_ayudante='DRA. VILLACRES',anam_nhoja='',anam_ciclos='REGULARES',anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_cesareas='2',anam_enlace='635001172507226641920231028083124456',anam_fechaingreso='2023-10-28',anam_gesta='3',anam_hijosvivos='3',anam_respiratorio='0',anam_fum='2023-02-01',anam_observacionrespiratorio='',anam_fup='2013-09-21',anam_fuc='2022-10-01',anam_colposcopia=NULL,anam_mamografia='0000-10-01',anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='DIU HORMONAL HACE 8 MESES',anam_terapiahormonaltext='',anam_edadsex='17' where anam_id=159 -->2023-10-29 22:21:22
+185-->update dns_newhospitalizacionanamesis set clie_id=6358,usua_id=304,centro_id=13,atenc_id=5377,anam_referencia='',les_id='',anam_pdfcirugia='',anam_emferpactual='PACIENTE REFIERE QUE HACE APROXIMADAMENTE 10 AÑOS PRESENTA CAMBIOS DERMICOS A NIVEL DE MIEMBROS INFERIORES DE PREDOMINANCIA EN MALEOLO INTERNO DE PIE DERECHO POR LO QUE CONSULTA CON FACULTATIVO QUIEN DIAGNOSTICA INSUFICIENCIA VENOSA PROFUNDA MISMA QUE NO A RECIBIDO TRATAMIENTO POR LARGA DATA POSTERIOR APROXIMADAMENTE 2 SEMANAS CONSULTA CON MEDICO ESPECIALISTA QUIEN DETERMINA NECESIDAD DE RESOLUCION QUIRURGICA POR LO QUE INGRESA',anam_planes='1. INGRESO A HOSPITALIZACION HAB 302
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. BIOMETRIA HEMATICA
+    11. ÓRDENES DE DRA. KATHY POZO',anam_descripcionexafis='',anam_centrorefiere='',anam_analisis='PACIENTE ADULTO MEDIO QUIEN INGRESA A CIRUGIA PROGRAMADA CUMPLE HORAS DE AYUNO, SIGNOS VITALES DENTRO DE PARAMETROS',anam_pdfconsentido='',anam_profesionarefiere='',anam_pdfanestesia='',anam_menarquiaedad='',estaatenc_id=4,anam_cirugia='SAFENECTOMIA',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_especialidad='CIRUGIA VASCULAR',anam_fecharegistro='2023-10-29 07:50:06',anam_menopausiaedad='',anam_tratante='DRA KATHY POZO',anam_abortos='',anam_atpreventiva=0,anam_ayudante='',anam_nhoja='',anam_ciclos='',anam_anestesiologo='DR. SANTANA',anam_cesareas='',anam_enlace='635801172575763530420231029075006140',anam_fechaingreso='2023-10-29',anam_gesta='',anam_hijosvivos='',anam_respiratorio='0',anam_fum=NULL,anam_observacionrespiratorio='',anam_fup=NULL,anam_fuc=NULL,anam_colposcopia=NULL,anam_mamografia=NULL,anam_fuaprostatico='0000-00-00',anam_fuecoprostatico='0000-00-00',anam_metodopfamiliartex='',anam_terapiahormonaltext='',anam_edadsex='' where anam_id=162 -->2023-10-29 22:31:08

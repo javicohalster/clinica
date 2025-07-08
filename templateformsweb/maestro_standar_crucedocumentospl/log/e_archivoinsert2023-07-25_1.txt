@@ -1,0 +1,15 @@
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17DEA5FDB219720230714115506436' and crucue_id=748-->2023-07-25 12:55:16
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17E565B67919720230714115654435' and crucue_id=749-->2023-07-25 12:56:59
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17EDD0146919720230714115909263' and crucue_id=750-->2023-07-25 12:58:34
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17F80EEE4619720230714120152166' and crucue_id=751-->2023-07-25 13:01:08
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B17FE97CE2119720230714120337440' and crucue_id=752-->2023-07-25 13:04:20
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B18091133A419720230714120625417' and crucue_id=753-->2023-07-25 15:20:51
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B181DBF35EA1972023071412115558' and crucue_id=755-->2023-07-25 15:25:42
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B18157D88C219720230714120943340' and crucue_id=754-->2023-07-25 15:26:07
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B183A787A641972023071412193517' and crucue_id=757-->2023-07-25 15:32:41
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B182E7817A919720230714121623117' and crucue_id=756-->2023-07-25 15:32:57
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B183FBE42D519720230714122059468' and crucue_id=758-->2023-07-25 15:35:08
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B184E851B0219720230714122456243' and crucue_id=759-->2023-07-25 15:36:52
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B186522289C19720230714123058173' and crucue_id=760-->2023-07-25 15:41:08
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B186F1B782719720230714123337207' and crucue_id=761-->2023-07-25 15:41:24
+197-->delete from pichinchahumana_extension.lpin_crucecuentas where crudoc_enlace='0164B18776EF5051972023071412355020' and crucue_id=762-->2023-07-25 15:44:24

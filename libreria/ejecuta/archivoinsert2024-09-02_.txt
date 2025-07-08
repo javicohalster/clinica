@@ -1,0 +1,4 @@
+-->update dns_newconsultaexternaanamesis set clie_id=8545,usua_id=203,centro_id=1,atenc_id=7438,anam_referencia='DERIVADO',anam_emferpactual='PACIENTE CON EDEMA DE MIEMBROS INFERIORES DE VARIOS MESES DE EVOLUCION Y PRESENCIA DE VARICES . NO PRESENTA OTR SINTOMATOLOGIA',anam_planes='RP.
+MEDIAS ELASTICAS
+SE SUGIERE ESCLEROTERAPIA
+ECO DOPPLER VENOSO COLOR MIEMBROS INFERIORES',anam_centrorefiere='ISSFA',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='EDEMA EN MIEMBROS INFERIORES',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2024-09-02 11:10:42',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_nhoja='',anam_enlace='854501040089535520320240902111042312' where anam_id=2300 -->2024-09-02 15:55:48

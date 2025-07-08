@@ -1,0 +1,21 @@
+[11-Oct-2018 21:57:51 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[11-Oct-2018 21:57:51 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[11-Oct-2018 21:57:51 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 48
+[17-Oct-2018 20:45:10 UTC] PHP Warning:  include(../../cfg/clases.php): failed to open stream: No such file or directory in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/grid_detalleevolucion.php on line 10
+[17-Oct-2018 20:45:10 UTC] PHP Warning:  include(../../cfg/clases.php): failed to open stream: No such file or directory in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/grid_detalleevolucion.php on line 10
+[17-Oct-2018 20:45:10 UTC] PHP Warning:  include(): Failed opening '../../cfg/clases.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/grid_detalleevolucion.php on line 10
+[17-Oct-2018 20:45:10 UTC] PHP Fatal error:  Class 'portal' not found in /home/ussliec/public_html/faesa/cfg/declaracion.php on line 3
+[18-Oct-2018 13:55:27 America/Guayaquil] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ussliec/public_html/faesa/libreria/util/util.php on line 81
+[29-Oct-2018 15:34:20 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[29-Oct-2018 15:34:20 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[29-Oct-2018 15:34:20 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 48
+[30-Oct-2018 10:43:54 America/Guayaquil] PHP Fatal error:  Class 'FormularioProceso' not found in /home/ussliec/public_html/faesa/libreria/formulario/cmb.php on line 31
+[05-Nov-2018 15:09:47 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[05-Nov-2018 15:09:47 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[05-Nov-2018 15:09:47 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 48
+[05-Nov-2018 15:10:16 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[05-Nov-2018 15:10:16 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[05-Nov-2018 15:10:16 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 48
+[14-Nov-2018 16:14:15 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[14-Nov-2018 16:14:15 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 44
+[14-Nov-2018 16:14:15 UTC] PHP Notice:  Undefined index: fie_id in /home/ussliec/public_html/faesa/templateformsweb/maestro_standar_evolucion/editar.php on line 48

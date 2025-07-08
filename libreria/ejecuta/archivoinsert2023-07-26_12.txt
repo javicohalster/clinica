@@ -1,0 +1,111 @@
+385-->insert into dns_invegresosvarios (egrec_representante,destv_id,tdes_id,centrod_id,emp_id,egrec_otrosdestino,egrec_fecha,egrec_responsableentrega,tipom_id,egrec_motivo,tipomov_id,egrec_cedula,centro_id,egrec_nmemo,egrec_personalrecibe,egrec_cedularecibe,usua_id,egrec_fecharegistro,egrec_tipo) values ('MAYRA POZO',0,1,55,1,'','2023-07-26','JESUS PEREIRA',2,'INVENTARIO',5,'1758784746',12,'013','','',385,'2023-07-26 16:36:45',1)-->2023-07-26 16:37:52
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4403,centro_id=1,clie_id=5471,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE NO PRESENTA ANTECEDENTES PATOLOGICOS RELEVANTES INGRESA A ESTA CASA DE SALUD PARA PROCEDIMIENTO QUIRÚRGICO PROGRAMADO POR MÉDICO TRATANTE POSTERIOR A VALORACIÓN SE EVIDENCIA DESVIO DE TABIQUE NASAL  MÁS HIPERTROFIA DE CORNETES, QUE SE ACOMPAÑA DE DIFICULTADRESPIRATORIA, RONQUIDOS NOCTURNOS DE UNA AÑO DE EVOLUCIÓN.
+PACIENTE AL MOMENTO CUMPLIENDO CON HORAS DE AYUNO PROGRAMADA.',anam_planes='INGRESO A HOPITALIZACION HAB 302
+NADA POR VIA ORAL 
+CONTROL DE SIGNOS VITALES
+CHEQUEO PREANESTESICO 
+FIRMAR CONSENTIMIENTO INFORMADO 
+CANALIZAR VIA PERIFERICA
+SUBIR AL QUIROFANO AL LLAMADO 
+ORDENES DRA ROMERO DANIELA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='DESVIO DE TABIQUE + HIPERTROFIA DE CORNETES',anam_partos='0',anam_fecharegistro='2023-07-26 06:52:57',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='547101100388420036220230726065257165',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='OTORRINOLARINGOLOGIA',anam_tratante='DRA ROMERO',anam_hijosvivos='0',anam_ayudante='DRA SUAREZ',anam_fum='2023-07-31',anam_anestesiologo='DR SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-26',anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1849 -->2023-07-26 18:50:55
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-26 11:34:19',atenc_id=4403,centro_id=1,clie_id=5471,protoop_exposicion='1.SEPARADOR DOBLE DE BOLAS
+2.ESPECULOS NASALES',protoop_exploracion='1.DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+2.CORNETES INFERIORES HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4-INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL DERECHA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA
+14-COLOCACIÓN DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOSEPTOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='LCDA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IIBARILA MONCAYO',protoop_idenlace='1849',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA + TURBINOSEPTOPLASTIA',protoop_ayudanteuno='DRA. SAMANTHA SUAREZ',protoop_anestesiologo='DR. EDUARDO MONCAYO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='547101110459371832120230726113419274',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-26',protoop_horainicio='09:10',protoop_horafin='11:00' where protoop_id=1327 -->2023-07-26 18:50:59
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-26 11:34:19',atenc_id=4403,centro_id=1,clie_id=5471,protoop_exposicion='1.SEPARADOR DOBLE DE BOLAS
+2.ESPECULOS NASALES',protoop_exploracion='1.DESVIO SEPTAL IZQUIERDO AREA II-III DE COTTLE
+2.CORNETES INFERIORES HIPERTROFICOS',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACIÓN DE LIDOCAÍNA + EPINEFRINA AL 2% 7 ML EN LA SUBMUCOSA DE TABIQUE
+4-INCISION HEMISTRANSFICCIANTE SEPTOCAUDAL DERECHA
+5- DECOLAMIENTO SUBMUCOPERICONDRICO Y SUBMUCOPERIOSTICO
+6- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+7- SEPARACIÓN CONDROVOMERIANA
+8- CORTE Y EXTRACCIÓN DE SEGMENTO SEPTAL DESVIADO
+9- MEDIALIZACION DE TABIQUE
+10- HEMOSTASIA
+11- LUXO-FRACTURA ANATÓMICA DE CORNETES INFERIORES 
+12-CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+13-COLOCACIÓN DE PLACAS DE FERULIZACION INTERNA
+14-COLOCACIÓN DE BIGOTERA',protoop_proyectada='SEPTOPLASTIA + TURBINOSEPTOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1.INCISION HEMITRANSFICCIANTE SEPTOCAUDAL IZQUIERDA',protoop_selectiva='1',protoop_instrumentista='LCDA. ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IIBARILA MONCAYO',protoop_idenlace='1849',protoop_paleativa='',protoop_realizada='SEPTOPLASTIA + TURBINOSEPTOPLASTIA',protoop_ayudanteuno='DRA. SAMANTHA SUAREZ',protoop_anestesiologo='DR. EDUARDO MONCAYO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='547101110459371832120230726113419274',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-26',protoop_horainicio='09:10',protoop_horafin='11:00' where protoop_id=1327 -->2023-07-26 18:50:59
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4410,centro_id=1,clie_id=5474,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 17 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATÓLICA, ESTUDIANTE BACHILLERATO, DIESTRA,  TIPO DE SANGRE ORH+
+PACIENTE ADULTA JOVEN CON DIFICULTAD RESPIRATORIA CON PREDOMINIO DE FOSA NASAL IZQUIERDA + RINORREA + CONGESTIÓN NASAL,   POR LO QUE  ACUDE A MEDICO TRATANTE QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS, E INDICA QUE AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A OTORORRINONARINGOLOGIA  HAB 305
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERÍA
+    6. CANALIZAR VÍA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. VALORACIÓN PRE ANESTÉSICA
+    9. PASE A QUIRÓFANO AL LLAMADO
+    10. ÓRDENES DE DRA. ROMERO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15',anam_motivoconsulta='DIFICULTAD RESPIRATORIA',anam_partos='0',anam_fecharegistro='2023-07-26 10:01:43',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREEGULRES',anam_enlace='547401172320022426720230726100143436',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum='2023-07-01',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-07-26',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1853 -->2023-07-26 18:51:21
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-26 15:06:30',atenc_id=4410,centro_id=1,clie_id=5474,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA III-V DE COTTLE CRESTA BASAL HACIA LA IZQUIERDA
+CORNETES INFERIORES HIPERTROFICOS
+GIBA DORSAL ALTA 
+RINOMEGALIA
+PUNTA BULBOSA MAL DEFINIDA, PTOSICA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS INTERNAS LATERALES BAJAS BILATERAL  
+8-ABORDAJE DE SEPTO
+9- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10- SEPARACIÓN CONDROVOMERIANA
+11- CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- EXCERESIS DE CRESTA MAXILAR 
+13- MEDIALIZACION DE TABIQUE
+14- HEMOSTASIA
+15- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+16- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+17-DEFINICION Y CREACIÓN DE NEODOMOS
+18-PREPARACIÓN DE SEG BILATERAL
+19- COLOCACION DE Y FIJACION DE SEG 
+20-COLOCACION DE SHEEN 
+21-SINTESIS
+22-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+23-COLOCACION DE FÉRULA DURA
+24-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1853',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='547401110459371832120230726030630121',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-26',protoop_horainicio='12:35',protoop_horafin='14:35' where protoop_id=1339 -->2023-07-26 18:51:25
+250-->update dns_protocolooperatorio set usua_id=321,protoop_fecharegistro='2023-07-26 15:06:30',atenc_id=4410,centro_id=1,clie_id=5474,protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_exploracion='DESVIO SEPTAL IZQUIERDO AREA III-V DE COTTLE CRESTA BASAL HACIA LA IZQUIERDA
+CORNETES INFERIORES HIPERTROFICOS
+GIBA DORSAL ALTA 
+RINOMEGALIA
+PUNTA BULBOSA MAL DEFINIDA, PTOSICA',protoop_examen='',protoop_procedimiento='1-BAJO ANESTESIA GENERAL SE REALIZA ASEPSIA 
+2- COLOCACIÓN DE CAMPOS ESTÉRILES
+3-INFILTRACION DE LIDOCAÍNA + EPINEFRINA AL 2% 10 ML
+4-INCISION COLUMELAR EN V INVERTIDA MAS MARGINALES
+5- DISECCIÓN MUCOPERIOSTICA, SUBPERICONDRICA Y ABORDAJE DE PUNTA NASAL Y DORSO 
+6-RESECCION DE GIBA ÓSEA CON RASPA 
+7-OSTEOTOMÍAS INTERNAS LATERALES BAJAS BILATERAL  
+8-ABORDAJE DE SEPTO
+9- CREACIÓN DE TÚNELES SUPERIORES E INFERIORES
+10- SEPARACIÓN CONDROVOMERIANA
+11- CORTE Y EXTRACCION DE SEGMENTO SEPTAL DESVIADO 
+12- EXCERESIS DE CRESTA MAXILAR 
+13- MEDIALIZACION DE TABIQUE
+14- HEMOSTASIA
+15- LUXOFRACTURA ANATÓMICA DE CORNETES INFERIORES 
+16- CAUTERIZACIÓN SUBMUCOSA DE CORNETES INFERIORES
+17-DEFINICION Y CREACIÓN DE NEODOMOS
+18-PREPARACIÓN DE SEG BILATERAL
+19- COLOCACION DE Y FIJACION DE SEG 
+20-COLOCACION DE SHEEN 
+21-SINTESIS
+22-COLOCACIÓN DE PLACAS Y FIJACIÓN DE LAS MISMAS
+23-COLOCACION DE FÉRULA DURA
+24-COLOCACION DE BIGOTERA',protoop_proyectada='RINOSEPTOPLASTIA',protoop_sintesis='VICRYL 5/0',protoop_cirujanouno='DRA DANIELA ROMERO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1 INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1853',protoop_paleativa='',protoop_realizada='RINOSEPTOPLASTIA',protoop_ayudanteuno='DRA SAMANTHA SUAREZ',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='547401110459371832120230726030630121',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-07-26',protoop_horainicio='12:35',protoop_horafin='14:35' where protoop_id=1339 -->2023-07-26 18:51:25

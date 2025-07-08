@@ -1,0 +1,4 @@
+[02-Oct-2015 18:10:55 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/userpato/public_html/gogess_php/gogess/templateforms/detalle_capitulos/lista_articulos.php on line 24
+[02-Oct-2015 18:15:36 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/userpato/public_html/gogess_php/gogess/templateforms/detalle_capitulos/lista_articulos.php on line 24
+[02-Oct-2015 18:22:46 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/userpato/public_html/gogess_php/gogess/templateforms/detalle_capitulos/lista_articulos.php on line 24
+[02-Oct-2015 18:32:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/userpato/public_html/gogess_php/gogess/templateforms/detalle_capitulos/lista_articulos.php on line 24

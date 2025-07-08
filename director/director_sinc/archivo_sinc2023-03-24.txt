@@ -1,0 +1,11 @@
+update gogess_sisfield set fie_orden='13' where fie_id='10504';
+update gogess_sisfield set fie_orden='14' where fie_id='10505';
+update gogess_sisfield set fie_orden='15' where fie_id='10506';
+update gogess_sisfield set fie_orden='16' where fie_id='10507';
+update gogess_sisfield set fie_orden='17' where fie_id='10510';
+update gogess_sisfield set fie_orden='18' where fie_id='10511';
+update gogess_sisfield set fie_orden='11' where fie_id='10538';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10536';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='10538';
+update gogess_sisfield set fie_title='Tipo Pago:' where fie_id='10538';
+update gogess_sisfield set fie_title='Tipo Transacci&oacute;n:' where fie_id='10503';

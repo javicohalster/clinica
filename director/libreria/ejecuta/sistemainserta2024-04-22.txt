@@ -1,0 +1,2 @@
+insert into gogess_validaciones (fie_id,prgv_id,valid_extradata,valid_mensaje_error,valid_parametro) values (11851,1,'','Campo Obligatorio','true')
+insert into gogess_validaciones (fie_id,prgv_id,valid_extradata,valid_mensaje_error,valid_parametro) values (11854,1,'','Campo Obligatorio','true')

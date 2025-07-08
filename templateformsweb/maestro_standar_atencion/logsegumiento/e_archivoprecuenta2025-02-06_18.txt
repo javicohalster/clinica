@@ -1,0 +1,1 @@
+423-->update dns_precuenta set precu_observacion='EMERGENCIA',precu_fechainicio='2025-02-06',precu_fechafinal='',precu_activo='1',convepr_id='20',categesp_id='1',especipr_id='25',clie_id='10661' where precu_id='14098'-->2025-02-06 10:44:16

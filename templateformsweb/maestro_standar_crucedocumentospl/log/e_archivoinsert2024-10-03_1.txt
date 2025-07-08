@@ -1,0 +1,2 @@
+502-->insert into pichinchahumana_extension.lpin_cruceanticipos (cruant_persona,cruant_anticipo,cruant_fechaemision,cruant_valor,cruant_saldo,cruant_valorpago,crudoc_enlace,cruant_fecharegistro,usua_id) values ('315','161','2023-07-06','610.72','0','610.72','0164A6C3139A1D927820230706083515330','2024-10-03 14:11:16','502')-->2024-10-03 14:11:16
+502-->delete from pichinchahumana_extension.lpin_cruceanticipos where crudoc_enlace='0164A6D7874EE9B27820230706100231285' and cruant_id=97-->2024-10-03 15:25:45

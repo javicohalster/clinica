@@ -1,0 +1,1 @@
+update rose_variabledeveloper set vardev_applydistinct=0,vardev_order='',vardev_union='',vardev_group='',vardev_restrictions='compra_fecha>=\'-datestart-\' and compra_fecha<=\'-dateend-\'',sisu_id=1,rept_activo=1,vardev_nombre='Lista Compras con Asientos',vardev_aleatunico='647761f00609f20230531030416383',rept_publicado='1',mnupan_id=174 where vardev_id=16 

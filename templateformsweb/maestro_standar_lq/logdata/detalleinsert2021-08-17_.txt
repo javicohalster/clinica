@@ -1,0 +1,2 @@
+-->delete from beko_lqdetalle where docdet_codprincipal='2.13.0015' and  doccab_id='01171146788412021071302210325'-->2021-08-17 18:15:31
+-->insert into beko_lqdetalle (doccab_id,docdet_codprincipal,docdet_descripcion,docdet_cantidad,docdet_preciou,impu_codigo,tari_codigo,docdet_porcentaje,docdet_valorimpuesto,docdet_total,usua_id,usuaat_id,docdet_detallea,prof_id) values ('01171146788412021071302210325','2.13.0015','APLICACION DE INYECCION','2','1','2','0','0','0','2','1','1','. DIGITADOR (DATOS INICIALES)','76')-->2021-08-17 18:15:31

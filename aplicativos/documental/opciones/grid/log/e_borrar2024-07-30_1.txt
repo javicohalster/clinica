@@ -1,0 +1,12 @@
+319-->select * from lpin_cobropago where crb_id='347'-->2024-07-30 00:18:42
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='383')-->2024-07-30 00:18:44
+319-->delete from lpin_comprobantecontable where crpadet_id='383'-->2024-07-30 00:18:44
+319-->delete  from lpin_cobropagodetalle where crb_enlace='2023-06-17197648E0CBED6535'-->2024-07-30 00:18:44
+319-->delete from lpin_cobropago where crb_id=347-->2024-07-30 00:18:44
+319-->select * from lpin_cobropago where crb_id='346'-->2024-07-30 00:21:41
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='381')-->2024-07-30 00:21:44
+319-->delete from lpin_comprobantecontable where crpadet_id='381'-->2024-07-30 00:21:44
+319-->delete from lpin_detallecomprobantecontable where comcont_enlace in (select comcont_enlace from lpin_comprobantecontable where crpadet_id='382')-->2024-07-30 00:21:46
+319-->delete from lpin_comprobantecontable where crpadet_id='382'-->2024-07-30 00:21:46
+319-->delete  from lpin_cobropagodetalle where crb_enlace='2023-06-17197648E0BD77EE41'-->2024-07-30 00:21:46
+319-->delete from lpin_cobropago where crb_id=346-->2024-07-30 00:21:46

@@ -1,0 +1,830 @@
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=40,centro_id=1,clie_id=59,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE PROTESIS DE CADERA IZQUIERDA POR FRACTURA TRAS CAIDA DESDE SU PROPIA ALTURA, ACUDE POR PRESENTAR DOLOR MODERADO EN CADERA IZQUIERDA CON LIMITACION FUNCIONAL DE MIEMBRO INFERIOR IZQUIERDO',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO DE FAMILIARES
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='8',anam_fecharegistro='2021-09-19 19:38:46',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5901172173839917820210919073846288',anam_cirugia='LIMPIEZA QUIRURGICA',anam_cesareas='0',anam_gesta='8',anam_especialidad='Traumatología',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=42 -->2021-10-02 06:40:39
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (40,178,1,59,'PACIENTE FEMENINA DE 86 AÑOS
+IDG: INFECCIÓN DE SITIO QUIRÚRGICO POR E. COLI BLEE + PSEUDOMONA AEUROGINOSA / HTA / HIPOTIROIDISMO / ALZHEIMER
+DIAS DE HOSPITALIZACIÓN: 13','',42,'2021-10-02',1,'2021-10-02 06:40:43','06:40','590117217383991782021100206404379')-->2021-10-02 06:41:48
+178-->update dns_hospitalconsultaexterna set atenc_id=40,usua_id=178,centro_id=1,clie_id=59,conext_notasdeevolucion='PACIENTE FEMENINA DE 86 AÑOS
+IDG: INFECCIÓN DE SITIO QUIRÚRGICO POR E. COLI BLEE + PSEUDOMONA AEUROGINOSA / HTA / HIPOTIROIDISMO / ALZHEIMER
+DIAS DE HOSPITALIZACIÓN: 13',conext_prescripciones='1.	DIETA GENERAL
+2.	PCR, VES, BIOMETRIA, GLUCOSA, UREA, CREATININA HOY
+3.	INDICACIONES DE MEDICINA INTERNA
+4.	PENDIENTE RESULTADO DE CULTIVO
+5.	MEDIDAS ANTIESCARAS 
+6.	CUIDADOS DE ENFERMERÍA
+7.	NOVEDADES',anam_id=42,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 06:40:43',conext_horar='06:40',conext_enlace='590117217383991782021100206404379' where conext_id=102 -->2021-10-02 06:42:09
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=40,centro_id=1,clie_id=59,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE PROTESIS DE CADERA IZQUIERDA POR FRACTURA TRAS CAIDA DESDE SU PROPIA ALTURA, ACUDE POR PRESENTAR DOLOR MODERADO EN CADERA IZQUIERDA CON LIMITACION FUNCIONAL DE MIEMBRO INFERIOR IZQUIERDO',anam_planes='1. INGRESO A HOSPITALIZACION
+2. CONSENTIMIENTO INFORMADO DE FAMILIARES
+3. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='8',anam_fecharegistro='2021-09-19 19:38:46',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='5901172173839917820210919073846288',anam_cirugia='LIMPIEZA QUIRURGICA',anam_cesareas='0',anam_gesta='8',anam_especialidad='Traumatología',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-09-19',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=42 -->2021-10-02 06:42:16
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=107,centro_id=1,clie_id=150,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 15 AÑOS ACUDE CON REPRESENTANTE LEGAL PARA PROCEDIMIENTO DE CIRUGIA PLASTICA DE COLGAJO FARINGEO POR ANTECEDENTE DE PROBLEMA DEL HABLA PARA MEJORAR LA CUALIDAD DEL MISMO. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-01 21:31:39',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='15001172173839917820211001093139416',anam_cirugia='COLGAJO FARINGEO',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. PESANTEZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-16',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-01',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=59 -->2021-10-02 06:49:17
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (107,178,1,150,'PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO POR COLGAJO FARINGEO. AL MOMENTO REFIERE DOLOR LEVE DE INTENSIDAD 2/10 EN LECHO QUIRURGICO','',59,'2021-10-02',1,'2021-10-02 06:49:19','06:49','15001172173839917820211002064919354')-->2021-10-02 06:50:22
+178-->update dns_hospitalconsultaexterna set atenc_id=107,usua_id=178,centro_id=1,clie_id=150,conext_notasdeevolucion='PACIENTE CURSANDO PRIMER DIA POSTQUIRURGICO POR COLGAJO FARINGEO. AL MOMENTO REFIERE DOLOR LEVE DE INTENSIDAD 2/10 EN LECHO QUIRURGICO',conext_prescripciones='1. DIETA BLANDA
+2. ALTA + INDICACIONESPOR ORDEN DE C. PLASTICA',anam_id=59,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 06:49:19',conext_horar='06:49',conext_enlace='15001172173839917820211002064919354' where conext_id=103 -->2021-10-02 06:50:55
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=106,centro_id=1,clie_id=151,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 43 AÑOS DE EDAD, SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA GENERAL DE MANGA GASTRICA LAPAROSCÓPICA COMO TRATAMIENTO PARA OBESIDAD. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION - CIRUGIA GENERAL
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-01 15:58:11',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='15101172173839917820211001035811384',anam_cirugia='MANGA GÁSTRICA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-15',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-01',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=58 -->2021-10-02 06:51:09
+178-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (106,178,1,151,'PACIENTE DE 43 AÑOS EN ESPERA DE PROCEDIMIENTO DE MANGA GASTRICA. AL MOMENTO NO PRESENTA NINGUNA SINTOMATOLOGIA','',58,'2021-10-02',1,'2021-10-02 06:51:12','06:51','1510117217383991782021100206511228')-->2021-10-02 06:51:44
+178-->update dns_hospitalconsultaexterna set atenc_id=106,usua_id=178,centro_id=1,clie_id=151,conext_notasdeevolucion='PACIENTE DE 43 AÑOS EN ESPERA DE PROCEDIMIENTO DE MANGA GASTRICA. AL MOMENTO NO PRESENTA NINGUNA SINTOMATOLOGIA',conext_prescripciones='1. 200 ML DE LIQUIDO HIPERCALORICO, LUEGO NPO
+2. LACTATO RINGER 1000 ML IV PASAR A 80 ML/ HORA
+3. NOVEDADES',anam_id=58,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 06:51:12',conext_horar='06:51',conext_enlace='1510117217383991782021100206511228' where conext_id=104 -->2021-10-02 06:52:30
+178-->update dns_hospitalconsultaexterna set atenc_id=106,usua_id=178,centro_id=1,clie_id=151,conext_notasdeevolucion='PACIENTE DE 43 AÑOS EN ESPERA DE PROCEDIMIENTO DE MANGA GASTRICA. AL MOMENTO NO PRESENTA NINGUNA SINTOMATOLOGIA',conext_prescripciones='1. 200 ML DE LIQUIDO HIPERCALORICO, LUEGO NPO
+2. LACTATO RINGER 1000 ML IV PASAR A 80 ML/ HORA
+3. NOVEDADES',anam_id=58,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 06:51:12',conext_horar='06:51',conext_enlace='1510117217383991782021100206511228' where conext_id=104 -->2021-10-02 06:52:36
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'DISECTOMIA ENDOSCOPICA','',1,'REGISTRADO',1,'TRAUMATOLOGIA','DR. RENATO GUERRA',1,'DR. RUIZ','SAN FERNANDO DE GUAMANI OE4E CASA 839 Y S55H','1712699881','DR. BARRIONUEVO','TOTOY PACALLA','22',3,'SEGUNDO EDISON','1701',2,'',6,'','POLICIA','1977-05-13',56,'0999609928',7,'0979566602','M',4,'edytotoy1977@hotmail.com','',4,'177','2021-10-02 07:12:19','','0117270565071772021100207121920343',NULL,'1','','4','')-->2021-10-02 07:16:58
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'LIPOSUCCION','',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'DRA. DIANA VILLACRES','PASAJE DOMINGO COMIN N3167 Y SAN GABRIEL','1724871007','DRA. ALEXANDRA NOBOA','ALDAS SILVA','17',3,'DAVID ROBERT','1701',1,'',6,'2432662','MEDICO VETERINARIO','1996-06-29',56,'0998323950',7,'0958844993','M',4,'davidald10@gmail.com','',4,'177','2021-10-02 07:32:37','','0117270565071772021100207323739264',NULL,'1','','4','')-->2021-10-02 07:39:37
+182-->update dns_traumatologiaanamesis set clie_id=145,anam_planes='EXAMENES PREQUIRURGICOS
+CIRUGIA',anam_referencia='',atenc_id=102,centro_id=1,usua_id=182,anam_observacionaf='',estaatenc_id=4,anam_centrorefiere='',anam_emferpactual='MADRE DE PACIENTE REFIERE QUE NIÑA PRESENTA MARCHA DISBASICA DESDE HACE 18 MESES, POR LO QUE ACUDE DONDE FACULTATIVO QUIEN SOLICITA RX Y DIAGNOSTICA DE DECOLAMIENTO EPIFISARIO DE CADERA DERECHA POR LO QUE ES TRANSFERIDA A ESTA CASA DE SALUD PARA TRATAMIENTO QUIRURGICO.',anam_profesionarefiere='',anam_vidasexualactiva='',anam_vidasexualactivaobs='',anam_motivoconsulta='DOLOR DE CADEERA DERECHA',anam_menarquiaedad='',anam_respiratorio='0',anam_fecharegistro='2021-09-30 16:29:02',anam_observacionrespiratorio='',anam_partos='',anam_atpreventiva=0,anam_observacionap='SUFRIMIENTO FETAL CON NEUMONIA NEONATAL MAEJADO EN UCI',anam_menopausiaedad='',anam_abortos='',anam_nhoja='',anam_enlace='14501100258084118220210930042902311',anam_ciclos='',anam_cesareas='',anam_gesta='',anam_hijosvivos='',anam_fum=NULL,anam_fup=NULL,anam_fuc=NULL,anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=62 -->2021-10-02 09:14:08
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_diagnosticorecepcion,clie_titularseguro,clie_cirugia,clie_token,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_anestesiologo,clie_apellido,prob_codigo,tippo_id,clie_nombre,cant_codigo,civil_id,clie_parroquia,conve_id,clie_telefono,clie_ocupacion,clie_fechanacimiento,nac_id,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,orien_id,clie_email,clie_emergenciacelu,idgen_id,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_instruccion,clie_seguroprivadoarchivo) values ('','','',0,'LIPOSUCCION','',1,'REGISTRADO',1,'CIRUGIA PLASTICA','DR CRISTIAN CACERES',1,'DRA. DIANA VILLACRES','OE2L S27-101 Y MORORO SECTOR TURUBAMBA BAJO','1724001951','DR. BARRIONUEVO','NIETO SOLIS','17',3,'SHARON DESIREE','1701',1,'',6,'2733630','ING COMERCIAL','1995-07-09',56,'0984068267',7,'0984247643','F',4,'sharondns.95@gmail.com','',4,'177','2021-10-02 10:06:28','','0117270565071772021100210062811661',NULL,'1','','4','')-->2021-10-02 10:10:24
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=106,centro_id=1,clie_id=151,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 43 AÑOS DE EDAD, SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA GENERAL DE MANGA GASTRICA LAPAROSCÓPICA COMO TRATAMIENTO PARA OBESIDAD. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION - CIRUGIA GENERAL
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-01 15:58:11',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='15101172173839917820211001035811384',anam_cirugia='MANGA GÁSTRICA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-15',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-01',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=58 -->2021-10-02 16:34:49
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (106,189,1,151,'NOTA DE RECUPERACION
+PACIENTE POSTQUIRURGICA INMEDIATA DE MANGA GASTRICA BAJO ANESTESIA GENERAL SIN COMPLICACIONES. 
+SE RECIBE PACIENTE SOMNOLIENTA, LEVEMENTE ALGICA QUE REFIERE NAUSEA QUE NO LLEGA AL VOMITO. SE MANTENDRÁ EN OBSERVACION','',58,'2021-10-02',1,'2021-10-02 16:35:08','16:35','1510117230016551892021100204350825')-->2021-10-02 16:36:42
+189-->update dns_hospitalconsultaexterna set atenc_id=106,usua_id=189,centro_id=1,clie_id=151,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE POSTQUIRURGICA INMEDIATA DE MANGA GASTRICA BAJO ANESTESIA GENERAL SIN COMPLICACIONES. 
+SE RECIBE PACIENTE SOMNOLIENTA, LEVEMENTE ALGICA QUE REFIERE NAUSEA QUE NO LLEGA AL VOMITO. SE MANTENDRÁ EN OBSERVACION',conext_prescripciones='1. MONITORIZACION CONTINUA
+2. PASE A PISO EN 2 HORAS
+3. INDICACIONES MEDICO TRATANTE
+4. NOVEDADES',anam_id=58,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 16:35:08',conext_horar='16:35',conext_enlace='1510117230016551892021100204350825' where conext_id=105 -->2021-10-02 16:37:20
+189-->update dns_hospitalconsultaexterna set atenc_id=106,usua_id=189,centro_id=1,clie_id=151,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE POSTQUIRURGICA INMEDIATA DE MANGA GASTRICA LAPAROSCOPICA BAJO ANESTESIA GENERAL SIN COMPLICACIONES. 
+SE RECIBE PACIENTE SOMNOLIENTA, LEVEMENTE ALGICA QUE REFIERE NAUSEA QUE NO LLEGA AL VOMITO. SE MANTENDRÁ EN OBSERVACION',conext_prescripciones='1. MONITORIZACION CONTINUA
+2. PASE A PISO EN 2 HORAS
+3. INDICACIONES MEDICO TRATANTE
+4. NOVEDADES',anam_id=58,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 16:35:08',conext_horar='16:35',conext_enlace='1510117230016551892021100204350825' where conext_id=105 -->2021-10-02 16:41:03
+189-->update dns_hospitalconsultaexterna set atenc_id=106,usua_id=189,centro_id=1,clie_id=151,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE POSTQUIRURGICA INMEDIATA DE MANGA GASTRICA LAPAROSCOPICA BAJO ANESTESIA GENERAL SIN COMPLICACIONES. 
+SE RECIBE PACIENTE SOMNOLIENTA, LEVEMENTE ALGICA QUE REFIERE NAUSEA QUE NO LLEGA AL VOMITO. SE MANTENDRÁ EN OBSERVACION',conext_prescripciones='1. MONITORIZACION CONTINUA
+2. PASE A PISO EN 2 HORAS
+3. INDICACIONES MEDICO TRATANTE
+4. NOVEDADES',anam_id=58,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 16:35:08',conext_horar='16:35',conext_enlace='1510117230016551892021100204350825' where conext_id=105 -->2021-10-02 16:43:48
+189-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=106,centro_id=1,clie_id=151,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 43 AÑOS DE EDAD, SIN ANTECEDENTES PERSONALES DE IMPORTANCIA, ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO POR CIRUGIA GENERAL DE MANGA GASTRICA LAPAROSCÓPICA COMO TRATAMIENTO PARA OBESIDAD. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A HOSPITALIZACION - CIRUGIA GENERAL
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='INTERVENCION QUIRURGICA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-01 15:58:11',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='15101172173839917820211001035811384',anam_cirugia='MANGA GÁSTRICA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-09-15',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-01',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=58 -->2021-10-02 16:43:55
+193-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,156,'1724001951-1','2',193,'2021-10-02 21:14:26','','','2021-10-02 21:14:26','Paciente ingresa para procedimiento quirúrgico liposucción a cargo del doctor Cáceres paciente acompañado de familiares esposo, no refiere patologías agudas o crónicas','2021-10-02 21:14:26','1724001951','VIVO',1,'','','01171285865119320211002091426244')-->2021-10-02 21:20:49
+193-->update dns_atencion set centro_id=1,clie_id=156,atenc_hc='1724001951-1',tiposerv_id='2',usua_id=193,atenc_fecharegistro='2021-10-02 21:14:26',esept_id='0',atenc_condiciondeingreso='',atenc_fechasalida='2021-10-02 21:14:26',atenc_observacion='Paciente ingresa para procedimiento quirúrgico liposucción a cargo del doctor Cáceres paciente acompañado de familiares esposo, no refiere patologías agudas o crónicas',atenc_fechaingreso='2021-10-02 21:14:26',clie_ci='1724001951',atenc_condiciondeegreso='VIVO',emp_id=1,atenc_referencia='',atenc_archivo='',atenc_enlace='01171285865119320211002091426244' where atenc_id=108 -->2021-10-02 21:21:03
+193-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,155,'1724871007-1','2',193,'2021-10-02 21:24:12','','','2021-10-02 21:24:12','paciente ingresa para procedimiento quirúrgico, liposucción a cargo de Dr., Cáceres al momento sin patologias','2021-10-02 21:24:12','1724871007','VIVO',1,'','','01171285865119320211002092412230')-->2021-10-02 21:27:00
+193-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,154,'1712699881-1','2',193,'2021-10-02 21:27:14','','','2021-10-02 21:27:14','paciente ingresa a casa de salud para procedimiento quirúrgico Disectomía columna dorso lumbar a cargo del Dr. guerra y Dr. Ruiz','2021-10-02 21:27:14','1712699881','VIVO',1,'','','0117128586511932021100209271461')-->2021-10-02 21:31:43
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',110,1,154,'','','PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.','','','','',4,'','CIRUGIA PROGRAMADA + DOLOR LUMBAR','','2021-10-02 23:16:28','','','','','','15401172300165518920211002111628201','DISECTOMIA','','','TRAUMATOLOGIA','DR. EDGAR RUIZ','','DR. RENATO GUERRA',NULL,'DR. MARCO BARRIONUEVO',NULL,NULL,'2021-10-02',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-10-02 23:19:22
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=110,centro_id=1,clie_id=154,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A TRAUMATOLOGIA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA + DOLOR LUMBAR',anam_partos='',anam_fecharegistro='2021-10-02 23:16:28',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15401172300165518920211002111628201',anam_cirugia='DISECTOMIA',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. EDGAR RUIZ',anam_hijosvivos='',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=60 -->2021-10-02 23:19:38
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (110,189,1,154,'PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+. QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO','',60,'2021-10-02',4,'2021-10-02 23:19:43','07:30','15401172300165518920211002111943173')-->2021-10-02 23:20:21
+189-->update dns_hospitalconsultaexterna set atenc_id=110,usua_id=189,centro_id=1,clie_id=154,conext_notasdeevolucion='PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+. QUE INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='1.	INGRESO A TRAUMATOLOGIA
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	CANALIZAR VIA PERIFÉRICA
+7.	FIRMAR CONSENTIMIENTOS INFORMADOS
+8.	PASE A QUIRÓFANO AL LLAMADO
+9.	ÓRDENES DEL DR. GUERRA Y DR. RUIZ',anam_id=60,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:19:43',conext_horar='07:30',conext_enlace='15401172300165518920211002111943173' where conext_id=106 -->2021-10-02 23:21:05
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (110,189,1,154,'NOTA DE ALTA
+PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA, SE DECIDE ALTA PARA CONTROL POSTERIOR POR CONSULTA EXTERNA','',60,'2021-10-02',2,'2021-10-02 23:21:20','19:00','15401172300165518920211002112120379')-->2021-10-02 23:22:29
+189-->update dns_hospitalconsultaexterna set atenc_id=110,usua_id=189,centro_id=1,clie_id=154,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE HEMODINAMICAMENTE ESTABLE, CON BUEN MANEJO DEL DOLOR, TOLERANCIA ORAL, DIURESIS ESPONTANEA, SE DECIDE ALTA PARA CONTROL POSTERIOR POR CONSULTA EXTERNA',conext_prescripciones='ALTA + INDICACIONES
+1. REPOSO RELATIVO
+2. DIETA BLANDA
+3. TRAMADOL 50 MG VO BID
+4. ETORICOXIB 120 MG VO QD
+5. PREGABALINA 75 MG VO BID
+6. TIOCOLCHICOSIDO 8 MG VO QD
+7. CONTROL POR CONSULTA EXTERNA',anam_id=60,conext_fechar='2021-10-02',estaatenc_id=2,conext_fecharegistro='2021-10-02 23:21:20',conext_horar='19:00',conext_enlace='15401172300165518920211002112120379' where conext_id=107 -->2021-10-02 23:26:26
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',109,1,155,'','','PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.','','','','',4,'','CIRUGIA PROGRAMADA','','2021-10-02 23:27:16','','','','','','15501172300165518920211002112716140','LIPOESCULTURA','','','CIRUGIA PLASTICA','DR. CACERES','','',NULL,'DRA. NOBOA',NULL,NULL,'2021-10-02',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-10-02 23:29:49
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:29:57
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:30:10
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (109,189,1,155,'NOTA DE INGRESO
+PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO','',61,'2021-10-02',4,'2021-10-02 23:30:14','08:00','15501172300165518920211002113014155')-->2021-10-02 23:31:16
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE INGRESO
+PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:30:14',conext_horar='08:00',conext_enlace='15501172300165518920211002113014155' where conext_id=108 -->2021-10-02 23:31:23
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE INGRESO
+PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='1.	INGRESO A CIRUGIA PLASTICA
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	CANALIZAR VIA PERIFÉRICA
+7.	FIRMAR CONSENTIMIENTOS INFORMADOS
+8.	PASE A QUIRÓFANO AL LLAMADO
+9.	ÓRDENES DEL DR. CACERES',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:30:14',conext_horar='08:00',conext_enlace='15501172300165518920211002113014155' where conext_id=108 -->2021-10-02 23:31:41
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (109,189,1,155,'NOTA DE RECUPERACION
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 139/81      FC: 74 x’     FR: 20 x’     SAT: 94% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICO EVA 4/10 EN REGION DE EPIGASTRIO. SE COLOCA ANALGESIA POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.','',61,'2021-10-02',1,'2021-10-02 23:31:45','12:40','15501172300165518920211002113145122')-->2021-10-02 23:32:18
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 139/81      FC: 74 x’     FR: 20 x’     SAT: 94% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICO EVA 4/10 EN REGION DE EPIGASTRIO. SE COLOCA ANALGESIA POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.',conext_prescripciones='',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:31:45',conext_horar='12:40',conext_enlace='15501172300165518920211002113145122' where conext_id=109 -->2021-10-02 23:32:23
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 139/81      FC: 74 x’     FR: 20 x’     SAT: 94% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICO EVA 4/10 EN REGION DE EPIGASTRIO. SE COLOCA ANALGESIA POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.',conext_prescripciones='1.	MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+2.	INDICACIONES MEDICO TRATANTE
+3.	PASE A PISO EN 2 HORAS
+4.	NOVEDADES',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:31:45',conext_horar='12:40',conext_enlace='15501172300165518920211002113145122' where conext_id=109 -->2021-10-02 23:32:33
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (109,189,1,155,'NOTA DE ALTA
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.','',61,'2021-10-02',1,'2021-10-02 23:32:37','20:00','1550117230016551892021100211323759')-->2021-10-02 23:32:56
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:32:37',conext_horar='20:00',conext_enlace='1550117230016551892021100211323759' where conext_id=110 -->2021-10-02 23:33:01
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='1.	ALTA + INDICACIONES:
+-	PARACETAMOL 1 GR TID POR 5 DÍAS
+-	ETORICOXIB 120 MG QD POR 7 DÍAS
+-	DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+-	AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+-	PREGABALINA 75 MG QD PM POR 5 DÍAS
+-	OMEPRAZOL 20 MG VO QD EN AYUNAS
+-	AMBULATORIO TEMPRANO
+-	INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS.
+-	USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA.
+-	RETIRO DE PUNTOS DE 7- 10 DÍAS.
+-	DIETA BLANDA SIN CARBOHIDRATOS
+-	PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO.
+-	EN CASO DE EMERGENCIA LLAMAR AL DR. CACERES.',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:32:37',conext_horar='20:00',conext_enlace='1550117230016551892021100211323759' where conext_id=110 -->2021-10-02 23:33:34
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:33:53
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=110,centro_id=1,clie_id=154,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A TRAUMATOLOGIA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA + DOLOR LUMBAR',anam_partos='',anam_fecharegistro='2021-10-02 23:16:28',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15401172300165518920211002111628201',anam_cirugia='DISECTOMIA',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. EDGAR RUIZ',anam_hijosvivos='',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=60 -->2021-10-02 23:34:06
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,154,1,110,'','60','','','','','2021-10-02 23:34:08','','','','PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+.
+APP: HERNIA DISCAL DESDE HACE 1 AÑO
+ALERGIAS: NO REFIERE            TRANSFUSIONES: NIEGA
+AQX: RINOPALASTIA HACE 20 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: ASTRAZENECA 2DA DOSIS 16/06/2021
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DOLOR LUMBAR
+
+ENFERMEDAD ACTUAL: PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.','','15401172300165518920211002113408230','','PACIENTE INGRESA PARA PROCEDIMIENTO DE DISECTOMIA POR HERNIA DISCAL, MISMO QUE SE REALIZA BAJO ANESTESIA GENERL, SIN COMPLICACIONES.
+POSTERIORMENTE, SIN DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO, CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA','','','1. HIPERTROFIA DE LIGAMENTO AMARILLO
+2. HERNIA POSTEROCENTRAL L5 - S1
+3. ARTROSIS FACETARIA','','','INDICACION HOSPITALIZACION
+1. INGRESO A TRAUMATOLOGIA
+2. DISECTOMIA ABIERTA
+3. CUIDADOS DE ENFERMERIA
+4. INDICACIONES MEDICO TRATANTE
+
+INDICACIONES DE ALTA
+1. REPOSO RELATIVO
+2. DIETA BLANDA
+3. TRAMADOL 50 MG VO BID
+4. ETORICOXIB 120 MG VO QD
+5. PREGABALINA 75 MG VO BID
+6. TIOCOLCHICOSIDO 8 MG VO QD
+7. CONTROL POR CONSULTA EXTERNA')-->2021-10-02 23:34:57
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=154,centro_id=1,atenc_id=110,anam_altadefinitiva='',protoop_idenlace='60',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:34:08',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+.
+APP: HERNIA DISCAL DESDE HACE 1 AÑO
+ALERGIAS: NO REFIERE            TRANSFUSIONES: NIEGA
+AQX: RINOPALASTIA HACE 20 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: ASTRAZENECA 2DA DOSIS 16/06/2021
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DOLOR LUMBAR
+
+ENFERMEDAD ACTUAL: PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15401172300165518920211002113408230',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE DISECTOMIA POR HERNIA DISCAL, MISMO QUE SE REALIZA BAJO ANESTESIA GENERL, SIN COMPLICACIONES.
+POSTERIORMENTE, SIN DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO, CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. HIPERTROFIA DE LIGAMENTO AMARILLO
+2. HERNIA POSTEROCENTRAL L5 - S1
+3. ARTROSIS FACETARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A TRAUMATOLOGIA
+2. DISECTOMIA ABIERTA
+3. CUIDADOS DE ENFERMERIA
+4. INDICACIONES MEDICO TRATANTE
+
+INDICACIONES DE ALTA
+1. REPOSO RELATIVO
+2. DIETA BLANDA
+3. TRAMADOL 50 MG VO BID
+4. ETORICOXIB 120 MG VO QD
+5. PREGABALINA 75 MG VO BID
+6. TIOCOLCHICOSIDO 8 MG VO QD
+7. CONTROL POR CONSULTA EXTERNA' where anam_id=38 -->2021-10-02 23:35:10
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=154,centro_id=1,atenc_id=110,anam_altadefinitiva='1',protoop_idenlace='60',anam_condicionegreso='PACIENTE ESTABLE, CON EVOLUCION FAVORABLE HASTA EL MOMENTO, CON BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR CON BUEN PRONOSTICO EN CONDICIONES DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:34:08',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+.
+APP: HERNIA DISCAL DESDE HACE 1 AÑO
+ALERGIAS: NO REFIERE            TRANSFUSIONES: NIEGA
+AQX: RINOPALASTIA HACE 20 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: ASTRAZENECA 2DA DOSIS 16/06/2021
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DOLOR LUMBAR
+
+ENFERMEDAD ACTUAL: PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15401172300165518920211002113408230',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE DISECTOMIA POR HERNIA DISCAL, MISMO QUE SE REALIZA BAJO ANESTESIA GENERL, SIN COMPLICACIONES.
+POSTERIORMENTE, SIN DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO, CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. HIPERTROFIA DE LIGAMENTO AMARILLO
+2. HERNIA POSTEROCENTRAL L5 - S1
+3. ARTROSIS FACETARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A TRAUMATOLOGIA
+2. DISECTOMIA ABIERTA
+3. CUIDADOS DE ENFERMERIA
+4. INDICACIONES MEDICO TRATANTE
+
+INDICACIONES DE ALTA
+1. REPOSO RELATIVO
+2. DIETA BLANDA
+3. TRAMADOL 50 MG VO BID
+4. ETORICOXIB 120 MG VO QD
+5. PREGABALINA 75 MG VO BID
+6. TIOCOLCHICOSIDO 8 MG VO QD
+7. CONTROL POR CONSULTA EXTERNA' where anam_id=38 -->2021-10-02 23:35:59
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=154,centro_id=1,atenc_id=110,anam_altadefinitiva='1',protoop_idenlace='60',anam_condicionegreso='PACIENTE ESTABLE, CON EVOLUCION FAVORABLE HASTA EL MOMENTO, CON BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR CON BUEN PRONOSTICO EN CONDICIONES DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:34:08',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 44 AÑOS DE EDAD, NACIDO EN CHIMBORAZO Y RESIDENTE EN QUITO, CASADO, CATOLICO, INSTRUCCIÓN SECUNDARIA COMPLETA, OCUPACIÓN POLICIA, DIESTRO, TIPO DE SANGRE ORH+.
+APP: HERNIA DISCAL DESDE HACE 1 AÑO
+ALERGIAS: NO REFIERE            TRANSFUSIONES: NIEGA
+AQX: RINOPALASTIA HACE 20 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: ASTRAZENECA 2DA DOSIS 16/06/2021
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: DOLOR LUMBAR
+
+ENFERMEDAD ACTUAL: PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15401172300165518920211002113408230',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE DISECTOMIA POR HERNIA DISCAL, MISMO QUE SE REALIZA BAJO ANESTESIA GENERL, SIN COMPLICACIONES.
+POSTERIORMENTE, SIN DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO, CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. HIPERTROFIA DE LIGAMENTO AMARILLO
+2. HERNIA POSTEROCENTRAL L5 - S1
+3. ARTROSIS FACETARIA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A TRAUMATOLOGIA
+2. DISECTOMIA ABIERTA
+3. CUIDADOS DE ENFERMERIA
+4. INDICACIONES MEDICO TRATANTE
+
+INDICACIONES DE ALTA
+1. REPOSO RELATIVO
+2. DIETA BLANDA
+3. TRAMADOL 50 MG VO BID
+4. ETORICOXIB 120 MG VO QD
+5. PREGABALINA 75 MG VO BID
+6. TIOCOLCHICOSIDO 8 MG VO QD
+7. CONTROL POR CONSULTA EXTERNA' where anam_id=38 -->2021-10-02 23:36:06
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:36:27
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:36:31
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,155,1,109,'','61','','','','','2021-10-02 23:36:33','','','','PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+.
+APP: NO REFIERE
+ALERGIAS: DICLOXACILINA            TRANSFUSIONES: NIEGA
+AQX: ORQUIDOPEXIA HACE 13 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: NO REFIERE
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.','','15501172300165518920211002113633492','','PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS Y PECTORALES, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA','','','1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 200 ML EN CADA GLUTEO
+5. INJERTO GRASO DE 75 CC EN CADA PECTORAL','','','INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO')-->2021-10-02 23:37:49
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=155,centro_id=1,atenc_id=109,anam_altadefinitiva='',protoop_idenlace='61',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:36:33',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+.
+APP: NO REFIERE
+ALERGIAS: DICLOXACILINA            TRANSFUSIONES: NIEGA
+AQX: ORQUIDOPEXIA HACE 13 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: NO REFIERE
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15501172300165518920211002113633492',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS Y PECTORALES, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 200 ML EN CADA GLUTEO
+5. INJERTO GRASO DE 75 CC EN CADA PECTORAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=39 -->2021-10-02 23:37:55
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=155,centro_id=1,atenc_id=109,anam_altadefinitiva='',protoop_idenlace='61',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:36:33',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+.
+APP: NO REFIERE
+ALERGIAS: DICLOXACILINA            TRANSFUSIONES: NIEGA
+AQX: ORQUIDOPEXIA HACE 13 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: NO REFIERE
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15501172300165518920211002113633492',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS Y PECTORALES, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 200 ML EN CADA GLUTEO
+5. INJERTO GRASO DE 75 CC EN CADA PECTORAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=39 -->2021-10-02 23:38:03
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=155,centro_id=1,atenc_id=109,anam_altadefinitiva='',protoop_idenlace='61',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:36:33',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+.
+APP: NO REFIERE
+ALERGIAS: DICLOXACILINA            TRANSFUSIONES: NIEGA
+AQX: ORQUIDOPEXIA HACE 13 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: NO REFIERE
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15501172300165518920211002113633492',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS Y PECTORALES, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 200 ML EN CADA GLUTEO
+5. INJERTO GRASO DE 75 CC EN CADA PECTORAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=39 -->2021-10-02 23:38:11
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=155,centro_id=1,atenc_id=109,anam_altadefinitiva='1',protoop_idenlace='61',anam_condicionegreso='PACIENTE ESTABLE, CON EVOLUCION FAVORABLE HASTA EL MOMENTO, CON BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR CON BUEN PRONOSTICO EN CONDICIONES DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:36:33',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE MASCULINO 25 AÑOS DE EDAD, NACIDO Y RESIDENTE EN QUITO, SOLTERO, CATOLICO, INSTRUCCIÓN SUPERIOR COMPLETA, OCUPACIÓN VETERINARIO, DIESTRO, TIPO DE SANGRE ORH+.
+APP: NO REFIERE
+ALERGIAS: DICLOXACILINA            TRANSFUSIONES: NIEGA
+AQX: ORQUIDOPEXIA HACE 13 AÑOS BAJO ANESTESIA GENERAL SIN COMPLICACIONES
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL Y TABACO NIEGA.
+VACUNA COVID-19: NO REFIERE
+APF: NO REFIERE
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_nhoja='',anam_enlace='15501172300165518920211002113633492',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS Y PECTORALES, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 200 ML EN CADA GLUTEO
+5. INJERTO GRASO DE 75 CC EN CADA PECTORAL',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=39 -->2021-10-02 23:38:40
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:38:55
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:40:11
+189-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (189,'','LIBRE DEMANDA',108,1,156,'','','PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.','','','','',4,'13','CIRUGIA PROGRAMADA','0','2021-10-02 23:40:47','','','','0','0','15601172300165518920211002114047106','LIPOESCULTURA','0','0','CIRUGIA PLASTICA','DR. CACERES','0','',NULL,'DRA. NOBOA',NULL,NULL,'2021-10-02',1,'IMPLANTE DE 3 AÑOS, BRAZO IZQUIERDO',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2021-10-02 23:43:25
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=108,centro_id=1,clie_id=156,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_planes='',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-02 23:40:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='15601172300165518920211002114047106',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='IMPLANTE DE 3 AÑOS, BRAZO IZQUIERDO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=62 -->2021-10-02 23:43:32
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=108,centro_id=1,clie_id=156,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-02 23:40:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='15601172300165518920211002114047106',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='IMPLANTE DE 3 AÑOS, BRAZO IZQUIERDO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=62 -->2021-10-02 23:43:47
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (108,189,1,156,'NOTA DE INGRESO
+PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO','',62,'2021-10-02',4,'2021-10-02 23:43:53','10:30','1560117230016551892021100211435343')-->2021-10-02 23:44:33
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE INGRESO
+PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:43:53',conext_horar='10:30',conext_enlace='1560117230016551892021100211435343' where conext_id=111 -->2021-10-02 23:44:43
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE INGRESO
+PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='1.	INGRESO A CIRUGÍA PLÁSTICA
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	CANALIZAR VIA PERIFÉRICA
+7.	FIRMAR CONSENTIMIENTOS INFORMADOS
+8.	CHEQUEO PREANESTÉSICO
+9.	PASE A QUIRÓFANO AL LLAMADO
+10.	ÓRDENES DEL DR. CÁCERES',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:43:53',conext_horar='10:30',conext_enlace='1560117230016551892021100211435343' where conext_id=111 -->2021-10-02 23:44:57
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE INGRESO
+PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+. INGRESA PARA PROCEDIMIENTO QUIRURGICO',conext_prescripciones='1.	INGRESO A CIRUGÍA PLÁSTICA
+2.	AMBULATORIO
+3.	NPO
+4.	CONTROL DE SIGNOS VITALES CADA 8 HORAS
+5.	CUIDADOS DE ENFERMERIA
+6.	CANALIZAR VIA PERIFÉRICA
+7.	FIRMAR CONSENTIMIENTOS INFORMADOS
+8.	CHEQUEO PREANESTÉSICO
+9.	PASE A QUIRÓFANO AL LLAMADO
+10.	ÓRDENES DEL DR. CÁCERES',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=4,conext_fecharegistro='2021-10-02 23:43:53',conext_horar='10:30',conext_enlace='1560117230016551892021100211435343' where conext_id=111 -->2021-10-02 23:45:05
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (108,189,1,156,'NOTA DE RECUPERACION
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 128/82      FC: 99 x’     FR: 20 x’     SAT: 95% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICA EVA 6/10 A NIVEL DE ABDOMEN. SE COLOCA ANALGESIA DE RESCATE POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.','',62,'2021-10-02',1,'2021-10-02 23:45:12','17:00','15601172300165518920211002114512431')-->2021-10-02 23:45:40
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 128/82      FC: 99 x’     FR: 20 x’     SAT: 95% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICA EVA 6/10 A NIVEL DE ABDOMEN. SE COLOCA ANALGESIA DE RESCATE POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.',conext_prescripciones='',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:45:12',conext_horar='17:00',conext_enlace='15601172300165518920211002114512431' where conext_id=112 -->2021-10-02 23:45:49
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 128/82      FC: 99 x’     FR: 20 x’     SAT: 95% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICA EVA 6/10 A NIVEL DE ABDOMEN. SE COLOCA ANALGESIA DE RESCATE POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.',conext_prescripciones='1.	MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+2.	INDICACIONES MEDICO TRATANTE
+3.	PASE A PISO EN 2 HORAS
+4.	NOVEDADES',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:45:12',conext_horar='17:00',conext_enlace='15601172300165518920211002114512431' where conext_id=112 -->2021-10-02 23:46:01
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE RECUPERACION
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+TA: 128/82      FC: 99 x’     FR: 20 x’     SAT: 95% (FIO2: 28%)
+SE RECIBE PACIENTE CONSCIENTE, ALERTA, ALGICA EVA 6/10 A NIVEL DE ABDOMEN. SE COLOCA ANALGESIA DE RESCATE POR ORDENES DE LA DRA NOBOA. SE MANTENDRÁ EN OBSERVACIÓN.',conext_prescripciones='1.	MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+2.	INDICACIONES MEDICO TRATANTE
+3.	PASE A PISO EN 2 HORAS
+4.	NOVEDADES',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:45:12',conext_horar='17:00',conext_enlace='15601172300165518920211002114512431' where conext_id=112 -->2021-10-02 23:47:32
+189-->insert into dns_hospitalconsultaexterna (atenc_id,usua_id,centro_id,clie_id,conext_notasdeevolucion,conext_prescripciones,anam_id,conext_fechar,estaatenc_id,conext_fecharegistro,conext_horar,conext_enlace) values (108,189,1,156,'NOTA DE ALTA
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.','',62,'2021-10-02',2,'2021-10-02 23:47:50','19:00','15601172300165518920211002114750450')-->2021-10-02 23:48:24
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=2,conext_fecharegistro='2021-10-02 23:47:50',conext_horar='19:00',conext_enlace='15601172300165518920211002114750450' where conext_id=113 -->2021-10-02 23:48:35
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='1.	ALTA + INDICACIONES:
+-	PARACETAMOL 1 GR TID POR 5 DÍAS
+-	ETORICOXIB 120 MG QD POR 7 DÍAS
+-	DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+-	AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+-	PREGABALINA 75 MG QD PM POR 5 DÍAS
+-	OMEPRAZOL 20 MG VO QD EN AYUNAS
+-	AMBULATORIO TEMPRANO
+-	INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS.
+-	USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA.
+-	RETIRO DE PUNTOS DE 7- 10 DÍAS.
+-	DIETA BLANDA SIN CARBOHIDRATOS
+-	PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO.
+-	EN CASO DE EMERGENCIA LLAMAR AL DR. CACERES.',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=2,conext_fecharegistro='2021-10-02 23:47:50',conext_horar='19:00',conext_enlace='15601172300165518920211002114750450' where conext_id=113 -->2021-10-02 23:48:55
+189-->update dns_hospitalconsultaexterna set atenc_id=108,usua_id=189,centro_id=1,clie_id=156,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE FEMENINA 26 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='1.	ALTA + INDICACIONES:
+-	PARACETAMOL 1 GR TID POR 5 DÍAS
+-	ETORICOXIB 120 MG QD POR 7 DÍAS
+-	DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+-	AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+-	PREGABALINA 75 MG QD PM POR 5 DÍAS
+-	OMEPRAZOL 20 MG VO QD EN AYUNAS
+-	AMBULATORIO TEMPRANO
+-	INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS.
+-	USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA.
+-	RETIRO DE PUNTOS DE 7- 10 DÍAS.
+-	DIETA BLANDA SIN CARBOHIDRATOS
+-	PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO.
+-	EN CASO DE EMERGENCIA LLAMAR AL DR. CACERES.',anam_id=62,conext_fechar='2021-10-02',estaatenc_id=2,conext_fecharegistro='2021-10-02 23:47:50',conext_horar='19:00',conext_enlace='15601172300165518920211002114750450' where conext_id=113 -->2021-10-02 23:50:10
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:50:34
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='1.	ALTA + INDICACIONES:
+-	PARACETAMOL 1 GR TID POR 5 DÍAS
+-	ETORICOXIB 120 MG QD POR 7 DÍAS
+-	DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+-	AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+-	PREGABALINA 75 MG QD PM POR 5 DÍAS
+-	OMEPRAZOL 20 MG VO QD EN AYUNAS
+-	AMBULATORIO TEMPRANO
+-	INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS.
+-	USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA.
+-	RETIRO DE PUNTOS DE 7- 10 DÍAS.
+-	DIETA BLANDA SIN CARBOHIDRATOS
+-	PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO.
+-	EN CASO DE EMERGENCIA LLAMAR AL DR. CACERES.',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=1,conext_fecharegistro='2021-10-02 23:32:37',conext_horar='20:00',conext_enlace='1550117230016551892021100211323759' where conext_id=110 -->2021-10-02 23:50:41
+189-->update dns_hospitalconsultaexterna set atenc_id=109,usua_id=189,centro_id=1,clie_id=155,conext_notasdeevolucion='NOTA DE ALTA
+PACIENTE MASCULINO 25 AÑOS POSTQUIRURGICO INMEDIATO DE LIPOESCULTURA + INJERTO GRASO GLUTEO Y PECTORAL BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+PACIENTE CON BUENA TOLERANCIA ORAL, DIURESIS ESPONTANEA Y BUEN MANEJO DEL DOLOR. SE DECIDE ALTA HOSPITALARIA CON POSTERIOR CONTROL POR CONSULTA EXTERNA.',conext_prescripciones='1.	ALTA + INDICACIONES:
+-	PARACETAMOL 1 GR TID POR 5 DÍAS
+-	ETORICOXIB 120 MG QD POR 7 DÍAS
+-	DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+-	AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+-	PREGABALINA 75 MG QD PM POR 5 DÍAS
+-	OMEPRAZOL 20 MG VO QD EN AYUNAS
+-	AMBULATORIO TEMPRANO
+-	INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS.
+-	USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA.
+-	RETIRO DE PUNTOS DE 7- 10 DÍAS.
+-	DIETA BLANDA SIN CARBOHIDRATOS
+-	PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO.
+-	EN CASO DE EMERGENCIA LLAMAR AL DR. CACERES.',anam_id=61,conext_fechar='2021-10-02',estaatenc_id=2,conext_fecharegistro='2021-10-02 23:32:37',conext_horar='20:00',conext_enlace='1550117230016551892021100211323759' where conext_id=110 -->2021-10-02 23:50:44
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=109,centro_id=1,clie_id=155,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE DESDE 3 MESES REFIERE INCONFORMIDAD CON SU ASPECTO FISICO MOTIVO POR EL CUAL ACUDE A ESPECIALISTA QUIEN ENVIA EXAMENES COMPLEMENTARIOS Y HACE 1 MES Y MEDIO SE DECIDE PROGRAMAR RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2021-10-02 23:27:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15501172300165518920211002112716140',anam_cirugia='LIPOESCULTURA',anam_cesareas='',anam_gesta='',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=61 -->2021-10-02 23:50:48
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=110,centro_id=1,clie_id=154,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CON ANTECEDENTE DE DOLOR LUMBAR DESDE HACE 1 AÑOS Y 6 MESES POR LO CUAL LO DIAGNOSTICAN DE LUMBALGIA PARA LO CUAL RECIBIÓ REHABILITACION, PERO EL CUADRO NO CEDÍA, REALIZAN RESONANCIA MAGNETICA DONDE SE EVIDENCIA HERNIA DISCALES, ES VALORADO POR ESPECIALISTA Y HACE 10 DIAS SE DECIDE RESOLUCION QUIRURGICA.',anam_planes='1. INGRESO A TRAUMATOLOGIA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA + DOLOR LUMBAR',anam_partos='',anam_fecharegistro='2021-10-02 23:16:28',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='15401172300165518920211002111628201',anam_cirugia='DISECTOMIA',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. EDGAR RUIZ',anam_hijosvivos='',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=60 -->2021-10-02 23:51:03
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=108,centro_id=1,clie_id=156,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-02 23:40:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='15601172300165518920211002114047106',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='IMPLANTE DE 3 AÑOS, BRAZO IZQUIERDO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=62 -->2021-10-02 23:51:27
+189-->update dns_hospitalanamesis set usua_id=189,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=108,centro_id=1,clie_id=156,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2021-10-02 23:40:47',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='0',anam_enlace='15601172300165518920211002114047106',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CACERES',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-10-02',anam_metodopfamiliar=1,anam_metodopfamiliartex='IMPLANTE DE 3 AÑOS, BRAZO IZQUIERDO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=62 -->2021-10-02 23:51:33
+189-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',189,156,1,108,'','62','','','','','2021-10-02 23:51:36','','','','PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.','','15601172300165518920211002115136220','','PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA','','','1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO','','','INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO')-->2021-10-02 23:52:37
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=156,centro_id=1,atenc_id=108,anam_altadefinitiva='',protoop_idenlace='62',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:51:36',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_nhoja='',anam_enlace='15601172300165518920211002115136220',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=40 -->2021-10-02 23:52:45
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=156,centro_id=1,atenc_id=108,anam_altadefinitiva='',protoop_idenlace='62',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:51:36',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_nhoja='',anam_enlace='15601172300165518920211002115136220',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=40 -->2021-10-02 23:52:53
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=156,centro_id=1,atenc_id=108,anam_altadefinitiva='',protoop_idenlace='62',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:51:36',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_nhoja='',anam_enlace='15601172300165518920211002115136220',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=40 -->2021-10-02 23:52:58
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=156,centro_id=1,atenc_id=108,anam_altadefinitiva='1',protoop_idenlace='62',anam_condicionegreso='PACIENTE ESTABLE, CON EVOLUCION FAVORABLE HASTA EL MOMENTO, CON BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR CON BUEN PRONOSTICO EN CONDICIONES DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:51:36',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_nhoja='',anam_enlace='15601172300165518920211002115136220',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=40 -->2021-10-02 23:53:32
+189-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=189,clie_id=156,centro_id=1,atenc_id=108,anam_altadefinitiva='1',protoop_idenlace='62',anam_condicionegreso='PACIENTE ESTABLE, CON EVOLUCION FAVORABLE HASTA EL MOMENTO, CON BUENA TOLERANCIA ORAL Y BUEN MANEJO DEL DOLOR CON BUEN PRONOSTICO EN CONDICIONES DE ALTA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2021-10-02 23:51:36',anam_defuncionmenos48='',anam_diasestadia='1',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, NACIDA Y RESIDENTE EN QUITO, SOLTERA, CATOLICA, INSTRUCCIÓN SUPERIOR, OCUPACIÓN EMPLEADA PRIVADA, DIESTRA, ARH+.
+APP: NO REFIERE
+AGO: MENARQUIA: 13 AÑOS, CICLOS REGULARES 4x28, FUM: 21/09/2021, G: 0  A: 0  P: 0  C:  0  HV: 0, VSA: SI, PF: IMPLANTE DE 3 AÑOS BRAZO IZQUIERDO
+AQX: APENDICECTOMIA LAPAROSCOPICA HACE 1 AÑO BAJO ANESTESIA GENERAL SIN COMPLICACIONES.
+HÁBITOS: ALIMENTARIO 3 VCS/DIA, MICCIONAL 4 VCS/DIA, DEFECATORIO 1 VCS/DIA, ALCOHOL SOCIAL, TABACO SOCIAL
+VACUNA: SINOVAC 2DA DOSIS 28/08/2021
+APF: PAPÁ DIABETES MELLITUS TIPO 2, MAMÁ HIPERTENSION ARTERIAL
+
+MOTIVO DE CONSULTA: CIRUGIA PROGRAMADA
+
+ENFERMEDAD ACTUAL: PACIENTE FEMENINA DE 26 AÑOS, REFIERE INCONFORMIDAD CON ASPECTO DE SU ABDOMEN Y GLUTEOS, POR LO QUE HACE UN MES ACUDE CON MÉDICO ESPECIALISTA, QUEN VALORA, SOLICITA EXAMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA, MOTIVO POR EL QUE INGRESA.',anam_nhoja='',anam_enlace='15601172300165518920211002115136220',anam_discapacidadleve='',anam_resumenevolucion='PACIENTE INGRESA PARA PROCEDIMIENTO DE LIPOESCULTURA + INJERTO GRASO EN GLUTEOS, MISMO QUE SE REALIZA BAJO ANESTESIA GENERAL, SIN COMPLICACIONES.
+POSTERIORMENTE, PACIENTE CON BUEN DEL DOLOR, CON BUENA TOLERANCIA ORAL, SE DECIDE ALTA HOSPITALARIA MAS INDICACIONES Y CONTROL POR CONSULTA EXTERNA',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='1. LIPODISTROFIA ABDOMINAL
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 3000 ML
+4. INJERTO GRASO DE 480 ML EN CADA GLUTEO',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='INDICACION HOSPITALIZACION
+1. INGRESO A CIRUGIA PLASTICA
+2. LIPOESCULTURA + INJERTO GRASO
+3. CUIDADOS DE ENFERMERIA
+4. NPO POR 2 HORAS Y LUEGO PROBAR TOLERANCIA ORAL CON LIQUIDOS CLAROS Y LUEGO DIETA
+5. MONITORIZACION CONTINUA + VIGILANCIA DE SANGRADO
+6. LACTATO RINGER 1000 CC IV A 80 ML/H
+7. METAMIZOL 2 GR IV 15H00 DILUIDO LENTO
+8. TRAMADOL 75 MG IV 15H00 Y PRN
+9. PARACETAMOL 1 GR IV 17H00
+10. MEDIAS DE COMPRESION NEUMATICA HASTA DEAMBULACION
+
+INDICACIONES DE ALTA
+1. PARACETAMOL 1 GR TID POR 5 DÍAS
+2. ETORICOXIB 120 MG QD POR 7 DÍAS
+3. DICLOFENACO + TRAMADOL 1 TABLETA EN CASO DE DOLOR INTENSO
+4. AMOXICILINA + ACIDO CLAVULÁNICO 625 MG TID POR 7 DÍAS
+5. PREGABALINA 75 MG QD PM POR 5 DÍAS
+6. OMEPRAZOL 20 MG VO QD EN AYUNAS
+7. AMBULATORIO TEMPRANO
+8. INICIAR MASAJES POSTQUIRÚRGICOS EN 24 HORAS
+9. USAR FAJA POSTQUIRÚRGICA 24 HORAS AL DÍA
+10. RETIRO DE PUNTOS DE 7- 10 DÍAS
+11. DIETA BLANDA SIN CARBOHIDRATOS
+12. PROTEÍNA WHEY GOLD TOMAR 1 COPA EN EL DESAYUNO' where anam_id=40 -->2021-10-02 23:54:09

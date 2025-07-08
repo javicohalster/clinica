@@ -1,0 +1,6 @@
+[25-Jun-2018 17:14:12 UTC] PHP Notice:  Undefined index: emp_idx in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/select.php on line 55
+[25-Jun-2018 17:14:24 UTC] PHP Notice:  Undefined index: emp_idx in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/select.php on line 55
+[25-Jun-2018 17:14:24 UTC] PHP Notice:  Undefined index:  in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/select.php on line 55
+[31-Oct-2018 23:22:30 UTC] PHP Notice:  Undefined variable: len in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/textarea.php on line 40
+[31-Oct-2018 23:22:30 UTC] PHP Notice:  Undefined index:  in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/select.php on line 55
+[31-Oct-2018 23:22:30 UTC] PHP Notice:  Undefined index:  in /home/ussliec/public_html/faesa/director/templateforms/maestro_standar_report/campos/select.php on line 55

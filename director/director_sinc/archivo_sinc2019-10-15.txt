@@ -1,0 +1,7 @@
+update gogess_sisfield set fie_type='hidden3' where fie_id='5563';
+update gogess_sisfield set fie_typeweb='hidden3' where fie_id='5563';
+update gogess_sisfield set fie_group='4' where fie_id='5563';
+update gogess_sisfield set fie_groupprint='0' where fie_id='5563';
+update gogess_sisfield set fie_orden='3' where fie_id='5563';
+update gogess_sisfield set fie_groupprint='0' where fie_id='6300';
+update gogess_sisfield set fie_groupprint='0' where fie_id='5561';

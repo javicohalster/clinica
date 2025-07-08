@@ -1,0 +1,2 @@
+376-->update dns_enfermeria set atenc_id=5744,centro_id=14,clie_id=6492,usua_id=376,protoop_tblprincipal='',enferm_fecharegistro='2024-02-09 22:48:04',protoop_idenlace='',enferm_enlace='649201040192935137620240209104804219',enferm_archivo='' where enferm_id=372 -->2024-02-10 00:00:41
+376-->update dns_enfermeria set atenc_id=5744,centro_id=14,clie_id=6492,usua_id=376,protoop_tblprincipal='',enferm_fecharegistro='2024-02-09 22:48:04',protoop_idenlace='',enferm_enlace='649201040192935137620240209104804219',enferm_archivo='' where enferm_id=372 -->2024-02-10 00:00:44

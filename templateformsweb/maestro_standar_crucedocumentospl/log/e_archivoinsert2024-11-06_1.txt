@@ -1,0 +1,1 @@
+502-->insert into pichinchahumana_extension.lpin_cruceanticipos (cruant_persona,cruant_anticipo,cruant_fechaemision,cruant_valor,cruant_saldo,cruant_valorpago,crudoc_enlace,cruant_fecharegistro,usua_id) values ('359','230','2023-07-20','284.27','0','284.27','01672BE5FCECE4950220241106045612131','2024-11-06 16:56:31','502')-->2024-11-06 16:56:31

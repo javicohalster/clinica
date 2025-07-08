@@ -1,0 +1,14 @@
+update gogess_sisfield set fie_title='11. DIAGNOSTICOS' where fie_id='9968';
+update gogess_sisfield set fie_title='7. EXAMEN FISICO Y DIAGNOSTICO' where fie_id='10142';
+update gogess_sisfield set fie_title='7. EXAMEN FISICO Y DIAGNOSTICO' where fie_id='10142';
+update gogess_sisfield set fie_title='9. EMERGENCIA OBSTETRICA' where fie_id='10169';
+update gogess_sisfield set fie_group='26' where fie_id='10272';
+update gogess_sisfield set fie_group='26' where fie_id='10272';
+update gogess_sisfield set fie_group='28' where fie_id='9968';
+update gogess_sisfield set fie_groupprint='28' where fie_id='9968';
+update gogess_sisfield set fie_group='14' where fie_id='9968';
+update gogess_sisfield set fie_groupprint='14' where fie_id='9968';
+update gogess_sisfield set fie_group='13' where fie_id='9968';
+update gogess_sisfield set fie_groupprint='13' where fie_id='9968';
+update gogess_sisfield set fie_title='Fractura Cerrada:' where fie_id='10156';
+update gogess_sisfield set fie_title='Fractura Cerrada:' where fie_id='10156';

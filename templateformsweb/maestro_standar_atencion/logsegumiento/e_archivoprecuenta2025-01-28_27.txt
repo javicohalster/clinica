@@ -1,0 +1,1 @@
+456-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('EMERGENCIA','2025-01-28','','1','6','1','25','10609','01025014168645620250128064701323','2025-01-28 06:47:47','456')-->2025-01-28 06:47:47

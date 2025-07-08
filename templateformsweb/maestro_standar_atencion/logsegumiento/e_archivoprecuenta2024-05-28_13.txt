@@ -1,0 +1,1 @@
+269-->update dns_precuenta set precu_observacion='EMERGENCIA ',precu_fechainicio='2024-05-27',precu_fechafinal='',precu_activo='1',convepr_id='6',categesp_id='1',especipr_id='25',clie_id='8537' where precu_id='9164'-->2024-05-28 05:00:29

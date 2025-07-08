@@ -1,0 +1,9 @@
+update gogess_sisfield set fie_groupprint='5' where fie_id='5105';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='5105';
+update gogess_sisfield set fie_ordengrid='0' where fie_id='5105';
+update gogess_sisfield set fie_groupprint='0' where fie_id='4928';
+update gogess_sisfield set fie_ordengrid='0' where fie_id='4928';
+update gogess_sisfield set fie_groupprint='0' where fie_id='5588';
+update gogess_sisfield set fie_groupprint='0' where fie_id='4928';
+update gogess_sisfield set fie_groupprint='5' where fie_id='5105';
+update gogess_sisfield set fie_groupprint='5' where fie_id='5105';

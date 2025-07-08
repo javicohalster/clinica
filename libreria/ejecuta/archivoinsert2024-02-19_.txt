@@ -1,0 +1,3 @@
+-->update dns_newconsultaexternaanamesis set clie_id=7454,usua_id=196,centro_id=1,atenc_id=6431,anam_referencia='LIBRE DEMANDA',anam_emferpactual='LACTANTE MENOR DE 1 MES NACIDO POR PARTO CEFALOVAGINAL, TRADO POR SU MADRE A CONTROL MEDICO.',anam_planes='CONTROL MENSUAL 
+BILIRRUBINAS SERICAS 
+NOTIFICACION DE CONTROL',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='0',anam_motivoconsulta='CONTROL DE NIÑO SANO',anam_vidasexualactivaobs='',anam_respiratorio='1',anam_fecharegistro='2024-02-17 12:32:46',anam_observacionrespiratorio='',anam_atpreventiva=1,anam_nhoja='',anam_enlace='745401131202875419620240217123246324' where anam_id=881 -->2024-02-19 14:43:00

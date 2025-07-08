@@ -1,0 +1,4 @@
+190-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-2519067BDE35B3E6E1' and crpadet_id=3426-->2025-02-25 11:23:33
+502-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-2550267BDFF18B16B9' and crpadet_id=3447-->2025-02-25 13:05:36
+190-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-2519067BE26BCC2CB9' and crpadet_id=3454-->2025-02-25 15:30:20
+190-->delete from lpin_masivocobropagodetalle where crb_enlace='2025-02-2519067BE26BCC2CB9' and crpadet_id=3455-->2025-02-25 17:15:37

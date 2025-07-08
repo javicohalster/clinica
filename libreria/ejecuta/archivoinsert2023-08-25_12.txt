@@ -1,0 +1,119 @@
+250-->update app_usuario set centro_id='1',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_siglastitulo='DRA.',usua_ruc='',usua_ciruc='0602520546',usua_codigoiniciales='RV',pemision_id=1,usua_nombreruc='',usua_carnetconadis='',usua_codigo='0602520546',usua_nombre='ROMMY',usua_msp='0602520546',usua_direccionruc='',usua_tipodiscapacidad='',estabr_id=0,usua_paisruc=0,usua_apellido='VACA',usua_porcentajediscapacidad='',pemisionr_id=0,usua_enlace='01172307462919420221003034457405',usua_archivocenecyt='',nac_id=56,usua_puedehacernc=0,usua_provinciaruc='',usua_cantonruc='',usua_fechanacimiento='1971-07-06',estabnc_id=0,etn_id=6,pemisionnc_id=0,usua_telefonoruc='',usua_archivoauxiliares='',usua_piefirma='DRA.ROMMY VACA',usua_mailruc='',usua_celular='0992537926',usua_horascontrato='0',tipoh_id=1,civil_id=2,usua_fechaingrero='2022-10-03',usua_genero='FEMENINO',usua_fechasalida=NULL,usua_fecha_uingreso='2023-08-25 08:42:49',tipcont_id=2,usua_usuario='0602520546',especi_id=0,usua_hora_uingreso='08:42:49',subespeci_id=0,usua_fecha_cambioclv='2022-10-03 15:52:55',jobt_id=0,usua_email='romgeo1234@hotmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='0',usua_farmacia=0,usua_clvfirma='',usua_procesatomafisica=0,usua_puedeanularventa=0,usua_puedeanularcompra=0 where usua_id=274 -->2023-08-25 08:46:22
+250-->update app_usuario set centro_id='1',usua_tiporuc=0,emp_id=1,conve_id=0,estab_id=1,usua_siglastitulo='DR.',usua_ruc='',usua_ciruc='1104262983',usua_codigoiniciales='D.O',pemision_id=0,usua_nombreruc='',usua_carnetconadis='',usua_codigo='1104262983',usua_nombre='DAVID',usua_msp='1104262983',usua_direccionruc='',usua_tipodiscapacidad='',estabr_id=0,usua_paisruc=0,usua_apellido='ORTEGA',usua_porcentajediscapacidad='',pemisionr_id=0,usua_enlace='01172307462919420230803090318348',usua_archivocenecyt='',nac_id=56,usua_puedehacernc=0,usua_provinciaruc='',usua_cantonruc='',usua_fechanacimiento='1985-02-17',estabnc_id=0,etn_id=6,pemisionnc_id=0,usua_telefonoruc='',usua_archivoauxiliares='',usua_piefirma='DOTOR',usua_mailruc='',usua_celular='0998583007',usua_horascontrato='0',tipoh_id=1,civil_id=2,usua_fechaingrero='2023-08-03',usua_genero='MASCULINO',usua_fechasalida=NULL,usua_fecha_uingreso='2023-08-25 09:29:46',tipcont_id=2,usua_usuario='1104262983',especi_id=0,usua_hora_uingreso='09:29:46',subespeci_id=0,usua_fecha_cambioclv='2023-08-15 09:36:34',jobt_id=0,usua_email='davidortegamed@gmail.com',usua_code='',usua_archivo='',usua_estado=1,usua_nacionalidad='',usua_adm=0,usua_subadm=0,usua_admrecaudacion=0,usua_agenda='1',usua_farmacia=0,usua_clvfirma='',usua_procesatomafisica=0,usua_puedeanularventa=0,usua_puedeanularcompra=0 where usua_id=393 -->2023-08-25 09:30:47
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='REFERIDO',atenc_id=4698,centro_id=1,clie_id=5726,anam_centrorefiere='HUMANA',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE NO REFIERE ANTECEDENTES PATOLÓGICOS RELEVANTES ACUDE EL DIA DE HOY A ESTA CASA DE SALUD REFIRIENDO DOLOR EVA 8/10, EN REGION DE TOBILLO IZQUIERDO, POSTERIOR A CAIDA MIENTRAS SE ENCONTRABA JUGANDO FÚTBOL. HACE 1 SEMANA APARENTEMENTE, REFIERE PRESENTAR HINCHAZON DE TOBILLO QUE NO CEDE A ANALAGESIA.
+PACIENTE SE REALIZÓ RX DE TOBILO EN DONDE SE EVIDENCIÓ FRACTURA TIPO B2 DE TOBILLO IZQUIERDO, POR LO QUE PACIENTE AMERITA MANEJO QUIRÚRGICO, SE SOLICITA VALORACIÓN POR ESPECIALIDAD QUIEN DECIDE SU INGRESO PARA TRATAMIENTO QUIRÚRGICO.',anam_planes='1.- INGRESO A HOSPITALIZACIÓN TRAUMATOLOGÍA HAB 
+2.- NPO
+3.- CONTROL DE SIGNOS VITALES 
+4.- CUIDADOS DE ENFERMERÍA.
+5.- SOLUCION SALINA 0.9% 1000 ML IV PASAR 40 ML/H.
+6.- MEDIAS ANTIEMBÓLICAS.
+7.- CEFAZOLINA 2 GR IV 20 MINUTOS PREVIO A SUBIR A QUIRÓFANO. 
+8.- EXAMENES PREQUIRÚRGICOS: BH- GLUCOSA- CREATININA- TP – TTP.
+9.- SUBIR A QUIRÓFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='FRACTURA DE LA PIERNA, INCLUSIVE EL TOBILLO',anam_partos='',anam_fecharegistro='2023-08-23 10:10:13',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='572601100388420036220230823101013157',anam_cirugia='REDUCCIÓN MAS OSTEOSÍNTESIS MÁS PLASTIA LIGAMENTARIA',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGÍA',anam_tratante='DR EUGENIO PEÑAHERRERA',anam_hijosvivos='',anam_ayudante='DR. SILVA',anam_fum=NULL,anam_anestesiologo='DR. SANTANA EDUARDO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-23',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1953 -->2023-08-25 14:15:09
+250-->update dns_protocolooperatorio set usua_id=206,protoop_fecharegistro='2023-08-23 19:32:32',atenc_id=4698,centro_id=1,clie_id=5726,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='FRACTURA OBLICUA LARGA DE PERONÉ DISTAL
+LESIÓN SINDESMAL Y DE LCL
+DESPLAZAMIENTO DE FRACTURA',protoop_examen='',protoop_procedimiento='1. POSICION SUPINA						
+2. ASPESIA Y ANTISEPSIA 						
+3. COLOCACIÒN DE CAMPOS 						
+4. COLOCACIÓN DE MALLA DE EXANGUINACIÓN ESTÉRIL						
+5. DIÈRESIS 1   						
+6. IDENTIFICACION DE HALLAZGOS						
+7. REDUCCION DE FRACTURA INICIANDO EN MALEOLO MEDIAL 						
+8. REDUCCIÓN DE LUXACIÓN Y FIJACIÓN PROVISIONAL						
+9. REDUCCIÓN DE FRACTURA EN PERONÉ Y COLOCACIÓN DE TORNILLO INTERFRAGMENTARIO 22MM						
+10. COLOCACIÓN DE PLACA DE PERONÉ DISTAL BLOQUEADA DE 5 ORIFICIOS  Y FIJACIÓN CON  4 TORNILLOS DE BLOQUEO MAS UN CORTICAL						
+11. 	REDUCCIÓN DE SINDESMOSIS	Y PLASTIA SINDESMAL Y LIGAMENTARIA CON SISTEMA DE DOBLE BUTTOM.				
+				
+12. REVISIÓN DE REDUCCIÓN 				
+13. LAVADO PROFUSO Y REVISIÓN DE HEMOSTASIA						
+14. SÍNTESIS POR PLANOS',protoop_proyectada='OSTEOSINTESIS MAS PLASTIA LIGAMENTARIA Y SINDESMAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR EUGENIO PEÑAHERRERA',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='ABORDAJE LATERAL DE 10 CM DE LONGITUD',protoop_selectiva='',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='1953',protoop_paleativa='',protoop_realizada='OSTEOSINTESIS MAS PLASTIA LIGAMENTARIA Y SINDESMAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='572601171119488420620230823073232448',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-23',protoop_horainicio='18:00',protoop_horafin='19:00' where protoop_id=1494 -->2023-08-25 14:15:11
+250-->update dns_protocolooperatorio set usua_id=206,protoop_fecharegistro='2023-08-23 19:32:32',atenc_id=4698,centro_id=1,clie_id=5726,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='FRACTURA OBLICUA LARGA DE PERONÉ DISTAL
+LESIÓN SINDESMAL Y DE LCL
+DESPLAZAMIENTO DE FRACTURA',protoop_examen='',protoop_procedimiento='1. POSICION SUPINA						
+2. ASPESIA Y ANTISEPSIA 						
+3. COLOCACIÒN DE CAMPOS 						
+4. COLOCACIÓN DE MALLA DE EXANGUINACIÓN ESTÉRIL						
+5. DIÈRESIS 1   						
+6. IDENTIFICACION DE HALLAZGOS						
+7. REDUCCION DE FRACTURA INICIANDO EN MALEOLO MEDIAL 						
+8. REDUCCIÓN DE LUXACIÓN Y FIJACIÓN PROVISIONAL						
+9. REDUCCIÓN DE FRACTURA EN PERONÉ Y COLOCACIÓN DE TORNILLO INTERFRAGMENTARIO 22MM						
+10. COLOCACIÓN DE PLACA DE PERONÉ DISTAL BLOQUEADA DE 5 ORIFICIOS  Y FIJACIÓN CON  4 TORNILLOS DE BLOQUEO MAS UN CORTICAL						
+11. 	REDUCCIÓN DE SINDESMOSIS	Y PLASTIA SINDESMAL Y LIGAMENTARIA CON SISTEMA DE DOBLE BUTTOM.				
+				
+12. REVISIÓN DE REDUCCIÓN 				
+13. LAVADO PROFUSO Y REVISIÓN DE HEMOSTASIA						
+14. SÍNTESIS POR PLANOS',protoop_proyectada='OSTEOSINTESIS MAS PLASTIA LIGAMENTARIA Y SINDESMAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR EUGENIO PEÑAHERRERA',protoop_complicaciones='',protoop_diagnostico='',protoop_dieresis='ABORDAJE LATERAL DE 10 CM DE LONGITUD',protoop_selectiva='',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='1953',protoop_paleativa='',protoop_realizada='OSTEOSINTESIS MAS PLASTIA LIGAMENTARIA Y SINDESMAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='572601171119488420620230823073232448',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-23',protoop_horainicio='18:00',protoop_horafin='19:00' where protoop_id=1494 -->2023-08-25 14:15:11
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='0',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:04:45
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='0',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:05:35
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='0',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:05:42
+2-->update dns_compras set compra_subtotaliva='1',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0.12',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='1.12',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:05:48
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='0',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:06:21
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='02196VEXA20230825.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-08-25',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-08-2527864E8DF8063D8F',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='0',emp_id=1,compra_cuentacajachica='',proveevar_id=61,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='005-002-000002598',compra_autorizacion='1708202301099244337500120050020000025980002406316',centroor_id=0,compra_origenotros='',compra_fecha='2023-08-17',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='INSUMOS ESPECIALES PACIENTE',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-08-25 12:06:08',usua_id=278,compra_tipo=0,compra_enlace='2023-08-2527864E8DF8063D8F',compra_contabilizado=0,compra_claveacceso='1708202301099244337500120050020000025980002406316',compra_anulado=0,compra_parainv=0 where compra_id=3014 -->2023-08-25 16:06:29
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4718,centro_id=1,clie_id=5743,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO FACIAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1 INGRESO A CIRUGÍA PLÁSTICA / HAB 302 
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-25 13:35:16',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='574301172575763530420230825013516178',anam_cirugia='RINOPLASTIA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CHRISTIAN CACERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum=NULL,anam_anestesiologo='DR. SANTANA EDUARDO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-25',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1957 -->2023-08-25 19:10:50
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-25 17:45:18',atenc_id=4718,centro_id=1,clie_id=5743,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEOCARTILAGINOSA 
+LATERORRINEA IZQUIERDA 
+ALARES DEBILES 
+PUNTA BULBOSA E HIPROPROYECTADA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO LATERO LATERAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 5/0
+NYLON 6/0
+VICRYL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR PARACOLUMELAR 
+INCISION  MARGINAL',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1957',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='57430117200117312052023082505451852',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='0000-08-25',protoop_horainicio='15:04',protoop_horafin='17:35' where protoop_id=1499 -->2023-08-25 19:10:51
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-25 17:45:18',atenc_id=4718,centro_id=1,clie_id=5743,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='GIBA OSTEOCARTILAGINOSA 
+LATERORRINEA IZQUIERDA 
+ALARES DEBILES 
+PUNTA BULBOSA E HIPROPROYECTADA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO LATERO LATERAL 
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA ESTETICA',protoop_sintesis='NYLON 5/0
+NYLON 6/0
+VICRYL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISION COLUMELAR PARACOLUMELAR 
+INCISION  MARGINAL',protoop_selectiva='1',protoop_instrumentista='LIC JACKELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC IBRAILA MONCAYO',protoop_idenlace='1957',protoop_paleativa='',protoop_realizada='RINOPLASTIA ESTETICA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='57430117200117312052023082505451852',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='0000-08-25',protoop_horainicio='15:04',protoop_horafin='17:35' where protoop_id=1499 -->2023-08-25 19:10:51

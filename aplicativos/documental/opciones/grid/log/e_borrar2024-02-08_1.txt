@@ -1,0 +1,3 @@
+201-->select * from lpin_cobropago where crb_id='2358'-->2024-02-08 16:47:49
+201-->delete  from lpin_cobropagodetalle where crb_enlace='2024-02-0820165C54B3D007D0'-->2024-02-08 16:47:49
+201-->delete from lpin_cobropago where crb_id=2358-->2024-02-08 16:47:49

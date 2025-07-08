@@ -1,0 +1,282 @@
+177-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,clie_cirugia,grp_id,clie_registrado,emp_id,clie_especialidad,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,cant_codigo,clie_nombre,tippo_id,conve_id,civil_id,clie_parroquia,clie_telefono,clie_codigoisspol,clie_ocupacion,nac_id,clie_fechanacimiento,clie_emergenciatelf,tarterial_id,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_registro,clie_institucion,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'','','',12,'REGISTRADO',1,'','',1,'','GRACIELA  ESCUDERO SANTO TOMAS CONJUNTO EL JIRON','1719800847','GARCIA POZO','17','','1701','TANIA MARIBEL',3,6,3,'','','','AUXILIAR DE ENFERMERIA',56,'1988-08-01','0983773085',7,'0995141400','F',4,4,'briannarsg@hotmail.com','','177','2022-01-13 08:29:36','','0117270565071772022011308293642570',NULL,'1','','994','4','')-->2022-01-13 08:33:58
+177-->update app_cliente set clie_foto='',clie_archivosrespaldo='',clie_titularseguro=0,clie_diagnosticorecepcion='MASTOPLASTIA DE AUMENTO',clie_token='',clie_cirugia='MASTOPLASTIA DE AUMENTO',grp_id=12,clie_registrado='REGISTRADO',emp_id=1,clie_especialidad='CIRUGIA PLASTICA',clie_tratante='DR. ORLANDO SANTILLAN',tipoci_id=1,clie_ayudante='DR. SANTIAGO GUERRERO',clie_direccion='GRACIELA  ESCUDERO SANTO TOMAS CONJUNTO EL JIRON',clie_rucci='1719800847',clie_apellido='GARCIA POZO',prob_codigo='17',clie_anestesiologo='DR. MANOLO CALERO',cant_codigo='1701',clie_nombre='TANIA MARIBEL',tippo_id=3,conve_id=6,civil_id=3,clie_parroquia='',clie_telefono='',clie_codigoisspol='',clie_ocupacion='AUXILIAR DE ENFERMERIA',nac_id=56,clie_fechanacimiento='1988-08-01',clie_emergenciatelf='0983773085',tarterial_id=7,clie_celular='0995141400',clie_genero='F',idgen_id=4,orien_id=4,clie_email='briannarsg@hotmail.com',clie_emergenciacelu='',usua_id='177',clie_registro='2022-01-13 08:29:36',clie_institucion='',clie_enlace='0117270565071772022011308293642570',clie_fechaingreso=NULL,centro_id='1',clie_seguromsparchivo='',clie_hcpinos='994',clie_instruccion='4',clie_seguroprivadoarchivo='' where clie_id=466 -->2022-01-13 08:34:46
+178-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechasalida,atenc_observacion,atenc_fechaingreso,clie_ci,atenc_condiciondeegreso,emp_id,atenc_referencia,atenc_archivo,atenc_enlace) values (1,466,'1719800847-1','2',178,'2022-01-13 08:54:49','','','2022-01-13 08:54:49','CIRUGIA PROGRAMADA','2022-01-13 08:54:49','1719800847','VIVO',1,'','','01172173839917820220113085449438')-->2022-01-13 08:55:01
+178-->insert into dns_hospitalanamesis (usua_id,anam_listaverificacion,anam_referencia,atenc_id,centro_id,clie_id,anam_centrorefiere,anam_consentimientoinformado,anam_emferpactual,anam_planes,anam_observacionaf,anam_ambulancia,anam_profesionarefiere,estaatenc_id,anam_menarquiaedad,anam_motivoconsulta,anam_partos,anam_fecharegistro,anam_observacionap,anam_menopausiaedad,anam_nhoja,anam_abortos,anam_ciclos,anam_enlace,anam_cirugia,anam_cesareas,anam_gesta,anam_especialidad,anam_tratante,anam_hijosvivos,anam_ayudante,anam_fum,anam_anestesiologo,anam_fup,anam_fuc,anam_fechaingreso,anam_metodopfamiliar,anam_metodopfamiliartex,anam_terapiahormonal,anam_terapiahormonaltext,anam_biopsia,anam_biopsiatext,anam_colposcopia,anam_colposcopiatext,anam_mamografia,anam_mamografiatxt,anam_atprevprenatal,anam_atprevplanificacionf,anam_parto,anam_posparto,anam_cervicouterino,anam_mamario) values (178,'','LIBRE DEMANDA',329,1,466,'','','PACIENTE DE 33 AÑOS SIN ALERGIAS CONOCIDAS, ACUDE PARA PROCEDIMIENTO PROGRAMADO DE CIRUGIA PLASTICA DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. 
+AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA','','','','',4,'','CIRUGIA PROGRAMADA','0','2022-01-13 08:55:23','','','','0','','46601172173839917820220113085523265','AUMENTO MAMARIO','1','1','CIRUGIA PLASTICA','DR. SANTILLAN','','','2021-12-26','',NULL,NULL,'2022-01-13',0,'',0,'',0,'',0,'',0,'',0,0,0,0,0,0)-->2022-01-13 08:58:03
+178-->update dns_hospitalanamesis set usua_id=178,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=329,centro_id=1,clie_id=466,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE DE 33 AÑOS SIN ALERGIAS CONOCIDAS, ACUDE PARA PROCEDIMIENTO PROGRAMADO DE CIRUGIA PLASTICA DE AUMENTO MAMARIO POR DISCONFORT CORPORAL. 
+AL MOMENTO DEL INGRESO NO PRESENTA NINGUNA SINTOMATOLOGIA',anam_planes='1. INGRESO A CARGO DE CIRUGIA PLASTICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2022-01-13 08:55:23',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='',anam_enlace='46601172173839917820220113085523265',anam_cirugia='AUMENTO MAMARIO',anam_cesareas='1',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. SANTILLAN',anam_hijosvivos='',anam_ayudante='',anam_fum='2021-12-26',anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2022-01-13',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=230 -->2022-01-13 08:58:19
+200-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=120,centro_id=1,clie_id=170,anam_centrorefiere='ISSPOL',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 46 AÑOS NACIDO EN QUITO RESIDENTE EN SANGOLQUI, MESTIZO, CASADO, BACHILLER, SERVIDOR PUBLICO (POLICIA NACIONAL), DIESTRO CATOLICO, TIPO DE SANGRE ARH +. 
+APP: COVID 19 ABRIL 2020
+APQX: ARTROSCOPIA DE HOMBRO DERECHO OCT 2020
+ALERGAS: NO REFIERE 
+VACUNAS: SINOVAC 2 DOSIS 
+APF: MADRE MELANOMA METASTASICO (+) PADRE CA DE HUESO (+)
+MOTIVO DE CONSULTA: DOLOR INCAPACITANTE EN HOMBRO IZQUIERDO
+ENFERMEDAD ACTUAL: PACIENTE REFIERE QUE HACE 5 AÑOS ATRAS PRESENTA LUXACION DE HOMBRO BILATERAL MIENTRAS REALIZABA ARTES MARCIALES PARA LO QUE UTILIZO TRATAMIENTO EMPIRICO (SOBADOR), REFIERE DESDE ENTONCES SENSACION DE SALIDA DE HOMBRO UN SIN NUMERO DE VECES, EN AÑO 2020 DOLOR SE EXACERBA HASTA LLEGAR A SER INCAPACITANTE POR LO QUE ACUDE A MEDICO ESPECIALISTA QUIEN LUEGO DE SOLICITUD DE EXAMENES DIAGNSOTICA DE LUXACION DE HOMBRO DERECHO ES SOMETIDO A PROCEDIMIENTO QUIRURGICO EN OCTUBRE DE 2020, REVALORADO EN OCTUBRE 2021 CON PROGRAMACION DE INTERVENCION QUIRURGICA DE HOMBRO IZQUIERDO.',anam_planes='1 INGRESO A HOSPITALIZACION HABITACION 303
+2 CANALIZAR VIA PERIFERICA
+3 NADA POR VIA ORAL 
+4 CONSENTIMIENTO INFORMADO 
+5 PASAR A QUIROFANO AL LLAMADO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='DR. ROBERTO AGUIRRE',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='LUXACION DE HOMBRO IZQUIERDO CON LESION BONE BANKART + UNA LESION DE HILL SACHS',anam_partos='',anam_fecharegistro='2021-12-02 12:59:58',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='17001131202875419620211202125958193',anam_cirugia='ARTROSCOPIA DE HOMBRO + REPARACION DE LESION BANKART',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. RENATO GUERRA',anam_hijosvivos='',anam_ayudante='DR. FRANCISCO GUZMAN',anam_fum=NULL,anam_anestesiologo='DR. CALERO MANOLO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2021-12-02',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=175 -->2022-01-13 16:20:46
+200-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2021-12-02 15:58:52',atenc_id=120,centro_id=1,clie_id=170,protoop_exposicion='TORRE DE ARTROSCOPIA TODOS LOS TIEMPOS',protoop_exploracion='1. SINOVITIS EXTENSA
+2. DESPRENDIMIENTO DE LABRUM ANTERIOR 
+3. BANKART ANTERIOR 
+4. LESION DE KIM LABRUM POSTERIOR Y SLAP
+5. DENUDAMIENTO DE CARTILAGO EN CABEZA HUMERAL Y GLENA EN EL CUADRNATE POSTERIOR',protoop_examen='',protoop_procedimiento='1. PACIENTE EN SILLA DE PLAYA 
+2. ASEPSIA ANTISEPSIA
+3. CAMPOS OPERATORIOS
+4. INFILTRACION DE ARTICULACION CON MARCAINA 10CC GUIADA CON PERICAN 18
+5. PORTAL POSTERIOR, INTRODUCCION DE CAMARA Y ARTROSCOPIA DIAGNOSTICA
+6. SINOVECTOMIA AMPLIA CON SHAVER
+7. HEMOSTASIA CON RADIOFRECUENCIA Y RECONOCIMIENTO DE HALLAZGOS ANTES DESCRITOS 
+8. CUENTEADO EN LESION DE CABEZA FEMORAL ANTERIOR RASPAS.
+9. COLOCACION DE UNA ANCLA SIN NUDO DE TITANIO 4,5 CON UNA SUPERSUTURA PARA RELLENAR EL DEFCTO OASEO CON EL SUBESCAPULAR 
+10. DESPRENSIMIENTO DE LABRUM Y CRUENTEADO DE LECHO 
+11. COLOCACION DE TRES  ANCLAS 1.8 A LAS 5 ,3 Y 1 Y REINSERCION CON SUTURA DE LABRUM 
+12 . CRUENTEADO DE ZONAS DENUDADAS EN CABEZA HUMERAL Y GLENA + MICROFRACTURAS
+14, COLOCACION DE UNA ANCLA SIN NUDO 1.4 Y UNA ANCLA SIN NUDO 3,5 CON UNA SUPERSUTURA EN LABRUM POSTERIOR Y SLAP
+15. REVISION DE RESULTADOS 
+16. SINTESIS',protoop_proyectada='ARTROSCOPIA + PLASTIA BANKART',protoop_sintesis='PIEL NYLON 2.0',protoop_cirujanouno='DR. RENATO GUERRA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIOR Y POSTERIOR ARTROSCOPICOS DE HOMBRO IZQUIERDO',protoop_selectiva='1',protoop_instrumentista='SRA. MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. FRANCISCO GUZMAN',protoop_circulante='SRTA. JAQUELIN TORRES',protoop_idenlace='175',protoop_paleativa='',protoop_realizada='IDEM + KIM + REEPLISAGE INVERSO + MICROFRACTURAS',protoop_ayudanteuno='',protoop_anestesiologo='DR. MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='17001171442027818120211202035852153',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2021-12-02',protoop_horainicio='13:50',protoop_horafin='15:50' where protoop_id=118 -->2022-01-13 16:20:54
+200-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2021-12-02 15:58:52',atenc_id=120,centro_id=1,clie_id=170,protoop_exposicion='TORRE DE ARTROSCOPIA TODOS LOS TIEMPOS',protoop_exploracion='1. SINOVITIS EXTENSA
+2. DESPRENDIMIENTO DE LABRUM ANTERIOR 
+3. BANKART ANTERIOR 
+4. LESION DE KIM LABRUM POSTERIOR Y SLAP
+5. DENUDAMIENTO DE CARTILAGO EN CABEZA HUMERAL Y GLENA EN EL CUADRNATE POSTERIOR',protoop_examen='',protoop_procedimiento='1. PACIENTE EN SILLA DE PLAYA 
+2. ASEPSIA ANTISEPSIA
+3. CAMPOS OPERATORIOS
+4. INFILTRACION DE ARTICULACION CON MARCAINA 10CC GUIADA CON PERICAN 18
+5. PORTAL POSTERIOR, INTRODUCCION DE CAMARA Y ARTROSCOPIA DIAGNOSTICA
+6. SINOVECTOMIA AMPLIA CON SHAVER
+7. HEMOSTASIA CON RADIOFRECUENCIA Y RECONOCIMIENTO DE HALLAZGOS ANTES DESCRITOS 
+8. CUENTEADO EN LESION DE CABEZA FEMORAL ANTERIOR RASPAS.
+9. COLOCACION DE UNA ANCLA SIN NUDO DE TITANIO 4,5 CON UNA SUPERSUTURA PARA RELLENAR EL DEFCTO OASEO CON EL SUBESCAPULAR 
+10. DESPRENSIMIENTO DE LABRUM Y CRUENTEADO DE LECHO 
+11. COLOCACION DE TRES  ANCLAS 1.8 A LAS 5 ,3 Y 1 Y REINSERCION CON SUTURA DE LABRUM 
+12 . CRUENTEADO DE ZONAS DENUDADAS EN CABEZA HUMERAL Y GLENA + MICROFRACTURAS
+14, COLOCACION DE UNA ANCLA SIN NUDO 1.4 Y UNA ANCLA SIN NUDO 3,5 CON UNA SUPERSUTURA EN LABRUM POSTERIOR Y SLAP
+15. REVISION DE RESULTADOS 
+16. SINTESIS',protoop_proyectada='ARTROSCOPIA + PLASTIA BANKART',protoop_sintesis='PIEL NYLON 2.0',protoop_cirujanouno='DR. RENATO GUERRA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIOR Y POSTERIOR ARTROSCOPICOS DE HOMBRO IZQUIERDO',protoop_selectiva='1',protoop_instrumentista='SRA. MARIANITA ALBUJA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. FRANCISCO GUZMAN',protoop_circulante='SRTA. JAQUELIN TORRES',protoop_idenlace='175',protoop_paleativa='',protoop_realizada='IDEM + KIM + REEPLISAGE INVERSO + MICROFRACTURAS',protoop_ayudanteuno='',protoop_anestesiologo='DR. MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='17001171442027818120211202035852153',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2021-12-02',protoop_horainicio='13:50',protoop_horafin='15:50' where protoop_id=118 -->2022-01-13 16:20:54
+178-->insert into dns_epicrisisanamesis (protoop_tblprincipal,usua_id,clie_id,centro_id,atenc_id,anam_altadefinitiva,protoop_idenlace,anam_condicionegreso,anam_asintomatico,anam_discapacidadmoderada,anam_retiroautorizado,anam_fecharegistro,anam_defuncionmenos48,anam_diasestadia,anam_altatransitoria,anam_resumenclinico,anam_nhoja,anam_enlace,anam_discapacidadleve,anam_resumenevolucion,anam_discapacidadgrave,anam_retironoautorizado,anam_hallazgos,anam_defuncionmas48,anam_diasincapacidad,anam_resumentratamiento) values ('dns_hospitalanamesis',178,466,1,329,'','230','','','','','2022-01-13 17:11:09','','','','PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA','','46601172173839917820220113051109158','','"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"','','','HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA','','','"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"')-->2022-01-13 17:11:41
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:42
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:42
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:43
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:44
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:44
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:45
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:51
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:53
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:53
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:54
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:55
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:11:56
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='',protoop_idenlace='230',anam_condicionegreso='',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:12:04
+178-->update dns_epicrisisanamesis set protoop_tblprincipal='dns_hospitalanamesis',usua_id=178,clie_id=466,centro_id=1,atenc_id=329,anam_altadefinitiva='1',protoop_idenlace='230',anam_condicionegreso='PACIENTE EN CONDICION CLINICA ESTABLE. MANTIENE BUEN MANEJO DEL DOLOR. SE OTORGA ALTA CON CITA PARA CONTROL POR CONSULTA EXTERNA',anam_asintomatico='',anam_discapacidadmoderada='',anam_retiroautorizado='',anam_fecharegistro='2022-01-13 17:11:09',anam_defuncionmenos48='',anam_diasestadia='',anam_altatransitoria='',anam_resumenclinico='PACIENTE FEMENINA DE 33 AÑOS, NO REFIERE ALERGIAS, ANTECEDENTE PERSONAS  DE MIGRAÑA EN TRATAMIENTO CON PROPANOLOL 40MG QD. ANTECEDENTE QUIRURGICO DE CESAREA, APENDICECTOMIA. ANTECEDENTE FAMILIAR MADRE Y PADRE CON HTA. G:1 C: 1 A:0 P: 0 . FUM: 26/12/2021. ACUDE PARA PROCEDIMIENTO QUIRURGICO PROGRAMADO DE AUMENTO MAMARIO MÁS LIPOESCULTURA POR DISCONFORT CORPORAL. AL MOMENTO DEL INGRESO PACIENTE NO REFIERE NINGUNA SINTOMATOLOGIA',anam_nhoja='',anam_enlace='46601172173839917820220113051109158',anam_discapacidadleve='',anam_resumenevolucion='"13/01/22: PACIENTE INGRESA PARA PROCEDIMIENTO DE AUMENTO MAMARIO, MISMO QUE SE REALIZA SIN COMPLICACIONES
+13/01/22 17:00:  PACIENTE EN CONDICION CLINICA ESTABLE. NO REFIERE DOLOR SIGNIFICATIVO EN LECHO QUIRURGICO. SE OTORGA ALTA + INDICACIONES 
+"',anam_discapacidadgrave='',anam_retironoautorizado='',anam_hallazgos='HALLAZGOS QUIRURGICOS: 	
+1. HIPOPLASIA MAMARIA BILATERAL	
+2. PROTESIS MAMARIAS DE 255 CC CADA UNA',anam_defuncionmas48='',anam_diasincapacidad='',anam_resumentratamiento='"1. NPO POR 4 HORAS, LUEGO PROBAR TOLERANCIA ORAL
+2. METAMIZOL 2 GR I.V PRN SI HAY DOLOR
+3. NOVEDADES
+
+ALTA
+
+1. ALTA  POR MEDICO TRATANTE
+2. PARACETAMOL 1 GR V.O CADA 8 HORAS POR 5 DIAS
+3. ARCOXIA 120 MG CADA 12 HORAS POR 5 DIAS
+4.AMPICILINA SULBACTAM 750 MGMG VO CADA 8 HORAS POR 10 DIAS
+5. CONTROL POR C. EXTERNA		"' where anam_id=132 -->2022-01-13 17:14:40

@@ -1,0 +1,2 @@
+insert into gogess_validaciones (fie_id,prgv_id,valid_extradata,valid_mensaje_error,valid_parametro) values (4790,12,'','Campo Numerico','true')
+insert into gogess_validaciones (fie_id,prgv_id,valid_extradata,valid_mensaje_error,valid_parametro) values (4798,12,'','Campo Numerico','true')

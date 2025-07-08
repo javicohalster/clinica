@@ -1,0 +1,2 @@
+update gogess_sisfield set fie_title='LOCALIZACION EXAMEN FISICO' where fie_id='11395';
+update gogess_sisfield set fie_title='LOCALIZACION EXAMEN FISICO' where fie_id='11395';

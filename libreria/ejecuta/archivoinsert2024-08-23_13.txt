@@ -1,0 +1,1 @@
+269-->insert into dns_enfermeria (atenc_id,centro_id,clie_id,usua_id,protoop_tblprincipal,enferm_fecharegistro,protoop_idenlace,enferm_enlace,enferm_archivo) values (8205,13,9332,269,'','2024-08-23 07:18:34','','933201172263510726920240823071834470','')-->2024-08-23 07:26:55

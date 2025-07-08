@@ -1,0 +1,121 @@
+428-->update dns_newconsultaexternaanamesis set clie_id=7192,usua_id=428,centro_id=1,atenc_id=6195,anam_referencia='LIBRE DEMANDA',anam_emferpactual='se prescribe medicacion pa distension',anam_planes='se envia  levosulpiride',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='control, paciente refiere mareo , sensacion de reflujo',anam_vidasexualactivaobs='',anam_respiratorio='',anam_fecharegistro='2024-02-10 11:37:56',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='71920117179771914282024021011375660' where anam_id=847 -->2024-02-12 11:37:23
+445-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_lugarnacimiento,clie_fechanacimiento,clie_encadodeemergencia,clie_parentescocontacto,nac_id,tarterial_id,clie_emergenciatelf,clie_direccioncontacto,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_tipoempresa,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',1,'','',5,'','',1,'REGISTRADO','',1,'','CARLOS QUINTO Y PEDRO DE ALVARADO','1752617330','RODRIGUEZ MAIGUA','17','',8,'1701','MARLON JAVIER',7,'QUITO',1,'ISSPOL-04540-2024','','','GUAYAS GUAYAQUIL','2007-08-09','JAVIER RODRIGUEZ','N',56,6,'0995375672','N','0987171007','M',4,4,'rodriguezmarlon15007@gmail.com','','445','','2024-02-12 11:45:58','0117614227554452024021211455839950',NULL,'1','','7120','','N','','2','')-->2024-02-12 11:52:34
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6783,atenc_id='5921',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-16 12:34:42',protoop_selectiva='1',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-01-16',protoop_sintesis='',protoop_idenlace='474',protoop_general='',protoop_transquirurgico='NO',protoop_emergencia='',protoop_cirujanodos='DR. JAVIER TORRES',protoop_horainicio='11:00',protoop_sintesisimagen='47639KXFOA20240116.jpg',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='13:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='ARTROSCOPIA DIAGNOSTICA + PLASTIA DE LCA + CONDROPLASTIA',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM + SINOVECTOMIA AMPLIA',protoop_dieresis='PORTALES ANTERIORES DE RODILLA IZQUIERDA MEDIAL Y LATERAL 
+INCISION ANTEROMEDIAL DE PIERNA IZQUIERDA PROXIMAL DE 2 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JACKELINE TORRES',protoop_enlace='67830117144202781812024011612344234',protoop_circulante='DENNYS PILLIZA',protoop_exposicion='TORRE DE ARTROSCOPIA, KIT DE IRRIGACION CON BOMBA TODOS LOS TIEMPOS CON 10 (DIEZ) SOLUCION SALINA AL 0,9% DE 1000 ML TOTAL 10000 ML',protoop_anestesiologo='DRA. CARMEN NUÑEZ',protoop_exploracion='ROTURA TOTAL DE LCA + SINOVITIS AMPLIA CON BRIDAS GRANDES EN FONDO DE SACO ANTERIOR MEDIAL 
+LESION CONDRAL MEDIAL G1 CONDILO LATERAL 
+LESION MENISCAL LATERAL REGION BLANCA BLANCA',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DECUBITO SUPINO
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	INFILTRACION DE MARCAINA CON EPINEFRINA 10CC
+5.	PORTAL ANTERO LATERAL DE RODILLA IZQUIERDA
+6.	ARTROSCOPIA DIAGNOSTICA 
+7.	SINOVECTOMIA EXTENSA CON SHAVER Y RADIOFRECUENCIA 
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	LIMPIEZA DE RESTOS DE LCA + HEMOSTASIA CON RADIOFRECUENCIA
+10.	INCISION MEDIAL DE TIBIA PROXIMAL IZQUIERDA
+11.	COSECHA DE INJERTO DE ISQUIOTIBIALES
+12.	PREPARACION DE INJERTOS CON DOS SUTURAS DE ALTA RESISTENCIA FIBER LOOP
+13.	PLASTIA MENISCAL LATERAL CON RADIOFRECUENCIA LA ZONA BLANCA BLANCA 
+14.	FABRICACION DE TUNEL FEMORAL  DE 45MM DE 4.5 Y 30 DE 8MM Y TIBIAL 8MM EN EL FOOT PRINT CON GUIAS DE CASA COMERCIAL
+15.	PASO DE INJERTO DE FORMA RETROGRADA CON UN SISTEMAS DE ENDOBOTOM Y ANCLAJE DEL MISMO EN LA CORTICAL EXTERNA DE FEMUR
+16.	IZADO DE INJERTO Y RETENSADO DEL MISMO CON MANIOBRAS DE FLEXO EXTENSION 
+17.	COLOCACION DE TORNILLO DE INTERFERENCIA 9*25MM EN TIBIA 
+18.	EXCERESIS Y LIBERACION DE PLICAS DE FONDO DE SACO ANTERIOR CON SHAVER Y RADIOFRECUENCIA
+19.	REVICION Y CONTROL DE HEMOSTASIA CON RADIOFRECUENCIA
+20.	SINTESIS 
+
+CODIGOS
+29888 REPARACION DE LCA
+29870 ARTROSCOPIA DIAGNOSTICA
+29876 SINIVECTOMIA MAYOR
+29877 CONDROPLASTIA
+29882 PLASTIA MENISCAL',protoop_complicaciones='NO',protoop_perdida='60 ML',protoop_sangrado='60 ML',protoop_protesico='0',anam_enlace='' where protoop_id=732 -->2024-02-12 16:13:53
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6783,atenc_id='5921',usua_id=181,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-16 12:34:42',protoop_selectiva='1',protoop_cirujanouno='DR. RENATO GUERRA',protoop_fechaoperacion='2024-01-16',protoop_sintesis='',protoop_idenlace='474',protoop_general='',protoop_transquirurgico='NO',protoop_emergencia='',protoop_cirujanodos='DR. JAVIER TORRES',protoop_horainicio='11:00',protoop_sintesisimagen='47639KXFOA20240116.jpg',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='13:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='ARTROSCOPIA DIAGNOSTICA + PLASTIA DE LCA + CONDROPLASTIA',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='IDEM + SINOVECTOMIA AMPLIA',protoop_dieresis='PORTALES ANTERIORES DE RODILLA IZQUIERDA MEDIAL Y LATERAL 
+INCISION ANTEROMEDIAL DE PIERNA IZQUIERDA PROXIMAL DE 2 CM',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='JACKELINE TORRES',protoop_enlace='67830117144202781812024011612344234',protoop_circulante='DENNYS PILLIZA',protoop_exposicion='TORRE DE ARTROSCOPIA, KIT DE IRRIGACION CON BOMBA TODOS LOS TIEMPOS CON 10 (DIEZ) SOLUCION SALINA AL 0,9% DE 1000 ML TOTAL 10000 ML',protoop_anestesiologo='DRA. CARMEN NUÑEZ',protoop_exploracion='ROTURA TOTAL DE LCA + SINOVITIS AMPLIA CON BRIDAS GRANDES EN FONDO DE SACO ANTERIOR MEDIAL 
+LESION CONDRAL MEDIAL G1 CONDILO LATERAL 
+LESION MENISCAL LATERAL REGION BLANCA BLANCA',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='1.	PACIENTE EN DECUBITO SUPINO
+2.	ASEPSIA ANTISEPSIA
+3.	CAMPOS ESTERILES
+4.	INFILTRACION DE MARCAINA CON EPINEFRINA 10CC
+5.	PORTAL ANTERO LATERAL DE RODILLA IZQUIERDA
+6.	ARTROSCOPIA DIAGNOSTICA 
+7.	SINOVECTOMIA EXTENSA CON SHAVER Y RADIOFRECUENCIA 
+8.	RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+9.	LIMPIEZA DE RESTOS DE LCA + HEMOSTASIA CON RADIOFRECUENCIA
+10.	INCISION MEDIAL DE TIBIA PROXIMAL IZQUIERDA
+11.	COSECHA DE INJERTO DE ISQUIOTIBIALES
+12.	PREPARACION DE INJERTOS CON DOS SUTURAS DE ALTA RESISTENCIA FIBER LOOP
+13.	PLASTIA MENISCAL LATERAL CON RADIOFRECUENCIA LA ZONA BLANCA BLANCA 
+14.	FABRICACION DE TUNEL FEMORAL  DE 45MM DE 4.5 Y 30 DE 8MM Y TIBIAL 8MM EN EL FOOT PRINT CON GUIAS DE CASA COMERCIAL
+15.	PASO DE INJERTO DE FORMA RETROGRADA CON UN SISTEMAS DE ENDOBOTOM Y ANCLAJE DEL MISMO EN LA CORTICAL EXTERNA DE FEMUR
+16.	IZADO DE INJERTO Y RETENSADO DEL MISMO CON MANIOBRAS DE FLEXO EXTENSION 
+17.	COLOCACION DE TORNILLO DE INTERFERENCIA 9*25MM EN TIBIA 
+18.	EXCERESIS Y LIBERACION DE PLICAS DE FONDO DE SACO ANTERIOR CON SHAVER Y RADIOFRECUENCIA
+19. CONDROPLASTIA CON RADIOFRECUENCIA
+20.	REVISION Y CONTROL DE HEMOSTASIA CON RADIOFRECUENCIA
+20.	SINTESIS 
+
+CODIGOS
+29888 REPARACION DE LCA
+29870 ARTROSCOPIA DIAGNOSTICA
+29876 SINIVECTOMIA MAYOR
+29877 CONDROPLASTIA
+29882 PLASTIA MENISCAL',protoop_complicaciones='NO',protoop_perdida='60 ML',protoop_sangrado='60 ML',protoop_protesico='0',anam_enlace='' where protoop_id=732 -->2024-02-12 16:14:53
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6901,atenc_id='5917',usua_id=202,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-05 09:58:51',protoop_selectiva='1',protoop_cirujanouno='DRA XIMENA AVILA VEGA',protoop_fechaoperacion='2024-01-05',protoop_sintesis='',protoop_idenlace='435',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DRA KATHY XIMENA POZO MEJIA',protoop_horainicio='08:00',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='10:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='MIEMBRO INFERIOR IZQUIERDO: LIGADURA DE PERFORANTES . SAFENECTOMIA MAYOR TOTAL, LIGADURA DE CAYADO DE SAFENA MENOR, VARICOTOMIAS 
+MIEMBRO INFERIOR DERECHA: LIGADURA DE PERFORANTES, SAFENECTOMIA MAYOR INFRAGENICULAR, VARICOTOMIAS',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='MIEMBRO INFERIOR IZQUIERDO: LIGADURA DE PERFORANTES, 37760 . SAFENECTOMIA MAYOR TOTAL 37722, LIGADURA DE CAYADO DE SAFENA MENOR, 37718  VARICOTOMIAS 37766
+MIEMBRO INFERIOR DERECHA: LIGADURA DE PERFORANTES 37760 SAFENECTOMIA MAYOR INFRAGENICULAR,3772',protoop_dieresis='MIEMBRO INFERIOR IZQUIERDO
+1. INCISION DE 2 CM EN REGUION INGUINAL 
+2. INCISION DE 2 CM EN FOSA POPLITEA 
+3. MICROINCISIONES SOBRE PERFORANTES Y COLATERLAES 
+MIEMBRO INFERIOR DERECHO 
+1. INCISION DE 0.5 CM GENICULAR INTERNA
+2. INCISION 0..5 PREMALEOLAR INTERNA
+3. MICROINCISIONES SOBRE COLATERALES Y PERFORANTES.',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA HEYDI VASQUEZ',protoop_enlace='690101100159448820220240105095851333',protoop_circulante='MARIA BELEN SANCHEZ',protoop_exposicion='FABEUF',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_exploracion='MIEMBRO INFERIOR IZQUIERDO: INSUFICIENCIA  DE II PERFORANTE DE COKET . , INSUFICIENCIA TOTAL DE SAFENA MAYOR, INSUFICIENCIA DEL CAYADO DE SAFENA MENOR, ARCO ANTERIOR Y POSTERIOR DILATADOS INSUFCIENTES.
+MIEMBRO INFERIOR DERECHO 
+1, INSUFICIENCIA DE II PERFORANTE DE COKET Y PERFORANTE GEMELAR INTERNA. INSUFICIENCIA DE SAFENA MAYOR INFRAGENICULAR, ARCO POSTERIOR DILATADO INSUFICIENTE',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='BAJO NORMAS DE ASEPSIA ANTISEPSIA SE COLOCA CAMPOS OPERATORIOS 
+MIEMBRO INFERIOR IZQUIERDO
+1. INCISION DESCRITA, PROFUNDIZACION, DISECCION, CLAMPAJE , CORTE Y LIGADURA DEL CAYADO Y SUS RAMAS, CON VYCRIL 3/0
+2. INCION PREMALOLAR , PROFUNCIZACION , DISECCION  CLAMPAJE CORTE Y LIGADURA DISTAL DE SAFENA MAYOR CON VICRYL 3/0.
+3. PASO DEL FLEBO ESTRACTOR A TRAVES DE SAFENA Y EXCERESIS TOTAL DE ESTA. 
+4. INCISION SOBRE II PERFORANTE DE COKET. DISECCION DE ESTA, PORFUNDIZACION, CLMAPAJE CORTE Y LIGADURA SUBFACIAL DE ESTA Y SUS RAMAS 
+3. INCISION EN FOSA POPLITEA, DISECCION DEL CAYADO DE SAFENA MENOR, CLAMPAJE , CORTE Y LIGADURA PROXIMAL Y DISTAL CON VICRYL 3/0.
+5. INCISION SOBRE COLAERALES, Y EXERESIS DE ESTAS CON CROCHET Y MOSCOS . 
+MIEMBRO INFERIOR DERECHO.
+1. INCISION DESCRITA, PROFUNDIZACION, DISECCION DE SAFENA MAYOR GENICULAR INTERNA, CLAMPAJE , CORTE Y LIGADURA PROXIMAL 
+2. SEGUNDA INCISION, DISECCION DE SAFENA MAYOR PREMALEOLAR, CLMAPAJE CORTE Y LIGADURA DEL EXTERMO DISTAL
+3. PASO DEL FLEBOEXTRACTOR A TRAVEZ DE SAFENA Y EXCERESIS DE SAFENA INFRAGENICULAR.
+4. INCISION SOBRE PERFORANTES, II DE COKET, Y PERFORANTE GEMELAR INTERNA, DISCECION DE ESTAS, CLAMPAJE , CORTE Y LIGADURA SUBFACIAL DE ESTAS Y SUS RAMAS
+5. INCISION SOBRE COLATERALES Y EXCERESIS DE ESTAS CON CROCHET Y MOSCOS 
+6. CIERRE POR PLANOS, 
+7. COMPRESAS EN AREA QUIRUGICA,}
+8. VENDAJE ELASTICO SOBRE AREA QUIRUGICA',protoop_complicaciones='',protoop_perdida='50 CC',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=659 -->2024-02-12 16:52:44
+185-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6901,atenc_id='5917',usua_id=202,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-01-05 09:58:51',protoop_selectiva='1',protoop_cirujanouno='DRA XIMENA AVILA VEGA',protoop_fechaoperacion='2024-01-05',protoop_sintesis='',protoop_idenlace='435',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='DRA KATHY XIMENA POZO MEJIA',protoop_horainicio='08:00',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='',protoop_horafin='10:00',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='MIEMBRO INFERIOR IZQUIERDO: LIGADURA DE PERFORANTES . SAFENECTOMIA MAYOR TOTAL, LIGADURA DE CAYADO DE SAFENA MENOR, VARICOTOMIAS 
+MIEMBRO INFERIOR DERECHA: LIGADURA DE PERFORANTES, SAFENECTOMIA MAYOR INFRAGENICULAR, VARICOTOMIAS',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='MIEMBRO INFERIOR IZQUIERDO: LIGADURA DE PERFORANTES, 37760 . SAFENECTOMIA MAYOR TOTAL 37722, LIGADURA DE CAYADO DE SAFENA MENOR, 37718  VARICOTOMIAS 37766
+MIEMBRO INFERIOR DERECHA: LIGADURA DE PERFORANTES 37760 SAFENECTOMIA MAYOR INFRAGENICULAR,3772',protoop_dieresis='MIEMBRO INFERIOR IZQUIERDO
+1. INCISION DE 2 CM EN REGUION INGUINAL 
+2. INCISION DE 2 CM EN FOSA POPLITEA 
+3. MICROINCISIONES SOBRE PERFORANTES Y COLATERLAES 
+MIEMBRO INFERIOR DERECHO 
+1. INCISION DE 0.5 CM GENICULAR INTERNA
+2. INCISION 0..5 PREMALEOLAR INTERNA
+3. MICROINCISIONES SOBRE COLATERALES Y PERFORANTES.',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='SRTA HEYDI VASQUEZ',protoop_enlace='690101100159448820220240105095851333',protoop_circulante='MARIA BELEN SANCHEZ',protoop_exposicion='FABEUF',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_exploracion='MIEMBRO INFERIOR IZQUIERDO: INSUFICIENCIA  DE II PERFORANTE DE COKET . , INSUFICIENCIA TOTAL DE SAFENA MAYOR, INSUFICIENCIA DEL CAYADO DE SAFENA MENOR, ARCO ANTERIOR Y POSTERIOR DILATADOS INSUFCIENTES.
+MIEMBRO INFERIOR DERECHO 
+1, INSUFICIENCIA DE II PERFORANTE DE COKET Y PERFORANTE GEMELAR INTERNA. INSUFICIENCIA DE SAFENA MAYOR INFRAGENICULAR, ARCO POSTERIOR DILATADO INSUFICIENTE',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='BAJO NORMAS DE ASEPSIA ANTISEPSIA SE COLOCA CAMPOS OPERATORIOS 
+MIEMBRO INFERIOR IZQUIERDO
+1. INCISION DESCRITA, PROFUNDIZACION, DISECCION, CLAMPAJE , CORTE Y LIGADURA DEL CAYADO Y SUS RAMAS, CON VYCRIL 3/0
+2. INCION PREMALOLAR , PROFUNCIZACION , DISECCION  CLAMPAJE CORTE Y LIGADURA DISTAL DE SAFENA MAYOR CON VICRYL 3/0.
+3. PASO DEL FLEBO ESTRACTOR A TRAVES DE SAFENA Y EXCERESIS TOTAL DE ESTA. 
+4. INCISION SOBRE II PERFORANTE DE COKET. DISECCION DE ESTA, PORFUNDIZACION, CLMAPAJE CORTE Y LIGADURA SUBFACIAL DE ESTA Y SUS RAMAS 
+3. INCISION EN FOSA POPLITEA, DISECCION DEL CAYADO DE SAFENA MENOR, CLAMPAJE , CORTE Y LIGADURA PROXIMAL Y DISTAL CON VICRYL 3/0.
+5. INCISION SOBRE COLAERALES, Y EXERESIS DE ESTAS CON CROCHET Y MOSCOS . 
+MIEMBRO INFERIOR DERECHO.
+1. INCISION DESCRITA, PROFUNDIZACION, DISECCION DE SAFENA MAYOR GENICULAR INTERNA, CLAMPAJE , CORTE Y LIGADURA PROXIMAL 
+2. SEGUNDA INCISION, DISECCION DE SAFENA MAYOR PREMALEOLAR, CLMAPAJE CORTE Y LIGADURA DEL EXTERMO DISTAL
+3. PASO DEL FLEBOEXTRACTOR A TRAVEZ DE SAFENA Y EXCERESIS DE SAFENA INFRAGENICULAR.
+4. INCISION SOBRE PERFORANTES, II DE COKET, Y PERFORANTE GEMELAR INTERNA, DISCECION DE ESTAS, CLAMPAJE , CORTE Y LIGADURA SUBFACIAL DE ESTAS Y SUS RAMAS
+5. INCISION SOBRE COLATERALES Y EXCERESIS DE ESTAS CON CROCHET Y MOSCOS 
+6. CIERRE POR PLANOS, 
+7. COMPRESAS EN AREA QUIRUGICA,}
+8. VENDAJE ELASTICO SOBRE AREA QUIRUGICA',protoop_complicaciones='',protoop_perdida='50 CC',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=659 -->2024-02-12 17:18:06
+304-->update dns_hospitalanamesis set atenc_id=785,anam_referencia='LIBRE DEMANDA',anam_listaverificacion='',clie_id=1232,usua_id=189,centro_id=1,anam_centrorefiere='',anam_observacionaf='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 22 AÑOS DE EDAD, NACIDA Y RESIDENTE EN GUAYAQUIL, SOLTERA, EVANGELICA, INSTRUCCIÓN SUPERIOR CURSANDO, ESTUDIANTE, DIESTRA, TIPO DE SANGRE DESCONOCE. PACIENTE REFIERE QUE DESDE HACE VARIOS AÑOS PRESENTA INCONFORMIDAD RESPECTO A SU NARIZ, POR LO CUAL ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, EXAMENES COMPLEMENTARIOS Y SE DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A CIRUGIA PLASTICA
+2. RESOLUCION QUIRURGICA',anam_profesionarefiere='',anam_ambulancia='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_fecharegistro='2022-04-20 13:13:55',anam_partos='0',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_enlace='123201172300165518920220420011355336',anam_ciclos='CMI',anam_cirugia='RINOPLASTIA',anam_cesareas='1',anam_especialidad='CIRUGIA PLASTICA',anam_gesta='1',anam_tratante='DR. GUERRERO',anam_hijosvivos='1',anam_ayudante='DR. SANTILLAN',anam_fum='2022-04-12',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fechaingreso='2022-04-20',anam_fuc=NULL,anam_metodopfamiliar=1,anam_metodopfamiliartex='NINGUNO',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=452 -->2024-02-12 20:09:39

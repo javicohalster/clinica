@@ -1,0 +1,1 @@
+update gogess_sisfield set fie_group='15' where fie_id='10326';

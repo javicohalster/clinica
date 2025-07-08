@@ -1,0 +1,7 @@
+update gogess_sisfield set fie_title='Sub Categor&iacute;a:' where fie_id='8482';
+update gogess_sisfield set fie_type='selectpeke' where fie_id='8482';
+update gogess_sisfield set fie_typeweb='selectpeke' where fie_id='8482';
+update gogess_sisfield set fie_orden='1' where fie_id='8482';
+update gogess_sisfield set fie_groupprint='1' where fie_id='8482';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8482';
+update gogess_sisfield set fie_orden='0' where fie_id='8482';

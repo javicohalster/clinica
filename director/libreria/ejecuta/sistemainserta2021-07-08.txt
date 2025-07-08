@@ -1,0 +1,1 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','9394AlexM','EDITH_ALEXANDRA_MEJIA_MONTUFAR.p12','C:/firma/certificado/',1,'1708082142')

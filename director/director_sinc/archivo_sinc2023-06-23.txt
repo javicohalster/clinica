@@ -1,0 +1,1 @@
+update gogess_sisfield set fie_title='Tipo de Transacci&oacute;n:' where fie_id='10599';

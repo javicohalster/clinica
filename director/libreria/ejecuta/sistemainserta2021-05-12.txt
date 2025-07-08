@@ -1,0 +1,1 @@
+insert into sth_report (rept_aleatunico,rept_nombre,rept_activo,rept_tabla,rept_campos,rept_archivopersonalizado,categr_id) values ('09044756882021051206575515','PRESTACIONES POR ITEMS',1,'','','prestaciones_items.php',16)

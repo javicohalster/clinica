@@ -1,0 +1,20 @@
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3063,centro_id=14,clie_id=4245,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 26 AÑOS DE EDAD, SIN COMORBILIDADES, GESTANTE DE 40.1 SEMANAS, INGRESA A ESTA CASA DE SALUD, CON DOLOR TIPO CONTRACCION DE GRAN INTENSIDAD. EVA 8/10
+REFIERE SER ORH NEGATIVA SIN APLICACION DE RHOGAM',anam_planes='1. CONTROL DE SIGNOS VITALES MATERNOS
+2. MONITORIZACION FETAL 
+3. CANALIZAR VIA PERIFERICA
+4. PARACETAMOL 1GR IV STAT
+5. I/C DRA NEIRA TORRES GINECOLOGIA 
+6. I/C DR TORRES PEDIATRIA.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15',anam_motivoconsulta='CESAREA DE EMERGENCIA',anam_partos='0',anam_fecharegistro='2023-04-05 06:50:15',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='424501172320022426720230405065015498',anam_cirugia='',anam_cesareas='0',anam_gesta='0',anam_especialidad='',anam_tratante='',anam_hijosvivos='0',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-04-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=1,anam_colposcopiatext='',anam_mamografia=1,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1477 -->2023-04-10 10:36:28
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=2062,centro_id=1,clie_id=3299,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 45 AÑOS DE EDAD, AL  MOMENTO EN ESTADO GRAVIDICO DE 36.6 SEMANAS DE GESTACION POR FUM, INGRESA A ESTA CASA DE SALUD PARA CESÁREA PROGRAMADA.  CUUMPLIENDO HORAS DE AYUNO. SE REALIZA EXANES PRE QUIRURGICOS.',anam_planes='1. INGRESO ÁREA DE HOSPITALIZACIÓN GINECOLOGÍA/OBSTETRICIA
+2. CONTROL DE SIGNOS VITALES CADA 4 HORAS
+3. NPO
+4. CANALIZAR VÍA PERIFÉRICA
+5.  MONITOREO FETAL CADA 8H Y PRN 
+6. LACTATO DE RINGER 1000ML A 125 CC/H
+7. CEFAZOLINA 2GR IV STAT
+8. METOCLOPRAMIDA 10MG IV STAT
+9.OMEPRAZOL 40MG IV STAT
+10. FIRMAR CONSENTIMIENTOS INFORMADOS
+11. VALORACIÓN PRE ANESTÉSICA
+12. PASE A QUIRÓFANO AL LLAMADO
+13. DRA. URQUIZO',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13',anam_motivoconsulta='CESAREA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-03-14 09:55:10',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='329901172320022426720230314095510334',anam_cirugia='',anam_cesareas='1',anam_gesta='1',anam_especialidad='',anam_tratante='',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-03-14',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1403 -->2023-04-10 10:46:05

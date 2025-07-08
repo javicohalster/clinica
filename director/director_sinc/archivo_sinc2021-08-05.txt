@@ -1,0 +1,6 @@
+update gogess_sisfield set fie_orden='16' where fie_id='8042';
+update gogess_sisfield set fie_orden='17' where fie_id='8043';
+update gogess_sisfield set fie_orden='18' where fie_id='8044';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8042';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8043';
+update gogess_sisfield set fie_anchocolomna='12' where fie_id='8044';

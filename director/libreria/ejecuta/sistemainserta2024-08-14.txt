@@ -1,0 +1,2 @@
+insert into pichinchahumana_extension.dns_convenios (conve_descuento,conve_nombre,conve_redpublica,tippo_id) values (0,'PERSONAL',0,8)
+insert into pichinchahumana_extension.dns_convenios (conve_descuento,conve_nombre,conve_redpublica,tippo_id) values (0,'NESEC',0,8)

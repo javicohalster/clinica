@@ -1,0 +1,9 @@
+-->update dns_newprotocolooperatorio set centro_id=1,clie_id=6551,atenc_id='5575',usua_id=321,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2023-11-15 14:24:26',protoop_selectiva='',protoop_cirujanouno='DRA. DANIELA ROMERO',protoop_fechaoperacion='2023-11-15',protoop_sintesis='',protoop_idenlace='228',protoop_general='1',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='12:25',protoop_regional='',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DR ERIK AMORES',protoop_horafin='14:05',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='2 SEPTOPLASTIA 30520
+3 TURBINOPLASTIA 30140
+4 FACTURA DE HUESOS PROPIOS 30930 
+5 CAUTERIZACION DE LA MUCOSA DE CORNETES 30802',protoop_ayudantedos='',protoop_examen='0',protoop_otroanestesia='',protoop_realizada='1 RINOPLASTIA 30420
+2 SEPTOPLASTIA 30520
+3 TURBINOPLASTIA 30140
+4 FACTURA DE HUESOS PROPIOS 30930 
+5 CAUTERIZACION DE LA MUCOSA DE CORNETES 30802',protoop_dieresis='INCISION COLUMNELAR EN V INVERTIDA MAS MARGINALES',protoop_examendetalle='',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='IBRAILA MONCAYO',protoop_enlace='655101110459371832120231115022426483',protoop_circulante='JAQUELINE TORRES',protoop_exposicion='1. ESPECULOS NASALES 
+2. RETRACTORES',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_exploracion='',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='',protoop_complicaciones='NINGUNA',protoop_perdida='50',protoop_sangrado='50',protoop_protesico='0',anam_enlace='' where protoop_id=321 -->2023-11-15 14:49:29

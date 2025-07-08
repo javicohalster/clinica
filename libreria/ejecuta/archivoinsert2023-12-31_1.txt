@@ -1,0 +1,43 @@
+340-->insert into app_cliente (clie_foto,clie_archivosrespaldo,clie_titularseguro,clie_diagnosticorecepcion,clie_token,grp_id,clie_cirugia,clie_especialidad,emp_id,clie_registrado,clie_tratante,tipoci_id,clie_ayudante,clie_direccion,clie_rucci,clie_apellido,prob_codigo,clie_anestesiologo,tippo_id,cant_codigo,clie_nombre,conve_id,clie_parroquia,civil_id,clie_codigoisspol,clie_telefono,clie_ocupacion,clie_lugarnacimiento,clie_fechanacimiento,clie_encadodeemergencia,clie_parentescocontacto,nac_id,tarterial_id,clie_emergenciatelf,clie_direccioncontacto,clie_celular,clie_genero,idgen_id,orien_id,clie_email,clie_emergenciacelu,usua_id,clie_institucion,clie_registro,clie_enlace,clie_fechaingreso,centro_id,clie_seguromsparchivo,clie_hcpinos,clie_dondetrabaja,clie_puestotrabaja,clie_instruccion,clie_seguroprivadoarchivo) values ('','',0,'CONSULTA','',12,'','',1,'REGISTRADO','',1,'','LA MENA DEL HIERRO','1710507821','MIÑO SALAZAR','17','',3,'1701','MARTHA ISABEL',6,'',1,'','','','PICHINCHA NANEGAL','1974-08-07','NN','NN',56,7,'NN','NN','098003019455','F',4,4,'isabel_7874@hormail.com','','340','','2023-12-31 06:58:30','011725409732340202312310658301710',NULL,'1','','6743','','','','')-->2023-12-31 07:02:56
+340-->insert into dns_atencion (centro_id,clie_id,atenc_hc,tiposerv_id,usua_id,atenc_fecharegistro,esept_id,atenc_condiciondeingreso,atenc_fechaingreso,atenc_fechasalida,atenc_condiciondeegreso,atenc_observacion,emp_id,clie_ci,atenc_referencia,atenc_archivo,atenc_enlace) values (1,7022,'1710507821-1','2',340,'2023-12-31 07:03:01','','','2023-12-31 07:03:01','2023-12-31 07:03:01','VIVO','CONSULTA',1,'1710507821','','','01172540973234020231231070301467')-->2023-12-31 07:03:06
+264-->insert into dns_newconsultaexternaanamesis (clie_id,usua_id,centro_id,atenc_id,anam_referencia,anam_emferpactual,anam_planes,anam_centrorefiere,estaatenc_id,anam_profesionarefiere,anam_vidasexualactiva,anam_motivoconsulta,anam_vidasexualactivaobs,anam_respiratorio,anam_fecharegistro,anam_observacionrespiratorio,anam_atpreventiva,anam_nhoja,anam_enlace) values (7022,264,1,6025,'AUTOREFERENCIA','HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA','','',4,'','','','','0','2023-12-31 07:09:07','',0,'','702201171044278926420231231070907289')-->2023-12-31 08:51:58
+264-->update dns_newconsultaexternaanamesis set clie_id=7022,usua_id=264,centro_id=1,atenc_id=6025,anam_referencia='AUTOREFERENCIA',anam_emferpactual='HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA',anam_planes='MELOXICAN 15 MG QD 
+DAFLON 500 MG TID 
+HEMOR  SUPOSITORIOS BID 
+CIPROFLOXACIONO 500 MG BID
+SIGNOS DE ALARMA
+CONTROL EN 2 SEMANAS.',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-12-31 07:09:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='702201171044278926420231231070907289' where anam_id=609 -->2023-12-31 08:52:47
+264-->update dns_newconsultaexternaanamesis set clie_id=7022,usua_id=264,centro_id=1,atenc_id=6025,anam_referencia='AUTOREFERENCIA',anam_emferpactual='HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA',anam_planes='MELOXICAN 15 MG QD 
+DAFLON 500 MG TID 
+HEMOR  SUPOSITORIOS BID 
+CIPROFLOXACIONO 500 MG BID
+BAÑOS DE ASIENTO 
+SIGNOS DE ALARMA
+CONTROL EN 2 SEMANAS.',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-12-31 07:09:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='702201171044278926420231231070907289' where anam_id=609 -->2023-12-31 08:52:55
+264-->update dns_newconsultaexternaanamesis set clie_id=7022,usua_id=264,centro_id=1,atenc_id=6025,anam_referencia='AUTOREFERENCIA',anam_emferpactual='HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA',anam_planes='MELOXICAN 15 MG QD 
+DAFLON 500 MG TID 
+HEMOR  SUPOSITORIOS BID 
+CIPROFLOXACIONO 500 MG BID
+BAÑOS DE ASIENTO 
+SIGNOS DE ALARMA
+CONTROL EN 2 SEMANAS.',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-12-31 07:09:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='702201171044278926420231231070907289' where anam_id=609 -->2023-12-31 08:56:43
+264-->update dns_newconsultaexternaanamesis set clie_id=7022,usua_id=264,centro_id=1,atenc_id=6025,anam_referencia='AUTOREFERENCIA',anam_emferpactual='HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA',anam_planes='MELOXICAN 15 MG QD 
+DAFLON 500 MG TID 
+HEMOR  SUPOSITORIOS BID 
+CIPROFLOXACIONO 500 MG BID
+BAÑOS DE ASIENTO 
+SIGNOS DE ALARMA
+CONTROL EN 2 SEMANAS.',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-12-31 07:09:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='702201171044278926420231231070907289' where anam_id=609 -->2023-12-31 08:57:30
+264-->update dns_newconsultaexternaanamesis set clie_id=7022,usua_id=264,centro_id=1,atenc_id=6025,anam_referencia='AUTOREFERENCIA',anam_emferpactual='HACE 5 DIAS PRESENTA DOLOR EN REGION ANAL QUE LIMITA ACTIVIDADES  REFIERE APARECIMIENTO DE BOLITA EN REGION ANAL , ASI TAMBIEN SANGRADO EN DICHA . ZONA . NO ESTRENIMIENTO.
+REALIZO MANIOBRAS DE REDUCCION DE VENA VARICE TROMBOSADA CON REDUCCION EFECTIVA DE LA MISMA',anam_planes='MELOXICAN 15 MG QD 
+DAFLON 500 MG TID 
+HEMOR  SUPOSITORIOS BID 
+CIPROFLOXACIONO 500 MG BID
+BAÑOS DE ASIENTO 
+SIGNOS DE ALARMA
+CONTROL EN 2 SEMANAS.',anam_centrorefiere='',estaatenc_id=4,anam_profesionarefiere='',anam_vidasexualactiva='',anam_motivoconsulta='',anam_vidasexualactivaobs='',anam_respiratorio='0',anam_fecharegistro='2023-12-31 07:09:07',anam_observacionrespiratorio='',anam_atpreventiva=0,anam_nhoja='',anam_enlace='702201171044278926420231231070907289' where anam_id=609 -->2023-12-31 08:57:34

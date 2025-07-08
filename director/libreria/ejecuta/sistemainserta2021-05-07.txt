@@ -1,0 +1,2 @@
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','equeziel','MARTITA_JUDITH_SOTO_LOPEZ_111220111024.p12','',1,'0200991933')
+insert into factura_cerficado (cert_activo,cert_clv,cert_nombre,cert_path,tcert_id,usua_ciruc) values ('1','Natibelen2010','KARLA_MICHELLE_GUATO_POZO_151220160838.p12','c',1,'1726797200')

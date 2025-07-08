@@ -1,0 +1,247 @@
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='DERIVADO',atenc_id=4496,centro_id=1,clie_id=5565,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 31 AÑOS, NACIDO EN QUITO Y RESIDENTE EN MIAMI EEUU, CASADO, AGENTE DE SEGUROS, DIESTRO, CRISTIANO, TIPO DE SANGRE BRH +.
+PACIENTE ADULTO JOVEN REFIERE QUE DESDE HACE ALGUNAS SEMANAS PRESENTA SIN CAUSA APARENTE CUADRO CLÍNICO DE POLIDIPSIA, POLIURIA QUE DESDE HACE 24 HORAS AL LLEGAR A QUITO SE ACOMPAÑA DE CEFALEA DE MODERADA INTENSIDAD. PACIENTE CON ANTECEDENTE DE OBESIDAD EN SEGUIMIENTO POR CIRUGÍA GENERAL PARA LO CUAL AMERITA CIRUGÍA BARIÁTRICA POR LO QUE ACUDE EL DÍA DE HOY A CHEQUEO PREQUIRÚRGICO POR MEDICINA INTERNA CON RESULTADOS DE LABORATORIO EN LOS MISMOS QUE SE EVIDENCIA HIPERGLICEMIA DE  239 E HIPERLIPIDEMIA DE LOS CUALES DESTACA TRIGLICERIDOS DE 2241 POR LO QUE MÉDICO INTERNISTA VALORA E INDICA AMERITA TRATAMIENTO HOSPITALARIO POR LO QUE INGRESA.',anam_planes='VER FORMULARIO 005',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DERIVACIÓN DE CONSULTA EXTERNA',anam_partos='',anam_fecharegistro='2023-08-04 20:17:25',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='556501020234257218520230804081725208',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='MEDICINA INTERNA',anam_tratante='DRA. TAMARA CARDENAS',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1882 -->2023-08-08 09:51:35
+250-->update dns_protocolooperatorio set usua_id=240,protoop_fecharegistro='2023-08-07 17:08:12',atenc_id=4496,centro_id=1,clie_id=5565,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1.ESTOMAGO E INTESTINO DE CARACTERISTICAS NORMALES',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISIONES Y COLOCACION DE TROCARES Y SEPARADOR HEPÁTICO						
+5. CREACION DE NEUMOPERITONEO						
+6. EXPLORACION DE CAVIDAD 						
+7. DISECCION DE ANGULO DE HIS 						
+8. CREACION DE POUCH GASTRIC, DISECCION A NIVEL DE 3RE VASO GASTRICO DE CURVATURA MENOR						
+9. REFUERZO DE REMANENTE GASTRICO Y POUCH CON PROLENE 						
+10. DISECCION DE EPIPLON MAYOR Y ADHERENCIOLISIS 						
+10. IDENTIFICACION DE ANGULO DE TREITZ,  CONTEO DE ASA Y ANASTOMOSIS GASTRO-ENTERICA  						
+MAS REFUERZO DE ANASTOMOSIS 						
+11. ANASTOMOSIS ENTERO-ENTERICA Y REFUERZO DE LA MISMA  						
+12. CIERRE DE ESPACIO DE PETERSON Y ESPACIO MESENTERICO 						
+13. SUTURA DE REFUERZO CONTINUA EN UN PLANO CON PROLENE 2/0						
+14. PRUEBA DE AZUL DE METILENO, NO SE EVIDENCIA FUGA						
+15. REVISION Y CONTROL DE HEMOSTASIA						
+16. RETIRO DE TROCARES						
+17.SUTURA DE INCISIONES						
+18.COLOCACION DE APOSITOS EN HERIDAS',protoop_proyectada='BYPASS GASTRICO LAPAROSCOPICO',protoop_sintesis='MONOCRYL 3.0',protoop_cirujanouno='DR JONATAN GUTIERREZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION DE 1 CM EN FLANCO LATERAL DERECHO LINEA MEDIO CLAVICULAR						
+2. INCISION DE 1 CM EN FLANCO LATERAL IZQUIERDO LINEA MEDIO CLAVICULAR						
+3. INCISION DE 1 CM SUPRAUMBILICAL, LINEA MEDIA						
+4. INCISION DE 0.5 CM LINEA AXILAR ANTERIOR IZQUIERDA						
+5. INCISION DE 0.5 CM SUBXIFOIDEO',protoop_selectiva='1',protoop_instrumentista='JORGE SALAZAR',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR GUSTAVO FAREZ',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1882',protoop_paleativa='',protoop_realizada='BYPASS GASTRICO LAPAROSCOPICO',protoop_ayudanteuno='DR. ROGELIO ALCIVAR',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='556501171436056524020230807050812261',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-07',protoop_horainicio='14:40',protoop_horafin='16:50' where protoop_id=1409 -->2023-08-08 09:51:38
+250-->update dns_protocolooperatorio set usua_id=240,protoop_fecharegistro='2023-08-07 17:08:12',atenc_id=4496,centro_id=1,clie_id=5565,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1.ESTOMAGO E INTESTINO DE CARACTERISTICAS NORMALES',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISIONES Y COLOCACION DE TROCARES Y SEPARADOR HEPÁTICO						
+5. CREACION DE NEUMOPERITONEO						
+6. EXPLORACION DE CAVIDAD 						
+7. DISECCION DE ANGULO DE HIS 						
+8. CREACION DE POUCH GASTRIC, DISECCION A NIVEL DE 3RE VASO GASTRICO DE CURVATURA MENOR						
+9. REFUERZO DE REMANENTE GASTRICO Y POUCH CON PROLENE 						
+10. DISECCION DE EPIPLON MAYOR Y ADHERENCIOLISIS 						
+10. IDENTIFICACION DE ANGULO DE TREITZ,  CONTEO DE ASA Y ANASTOMOSIS GASTRO-ENTERICA  						
+MAS REFUERZO DE ANASTOMOSIS 						
+11. ANASTOMOSIS ENTERO-ENTERICA Y REFUERZO DE LA MISMA  						
+12. CIERRE DE ESPACIO DE PETERSON Y ESPACIO MESENTERICO 						
+13. SUTURA DE REFUERZO CONTINUA EN UN PLANO CON PROLENE 2/0						
+14. PRUEBA DE AZUL DE METILENO, NO SE EVIDENCIA FUGA						
+15. REVISION Y CONTROL DE HEMOSTASIA						
+16. RETIRO DE TROCARES						
+17.SUTURA DE INCISIONES						
+18.COLOCACION DE APOSITOS EN HERIDAS',protoop_proyectada='BYPASS GASTRICO LAPAROSCOPICO',protoop_sintesis='MONOCRYL 3.0',protoop_cirujanouno='DR JONATAN GUTIERREZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION DE 1 CM EN FLANCO LATERAL DERECHO LINEA MEDIO CLAVICULAR						
+2. INCISION DE 1 CM EN FLANCO LATERAL IZQUIERDO LINEA MEDIO CLAVICULAR						
+3. INCISION DE 1 CM SUPRAUMBILICAL, LINEA MEDIA						
+4. INCISION DE 0.5 CM LINEA AXILAR ANTERIOR IZQUIERDA						
+5. INCISION DE 0.5 CM SUBXIFOIDEO',protoop_selectiva='1',protoop_instrumentista='JORGE SALAZAR',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR GUSTAVO FAREZ',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1882',protoop_paleativa='',protoop_realizada='BYPASS GASTRICO LAPAROSCOPICO',protoop_ayudanteuno='DR. ROGELIO ALCIVAR',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='556501171436056524020230807050812261',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-07',protoop_horainicio='14:40',protoop_horafin='16:50' where protoop_id=1409 -->2023-08-08 09:51:38
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4504,centro_id=1,clie_id=5572,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA. PARA TRATAMIENTO DE OBESIDAD PACIENTE CONSULTA CON MEDICO ESPECIALISTA QUIEN INDICA EXÁMENES DE LABORATORIO Y PLANIFICA CIRUGÍA MANGA GÁSTRICA POR LA QUE INGRESA A ESTA CASA DE SALUD .',anam_planes='1 INGRESO A ORL / HAB 302
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. JONATAN GUTIERREZ',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-05 07:46:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='557201172575763530420230805074607102',anam_cirugia='BYPASS GASTRICO',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1886 -->2023-08-08 09:55:54
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4504,centro_id=1,clie_id=5572,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN ANTECEDENTES DE IMPORTANCIA. PARA TRATAMIENTO DE OBESIDAD PACIENTE CONSULTA CON MEDICO ESPECIALISTA QUIEN INDICA EXÁMENES DE LABORATORIO Y PLANIFICA CIRUGÍA MANGA GÁSTRICA POR LA QUE INGRESA A ESTA CASA DE SALUD .',anam_planes='1 INGRESO A ORL / HAB 302
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. JONATAN GUTIERREZ',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-05 07:46:07',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='557201172575763530420230805074607102',anam_cirugia='BYPASS GASTRICO',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1886 -->2023-08-08 09:55:57
+250-->update dns_hospitalanamesis set usua_id=304,anam_listaverificacion='',anam_referencia='',atenc_id=4504,centro_id=1,clie_id=5572,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE APROXIMADAMENTE 5 MESES CARACTERIZADO POR DOLOR ABDOMINAL TIPO COLICO A NIVEL DE HIPOCONDRIO DERECHO QUE SE ACOMPAÑA DE DIARREA Y NAUSEA, HACE 1 SEMANA PRESENTA NUEVAMENTE EPISODIO DE DOLOR TIPO COLICO A NIVEL DE HIPOCONDRIO DERECHO QUE SE IRRADIA A REGION LUMBAR EN HEMICINTURON DERECHO POR LO QUE ACUDE A MEDICO ESPECIALISTA QUIEN REALIZA EXAMENES COMPLEMENTARIOS Y DECIDE QUE REQUIERE RESOLUCION QUIRURGICA POR LO QUE INGRESA EL DIA DE HOY PARA REALIZACION DE LA MISMA',anam_planes='1 INGRESO A ORL / HAB 302
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DR. JONATAN GUTIERREZ',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='14 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-05 07:39:54',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='0',anam_ciclos='IRREGULARES',anam_enlace='557201172575763530420230805073954439',anam_cirugia='COLELAP',anam_cesareas='2',anam_gesta='2',anam_especialidad='CIRUGIA GENERAL',anam_tratante='DR. GUTIERREZ',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1885 -->2023-08-08 09:55:58
+250-->update dns_protocolooperatorio set usua_id=240,protoop_fecharegistro='2023-08-05 12:56:24',atenc_id=4504,centro_id=1,clie_id=5572,protoop_exposicion='NEUMOPERITONEO A 12 MMHG',protoop_exploracion='EXPLORACIÓN Y HALLAZGOS QUIRÚRGICOS						
+1. VESICULA DISTENDIDA DE 10x6x6 CM, PAREDES GRUESAS, CON MICROLITOS EN SU INTERIOR						
+2. CONDUCTO CISTICO ANTERIOR						
+3. ARTERIA CISTICA POSTERIOR',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. PROTOCOLO DE CIRUGIA SEGURA						
+4. COLOCACION DE AGUJA DE VERESS Y FORMACION DE NEUMOPERITONEO; DIERESIS 1 DESCRITA + COLOCACION DE TROCAR OPTICO  DE 10 MM BAJO VISIÓN DIRECTA 						
+5. LAPAROSCOPIA DIAGNOSTICA						
+6. DIERESIS 2, 3 Y 4 + COLOCACIÓN DE TROCARES DE 10 MM Y 5 MM RESPECTIVAMENTE						
+7. TRACCION DE INFUNDIBULO						
+8. DISECCION DE TRIANGULO DE CALOT						
+9. VISION CRITICA DE SEGURIDAD						
+10. CLIPAJE 2 PROXIMAL Y 1 DISTAL DE CONDUCTO CISTICO Y CORTE						
+11. CLIPAJE 2 PROXIMAL  Y CORTE DE ARTERIA CISTICA POSTERIOR						
+12. ECTOMIA VESICULAR  						
+13. REVISION DE HEMOSTASIA 						
+14. EXTRACCION DE VESICULA POR PUERTO 3
+15. EXTRACCION DE TROCARES BAJO VISION DIRECTA						
+16. CIERRE DE APONEUROSIS CON POLIGLACTIN 1.0',protoop_proyectada='COLECISTECTOMÍA LAPAROSCÓPICA',protoop_sintesis='PIEL CON MONOCRYL 3.0',protoop_cirujanouno='DR. JONATAN GUTIERREZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION TRANSUMBILICAL DE 1 CM						
+2. INCISION SUBXIFOIDEA 1 CM						
+3. INCISIÓN HIPOCONDRIO DERECHO 0,5 CM	
+4. INCISION SUBCOSTAL IZQUIERDA 0.5 CM',protoop_selectiva='1',protoop_instrumentista='JORGE SALAZAR',protoop_examendetalle='VESICULA BILIAR',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. GUSTAVO FAREZ',protoop_circulante='JESUS PEREIRA',protoop_idenlace='1885',protoop_paleativa='',protoop_realizada='COLECISTECTOMÍA LAPAROSCÓPICA',protoop_ayudanteuno='DR. CHRISTIAN GUTIERREZ',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557201171436056524020230805125624230',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-05',protoop_horainicio='10:55',protoop_horafin='11:55' where protoop_id=1397 -->2023-08-08 09:56:00
+250-->update dns_protocolooperatorio set usua_id=240,protoop_fecharegistro='2023-08-05 12:56:24',atenc_id=4504,centro_id=1,clie_id=5572,protoop_exposicion='NEUMOPERITONEO A 12 MMHG',protoop_exploracion='EXPLORACIÓN Y HALLAZGOS QUIRÚRGICOS						
+1. VESICULA DISTENDIDA DE 10x6x6 CM, PAREDES GRUESAS, CON MICROLITOS EN SU INTERIOR						
+2. CONDUCTO CISTICO ANTERIOR						
+3. ARTERIA CISTICA POSTERIOR',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. PROTOCOLO DE CIRUGIA SEGURA						
+4. COLOCACION DE AGUJA DE VERESS Y FORMACION DE NEUMOPERITONEO; DIERESIS 1 DESCRITA + COLOCACION DE TROCAR OPTICO  DE 10 MM BAJO VISIÓN DIRECTA 						
+5. LAPAROSCOPIA DIAGNOSTICA						
+6. DIERESIS 2, 3 Y 4 + COLOCACIÓN DE TROCARES DE 10 MM Y 5 MM RESPECTIVAMENTE						
+7. TRACCION DE INFUNDIBULO						
+8. DISECCION DE TRIANGULO DE CALOT						
+9. VISION CRITICA DE SEGURIDAD						
+10. CLIPAJE 2 PROXIMAL Y 1 DISTAL DE CONDUCTO CISTICO Y CORTE						
+11. CLIPAJE 2 PROXIMAL  Y CORTE DE ARTERIA CISTICA POSTERIOR						
+12. ECTOMIA VESICULAR  						
+13. REVISION DE HEMOSTASIA 						
+14. EXTRACCION DE VESICULA POR PUERTO 3
+15. EXTRACCION DE TROCARES BAJO VISION DIRECTA						
+16. CIERRE DE APONEUROSIS CON POLIGLACTIN 1.0',protoop_proyectada='COLECISTECTOMÍA LAPAROSCÓPICA',protoop_sintesis='PIEL CON MONOCRYL 3.0',protoop_cirujanouno='DR. JONATAN GUTIERREZ',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISION TRANSUMBILICAL DE 1 CM						
+2. INCISION SUBXIFOIDEA 1 CM						
+3. INCISIÓN HIPOCONDRIO DERECHO 0,5 CM	
+4. INCISION SUBCOSTAL IZQUIERDA 0.5 CM',protoop_selectiva='1',protoop_instrumentista='JORGE SALAZAR',protoop_examendetalle='VESICULA BILIAR',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. GUSTAVO FAREZ',protoop_circulante='JESUS PEREIRA',protoop_idenlace='1885',protoop_paleativa='',protoop_realizada='COLECISTECTOMÍA LAPAROSCÓPICA',protoop_ayudanteuno='DR. CHRISTIAN GUTIERREZ',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557201171436056524020230805125624230',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-05',protoop_horainicio='10:55',protoop_horafin='11:55' where protoop_id=1397 -->2023-08-08 09:56:00
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4505,centro_id=1,clie_id=5573,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE ADULTA JOVEN QUE  REFIERE ANTECEDENTES PATOLÓGICOS DESCRITOS, INGRESA PARA CIRUGÍA PROGRAMADA POSTERIOR A VALORACION POR ESPECIALISTA, QUIEN DECIDE RESOLUCIÓN QUIRÚRGICA. AL MOMENTO EN CONDICION ESTABLE, SIN MOLESTIAS.',anam_planes='1. INGRESO A CIRUGIA PLÁSTICA / HAB 202
+2.NADA POR VÍA ORAL
+3. CONTROL DE SIGNOS VITALES
+4. CANALIZAR VÍA PERIFÉRICA 
+5. FIRMAR CONSENTIMIENTOS INFORMADOS
+6. CHEQUEO PREANESTÉSICO
+7. PASE AL QUIRÓFANO AL LLAMADO
+8. ORDENES DR. CHRISTIAN CACERES',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='11',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-05 07:27:52',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='5573011003884200362202308050727525',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. CHRISTIAN CÁCERES',anam_hijosvivos='0',anam_ayudante='DRA. DIANA VILLACRES',anam_fum='2023-07-23',anam_anestesiologo='DR. MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-05',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1884 -->2023-08-08 09:57:43
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-05 12:18:50',atenc_id=4505,centro_id=1,clie_id=5573,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 6600 CC
+4, INJERTO GRASO 660 CC EN CADA GLUTEO 						
+5. PROTESIS DE 350 CC EN CADA MAMA 
+6. PROTESIS ENCAPSULADAS Y LA DEL LADO DERECHO GIRADA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. COLOCACION DE INJERTO GRASO PREVIA DECANTACION Y USO DE GENTAMICINA SE COLOCA EN CADA GLUTEO 660
+10 COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. INCISION DESCRITA 2
+13. DECOLAMIENTO HASTA LLEGAR A PROTESIS 
+14. RETIRO DE PROTESIS QUE ESTABAN CONSERVADAS LA DEL LADO DERECHO GIRADA 
+15. CAPSULECTOMIA Y CAPSULOPLASTIA 
+16. COLOCACION DE PUNTOS DE BARUDY EN TODA LA MAMA 
+17. CONTROL DE HEMOSTASIA 
+18. CIERRE DE INCISION POR PLANOS 
+19. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS RETIRO DE IMPLANTES MAMARIOS',protoop_sintesis='VICRYL 1/0
+MONOCRYL 3/0
+MONOCRYL 4/0
+NYLON 5/0
+SEDA 3/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM 						
+2. INCISION PERIAREOLAR INFERIOR',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC EDGAR RUBEN',protoop_idenlace='1884',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS RETIRO DE IMPLANTES MAMARIOS',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557301172001173120520230805121850462',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-05',protoop_horainicio='08:50',protoop_horafin='12:00' where protoop_id=1393 -->2023-08-08 09:57:45
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-05 12:18:50',atenc_id=4505,centro_id=1,clie_id=5573,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL 
+2. LIPODISTROFIA LUMBAR Y EN CINTURA
+3. LIPOSUCCION DE 6600 CC
+4, INJERTO GRASO 660 CC EN CADA GLUTEO 						
+5. PROTESIS DE 350 CC EN CADA MAMA 
+6. PROTESIS ENCAPSULADAS Y LA DEL LADO DERECHO GIRADA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE						
+8. MISMO PROCEDIMIENTO EN PARTE POSTERIOR						
+9. COLOCACION DE INJERTO GRASO PREVIA DECANTACION Y USO DE GENTAMICINA SE COLOCA EN CADA GLUTEO 660
+10 COLOCACION DE DRENES EN REGION INFERIOR DE ABDOMEN Y REGION POSTERIOR LINEA INTERGLUTEA
+10. CIERRE DE INCISIONES						
+11,, COLOCACION DE APOSITOS 						
+12. INCISION DESCRITA 2
+13. DECOLAMIENTO HASTA LLEGAR A PROTESIS 
+14. RETIRO DE PROTESIS QUE ESTABAN CONSERVADAS LA DEL LADO DERECHO GIRADA 
+15. CAPSULECTOMIA Y CAPSULOPLASTIA 
+16. COLOCACION DE PUNTOS DE BARUDY EN TODA LA MAMA 
+17. CONTROL DE HEMOSTASIA 
+18. CIERRE DE INCISION POR PLANOS 
+19. FIN DE CIRUGIA',protoop_proyectada='LIPOESCULTURA MAS RETIRO DE IMPLANTES MAMARIOS',protoop_sintesis='VICRYL 1/0
+MONOCRYL 3/0
+MONOCRYL 4/0
+NYLON 5/0
+SEDA 3/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INCISIONES PARA LIPOESCULTURA DE MENOS DE 0.5 CM 						
+2. INCISION PERIAREOLAR INFERIOR',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC EDGAR RUBEN',protoop_idenlace='1884',protoop_paleativa='',protoop_realizada='LIPOESCULTURA MAS RETIRO DE IMPLANTES MAMARIOS',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DR MANOLO CALERO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557301172001173120520230805121850462',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-05',protoop_horainicio='08:50',protoop_horafin='12:00' where protoop_id=1393 -->2023-08-08 09:57:45
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='AUTOREFERENCIA',atenc_id=4511,centro_id=1,clie_id=5579,anam_centrorefiere='FARMAENLACE',anam_consentimientoinformado='',anam_emferpactual='PACIENTE MASCULINO DE 41 AÑOS, NACIDO Y RESIDENTE EN QUITO, MESTIZO, SOLTERO, BACHILLER, COORDINADOR DE FARMACIAS - FARMAENLACE, DIESTRO, CATOLICO, TIPO DE SANGRE ARH+. NO REFIERE ANTECEDENTES DE IMPORTANCIA. RELATA QUE EL 05/08/23 EN HORAS DE LA MADRUGADA SUFRE CAIDA DESDE SU PROPIA ALTURA CAYENDO TODO EL PESO DE SU CUERPO SOBRE PIE DERECHO, HORAS DESPUES DE LA CAIDA SE EVIDENCIA INFLAMACION EN TOBILLO POR LO QUE ACUDE A HOSPITAL DEL IESS DONDE REALIZAN EXAMENES DE IMAGEN Y DG FRACTURA DE TOBILLO EXPLICAN A PACIENTE FALTA DE MATERIAL PARA RESOLUCION QUIRURGICA Y NECESIDAD DE TRANSFERENCIA A CLINICA DE CONVENIO POR LO QUE PACIENTE DECIDE ALTA VOLUNTARIA, ACUDE HOY A ESTA CASA DE SALUD SE REALIZA NUEVA IMAGEN Y SE DECIDE INGRESO A HOSPITALIZACION PARA RESOLUCION QUIRURGICA.',anam_planes='1 INGRESO A HOSPITALIZACION HAB 302
+2 DIETA GENERAL 
+3 CONTROL DE SIGNOS VITALES CADA 8 HORAS
+4 FIRMAR CONSENTIMIENTOS INFORMADOS
+5 CANALIZAR VIA PERIFERICA
+6 KETOROLACO 30 MG IV STAT Y CADA 8 HORAS
+7 MAÑANA EXAMENES PREQUIRRUGICOS
+8 ORDENES DR. GUZMAN',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='FRACTURA DE TOBILLO DERECHO',anam_partos='',anam_fecharegistro='2023-08-06 16:45:12',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='55790113120287541962023080604451267',anam_cirugia='REDUCCION ABIERTA + OTS',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR. FRANCISCO GUZMAN',anam_hijosvivos='',anam_ayudante='DR. PEDRO PEREZ',anam_fum=NULL,anam_anestesiologo='DE TURNO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-06',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1889 -->2023-08-08 09:58:21
+250-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2023-08-07 17:47:21',atenc_id=4511,centro_id=1,clie_id=5579,protoop_exposicion='MANUAL E INTRUMENTAL
+INTENSIFICADOR DE IMAGEN',protoop_exploracion='FRACTURA DE MALEOLO PERONEO CON TERCER FRAGMENTO, DESPLAZADA Y ANGULADA
+2. FRACTURA DE MALEOLO MEDIAL DESPLAZADA
+3. HEMATOMA FRACTURARIO',protoop_examen='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS LATERAL DESCRITA
+4. MANIOBRAS DE REDUCCION Y FICACION TEMPORAL CON CLAVO DE KIRSHNER
+5. COMPROBACION DE REDUCCION CON INTENSIFICADOR DE IMAGEN
+6. OSTEOSINTESIS DEFINITIVA CON PLACA ANATOMICA BLOQUEADA DE 4 ORIFICIOS + 4 TORNILLOS + TORNILLO INTERFRAGMENTARIO
+7. VIA DE ABORDAJE MEDIAL
+8. MANIOBRAS DE REDUCCION ABIERTA Y COMPROBACION CON INTENSIFICADOR DE IMAGEN
+9. FIJACION CON 1 TORNILLO MALEOLAR DE 55 MM
+10. LAVADO DE HERIDAS
+11. CIERRE POR PLANOS',protoop_proyectada='REDUCCION ABIERTA + OTS CON PLACA Y TORNILLOS',protoop_sintesis='VICRYL 1.0
+VICRYL 2.0
+ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL Y MEDIAL EN TOBILLO DERECHO',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR PEDRO PEREZ',protoop_circulante='RUBEN CHICAIZA',protoop_idenlace='1889',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DRA CARMEN NUÑEZ',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557901100258084118220230807054721275',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-07',protoop_horainicio='15:00',protoop_horafin='16:45' where protoop_id=1411 -->2023-08-08 09:58:23
+250-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2023-08-07 17:47:21',atenc_id=4511,centro_id=1,clie_id=5579,protoop_exposicion='MANUAL E INTRUMENTAL
+INTENSIFICADOR DE IMAGEN',protoop_exploracion='FRACTURA DE MALEOLO PERONEO CON TERCER FRAGMENTO, DESPLAZADA Y ANGULADA
+2. FRACTURA DE MALEOLO MEDIAL DESPLAZADA
+3. HEMATOMA FRACTURARIO',protoop_examen='',protoop_procedimiento='1. ASEPSIA ANTISEPSIA
+2. COLOCACION DE CAMPOS QUIRURGICOS
+3. DIERESIS LATERAL DESCRITA
+4. MANIOBRAS DE REDUCCION Y FICACION TEMPORAL CON CLAVO DE KIRSHNER
+5. COMPROBACION DE REDUCCION CON INTENSIFICADOR DE IMAGEN
+6. OSTEOSINTESIS DEFINITIVA CON PLACA ANATOMICA BLOQUEADA DE 4 ORIFICIOS + 4 TORNILLOS + TORNILLO INTERFRAGMENTARIO
+7. VIA DE ABORDAJE MEDIAL
+8. MANIOBRAS DE REDUCCION ABIERTA Y COMPROBACION CON INTENSIFICADOR DE IMAGEN
+9. FIJACION CON 1 TORNILLO MALEOLAR DE 55 MM
+10. LAVADO DE HERIDAS
+11. CIERRE POR PLANOS',protoop_proyectada='REDUCCION ABIERTA + OTS CON PLACA Y TORNILLOS',protoop_sintesis='VICRYL 1.0
+VICRYL 2.0
+ETHILON 2.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='VIA DE ABORDAJE LATERAL Y MEDIAL EN TOBILLO DERECHO',protoop_selectiva='1',protoop_instrumentista='JAQUELINE TORRES',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR PEDRO PEREZ',protoop_circulante='RUBEN CHICAIZA',protoop_idenlace='1889',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DRA CARMEN NUÑEZ',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='557901100258084118220230807054721275',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-07',protoop_horainicio='15:00',protoop_horafin='16:45' where protoop_id=1411 -->2023-08-08 09:58:23
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4531,centro_id=1,clie_id=5594,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 24 AÑOS, NACIDA Y RESIDENTE EN QUITO, SOLTERA, INSTRUCCIÓN SUPERIOR, ESTUDIANTE, DIESTRA, CRISTIANA, TIPO DE SANGRE ORH +.
+PACIENTE ADULTA JOVEN REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO CORPORAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='15 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMAD',anam_partos='0',anam_fecharegistro='2023-08-08 10:46:08',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='0',anam_ciclos='CMR',anam_enlace='559401020234257218520230808104608121',anam_cirugia='LIPOESCULTURA',anam_cesareas='0',anam_gesta='0',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. PESÁNTEZ',anam_hijosvivos='0',anam_ayudante='DR. MENENDEZ',anam_fum='2023-08-04',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc='2022-07-00',anam_fechaingreso='2023-08-08',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1897 -->2023-08-08 15:50:07
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-08-08 15:22:38',atenc_id=4531,centro_id=1,clie_id=5594,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA- ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL ESPALDA 1300 cc . FRENTE 2800CC  TOTAL 4200
+COLOCACION DE LIPOINJERTO GRASO EN GLUTEOS DE 160CC CADA LADO
+CIERRE DE INCISIONES
+PASE A RECUPERACION',protoop_proyectada='LIPODISTROFIA CORPORAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES DORSALES, LUMBARES, INGUINALES, UMBILICAL, QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='DE TURNO',protoop_idenlace='1897',protoop_paleativa='',protoop_realizada='LIPOSUCCION CORPORAL',protoop_ayudanteuno='',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='55940117092135222182023080803223887',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-08',protoop_horainicio='12:10',protoop_horafin='15:12' where protoop_id=1416 -->2023-08-08 15:50:09
+250-->update dns_protocolooperatorio set usua_id=218,protoop_fecharegistro='2023-08-08 15:22:38',atenc_id=4531,centro_id=1,clie_id=5594,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='',protoop_examen='',protoop_procedimiento='ASEPSIA- ANTISEPSIA
+COLOCACION DE CAMPOS
+DIERESIS DESCRITA
+INFILTRACION CON SOLUCION DE KLEIN
+REALIZACION DE LIPOSUCCION CORPORAL ESPALDA 1300 cc . FRENTE 2800CC  TOTAL 4200
+COLOCACION DE LIPOINJERTO GRASO EN GLUTEOS DE 160CC CADA LADO
+CIERRE DE INCISIONES
+PASE A RECUPERACION',protoop_proyectada='LIPODISTROFIA CORPORAL',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR PESANTEZ SANTIAGO',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIONES DORSALES, LUMBARES, INGUINALES, UMBILICAL, QUE COMPROMETEN PIEL Y TCS',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR MENENDEZ O.',protoop_circulante='DE TURNO',protoop_idenlace='1897',protoop_paleativa='',protoop_realizada='LIPOSUCCION CORPORAL',protoop_ayudanteuno='',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='55940117092135222182023080803223887',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-08',protoop_horainicio='12:10',protoop_horafin='15:12' where protoop_id=1416 -->2023-08-08 15:50:09

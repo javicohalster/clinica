@@ -1,0 +1,17 @@
+473-->update dns_newprotocolooperatorio set centro_id=1,clie_id=7186,atenc_id='6239',usua_id=448,protoop_tblprincipal='dns_newhospitalizacionanamesis',protoop_fecharegistro='2024-03-09 09:10:10',protoop_selectiva='',protoop_cirujanouno='DR. ANDRES ANDRADE',protoop_fechaoperacion='0000-03-09',protoop_sintesis='',protoop_idenlace='686',protoop_general='',protoop_transquirurgico='',protoop_emergencia='',protoop_cirujanodos='',protoop_horainicio='08:00',protoop_sintesisimagen='',protoop_regional='1',protoop_biopsia='0',protoop_paleativa='',protoop_ayudanteuno='DRA. PAMELA GORDILLO',protoop_horafin='09:30',protoop_sedacion='',protoop_bioresultado='',protoop_proyectada='PROCTOPEXIA + HEMORROIDECTOMIA + FISURECTOMIA + ESFINTEROTOMIA + ANOSCOPIA',protoop_ayudantedos='',protoop_examen='1',protoop_otroanestesia='',protoop_realizada='ANOCOPIA + DILATACION + PROCTOPEXIA PERINEAL + HEMORROIDECTOMIA EXTENSA + FISURECTOMIA CON ESFINTEROTOMIA',protoop_dieresis='PERIANAL EN RADIOS DE 3,5, 9',protoop_examendetalle='HEMORROIDES',protoop_tecerayudante='',protoop_patologo='',protoop_instrumentista='DE TURNO',protoop_enlace='718601100252175344820240309091010149',protoop_circulante='DE TURNO',protoop_exposicion='ANOSCOPIA',protoop_anestesiologo='DRA. ALEXANDRA NOBOA',protoop_exploracion='-PROLAPSO MUCOSA ANAL CIRCUNFERENCIAL
+- HEMORROIDES CONGESTIVAS INTERNAS Y EXTERNAS EN RADIO DE  LAS 3 Y 5 
+- ESTENOSIS ANAL LEVE
+- PRESENCIA DE FISURA ANAL EN RADIO DE LAS 3 CON EXPOSICIÓN DE ESFINTER ANAL INTERNO',protoop_ayudanteanestesia='',protoop_otrointegrante='',protoop_procedimiento='- COLOCACION DE PACIENTE EN POSICION DE NAVAJA SEVILLANA
+- SEPARACION DE GLUTEOS CON CINTA ADEHESIVA
+- ASEPSIA Y ANTISEPSOA
+- ANOSCOPIA + DILATACION DE CANAL ANAL
+- EXPLORACION DE 4 CUADRANTES
+- HALLAZGOS DESCRITOS
+- PUNTO DE FIJACION EN BASES HEMORROIDAL EN RADIO DE LAS 3 PARA HEMOSTASIA CON VICRYL 3.0. 
+- REALZIACION DE HEMORROIDECTOMIA EXTENSA + FISURECTOMIA EN ESE RADIO CON ELECTRO BISTURI CON TECNICA ABIERTA.
+- PUNTO DE FIJACION EN BASES HEMORROIDAL EN RADIO DE LAS 5 CON VICRYL 3.0, PARA HEMOSTASIA. 
+- HEMORROIDECTOMIA EXTENSA INTERNA Y EXTERNA CON ELECTRO BISTURI CON TECNICA ABIERTA.
+- PROCTOPEXIA PERINEAL EN RADIOS DESCRITOS CON VICRYL 3.O
+- ESFINTEROTOMIA LATERAL INTERNA IZQUIERDA DE APROXIMADAMENTE 4 MM SINTESIS DE MUCOSA CON VICRY 3.0 EN MISMO RADIO 
+- COLOCACION DE APOSITO HEMOSTATICO EN CANAL ANAL
+- COLOCACION DE APOSITOS DE GASA.',protoop_complicaciones='NINGUNA',protoop_perdida='10 ML',protoop_sangrado='',protoop_protesico='0',anam_enlace='' where protoop_id=961 -->2024-03-09 09:58:58

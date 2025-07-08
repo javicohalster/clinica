@@ -1,0 +1,97 @@
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='value,etiqueta',fie_evitaambiguo='',fie_group='2',fie_groupprint='2',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='anam_respiratorio',fie_obl=0,fie_orden=5,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='where value=',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='gogess_sino',fie_tactive=1,fie_tblcombogrid='',fie_title='Sintomatico Respiratorio:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='select',fie_typereport='',fie_typeweb='select',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_anamesisexamenfisico',ttbl_id=0 where fie_id=6651 
+update dns_formatoreceta set emp_id=1,forrect_grafico1='36872DVHDI20190222.logoreceta.png',forrect_grafico2='',forrect_grafico3='',forrect_grafico4='',forrect_nombre='TERAPIAS',forrect_texto='<table border="0" style="height:654px; width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<div style="text-align: center;">-grafico1-</div>
+			</td>
+			<td>
+			<div style="text-align: center;"><strong>CONSEJO PROVINCIAL DE PICHINCHA</strong><br />
+			PICHINCHA HUMANA</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div class="css_receta" style="text-align: right;">&nbsp;</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>UNIDAD DE SALUD:</strong> -centro-<br />
+			<strong>NOMBRE:</strong> -clie_nombre- -clie_apellido-<br />
+			<strong>EDAD:</strong> -edad-<br />
+			<strong>No. H.C.L o C.I.:</strong> -clie_rucci-<br />
+			<strong>FECHA:</strong> -fecha-</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>TERAPIAS</strong><br />
+			-receta-</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><strong>M&eacute;dico:</strong> -usua_nombre- -usua_apellido-<br />
+			<strong>C&oacute;digo Profesional:</strong> -usua_msp-</p>
+
+			<p><br />
+			<strong>Firma:</strong>.........................................................</p>
+
+			<p><br />
+			<strong>Sello:</strong>..........................................................</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div><br />
+			&nbsp;</div>
+			</td>
+		</tr>
+	</tbody>
+</table>' where forrect_id=2 
+update dns_formatoreceta set emp_id=1,forrect_grafico1='86363OKCW20200304.47753VQFJS20200301.logoreceta.png',forrect_grafico2='',forrect_grafico3='',forrect_grafico4='',forrect_nombre='TERAPIAS',forrect_texto='<table border="0" style="height:654px; width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<div style="text-align: center;">-grafico1-</div>
+			</td>
+			<td>
+			<div style="text-align: center;"><strong>CONSEJO PROVINCIAL DE PICHINCHA</strong><br />
+			PICHINCHA HUMANA</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div class="css_receta" style="text-align: right;">&nbsp;</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>UNIDAD DE SALUD:</strong> -centro-<br />
+			<strong>NOMBRE:</strong> -clie_nombre- -clie_apellido-<br />
+			<strong>EDAD:</strong> -edad-<br />
+			<strong>No. H.C.L o C.I.:</strong> -clie_rucci-<br />
+			<strong>FECHA:</strong> -fecha-</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>TERAPIAS</strong><br />
+			-receta-</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><strong>M&eacute;dico:</strong> -usua_nombre- -usua_apellido-<br />
+			<strong>C&oacute;digo Profesional:</strong> -usua_msp-</p>
+
+			<p><br />
+			<strong>Firma:</strong>.........................................................</p>
+
+			<p><br />
+			<strong>Sello:</strong>..........................................................</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<div><br />
+			&nbsp;</div>
+			</td>
+		</tr>
+	</tbody>
+</table>' where forrect_id=2 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='',fie_activarbuscador='',fie_activarprt=0,fie_active=0,fie_activelista=0,fie_activesearch=0,fie_activogrid='',fie_alias='',fie_anchocolomna='12',fie_archivo='',fie_archivogrid='gridstandarblock.php',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='fisiot_enlace',fie_campofecharegistro='gfisioterapia_fecharegistro',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='gfisioterapia_fecha,gfisioterapia_hora,gfisioterapia_evolucion,gfisioterapia_fecharegistro',fie_camposobligatoriosgrid='gfisioterapia_fecha,gfisioterapia_hora,gfisioterapia_evolucion',fie_datadb='',fie_evitaambiguo='',fie_group='3',fie_groupprint='3',fie_guarda=0,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=4,fie_mascara='',fie_naleatorio=0,fie_name='fisiot_gridevaluacion',fie_obl=0,fie_orden=1,fie_ordengrid=3,fie_placeholder='',fie_sendvar='fisiot_enlacex',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='cssobj',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='gfisioterapia_id',fie_tablasubgrid='pichinchahumana_extension.dns_gridfisioterapia',fie_tablasubgridcampos='gfisioterapia_fecha,gfisioterapia_hora,gfisioterapia_evolucion',fie_tabledb='dns_gridfisioterapia',fie_tactive=0,fie_tblcombogrid='',fie_title='INFORME DE TERAPIA',fie_titlereporte='',fie_tituloscamposgrid='Fecha,Hora,Evolucion,Fecha Registro',fie_txtextra='',fie_txtizq='',fie_type='campogrid',fie_typereport='',fie_typeweb='campogrid',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='',fie_y=0,tab_name='dns_fisioterapia',ttbl_id=0 where fie_id=5184 
+update gogess_sisfield set field_flags='',field_maxcaracter='',field_type='date',fie_activarbuscador='',fie_activarprt=1,fie_active=1,fie_activelista=1,fie_activesearch=1,fie_activogrid='',fie_alias='',fie_anchocolomna='6',fie_archivo='',fie_archivogrid='',fie_attrib='',fie_campoafecta='',fie_campodevuelve='',fie_campoenlacesub='',fie_campofecharegistro='',fie_campoidcombogrid='',fie_camporecibe='',fie_camposbusca='',fie_camposgridselect='',fie_camposobligatoriosgrid='',fie_datadb='',fie_evitaambiguo='',fie_group='3',fie_groupprint='3',fie_guarda=1,fie_iconoarchivo='',fie_inactivoftabla='0',fie_lencampo='25',fie_limpiarengrid='',fie_lineas=0,fie_mascara='',fie_naleatorio=0,fie_name='anam_fup',fie_obl=0,fie_orden=14,fie_ordengrid=0,fie_placeholder='',fie_sendvar='',fie_sql='',fie_sqlconexiontabla='',fie_sqlorder='',fie_style='cmbforms',fie_styleobj='form-control',fie_tabindex=0,fie_tablabusca='',fie_tablac='',fie_tablasubcampoid='',fie_tablasubgrid='',fie_tablasubgridcampos='',fie_tabledb='dns_anamesisexamenfisico',fie_tactive=1,fie_tblcombogrid='',fie_title='Fecha último parto:',fie_titlereporte='',fie_tituloscamposgrid='',fie_txtextra='',fie_txtizq='',fie_type='fechabloqueopeke',fie_typereport='',fie_typeweb='fechabloqueopeke',fie_valiextra='',fie_value='',fie_verificac=0,fie_x=0,fie_xmlactivo=0,fie_xmlformato='NULL',fie_y=0,tab_name='dns_anamesisexamenfisico',ttbl_id=0 where fie_id=4800 

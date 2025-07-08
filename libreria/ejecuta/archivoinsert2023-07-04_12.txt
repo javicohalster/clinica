@@ -1,0 +1,198 @@
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='74483RLDEM20230504.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='492.7',compra_nummodif='',compra_fechaemiret='2023-05-04',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-05-042786453CFDDAFC5C',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='492.7',emp_id=1,compra_cuentacajachica='',proveevar_id=3275,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-100-000000002',compra_autorizacion='0305202301172585510800120011000000000028551271418',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-03',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='HONRARIOS ENFERMERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-05-04 10:31:41',usua_id=278,compra_tipo=0,compra_enlace='2023-05-042786453CFDDAFC5C',compra_contabilizado=0,compra_claveacceso='0305202301172585510800120011000000000028551271418',compra_anulado=0,compra_parainv=0 where compra_id=1490 -->2023-07-04 06:12:52
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='74483RLDEM20230504.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='492.7',compra_nummodif='',compra_fechaemiret='2023-05-04',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-05-042786453CFDDAFC5C',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='492.7',emp_id=1,compra_cuentacajachica='',proveevar_id=3275,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-100-000000002',compra_autorizacion='0305202301172585510800120011000000000028551271418',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-03',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='HONRARIOS ENFERMERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-05-04 10:31:41',usua_id=278,compra_tipo=0,compra_enlace='2023-05-042786453CFDDAFC5C',compra_contabilizado=0,compra_claveacceso='0305202301172585510800120011000000000028551271418',compra_anulado=0,compra_parainv=0 where compra_id=1490 -->2023-07-04 06:12:52
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='74483RLDEM20230504.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='492.7',compra_nummodif='',compra_fechaemiret='2023-05-04',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-05-042786453CFDDAFC5C',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='492.7',emp_id=1,compra_cuentacajachica='',proveevar_id=3275,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-100-000000002',compra_autorizacion='0305202301172585510800120011000000000028551271418',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-03',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='HONRARIOS ENFERMERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-05-04 10:31:41',usua_id=278,compra_tipo=0,compra_enlace='2023-05-042786453CFDDAFC5C',compra_contabilizado=0,compra_claveacceso='0305202301172585510800120011000000000028551271418',compra_anulado=0,compra_parainv=0 where compra_id=1490 -->2023-07-04 06:12:52
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:25:42
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:25:42
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:25:42
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:26:25
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:26:25
+2-->update dns_compras set compra_subtotaliva='0',compra_xml='',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='542.81',compra_nummodif='',compra_fechaemiret='2023-06-03',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-03278647B53022B900',compra_ndocumentoret='',compra_iva='0',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='542.81',emp_id=1,compra_cuentacajachica='',proveevar_id=37,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=0,compra_ndocumento='',compra_nfactura='001-001-000000011',compra_autorizacion='1130128721',centroor_id=0,compra_origenotros='',compra_fecha='2023-05-04',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERIA MES DE ABRIL',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-03 09:49:38',usua_id=278,compra_tipo=0,compra_enlace='2023-06-03278647B53022B900',compra_contabilizado=0,compra_claveacceso='',compra_anulado=0,compra_parainv=0 where compra_id=1870 -->2023-07-04 06:26:25
+2-->update lpin_cobropago set ttra_id=1,frocob_id=1,subfp_id=0,crb_fecha='2023-03-30',proveep_id=3017,crb_paguesealaorden='',crb_cuenta='1.1.1.1',crb_ncomprobante='Cobro en Efectivo',crb_ncheque='',crb_fechacheque=NULL,cuentb_id=0,lote_id=0,usua_id=197,crb_fecharegistro='2023',crb_efectivo=1,crb_descripcion='Cobro en Efectivo',crb_enlace='2023-07-0419764A41C935EE3B',doccab_id='016425E5B804A7A19420230330024040451',compra_id=0 where crb_id=990 -->2023-07-04 09:12:01
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3994,centro_id=1,clie_id=5128,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE HACE 6 AÑOS POR ESTUDIO Y TRABAJO LEVANTA PESO SIN MEDIDAS ADECUADAS, INICIA CON DOLOR LUMBAR A NIVEL DE L4-L5 Y L5-S1 QUE SE IRRADIA HACIA MIEMBRO INFERIOR DERECHO   QUE AUMENTA HACE 3 AÑOS POR LO QUE ACUDE A MEDICO ESPECIALISTA, QUE INDICA RESOLUCIÓN QUIRÚRGICA PERO POR MOTIVOS DE ESTUDIO PACIENTE POSPONE TRATAMIENTO. PACIENTE   SE MANTENÍA EN CONTROLES EN HOSPITAL DE LA POLICÍA NACIONAL QUITO, PERO AL NO TENER UNA RESOLUCIÓN RÁPIDA DE LA PATOLOGÍA ACUDE DE MANERA PARTICULAR A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-06-16 11:42:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512801172130103236520230616114230202',anam_cirugia='DISECTOMIA ENDOSCOPICA DE 2 NIVELES',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR RENATO GUERRA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-06-16',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1700 -->2023-07-04 11:24:34
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-16 15:22:09',atenc_id=3994,centro_id=1,clie_id=5128,protoop_exposicion='TORRE DE ARTROSCOPIA
+EQUIPO VERTEBRIS LUMBAR
+IDI TODOS LOS TIEMPOS QUIRURGICOS',protoop_exploracion='HERNIA CENTRAL CON TEJIDO FIBROSO DE L5S1 CON COMPRESION DE TEJIDO NERVIOSO
+HERNIA CENTRO DERECHA PROTRUIDA CON ESTRECHAMIENTO DE CANAL Y COMPRESION DE RAICES CON TEJIDO HIPERHEMICO EN FOCO DE L4L5',protoop_examen='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L4L5
+5.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR DERECHA DE L4L5
+6.	COLOCACIONDE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+7.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+8.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE VENTANA Y LIGAMENTO AMARILLO
+9.	FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+10.	HEMI FACETECTOMIA  Y HEMILAMINECTOMIA CON KERRISON
+11.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+12.	LAMINECTOMIA Y FORAMINECTOMIA CON AMPLIACION DE VENTANA CON KERRISON ENDOSCOPICA
+13.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+14.	LOCALIZACION DEL HOMBRO DE LA RAIZ  Y SEPARACION HACIA MEDIAL COM EL BISEL DEL CAMPO DE TRABAJO
+15.	ANULOTOMIA CON BASKET
+16.	DISCECTOMIA MECANICA
+17.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+18.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+19.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L5S1
+20.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR DERECHA DE L5S1
+21.	COLOCACIONDE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+22.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+23.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE VENTANA Y LIGAMENTO AMARILLO
+24.	FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+25.	HEMI FACETECTOMIA  Y HEMILAMINECTOMIA CON KERRISON
+26.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+27.	LAMINECTOMIA Y FORAMINECTOMIA CON AMPLIACION DE VENTANA CON KERRISON ENDOSCOPICA
+28.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+29.	LOCALIZACION DEL HOMBRO DE LA RAIZ  Y SEPARACION HACIA MEDIAL COM EL BISEL DEL CAMPO DE TRABAJO
+30.	ANULOTOMIA CON BASKET
+31.	DISCECTOMIA MECANICA
+32.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+33.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+34.	RETIRO DE ENDOSCOPIO 
+35.	SINTESIS',protoop_proyectada='DISCECTOMIA ENDOSCOPICA L4L5 L5S1',protoop_sintesis='PIEL NYLON 2..0',protoop_cirujanouno='DR RENATO GUERRA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ENDOSCOPICOS LUMBARES POSTERIORES INTERLAMINARES L4L5 L5S1 DERECHOS',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='1700',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='512801171442027818120230616032209488',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-06-16',protoop_horainicio='14:00',protoop_horafin='15:30' where protoop_id=1127 -->2023-07-04 11:24:37
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-16 15:22:09',atenc_id=3994,centro_id=1,clie_id=5128,protoop_exposicion='TORRE DE ARTROSCOPIA
+EQUIPO VERTEBRIS LUMBAR
+IDI TODOS LOS TIEMPOS QUIRURGICOS',protoop_exploracion='HERNIA CENTRAL CON TEJIDO FIBROSO DE L5S1 CON COMPRESION DE TEJIDO NERVIOSO
+HERNIA CENTRO DERECHA PROTRUIDA CON ESTRECHAMIENTO DE CANAL Y COMPRESION DE RAICES CON TEJIDO HIPERHEMICO EN FOCO DE L4L5',protoop_examen='',protoop_procedimiento='1.	PACIENTE EN DE CUBITO PRONO
+2.	ASEPSIA /  ANTISEPSIA
+3.	CAMPOS ESTERILES Y ESTERIDRAPE 
+4.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L4L5
+5.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR DERECHA DE L4L5
+6.	COLOCACIONDE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+7.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+8.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE VENTANA Y LIGAMENTO AMARILLO
+9.	FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+10.	HEMI FACETECTOMIA  Y HEMILAMINECTOMIA CON KERRISON
+11.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+12.	LAMINECTOMIA Y FORAMINECTOMIA CON AMPLIACION DE VENTANA CON KERRISON ENDOSCOPICA
+13.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+14.	LOCALIZACION DEL HOMBRO DE LA RAIZ  Y SEPARACION HACIA MEDIAL COM EL BISEL DEL CAMPO DE TRABAJO
+15.	ANULOTOMIA CON BASKET
+16.	DISCECTOMIA MECANICA
+17.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+18.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+19.	INFILTRACION CON DEPOMEDROL 10CC GUIADO CON FLUOROSCOPIA L5S1
+20.	COLOCACION DE DILATADOR EN VENTANA INTERLAMINAR DERECHA DE L5S1
+21.	COLOCACIONDE CAMPO DE TRABAJO EN BISEL GUIADO CON FLUOROSCOPIA
+22.	INTRODUCCION DE OPTICA DE TRABAJO CON IRRIGACION TODOS LOS TIEMPOS 
+23.	LIMPIEZA DE TEJIDO MUSCULAR Y PREPARACION DE VENTANA Y LIGAMENTO AMARILLO
+24.	FLAVECTOMIA CON BARKET ENDOSCOPICA HASTA ABRIR CANAL
+25.	HEMI FACETECTOMIA  Y HEMILAMINECTOMIA CON KERRISON
+26.	RETIRO DE GRASA PERIDULAR CON PINZAS DE DISCO ENDOSCOPICAS LARGAS CORTA DOBLE
+27.	LAMINECTOMIA Y FORAMINECTOMIA CON AMPLIACION DE VENTANA CON KERRISON ENDOSCOPICA
+28.	HEMOSTASIA DE PLEXO LATAERAL CON RADIOFRECUENCIA 
+29.	LOCALIZACION DEL HOMBRO DE LA RAIZ  Y SEPARACION HACIA MEDIAL COM EL BISEL DEL CAMPO DE TRABAJO
+30.	ANULOTOMIA CON BASKET
+31.	DISCECTOMIA MECANICA
+32.	TERMONUCLEOPLASTIA CON RADIOFRECUENCIA
+33.	COLOCACION DE DEPOMEDROL 40MG EN AREA CRUENTA CON SONDA DE ALIMENTACION N8
+34.	RETIRO DE ENDOSCOPIO 
+35.	SINTESIS',protoop_proyectada='DISCECTOMIA ENDOSCOPICA L4L5 L5S1',protoop_sintesis='PIEL NYLON 2..0',protoop_cirujanouno='DR RENATO GUERRA',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ENDOSCOPICOS LUMBARES POSTERIORES INTERLAMINARES L4L5 L5S1 DERECHOS',protoop_selectiva='1',protoop_instrumentista='ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. EDGAR RUIZ',protoop_circulante='JAQUELINE TORRES',protoop_idenlace='1700',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR CALERO MANOLO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='512801171442027818120230616032209488',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-06-16',protoop_horainicio='14:00',protoop_horafin='15:30' where protoop_id=1127 -->2023-07-04 11:24:37
+250-->update dns_hospitalanamesis set usua_id=365,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3994,centro_id=1,clie_id=5128,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE HACE 6 AÑOS POR ESTUDIO Y TRABAJO LEVANTA PESO SIN MEDIDAS ADECUADAS, INICIA CON DOLOR LUMBAR A NIVEL DE L4-L5 Y L5-S1 QUE SE IRRADIA HACIA MIEMBRO INFERIOR DERECHO   QUE AUMENTA HACE 3 AÑOS POR LO QUE ACUDE A MEDICO ESPECIALISTA, QUE INDICA RESOLUCIÓN QUIRÚRGICA PERO POR MOTIVOS DE ESTUDIO PACIENTE POSPONE TRATAMIENTO. PACIENTE   SE MANTENÍA EN CONTROLES EN HOSPITAL DE LA POLICÍA NACIONAL QUITO, PERO AL NO TENER UNA RESOLUCIÓN RÁPIDA DE LA PATOLOGÍA ACUDE DE MANERA PARTICULAR A ESTA CASA DE SALUD PARA RESOLUCIÓN QUIRÚRGICA.',anam_planes='RESOLUCION QUIRURGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='',anam_fecharegistro='2023-06-16 11:42:30',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='512801172130103236520230616114230202',anam_cirugia='DISECTOMIA ENDOSCOPICA DE 2 NIVELES',anam_cesareas='',anam_gesta='',anam_especialidad='TRAUMATOLOGIA',anam_tratante='DR RENATO GUERRA',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR MANOLO CALERO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-06-16',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1700 -->2023-07-04 11:25:03
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3895,centro_id=13,clie_id=5031,anam_centrorefiere='PRIVADO',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CONSCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS. MO: SEMIHÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RSCSRS, NO SOPLOS. PULMONES: MV CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, A LA PALPACIÓN NO PERITONISMO, RUIDOS HIDROAÉREOS PRESENTES.  RIG: DIURESIS ESPONTÁNEA. EXTREMIDADES: SIMÉTRICAS NO EDEMAS NEUROVASCULAR CONSERVADO. MIEMBRO INFERIOR IZQUIERDO: DOLOR A LA FLEXIÓN, ABDUCCIÓN, Y ADUCCIÓN.',anam_planes='1 INGRESO A TRAUMATOLOGÍA HAB 305
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DE DR JAVIER TORRES.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA POR DOLOR DE RODILLA',anam_partos='1',anam_fecharegistro='2023-06-04 07:18:50',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='503101100388420036220230604071850363',anam_cirugia='ARTROSCOPIA DE RODILLA IZQUIERDA',anam_cesareas='0',anam_gesta='1',anam_especialidad='TRAUAMTOLOGIA',anam_tratante='DR JAVIER TORRES',anam_hijosvivos='1',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-06-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1680 -->2023-07-04 13:17:46
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-04 11:42:15',atenc_id=3895,centro_id=13,clie_id=5031,protoop_exposicion='TORRE DE ARTROSCOPIA Y BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_exploracion='ROTURA TOTAL DE LCA EN INSERCION FEMORAL
+ROTURA TOTAL DE COLATERAL MEDIAL',protoop_examen='',protoop_procedimiento='PACIENTE EN DECUBITO SUPINO
+ASEPSIA/ ANTISEPSIA
+CAMPOS ESTERILES
+INFILTRACION CON MARCAINA 10CC
+PORTALES ANTERIORES MEDIAL Y LATERAL
+ARTROSCOPIA DIAGNOSTICA
+RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+LIMPIEZA DE INTERCONDILO CON SHAVER Y RADIOGRECUENCIA
+INSICION DOS
+COSECHA DE INJERTO DE ISQUIOTIBIALES 
+PREPARACION DE INJERTO Y ENDOBOTON 
+REALIZACION DE TUNELES FEMORAL Y TIBIAL 7MM
+PASO RETROGRADO DE INJERTO Y ANCLAJE DE ENDOBOTON EN CORTICAL EXTERNA DE FEMUR
+RETENSION DE INJERTO
+FIJACION TIBIAL CON TORNILLO DE INERFERNCIA DE PEEK 8MM*30
+PASO DE SUTURA DE ALTA RESISTENCIA EN BORDES DE COLATERAL MEDIAL CON TECNICA DE SUSTENTACION EN EL HILO
+ANUDADO DE LOS DOS EXTREMOS DE SUTURA
+REFORZAMIENTO CON VICRYL 
+COMPROVACION DE ESTABILIDAD DE FORMA MANUAL 
+SINTESIS',protoop_proyectada='ARTROSCOPIA DE RODILLA',protoop_sintesis='APONEUROSIS VICRYL 1.0
+PIEL NYLON 2.0',protoop_cirujanouno='DR. JAVIER TORRES',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIORES MEDIAL Y LATERAL
+INCISION OBLICUA ANTERO MEDIAL DE 5CM DE PIERNA IZQUIERDA',protoop_selectiva='',protoop_instrumentista='LADO. ANGEL',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. RENATO GUERRA',protoop_circulante='SRTA. IRENE  ROJAMIN',protoop_idenlace='1680',protoop_paleativa='',protoop_realizada='IDEM + PLASTIA LCA + OLASTIA DE COLATERAL MEDIAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='503101171442027818120230604114215422',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-06-04',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1087 -->2023-07-04 13:17:48
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-04 11:42:15',atenc_id=3895,centro_id=13,clie_id=5031,protoop_exposicion='TORRE DE ARTROSCOPIA Y BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_exploracion='ROTURA TOTAL DE LCA EN INSERCION FEMORAL
+ROTURA TOTAL DE COLATERAL MEDIAL',protoop_examen='',protoop_procedimiento='PACIENTE EN DECUBITO SUPINO
+ASEPSIA/ ANTISEPSIA
+CAMPOS ESTERILES
+INFILTRACION CON MARCAINA 10CC
+PORTALES ANTERIORES MEDIAL Y LATERAL
+ARTROSCOPIA DIAGNOSTICA
+RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+LIMPIEZA DE INTERCONDILO CON SHAVER Y RADIOGRECUENCIA
+INSICION DOS
+COSECHA DE INJERTO DE ISQUIOTIBIALES 
+PREPARACION DE INJERTO Y ENDOBOTON 
+REALIZACION DE TUNELES FEMORAL Y TIBIAL 7MM
+PASO RETROGRADO DE INJERTO Y ANCLAJE DE ENDOBOTON EN CORTICAL EXTERNA DE FEMUR
+RETENSION DE INJERTO
+FIJACION TIBIAL CON TORNILLO DE INERFERNCIA DE PEEK 8MM*30
+PASO DE SUTURA DE ALTA RESISTENCIA EN BORDES DE COLATERAL MEDIAL CON TECNICA DE SUSTENTACION EN EL HILO
+ANUDADO DE LOS DOS EXTREMOS DE SUTURA
+REFORZAMIENTO CON VICRYL 
+COMPROVACION DE ESTABILIDAD DE FORMA MANUAL 
+SINTESIS',protoop_proyectada='ARTROSCOPIA DE RODILLA',protoop_sintesis='APONEUROSIS VICRYL 1.0
+PIEL NYLON 2.0',protoop_cirujanouno='DR. JAVIER TORRES',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIORES MEDIAL Y LATERAL
+INCISION OBLICUA ANTERO MEDIAL DE 5CM DE PIERNA IZQUIERDA',protoop_selectiva='',protoop_instrumentista='LADO. ANGEL',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. RENATO GUERRA',protoop_circulante='SRTA. IRENE  ROJAMIN',protoop_idenlace='1680',protoop_paleativa='',protoop_realizada='IDEM + PLASTIA LCA + OLASTIA DE COLATERAL MEDIAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='503101171442027818120230604114215422',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-06-04',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1087 -->2023-07-04 13:17:48
+250-->update dns_hospitalanamesis set usua_id=362,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=3895,centro_id=13,clie_id=5031,anam_centrorefiere='PRIVADO',anam_consentimientoinformado='',anam_emferpactual='PACIENTE CONSCIENTE, ORIENTADA, HIDRATADA, AFEBRIL, GLASGOW 15/15. CABEZA: NORMO CEFÁLICA, OJOS: PUPILAS ISOCÓRICAS, NORMORREACTIVAS. MO: SEMIHÚMEDAS. CUELLO: NO ADENOPATÍAS CERVICALES. TÓRAX: SIMÉTRICO, EXPANSIBILIDAD CONSERVADA. CORAZÓN: RSCSRS, NO SOPLOS. PULMONES: MV CONSERVADO, NO RUIDOS SOBREAÑADIDOS. ABDOMEN: SUAVE, DEPRESIBLE, NO DOLOROSO, A LA PALPACIÓN NO PERITONISMO, RUIDOS HIDROAÉREOS PRESENTES.  RIG: DIURESIS ESPONTÁNEA. EXTREMIDADES: SIMÉTRICAS NO EDEMAS NEUROVASCULAR CONSERVADO. MIEMBRO INFERIOR IZQUIERDO: DOLOR A LA FLEXIÓN, ABDUCCIÓN, Y ADUCCIÓN.',anam_planes='1 INGRESO A TRAUMATOLOGÍA HAB 305
+2 NADA POR VÍA ORAL
+3 CONTROL DE SIGNOS VITALES
+5 CANALIZAR VÍA PERIFÉRICA 
+6 FIRMAR CONSENTIMIENTOS INFORMADOS
+7 CHEQUEO PREANESTÉSICO
+8 PASE AL QUIRÓFANO AL LLAMADO
+9 NOVEDADES
+10 ÓRDENES DE DR JAVIER TORRES.',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='16',anam_motivoconsulta='CIRUGIA PROGRAMADA POR DOLOR DE RODILLA',anam_partos='1',anam_fecharegistro='2023-06-04 07:18:50',anam_observacionap='',anam_menopausiaedad='0',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='503101100388420036220230604071850363',anam_cirugia='ARTROSCOPIA DE RODILLA IZQUIERDA',anam_cesareas='0',anam_gesta='1',anam_especialidad='TRAUAMTOLOGIA',anam_tratante='DR JAVIER TORRES',anam_hijosvivos='1',anam_ayudante='DR. RENATO GUERRA',anam_fum=NULL,anam_anestesiologo='DR. EDUARDO SANTANA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-06-04',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1680 -->2023-07-04 13:20:29
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-04 11:42:15',atenc_id=3895,centro_id=13,clie_id=5031,protoop_exposicion='TORRE DE ARTROSCOPIA Y BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_exploracion='ROTURA TOTAL DE LCA EN INSERCION FEMORAL
+ROTURA TOTAL DE COLATERAL MEDIAL',protoop_examen='',protoop_procedimiento='PACIENTE EN DECUBITO SUPINO
+ASEPSIA/ ANTISEPSIA
+CAMPOS ESTERILES
+INFILTRACION CON MARCAINA 10CC
+PORTALES ANTERIORES MEDIAL Y LATERAL
+ARTROSCOPIA DIAGNOSTICA
+RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+LIMPIEZA DE INTERCONDILO CON SHAVER Y RADIOGRECUENCIA
+INSICION DOS
+COSECHA DE INJERTO DE ISQUIOTIBIALES 
+PREPARACION DE INJERTO Y ENDOBOTON 
+REALIZACION DE TUNELES FEMORAL Y TIBIAL 7MM
+PASO RETROGRADO DE INJERTO Y ANCLAJE DE ENDOBOTON EN CORTICAL EXTERNA DE FEMUR
+RETENSION DE INJERTO
+FIJACION TIBIAL CON TORNILLO DE INERFERNCIA DE PEEK 8MM*30
+PASO DE SUTURA DE ALTA RESISTENCIA EN BORDES DE COLATERAL MEDIAL CON TECNICA DE SUSTENTACION EN EL HILO
+ANUDADO DE LOS DOS EXTREMOS DE SUTURA
+REFORZAMIENTO CON VICRYL 
+COMPROVACION DE ESTABILIDAD DE FORMA MANUAL 
+SINTESIS',protoop_proyectada='ARTROSCOPIA DE RODILLA',protoop_sintesis='APONEUROSIS VICRYL 1.0
+PIEL NYLON 2.0',protoop_cirujanouno='DR. JAVIER TORRES',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIORES MEDIAL Y LATERAL
+INCISION OBLICUA ANTERO MEDIAL DE 5CM DE PIERNA IZQUIERDA',protoop_selectiva='',protoop_instrumentista='LADO. ANGEL',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. RENATO GUERRA',protoop_circulante='SRTA. IRENE  ROJAMIN',protoop_idenlace='1680',protoop_paleativa='',protoop_realizada='IDEM + PLASTIA LCA + OLASTIA DE COLATERAL MEDIAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='503101171442027818120230604114215422',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-06-04',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1087 -->2023-07-04 13:20:31
+250-->update dns_protocolooperatorio set usua_id=181,protoop_fecharegistro='2023-06-04 11:42:15',atenc_id=3895,centro_id=13,clie_id=5031,protoop_exposicion='TORRE DE ARTROSCOPIA Y BOMBA DE IRRIGACION TODOS LOS TIEMPOS',protoop_exploracion='ROTURA TOTAL DE LCA EN INSERCION FEMORAL
+ROTURA TOTAL DE COLATERAL MEDIAL',protoop_examen='',protoop_procedimiento='PACIENTE EN DECUBITO SUPINO
+ASEPSIA/ ANTISEPSIA
+CAMPOS ESTERILES
+INFILTRACION CON MARCAINA 10CC
+PORTALES ANTERIORES MEDIAL Y LATERAL
+ARTROSCOPIA DIAGNOSTICA
+RECONOCIMIENTO DE HALLAZGOS DESCRITOS
+LIMPIEZA DE INTERCONDILO CON SHAVER Y RADIOGRECUENCIA
+INSICION DOS
+COSECHA DE INJERTO DE ISQUIOTIBIALES 
+PREPARACION DE INJERTO Y ENDOBOTON 
+REALIZACION DE TUNELES FEMORAL Y TIBIAL 7MM
+PASO RETROGRADO DE INJERTO Y ANCLAJE DE ENDOBOTON EN CORTICAL EXTERNA DE FEMUR
+RETENSION DE INJERTO
+FIJACION TIBIAL CON TORNILLO DE INERFERNCIA DE PEEK 8MM*30
+PASO DE SUTURA DE ALTA RESISTENCIA EN BORDES DE COLATERAL MEDIAL CON TECNICA DE SUSTENTACION EN EL HILO
+ANUDADO DE LOS DOS EXTREMOS DE SUTURA
+REFORZAMIENTO CON VICRYL 
+COMPROVACION DE ESTABILIDAD DE FORMA MANUAL 
+SINTESIS',protoop_proyectada='ARTROSCOPIA DE RODILLA',protoop_sintesis='APONEUROSIS VICRYL 1.0
+PIEL NYLON 2.0',protoop_cirujanouno='DR. JAVIER TORRES',protoop_complicaciones='NO',protoop_diagnostico='',protoop_dieresis='PORTALES ANTERIORES MEDIAL Y LATERAL
+INCISION OBLICUA ANTERO MEDIAL DE 5CM DE PIERNA IZQUIERDA',protoop_selectiva='',protoop_instrumentista='LADO. ANGEL',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='1',protoop_cirujanodos='DR. RENATO GUERRA',protoop_circulante='SRTA. IRENE  ROJAMIN',protoop_idenlace='1680',protoop_paleativa='',protoop_realizada='IDEM + PLASTIA LCA + OLASTIA DE COLATERAL MEDIAL',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='503101171442027818120230604114215422',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='RAQUIDEA',protoop_fechaoperacion='2023-06-04',protoop_horainicio='09:55',protoop_horafin='11:55' where protoop_id=1087 -->2023-07-04 13:20:31

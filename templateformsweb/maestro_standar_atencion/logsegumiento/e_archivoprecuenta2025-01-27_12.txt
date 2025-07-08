@@ -1,0 +1,1 @@
+538-->insert into dns_precuenta (precu_observacion,precu_fechainicio,precu_fechafinal,precu_activo,convepr_id,categesp_id,especipr_id,clie_id,atenc_enlace,precu_fecharegistro,usua_id) values ('CONSULTA','2025-01-27','','1','7','2','19','10463','01172509115942720250125092857126','2025-01-27 09:32:44','538')-->2025-01-27 09:32:44

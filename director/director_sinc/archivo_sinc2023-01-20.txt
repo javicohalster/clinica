@@ -1,0 +1,4 @@
+update gogess_sisfield set fie_title='Toma del total de medicamentos el precio:' where fie_id='10330';
+update gogess_sisfield set field_type='int' where fie_id='10330';
+update gogess_sisfield set fie_type='select' where fie_id='10330';
+update gogess_sisfield set fie_typeweb='select' where fie_id='10330';

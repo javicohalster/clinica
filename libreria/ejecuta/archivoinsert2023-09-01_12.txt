@@ -1,0 +1,176 @@
+250-->update dns_hospitalanamesis set usua_id=196,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4766,centro_id=1,clie_id=5791,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 53 AÑOS NACIDA EN PELILEO RESIDENTE EN GUAMBALO, MESTIZA, CASADA, BACHILLER, AVUCULTORA, DIESTRA, CATOLICA, TIPO DE SANGRE ORH+. COMO ANTECEDENTES DE IMPORTANCIA DEPRESION EN TRATAMIENTO REFIERE NO SENTIRSE A GUSTO CON APARIENCIA CORPORAL POR LO QUE CONSULTA A MEDICO ESPECIALISTA Y PAUTA PROCEDIMIENTO QUIRURGICO POR LO QUE INGRESA',anam_planes='1 INGRESO A HOSPITALIZACION
+2 NADA POR VIA ORAL
+3 CONTROL DE SIGNOS VITALES
+4 CHEQUEO PREANESTESICO
+5 FIRMAR CONSENTIMIENTOS INFORMADOS
+6 CANALIZAR VIA PERIFERICA
+7 SUBIR A QUIROFANO AL LLAMADO 
+8 ORDENES DR. GALARZA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='13 AÑOS',anam_motivoconsulta='CIRUGIA PROGRAMADA',anam_partos='1',anam_fecharegistro='2023-08-31 06:20:31',anam_observacionap='',anam_menopausiaedad='51 AÑOS',anam_nhoja='',anam_abortos='0',anam_ciclos='REGULARES',anam_enlace='57910113120287541962023083106203158',anam_cirugia='LIPOABDOMINOPLASTIA',anam_cesareas='3',anam_gesta='4',anam_especialidad='CIRUGIA PLASTICA',anam_tratante='DR. GALARZA',anam_hijosvivos='2',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='DR. MARCO BARRIONUEVO',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-31',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1973 -->2023-09-01 07:54:55
+250-->update dns_protocolooperatorio set usua_id=316,protoop_fecharegistro='2023-08-31 14:14:24',atenc_id=4766,centro_id=1,clie_id=5791,protoop_exposicion='MANUAL EL INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL  MAS FLACIDEZ  ABDOMINAL IMPORTANTE						
+2. LIPODISTROFIA TORACCICA						
+3. LIPODISTROFIA LUMBAR Y EN CINTURA						
+4. LIPOSUCCION DE 3380 CC                           COLGAJO DE 1.1KG						
+5. INJERTO GRASO GLUTEO DE 450 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR  1000 CC 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE	 2000 CC 					
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA 						
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL 						
+10. CONTROL DE HEMOSTASIA 						
+11. RECTIFICACION DE DIASTASIS DE RECTOS ABDOMINALES CON SUTURA HORIZONTAL TIPO TULUA						
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL 						
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA						
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES						
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL 						
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION						
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR  1250 CC 						
+18. LIPOASPIRACION CON MICROAIRE  1380 CC 						
+19. INJERTO DE GRASA EN GLUTEOS 450CC EN CADA LADO',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR HOLMAN GALARZA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIÓN PARA ABDOMINOPLASTIA DE 40CM',protoop_selectiva='1',protoop_instrumentista='SRTA PATRICIA LOPEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DRA STEFANY GUALPA',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1973',protoop_paleativa='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='57910110024143483162023083102142431',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-31',protoop_horainicio='08:55',protoop_horafin='14:00' where protoop_id=1524 -->2023-09-01 07:55:00
+250-->update dns_protocolooperatorio set usua_id=316,protoop_fecharegistro='2023-08-31 14:14:24',atenc_id=4766,centro_id=1,clie_id=5791,protoop_exposicion='MANUAL EL INSTRUMENTAL',protoop_exploracion='1. LIPODISTROFIA ABDOMINAL  MAS FLACIDEZ  ABDOMINAL IMPORTANTE						
+2. LIPODISTROFIA TORACCICA						
+3. LIPODISTROFIA LUMBAR Y EN CINTURA						
+4. LIPOSUCCION DE 3380 CC                           COLGAJO DE 1.1KG						
+5. INJERTO GRASO GLUTEO DE 450 CC',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA						
+2. COLOCACION DE CAMPOS QUIRUGICOS ESTERILES						
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA EN LUGARES DE INCISIONES						
+4. FORMACION DE INCISION 1 EN PARTE ANTERIOR						
+5. INFILTRACION DE SOLUCION DE CLEIN EN ABDOMEN ANTERIOR  1000 CC 						
+6. EMULSIFICACION DE GRASA CON VASER						
+7. LIPOASPIRACION CON CANULAS Y MICROAIRE	 2000 CC 					
+8. FORMACION DE INCISION DE ABDOMINOPLASTIA 						
+9. DISECCION POR PLANOS PARA FORMACION DE COLGAJO ABDOMINAL 						
+10. CONTROL DE HEMOSTASIA 						
+11. RECTIFICACION DE DIASTASIS DE RECTOS ABDOMINALES CON SUTURA HORIZONTAL TIPO TULUA						
+12, RECTIFICACION DE RECTOS ABDOMINALES CON SUTURA VERTICAL 						
+13. RETIRO DE EXCESO DE COLGAJO DE PIEL LUEGO DE MEDICION PREVIA						
+14. FORMACION Y SUJECION DE NEOOMGLIGO A APONEUROSIS DE RECTOS ABDOMINALES						
+15. SUTURA POR PLANOS DE COLGAJO ABDOMINAL 						
+16. COLOCACION DE DREN TIPO HEMOBAG Y FIJACION						
+17. INFILTRACION DE SOLUCION DE CLEIN EN PARTE POSTERIOR  1250 CC 						
+18. LIPOASPIRACION CON MICROAIRE  1380 CC 						
+19. INJERTO DE GRASA EN GLUTEOS 450CC EN CADA LADO',protoop_proyectada='LIPOABDOMINOPLASTIA',protoop_sintesis='POR PLANOS',protoop_cirujanouno='DR HOLMAN GALARZA',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='INCISIÓN PARA ABDOMINOPLASTIA DE 40CM',protoop_selectiva='1',protoop_instrumentista='SRTA PATRICIA LOPEZ',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DRA STEFANY GUALPA',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1973',protoop_paleativa='',protoop_realizada='LIPOABDOMINOPLASTIA',protoop_ayudanteuno='',protoop_anestesiologo='DR. MARCO BARRIONUEVO',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='57910110024143483162023083102142431',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-31',protoop_horainicio='08:55',protoop_horafin='14:00' where protoop_id=1524 -->2023-09-01 07:55:00
+250-->update dns_hospitalanamesis set usua_id=267,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4428,centro_id=1,clie_id=5500,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE QUE HACE  SUFRE CAÍDA DE SU PROPIA ALTURA CON TORCEDURA DE TOBILLO DERECHO POSTERIOR A LO CUAL PRESENTÓ DOLOR INTENSO, EDEMA, EQUIMOSIS Y DIFICULTAD PARA LA DEAMBULACION. ES VALORADO POR MÉDICO ESPECIALISTA, QUIEN SOLICITA EXÁMENES COMPLEMENTARIOS Y DECIDE RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='1. INGRESO A TRAUMATOLOGIA/HAB. 304 A
+    2. AMBULATORIO
+    3. NPO
+    4. CONTROL DE SIGNOS VITALES CADA 8 HORAS
+    5. CUIDADOS DE ENFERMERIA
+    6. CANALIZAR VIA PERIFÉRICA
+    7. FIRMAR CONSENTIMIENTOS INFORMADOS
+    8. PASE A QUIRÓFANO AL LLAMADO
+    9. ÓRDENES DEL DR. GUZMAN',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='',anam_motivoconsulta='DOLOR EN TOBILLO DERECHO',anam_partos='',anam_fecharegistro='2023-08-31 11:04:01',anam_observacionap='',anam_menopausiaedad='',anam_nhoja='',anam_abortos='',anam_ciclos='',anam_enlace='550001172320022426720230831110401371',anam_cirugia='',anam_cesareas='',anam_gesta='',anam_especialidad='',anam_tratante='DR. GUZMAN',anam_hijosvivos='',anam_ayudante='',anam_fum=NULL,anam_anestesiologo='',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-31',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1977 -->2023-09-01 10:27:29
+250-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2023-08-31 17:04:18',atenc_id=4428,centro_id=1,clie_id=5500,protoop_exposicion='ARTROSCOPIO
+TZEN',protoop_exploracion='1.- SINOVIAL HIPERTOFICA						
+2.- PINZAMIENTO DE TEJIDOS BLANDOS						
+3.- NO LESION OSTEOCONDRAL 						
+4.- INESTABILIDAD EN VARO						
+5.- ANTEPULSION DE ASTRAGALO SOBRE LA TIBIA (CAJON ANTERIOR)',protoop_examen='',protoop_procedimiento='1. POSICION SUPINA						
+2. ASEPSIA Y ANTISEPSIA 						
+3. COLOCACIÒN DE CAMPOS 						
+4. VACIAMIENTO Y TORNIQUETE 						
+5. DIÈRESIS DESCRITA						
+6. INTRODUCCION DE ARTROSCOPIO						
+7. EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+8. SINOVECTOMIA AMPLIA 						
+9.- VALORACION DE ESTABILIDAD Y MOVILIDAD ARTICULAR						
+10. AMPLIACION DE ESPACIO TIBIOASTRAGALINO CON SHAVER						
+11. CAUTERIZACION DE SINOVIAL CON RADIOFRECUENCIA						
+12. COLOCACION DE DOS  ANCLAS DE TITANIO DE  3,5MM 						
+13. PLICATURA DE RETINACULO LATERAL MEDIANTE PASO DE SUTURAS CON SISTEMA SUTURELASSO						
+14. COMPROBACION DE LA ESTABILIDAD						
+15. IRRIGACIOON ARTICULAR 						
+16. INFILTRACION CON 8CC DE XILOCAINA CON EPINEFRINA 						
+17. COLOCACION DE APOSITOS Y VENDAJE',protoop_proyectada='ARTROSCOPIA + SINOVECTOMIA + PALSTIA DE LIGAMENTO',protoop_sintesis='VICRYL 2.0
+NYLON 3.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NO29898',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM PARAMALEOLAR MEDIAL Y LATERAL						
+INCISION DE 3 CM A NIVEL DE EXTREMO DISTAL DE PERONE',protoop_selectiva='1',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1977',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='550001100258084118220230831050418239',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-31',protoop_horainicio='16:00',protoop_horafin='17:00' where protoop_id=1529 -->2023-09-01 10:27:31
+250-->update dns_protocolooperatorio set usua_id=182,protoop_fecharegistro='2023-08-31 17:04:18',atenc_id=4428,centro_id=1,clie_id=5500,protoop_exposicion='ARTROSCOPIO
+TZEN',protoop_exploracion='1.- SINOVIAL HIPERTOFICA						
+2.- PINZAMIENTO DE TEJIDOS BLANDOS						
+3.- NO LESION OSTEOCONDRAL 						
+4.- INESTABILIDAD EN VARO						
+5.- ANTEPULSION DE ASTRAGALO SOBRE LA TIBIA (CAJON ANTERIOR)',protoop_examen='',protoop_procedimiento='1. POSICION SUPINA						
+2. ASEPSIA Y ANTISEPSIA 						
+3. COLOCACIÒN DE CAMPOS 						
+4. VACIAMIENTO Y TORNIQUETE 						
+5. DIÈRESIS DESCRITA						
+6. INTRODUCCION DE ARTROSCOPIO						
+7. EXPLORACION E IDENTIFICACION DE HALLAZGOS						
+8. SINOVECTOMIA AMPLIA 						
+9.- VALORACION DE ESTABILIDAD Y MOVILIDAD ARTICULAR						
+10. AMPLIACION DE ESPACIO TIBIOASTRAGALINO CON SHAVER						
+11. CAUTERIZACION DE SINOVIAL CON RADIOFRECUENCIA						
+12. COLOCACION DE DOS  ANCLAS DE TITANIO DE  3,5MM 						
+13. PLICATURA DE RETINACULO LATERAL MEDIANTE PASO DE SUTURAS CON SISTEMA SUTURELASSO						
+14. COMPROBACION DE LA ESTABILIDAD						
+15. IRRIGACIOON ARTICULAR 						
+16. INFILTRACION CON 8CC DE XILOCAINA CON EPINEFRINA 						
+17. COLOCACION DE APOSITOS Y VENDAJE',protoop_proyectada='ARTROSCOPIA + SINOVECTOMIA + PALSTIA DE LIGAMENTO',protoop_sintesis='VICRYL 2.0
+NYLON 3.0',protoop_cirujanouno='DR FRANCISCO GUZMAN',protoop_complicaciones='NO29898',protoop_diagnostico='',protoop_dieresis='INCISION DE 1 CM PARAMALEOLAR MEDIAL Y LATERAL						
+INCISION DE 3 CM A NIVEL DE EXTREMO DISTAL DE PERONE',protoop_selectiva='1',protoop_instrumentista='YAJAIRTA ESPINOSA',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='DR. FRANCISCO SILVA',protoop_circulante='IBRAILA MONCAYO',protoop_idenlace='1977',protoop_paleativa='',protoop_realizada='IDEM',protoop_ayudanteuno='',protoop_anestesiologo='DR. EDUARDO SANTANA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='550001100258084118220230831050418239',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='',protoop_fechaoperacion='2023-08-31',protoop_horainicio='16:00',protoop_horafin='17:00' where protoop_id=1529 -->2023-09-01 10:27:31
+250-->update dns_hospitalanamesis set usua_id=185,anam_listaverificacion='',anam_referencia='LIBRE DEMANDA',atenc_id=4590,centro_id=1,clie_id=5632,anam_centrorefiere='',anam_consentimientoinformado='',anam_emferpactual='PACIENTE FEMENINA DE 19 AÑOS, NACIDA EN QUITO Y RESIDENTE EN MIAMI (USA), SOLTERA, INSTRUCCIÓN SECUNDARIA, MESERA, DIESTRA, CATÓLICA, TIPO DE SANGRE DESCONOCE.
+PACIENTE ADULTA JOVEN SIN COMORBILIDADES REFIERE CUADRO CLÍNICO DE INCONFORMIDAD CON ASPECTO FACIAL POR LO QUE ACUDE CON MÉDICO ESPECIALISTA, QUIEN VALORA, REALIZA EXÁMENES COMPLEMENTARIOS E INDICA AMERITA RESOLUCIÓN QUIRÚRGICA POR LO QUE INGRESA.',anam_planes='RESOLUCIÓN QUIRÚRGICA',anam_observacionaf='',anam_ambulancia='',anam_profesionarefiere='',estaatenc_id=4,anam_menarquiaedad='12 AÑOS',anam_motivoconsulta='CIRUGÍA PROGRAMADA',anam_partos='0',anam_fecharegistro='2023-08-12 11:10:36',anam_observacionap='',anam_menopausiaedad='-',anam_nhoja='',anam_abortos='1',anam_ciclos='CMI',anam_enlace='563201020234257218520230812111036394',anam_cirugia='RINOPLASTIA + MENTOPLASTIA',anam_cesareas='0',anam_gesta='1',anam_especialidad='CIRUGÍA PLÁSTICA',anam_tratante='DR. CÁCERES',anam_hijosvivos='0',anam_ayudante='DRA. VILLACRES',anam_fum='2023-08-08',anam_anestesiologo='DRA. NOBOA',anam_fup=NULL,anam_fuc=NULL,anam_fechaingreso='2023-08-12',anam_metodopfamiliar=0,anam_metodopfamiliartex='',anam_terapiahormonal=0,anam_terapiahormonaltext='',anam_biopsia=0,anam_biopsiatext='',anam_colposcopia=0,anam_colposcopiatext='',anam_mamografia=0,anam_mamografiatxt='',anam_atprevprenatal=0,anam_atprevplanificacionf=0,anam_parto=0,anam_posparto=0,anam_cervicouterino=0,anam_mamario=0 where anam_id=1920 -->2023-09-01 11:00:05
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-12 15:54:42',atenc_id=4590,centro_id=1,clie_id=5632,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. PUNTA HIPOPROYECTADA Y BULBOSA						
+2. DORSO ANCHO
+3. NARINAS AMPLIAS
+4. ALARES AMPLIOS						
+5, GIBA OSTEOCARTILAGINOSA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA',protoop_sintesis='NYLON 6/0
+NYLON 5/0
+VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INSICION TRANSCOLUMELAR Y PARACOLUMELAR',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC INES',protoop_idenlace='1920',protoop_paleativa='',protoop_realizada='RINOPLASTIA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='563201172001173120520230812035442258',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-12',protoop_horainicio='13:45',protoop_horafin='15:45' where protoop_id=1448 -->2023-09-01 11:00:13
+250-->update dns_protocolooperatorio set usua_id=205,protoop_fecharegistro='2023-08-12 15:54:42',atenc_id=4590,centro_id=1,clie_id=5632,protoop_exposicion='MANUAL E INSTRUMENTAL',protoop_exploracion='1. PUNTA HIPOPROYECTADA Y BULBOSA						
+2. DORSO ANCHO
+3. NARINAS AMPLIAS
+4. ALARES AMPLIOS						
+5, GIBA OSTEOCARTILAGINOSA',protoop_examen='',protoop_procedimiento='1. ASEPSIA Y ANTISEPSIA 
+2. COLOCACION DE CAMPOS QUIRURGICOS ESTERILES 
+3. INFILTRACION DE LIDOCAINA MAS EPINEFRINA 
+4. INCISION DESCRITA 1 QUE SE UNE A 2
+5. DECOLAMIENTO CON FORMACION DE BOLSILLO DE PIEL 
+6. DECOLAMIENTO DE ALARES Y DORSO NASAL 
+7. RETIRO DE GIBA CARTILAGINOSA CON SHAVING 
+8. RETIRO DE GIBA OSEA CON PIEZOTOMO Y MICROMOTOR 
+9. FORMACION DE LINEAS ESTETICAS CON PIEZOTOMO 
+11. FORMACION DE OSTEOTOMIAS EXTERNAS BAJAS 
+12. RETIRO DE LIGAMENTO DE PITANGUY E IDENTIFICACION DE SEPTO 
+13. FORMACION DE TUNELES SUPERIORES E INFERIORES 
+14. RETIRO DE INJERTO CARTILAGINOSO DE SEPTO NASAL
+15. FORMACION DE INJERTO TIPO 593
+16. COLOCACION DE INJERTO CON DOS PUNTOS EN X Y U Y DOS PUNTOS PARA FRENAR 
+17. FORMACION DE NEODOMOS CON LATERAL CRUP EXTENSION 
+18. FIJACION DE NEODOMOS A INJERTO 
+19. COLOCACION DE TONGUE IN GROOVE 
+20. COLOCACION DE PUNTO DE PIE DE CRURAS 
+21. CIERRE DE INCISIONES 
+22. COLOCACION DE PLACAS SEPTALES 
+23. COLOCACION DE FERULAJE BLANDO Y YESO 
+24. FIN DE CIRUGIA',protoop_proyectada='RINOPLASTIA',protoop_sintesis='NYLON 6/0
+NYLON 5/0
+VYCRIL 5/0',protoop_cirujanouno='DR CHRISTIAN CACERES',protoop_complicaciones='NINGUNA',protoop_diagnostico='',protoop_dieresis='1. INSICION TRANSCOLUMELAR Y PARACOLUMELAR',protoop_selectiva='1',protoop_instrumentista='LIC ISABEL ROSS',protoop_examendetalle='',protoop_tblprincipal='dns_hospitalanamesis',protoop_emergencia='',protoop_cirujanodos='',protoop_circulante='LIC INES',protoop_idenlace='1920',protoop_paleativa='',protoop_realizada='RINOPLASTIA',protoop_ayudanteuno='DRA DIANA VILLACRES',protoop_anestesiologo='DRA ALEXANDRA NOBOA',protoop_nhoja='',protoop_ayudantedos='',protoop_enlace='563201172001173120520230812035442258',protoop_ayudanteanestesia='',protoop_tecerayudante='',protoop_tipoanestesia='GENERAL',protoop_fechaoperacion='2023-08-12',protoop_horainicio='13:45',protoop_horafin='15:45' where protoop_id=1448 -->2023-09-01 11:00:13
+2-->update dns_cuadrobasicomedicamentos set cuadrobm_fecharegistro='2023-09-01 12:05:18',emp_id=1,cuadrobm_numerodispositivo=1,cuadrobm_nombrecomercial='PROTECTOR DE CAMA X 10 PRUDENTIAL',categ_id=2,cuadrobm_especificaciontecnica='PROTECTOR DE CAMA',subcateg_id=1,cuadrobm_codigoitem='',cuadrobm_codigoispol='',nivelr_nombre='I',cuadrobm_codigoatc='7861078302020',cuadrobm_especialidad='USO GENERAL',cuadrobm_stockminimo=10,impu_codigo='2',cuadrobm_principioactivo='PROTECTOR DE CAMA X 10 PRUDENTIAL',cuadrobm_apicacionuso='1 DIARIO',cuadrobm_primerniveldesagregcion='PROTECTOR DE CAMA',tari_codigo='2',cuadrobm_tercerniveldesagregcion='PROTECTOR DE CAMA',cuadrobm_activo=1,cuadrobm_preciomedicamento=0,cuadrobm_concentracion='PROTECTOR DE CAMA',cuadrobm_presentacion='PROTECTOR DE CAMA',cuadrobm_pvp=0 where cuadrobm_id=4485 -->2023-09-01 12:19:39
+2-->update dns_temporalovimientoinventario set unid_id=1,moviin_totalenunidadconsumo=60,moviin_cantidadcontable=0,moviin_preciocompra=0.53,centro_id=55,centrorecibe_cantidad=6,compra_id=3017,moviin_verificado=1,moviin_preciocontable=5.29,moviin_codeext='08896',moviin_total=31.74,moviin_cantidadunidadconsumo=10,uniddesg_id=1,moviin_descext='PRUDENTIAL PROT. CAMA PAQ X 10 - 6 176062023 FV 2026.06.30',centrorecibe_observacion='',cuadrobm_id=475,tipom_id=1,tipomov_id=17,moviin_nlote='176072023',centroenvia_id=0,moviin_rsanitario='13006031915',moviin_fechadecaducidad='2026-05-05',usua_id=278,centrorecibe_documento='',moviin_fechadeelaboracion='2023-07-07',centrorecibe_id=0,moviin_presentacioncomercial='PRUDENTIAL PROT. CAMA PAQ X 10 - 6 176062023 FV 2026.06.30',moviin_fechaenvio=NULL,moviin_nombrefabricante='ZAIMELLA',moviin_gradorecibe='',moviin_nombrerecibe='',moviin_fechaingreso=NULL,moviin_cedularecibe='',centrorecibe_bodegamatriz=1,perioac_id=2023,moviin_fecharegistro='2023-08-26 08:48:45',moviin_codigoproveedor='7861078302020',cdxml_id=8655,prcomp_id=4136 where moviin_id=4800 -->2023-09-01 12:38:09
+2-->update dns_compras set compra_subtotaliva='181.16',compra_xml='78367HAJ20230616.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-06-16',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-16278648C786362D9B',compra_ndocumentoret='',compra_iva='21.74',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='202.9',emp_id=1,compra_cuentacajachica='',proveevar_id=3658,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-001-000004156',compra_autorizacion='1406202301179276949300120010010000041563668431418',centroor_id=0,compra_origenotros='',compra_fecha='2023-06-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERÍA DE LENCERÍA HOSPITALARIA DEL 25 AL 29 DEMARZO DE 2023',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-16 09:57:39',usua_id=278,compra_tipo=0,compra_enlace='2023-06-16278648C786362D9B',compra_contabilizado=0,compra_claveacceso='1406202301179276949300120010010000041563668431418',compra_anulado=0,compra_parainv=0 where compra_id=2087 -->2023-09-01 16:12:35
+2-->update dns_compras set compra_subtotaliva='181.16',compra_xml='78367HAJ20230616.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-06-16',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-16278648C786362D9B',compra_ndocumentoret='',compra_iva='21.74',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='202.9',emp_id=1,compra_cuentacajachica='',proveevar_id=3658,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-001-000004156',compra_autorizacion='1406202301179276949300120010010000041563668431418',centroor_id=0,compra_origenotros='',compra_fecha='2023-06-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERÍA DE LENCERÍA HOSPITALARIA DEL 25 AL 29 DEMARZO DE 2023',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-16 09:57:39',usua_id=278,compra_tipo=0,compra_enlace='2023-06-16278648C786362D9B',compra_contabilizado=0,compra_claveacceso='1406202301179276949300120010010000041563668431418',compra_anulado=0,compra_parainv=0 where compra_id=2087 -->2023-09-01 16:12:35
+2-->update dns_compras set compra_subtotaliva='181.16',compra_xml='78367HAJ20230616.xml',compra_ordendecompra='',compra_codmodif='',compra_subtotalceroiva='0',compra_nummodif='',compra_fechaemiret='2023-06-16',tipom_id=1,compra_descuento='0',tipomov_id=17,compra_autmodi='',temiret_id=0,compra_numeroproceso='2023-06-16278648C786362D9B',compra_ndocumentoret='',compra_iva='21.74',centro_id=1,compra_autorizacionret='',compra_ice='0',compra_total='202.9',emp_id=1,compra_cuentacajachica='',proveevar_id=3658,compra_pagacajachica=0,tipdoc_id='1',subtgen_id=0,tipop_id=1,compra_ndocumento='',compra_nfactura='001-001-000004156',compra_autorizacion='1406202301179276949300120010010000041563668431418',centroor_id=0,compra_origenotros='',compra_fecha='2023-06-14',compra_docrelacionado='',compra_vencimiento='0',compra_recibe='',compra_rtecnico='',compra_registrosan='',compra_descripcion='SERVICIO DE LAVANDERÍA DE LENCERÍA HOSPITALARIA DEL 25 AL 29 DEMARZO DE 2023',compra_fechaaprobacion=NULL,compra_documento='',compra_fecharegistro='2023-06-16 09:57:39',usua_id=278,compra_tipo=0,compra_enlace='2023-06-16278648C786362D9B',compra_contabilizado=0,compra_claveacceso='1406202301179276949300120010010000041563668431418',compra_anulado=0,compra_parainv=0 where compra_id=2087 -->2023-09-01 16:12:35

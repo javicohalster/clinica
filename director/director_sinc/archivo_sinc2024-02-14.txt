@@ -1,0 +1,10 @@
+update gogess_sisfield set fie_title='Seguro:' where fie_id='11833';
+update gogess_sisfield set fie_orden='18' where fie_id='11832';
+update gogess_sisfield set fie_orden='19' where fie_id='11829';
+update gogess_sisfield set fie_orden='20' where fie_id='11830';
+update gogess_sisfield set fie_orden='21' where fie_id='11831';
+update gogess_sisfield set fie_orden='17' where fie_id='11833';
+update gogess_sisfield set fie_anchocolomna='6' where fie_id='11833';
+update gogess_sisfield set fie_type='campogrid2' where fie_id='11833';
+update gogess_sisfield set fie_type='selectpeke' where fie_id='11833';
+update gogess_sisfield set fie_typeweb='selectpeke' where fie_id='11833';

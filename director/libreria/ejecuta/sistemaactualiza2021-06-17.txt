@@ -1,0 +1,2 @@
+update pichinchahumana_extension.dns_convenios set tippo_id=0,conve_nombre='EMPRESA PAZMIÑO NARVAEZ',conve_descuento=0 where conve_id=5 
+update gogess_itemmenu set men_id=4,ite_titulo='Convenios',ite_link='',ite_detalle='',ite_style='',ite_active=0,ite_order=33,ite_extra='',ite_linktable='pichinchahumana_extension.dns_convenios',ite_tipd=1,ite_submenu=0 where ite_id=131 
