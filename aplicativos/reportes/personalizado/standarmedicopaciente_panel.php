@@ -16,62 +16,61 @@ $ireport = $_POST["ireport"];
 
 ?>
 <SCRIPT LANGUAGE=javascript>
-	<!--
-	function ejecuta_reporte() {
+<!--
+function ejecuta_reporte() {
 
-		if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
-			//alert("seleccione el rango de fecha");
-			//return false;
-		}
+    if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
+        //alert("seleccione el rango de fecha");
+        //return false;
+    }
 
-         if($('#usua_id').val()=='')
-		{
-		  alert("seleccione MEDICO USUARIO");
-		  return false;
-		}
+    if ($('#usua_id').val() == '') {
+        alert("seleccione MEDICO USUARIO");
+        return false;
+    }
 
 
-		$("#ver_reporte").load("lospinos/listastandar_medicopaciente.php", {
-			centro_id: $('#centro_id').val(),
-			clie_institucionval: $('#clie_institucionval').val(),
-			fecha_inicio: $('#fecha_inicio').val(),
-			fecha_fin: $('#fecha_fin').val(),
-			previsual: '1',
-			ireport: '<?php echo $ireport; ?>',
-			clie_id: $('#clie_id').val(),
-			precu_activo: $('#precu_activo').val(),
-			convepr_id: $('#convepr_id').val(),
-			categesp_id: $('#categesp_id').val(),
-			especipr_id: $('#especipr_id').val(),
-			precu_facturar: $('#precu_facturar').val(),
-			usua_id:$('#usua_id').val()
+    $("#ver_reporte").load("lospinos/listastandar_medicopaciente.php", {
+        centro_id: $('#centro_id').val(),
+        clie_institucionval: $('#clie_institucionval').val(),
+        fecha_inicio: $('#fecha_inicio').val(),
+        fecha_fin: $('#fecha_fin').val(),
+        previsual: '1',
+        ireport: '<?php echo $ireport; ?>',
+        clie_id: $('#clie_id').val(),
+        precu_activo: $('#precu_activo').val(),
+        convepr_id: $('#convepr_id').val(),
+        categesp_id: $('#categesp_id').val(),
+        especipr_id: $('#especipr_id').val(),
+        precu_facturar: $('#precu_facturar').val(),
+        usua_id: $('#usua_id').val()
 
-		}, function(result) {
+    }, function(result) {
 
-		});
-		$("#ver_reporte").html("Espere un momento...");
+    });
+    $("#ver_reporte").html("Espere un momento...");
 
-	}
+}
 
-	function a_excel() {
-		var fecha_inicio = $('#fecha_inicio').val();
-		var fecha_fin = $('#fecha_fin').val();
-		var tipopac_id = $('#tipopac_id').val();
+function a_excel() {
+    var fecha_inicio = $('#fecha_inicio').val();
+    var fecha_fin = $('#fecha_fin').val();
+    var tipopac_id = $('#tipopac_id').val();
 
-		//window.open('lista_faltaronexel.php?fecha_inicio=' + fecha_inicio +'&fecha_fin='+fecha_fin+'&tipopac_id='+tipopac_id,'ventana1','width=750,height=500,scrollbars=YES');
+    //window.open('lista_faltaronexel.php?fecha_inicio=' + fecha_inicio +'&fecha_fin='+fecha_fin+'&tipopac_id='+tipopac_id,'ventana1','width=750,height=500,scrollbars=YES');
 
-	}
-	//
-	-->
+}
+//
+-->
 </SCRIPT>
 <style type="text/css">
-	<!--
-	.style1 {
-		font-family: Verdana, Arial, Helvetica, sans-serif;
-		font-weight: bold;
-		font-size: 11px;
-	}
-	-->
+<!--
+.style1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+}
+-->
 </style>
 <?php
 
@@ -81,94 +80,141 @@ $rs_reportepg = $DB_gogess->Execute($reporte_pg);
 $rept_nombre = $rs_reportepg->fields["rept_nombre"];
 
 ?>
-
-<div align="center" class="style1"><?php echo $rept_nombre; ?></div>
-<p align="center">
-	<?php
-	echo $rs_reportepg->fields["rept_observacion"];
-	?></p>
-<table width="500" border="1" align="center" cellpadding="0" cellspacing="0">
-	<tr>
-
-		<td bgcolor="#E6F1F2" class="style1"></td>
-		<td bgcolor="#E6F1F2" class="style1"> </td>
-		<td bgcolor="#E6F1F2" class="style1"> </td>
-		<td bgcolor="#E6F1F2" class="style1"> </td>
-		<td bgcolor="#E6F1F2" class="style1">MEDICO USUARIO</td>
-		<td bgcolor="#E6F1F2" class="style1">TIPO COBRO </td>
-		<td bgcolor="#E6F1F2" class="style1">CONVENIO/SEGURO</td>
-		<td bgcolor="#E6F1F2" class="style1"></td>
-		<td bgcolor="#E6F1F2" class="style1"></td>
-		<td bgcolor="#E6F1F2" class="style1"></td>
-		<td bgcolor="#E6F1F2" class="style1"></td>
-		<td bgcolor="#E6F1F2" class="style1">&nbsp;</td>
-		<td bgcolor="#E6F1F2" class="style1">&nbsp;</td>
-		<td bgcolor="#E6F1F2" class="style1">&nbsp;</td>
-		<td bgcolor="#E6F1F2" class="style1">&nbsp;</td>
-		<td bgcolor="#E6F1F2" class="style1">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>
-			<input name="centro_id" type="hidden" id="centro_id" value="" />
-		</td>
-		<td><input name="fecha_inicio" type="hidden" id="fecha_inicio"></td>
-		<td><input name="fecha_fin" type="hidden" id="fecha_fin"></td>
-		<td><input name="clie_institucionval" type="hidden" id="clie_institucionval" value="" /></td>
-		<td>
-			<select name="usua_id" id="usua_id" class="js-basic-single1 form-control" >
-				<option value="">--seleccionar--</option>
-				<?php
+<div class="container-fluid py-2">
+    <div class="row">
+        <div class="col-12">
+            <div class="card my-4">
+                <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                    <div class="bg-gradient-dark shadow-dark border-radius-lg pt-4 pb-3 panel-heading">
+                        <h6 class="text-white text-capitalize ps-3 panel-title"><?php echo $rept_nombre; ?></h6>
+                    </div><br>
+                    <p>
+                        <?php
+						echo $rs_reportepg->fields["rept_observacion"];
+						?></p>
+                </div>
+                <div class="card-body px-0 pb-2">
+                    <div class="p-0 w-95 mx-auto">
+                        <table class="table align-items-center mb-0" width="500" border="1" align="center"
+                            cellpadding="0" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"></th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"> </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"> </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"> </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">MEDICO
+                                        USUARIO</th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">TIPO
+                                        COBRO </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">
+                                        CONVENIO/SEGURO</th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"></th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"></th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"></th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1"></th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">&nbsp;
+                                    </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">&nbsp;
+                                    </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">&nbsp;
+                                    </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">&nbsp;
+                                    </th>
+                                    <th bgcolor="#E6F1F2"
+                                        class="text-uppercase text-secondary font-weight-bolder opacity-7 style1">&nbsp;
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <input name="centro_id" type="hidden" id="centro_id" value="" />
+                                    </td>
+                                    <td><input name="fecha_inicio" type="hidden" id="fecha_inicio"></td>
+                                    <td><input name="fecha_fin" type="hidden" id="fecha_fin"></td>
+                                    <td><input name="clie_institucionval" type="hidden" id="clie_institucionval"
+                                            value="" /></td>
+                                    <td>
+                                        <div class="input-group input-group-static my-3">
+                                            <select name="usua_id" id="usua_id" class="form-control js-basic-single1">
+                                                <option value="">--seleccionar--</option>
+                                                <?php
 				$objformulario->fill_cmb("app_usuario_vistacmb", "usua_id,usua_nombre,usua_apellido", @$usua_id, " order by usua_nombre asc", $DB_gogess);
 				?>
-			</select>
-			
-		</td>
-		<td>
-			
-				
-			<select name="clie_id" id="clie_id" class="js-basic-single2 form-control" >
-				<option value="">--seleccionar--</option>
-				<?php
+                                            </select>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="input-group input-group-static my-3">
+                                            <select name="clie_id" id="clie_id" class="form-control js-basic-single2">
+                                                <option value="">--seleccionar--</option>
+                                                <?php
 				$objformulario->fill_cmb("pichinchahumana_extension.dns_tipoproceso", "tippo_id,tippo_nombre", @$clie_id, " order by tippo_nombre asc", $DB_gogess);
 				?>
-			</select>
-				
-			
-		</td>
-		<td>
-				
-		<select name="precu_activo" id="precu_activo" class="js-basic-single3 form-control" >
-				<option value="">--seleccionar--</option>
-				<?php
+                                            </select>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="input-group input-group-static my-3">
+                                            <select name="precu_activo" id="precu_activo"
+                                                class="js-basic-single3 form-control">
+                                                <option value="">--seleccionar--</option>
+                                                <?php
 				$objformulario->fill_cmb("pichinchahumana_extension.dns_convenios", "conve_id,conve_nombre", @$precu_activo, " order by conve_nombre asc", $DB_gogess);
 				?>
-			</select>
-			
-			
-		</td>
+                                            </select>
+                                        </div>
+                                    </td>
 
-		<td>
-         <input name="precu_facturar" type="hidden" id="precu_facturar" value="" />
+                                    <td>
+                                        <input name="precu_facturar" type="hidden" id="precu_facturar" value="" />
 
-		</td>
+                                    </td>
 
-		<td>
-			<input name="categesp_id" type="hidden" id="categesp_id" value="" />
-			<input name="convepr_id" type="hidden" id="convepr_id" value="" />
-		</td>
-		<td>
-			<div id="vista_especialida">
-				<input name="especipr_id" type="hidden" id="especipr_id" value="" />
-			</div>
+                                    <td>
+                                        <input name="categesp_id" type="hidden" id="categesp_id" value="" />
+                                        <input name="convepr_id" type="hidden" id="convepr_id" value="" />
+                                    </td>
+                                    <td>
+                                        <div id="vista_especialida">
+                                            <input name="especipr_id" type="hidden" id="especipr_id" value="" />
+                                        </div>
+                                    </td>
+                                    <td onclick="ejecuta_reporte()" style="cursor:pointer"><img src="prev.png"
+                                            width="147" height="43" /></td>
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                    <td onclick="ver_excel()" style="cursor:pointer"><img src="excel.png" width="147"
+                                            height="43" border="0" /></td>
+                                    <td>&nbsp;</td>
+                                    <td onclick="ver_pdf()" style="cursor:pointer"><img src="pdf.png" width="147"
+                                            height="43" /></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-		</td>
-		<td onclick="ejecuta_reporte()" style="cursor:pointer"><img src="prev.png" width="147" height="43" /></td>
-		<td>&nbsp;</td>
-		<td onclick="ver_excel()" style="cursor:pointer"><img src="excel.png" width="147" height="43" border="0" /></td>
-		<td>&nbsp;</td>
-		<td onclick="ver_pdf()" style="cursor:pointer"><img src="pdf.png" width="147" height="43" /></td>
-	</tr>
-</table>
 <br><br>
 <div id="ver_reporte"></div>
 
@@ -176,69 +222,77 @@ $rept_nombre = $rs_reportepg->fields["rept_nombre"];
 <p>&nbsp;</p>
 
 <script type="text/javascript">
-	<!--
-	$("#fecha_inicio").datepicker({
-		dateFormat: 'yy-mm-dd'
-	});
-	$("#fecha_fin").datepicker({
-		dateFormat: 'yy-mm-dd'
-	});
+<!--
+$("#fecha_inicio").datepicker({
+    dateFormat: 'yy-mm-dd'
+});
+$("#fecha_fin").datepicker({
+    dateFormat: 'yy-mm-dd'
+});
 
 
-	$("#categesp_id").on("change", function() {
-		afecta_listaespe_34();
-	});
+$("#categesp_id").on("change", function() {
+    afecta_listaespe_34();
+});
 
-	function afecta_listaespe_34() {
+function afecta_listaespe_34() {
 
-		$("#vista_especialida").load("lospinos/lista_dataespe.php", {
-			categesp_id: $('#categesp_id').val()
-		}, function(result) {
-
-
-		});
-
-		$("#vista_especialida").html("...");
-
-	}
+    $("#vista_especialida").load("lospinos/lista_dataespe.php", {
+        categesp_id: $('#categesp_id').val()
+    }, function(result) {
 
 
+    });
 
-	function ver_excel() {
-		if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
-			//alert("seleccione el rango de fecha");
-			//return false;
-		}
+    $("#vista_especialida").html("...");
 
-        if($('#usua_id').val()=='')
-		{
-		  alert("seleccione MEDICO USUARIO");
-		  return false;
-		}
-
-		location.href = "lospinos/listastandar_medicopaciente.php?usua_id=" + $('#usua_id').val() + "&precu_facturar=" + $('#precu_facturar').val() + "&precu_activo=" + $('#precu_activo').val() + "&convepr_id=" + $('#convepr_id').val() + "&categesp_id=" + $('#categesp_id').val() + "&especipr_id=" + $('#especipr_id').val() + "&clie_id=" + $('#clie_id').val() + "&centro_id=" + $('#centro_id').val() + "&fecha_inicio=" + $('#fecha_inicio').val() + "&fecha_fin=" + $('#fecha_fin').val() + "&previsual=2&clie_institucionval=" + $('#clie_institucionval').val() + "&ireport=<?php echo $ireport; ?>";
-
-	}
+}
 
 
 
-	function ver_pdf() {
+function ver_excel() {
+    if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
+        //alert("seleccione el rango de fecha");
+        //return false;
+    }
 
-		if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
-			//alert("seleccione el rango de fecha");
-			//return false;
-		}
+    if ($('#usua_id').val() == '') {
+        alert("seleccione MEDICO USUARIO");
+        return false;
+    }
 
- if($('#usua_id').val()=='')
-		{
-		  alert("seleccione MEDICO USUARIO");
-		  return false;
-		}
+    location.href = "lospinos/listastandar_medicopaciente.php?usua_id=" + $('#usua_id').val() + "&precu_facturar=" + $(
+            '#precu_facturar').val() + "&precu_activo=" + $('#precu_activo').val() + "&convepr_id=" + $('#convepr_id')
+        .val() + "&categesp_id=" + $('#categesp_id').val() + "&especipr_id=" + $('#especipr_id').val() + "&clie_id=" +
+        $('#clie_id').val() + "&centro_id=" + $('#centro_id').val() + "&fecha_inicio=" + $('#fecha_inicio').val() +
+        "&fecha_fin=" + $('#fecha_fin').val() + "&previsual=2&clie_institucionval=" + $('#clie_institucionval').val() +
+        "&ireport=<?php echo $ireport; ?>";
+
+}
 
 
-		window.open("lospinos/listastandar_medicopaciente.php?usua_id=" + $('#usua_id').val() + "&precu_facturar=" + $('#precu_facturar').val() + "&precu_activo=" + $('#precu_activo').val() + "&convepr_id=" + $('#convepr_id').val() + "&categesp_id=" + $('#categesp_id').val() + "&especipr_id=" + $('#especipr_id').val() + "&clie_id=" + $('#clie_id').val() + "&centro_id=" + $('#centro_id').val() + "&fecha_inicio=" + $('#fecha_inicio').val() + "&fecha_fin=" + $('#fecha_fin').val() + "&previsual=3&clie_institucionval=" + $('#clie_institucionval').val() + "&ireport=<?php echo $ireport; ?>", '_blank');
 
-	}
+function ver_pdf() {
+
+    if ($('#fecha_inicio').val() == '' && $('#fecha_fin').val() == '') {
+        //alert("seleccione el rango de fecha");
+        //return false;
+    }
+
+    if ($('#usua_id').val() == '') {
+        alert("seleccione MEDICO USUARIO");
+        return false;
+    }
+
+
+    window.open("lospinos/listastandar_medicopaciente.php?usua_id=" + $('#usua_id').val() + "&precu_facturar=" + $(
+            '#precu_facturar').val() + "&precu_activo=" + $('#precu_activo').val() + "&convepr_id=" + $(
+            '#convepr_id').val() + "&categesp_id=" + $('#categesp_id').val() + "&especipr_id=" + $('#especipr_id')
+        .val() + "&clie_id=" + $('#clie_id').val() + "&centro_id=" + $('#centro_id').val() + "&fecha_inicio=" + $(
+            '#fecha_inicio').val() + "&fecha_fin=" + $('#fecha_fin').val() + "&previsual=3&clie_institucionval=" +
+        $('#clie_institucionval').val() + "&ireport=<?php echo $ireport; ?>", '_blank');
+
+}
 
 
 $('.js-basic-single1').select2();
@@ -250,6 +304,6 @@ $('.js-basic-single3').select2();
 
 
 
-	//  End 
-	-->
+//  End 
+-->
 </script>

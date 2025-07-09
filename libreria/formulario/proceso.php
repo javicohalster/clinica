@@ -1878,9 +1878,14 @@ $this->ncamponombre='';
 
 							//Despliega un campo
 							//En caso de cambiar formato de campo manual
-					if(trim(@$this->campos_formatoc[$campos["fie_name"]]))
+					/*if(trim(@$this->campos_formatoc[$campos["fie_name"]]))
 					{
 					  $campos["fie_typeweb"]=trim($this->campos_formatoc[$campos["fie_name"]]);
+					}*/
+
+					if (trim($this->campos_formatoc[$campos["fie_name"]] ?? ''))
+					{
+    					$campos["fie_typeweb"] = trim($this->campos_formatoc[$campos["fie_name"]] ?? '');
 					}
 					
 					$this->fie_title=$this->fie_title;

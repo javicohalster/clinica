@@ -34,32 +34,42 @@ $ascdesc_ord=$orden_grid[1];
 }
 
 
-$mnupan_campoarchivo=$rs_datosmenu->fields["mnupan_campoarchivo"];
+$mnupan_campoarchivo = $rs_datosmenu->fields["mnupan_campoarchivo"];
 
-$lista_tabla="select * from gogess_sistable where tab_id=".$rs_datosmenu->fields["tab_id"];
-$rs_tabla = $DB_gogess->executec($lista_tabla,array());
+$lista_tabla = "select * from gogess_sistable where tab_id=" . $rs_datosmenu->fields["tab_id"];
+$rs_tabla = $DB_gogess->executec($lista_tabla, array());
 
-$lista_tabla_vista="select * from gogess_sistable where tab_id=".$rs_datosmenu->fields["tabgrid_id"];
-$rs_tabla_vista = $DB_gogess->executec($lista_tabla_vista,array());
-//saca datos de la tabla
+$lista_tabla_vista = "select * from gogess_sistable where tab_id=" . $rs_datosmenu->fields["tabgrid_id"];
+$rs_tabla_vista = $DB_gogess->executec($lista_tabla_vista, array());
 
-$carpeta='standar';
-$tabla=$rs_tabla->fields["tab_name"];
+// Definir carpeta
+$carpeta = 'standar';
 
-if($rs_tabla_vista->fields["tab_name"])
-{
-$tabla_vista=$rs_tabla_vista->fields["tab_name"];
+// Validar resultado de la consulta principal
+if ($rs_tabla === false || $rs_tabla->EOF) {
+    die("Error: No se pudo obtener la información de la tabla principal.");
+} else {
+    $tabla = $rs_tabla->fields["tab_name"];
+    $campo_id = $rs_tabla->fields["tab_campoprimario"];
 }
-else
-{
-$tabla_vista=$rs_tabla->fields["tab_name"];
+
+// Validar resultado de la consulta vista
+if ($rs_tabla_vista === false || $rs_tabla_vista->EOF) {
+    // Si no hay vista válida, usar tabla principal
+    $tabla_vista = $tabla;
+} else {
+    // Verificar que el campo tab_name exista y no esté vacío
+    if (!empty($rs_tabla_vista->fields["tab_name"])) {
+        $tabla_vista = $rs_tabla_vista->fields["tab_name"];
+    } else {
+        $tabla_vista = $tabla;
+    }
 }
-$subindice="_standar";
-$campos_paragrid=$rs_datosmenu->fields["mnupan_campogrid"];
-$campo_id=$rs_tabla->fields["tab_campoprimario"];
 
-$sqltotal="";
+$subindice = "_standar";
+$campos_paragrid = $rs_datosmenu->fields["mnupan_campogrid"];
 
+$sqltotal = "";
 
 for($itbl=0;$itbl<count($lista_tbldata);$itbl++)
  {

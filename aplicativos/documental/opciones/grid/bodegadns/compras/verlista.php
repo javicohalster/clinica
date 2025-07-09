@@ -58,7 +58,7 @@ $rs_buscag = $DB_gogess->executec($busca_g,array());
 						 $leeplantilla=str_replace("-representante-",$centro_nombrejefe,$leeplantilla);
 					  }
 					  
-					  if($rs_buscag->fields["fie_name"]=='compra_fechaaprobacion')
+					  /*if($rs_buscag->fields["fie_name"]=='compra_fechaaprobacion')
 					  {
 					     $separa_fechaig=explode("-",$lista_data->fields[$rs_buscag->fields["fie_name"]]);
 						 
@@ -66,7 +66,25 @@ $rs_buscag = $DB_gogess->executec($busca_g,array());
 						 @$leeplantilla=str_replace("-m-",$mes_n[$separa_fechaig[1]],$leeplantilla);
 						 @$leeplantilla=str_replace("-anio-",$separa_fechaig[0],$leeplantilla);					 
 					  
-					  }
+					  }*/
+					  if ($rs_buscag->fields["fie_name"] == 'compra_fechaaprobacion') {
+							$fecha_aprob = $lista_data->fields[$rs_buscag->fields["fie_name"]] ?? '';
+
+							if (!empty($fecha_aprob) && strpos($fecha_aprob, '-') !== false) {
+								$separa_fechaig = explode("-", $fecha_aprob);
+
+								$dia  = $separa_fechaig[2] ?? '';
+								$mes  = $separa_fechaig[1] ?? '';
+								$anio = $separa_fechaig[0] ?? '';
+
+								$mes_texto = $mes_n[$mes] ?? '';
+
+								$leeplantilla = str_replace("-d-", $dia, $leeplantilla);
+								$leeplantilla = str_replace("-m-", $mes_texto, $leeplantilla);
+								$leeplantilla = str_replace("-anio-", $anio, $leeplantilla);
+							}
+						}
+
 					  
 					  if($rs_buscag->fields["fie_name"]=='proveevar_id')
 					  {
@@ -84,7 +102,8 @@ $rs_buscag = $DB_gogess->executec($busca_g,array());
 									 {
 									      $valorbus=$lista_data->fields[$rs_buscag->fields["fie_name"]];
 										  $rmp=$objformulario->replace_cmb($rs_buscag->fields["fie_tabledb"],$rs_buscag->fields["fie_datadb"],$rs_buscag->fields["fie_sql"],$valorbus,$DB_gogess); 
-									      $leeplantilla=str_replace("-".$rs_buscag->fields["fie_name"]."-",$rmp,$leeplantilla);
+									      //$leeplantilla=str_replace("-".$rs_buscag->fields["fie_name"]."-",$rmp,$leeplantilla);
+										  $leeplantilla = str_replace("-" . $rs_buscag->fields["fie_name"] . "-", $rmp ?? '', $leeplantilla);
 									 }
 									 else
 									 {
@@ -116,8 +135,13 @@ $rs_buscag = $DB_gogess->executec($busca_g,array());
 												   
 											}
 									 
-									     $leeplantilla=str_replace("-".$rs_buscag->fields["fie_name"]."-",utf8_encode($rmp),$leeplantilla);
-									 
+									    // $leeplantilla=str_replace("-".$rs_buscag->fields["fie_name"]."-",utf8_encode($rmp),$leeplantilla);
+											$leeplantilla = str_replace(
+    											"-" . $rs_buscag->fields["fie_name"] . "-",
+    											mb_convert_encoding($rmp ?? '', 'UTF-8', 'ISO-8859-1'),
+    											$leeplantilla
+											);
+
 									 }
 					  
 					  $rs_buscag->MoveNext();
@@ -155,7 +179,7 @@ if($rs_miv)
   	$lista_pro.='<tr>
 	<td>'.$contadorv.'</td>
 	<td>'.$rs_miv->fields["cuadrobm_codigoatc"].'</td>
-	<td>'.utf8_encode($rs_miv->fields["nombre_med"]).'</td>
+	<td>'.mb_convert_encoding($rs_miv->fields["nombre_med"] ?? '', 'UTF-8', 'ISO-8859-1').'</td>
 	<td>'.$rs_miv->fields["moviin_rsanitario"].'</td>
     <td>'.$rs_miv->fields["moviin_nlote"].'</td>
     <td>'.$rs_miv->fields["moviin_fechadecaducidad"].'</td>

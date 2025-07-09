@@ -9,7 +9,9 @@
  * @package template
  */
 class template{
-var $resultado;
+	public $resultado;
+    public $path_template;
+    public $titulo_template;
 
 function select_template($DB_gogess)
 {

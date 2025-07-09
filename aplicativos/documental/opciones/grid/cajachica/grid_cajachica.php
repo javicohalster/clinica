@@ -188,7 +188,7 @@ $sqltotal=substr($sqltotal,0,-4);
 $filtro_data=base64_encode($sqltotal);
 
 //filtros
-?>j
+?>
 
 <script type="text/javascript">
 <!--
@@ -285,7 +285,7 @@ $filtro_data=base64_encode($sqltotal);
 
 
 -->
-</script>j
+</script>
 
  <div id="divBody_causasdet" ></div>
  <div id="divBody_arbidet" ></div>

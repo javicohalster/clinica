@@ -112,7 +112,7 @@ $insu_valorx=$_GET["insu"];
     </style>
 </head>
 
-<body>
+<body class="bg-gray-100">
     <?php
 if(@$_SESSION['datadarwin2679_sessid_inicio'])
 {

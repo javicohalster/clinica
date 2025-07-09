@@ -1,6 +1,7 @@
 <?php
 $comillasimple="'";
-if(trim(@$this->fie_archivo))
+//if(trim(@$this->fie_archivo))
+if(trim($this->fie_archivo ?? ''))
 {
 $archivover=' <a href="archivo/'.$this->fie_archivo.'" target="_blank" ><img src="libreria/campos/imgtxtarchivo/descarga.jpg" width="20" height="21" border="0"></a>';
 }
@@ -10,7 +11,7 @@ $archivover='';
 }
 
 
-	   //No impresión
+	   //No impresiï¿½n
 		if (!($this->fie_tactive))
         {
 			$this->fie_title="";
@@ -61,7 +62,7 @@ $archivover='';
 			 
 			    
           }
-		  //Fin no impresión
+		  //Fin no impresiï¿½n
 		
 
 ?>

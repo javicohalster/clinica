@@ -1,6 +1,28 @@
 <?php
 class templateform{
-var $resultado;
+	public $resultado;
+
+    public $path_templateform;
+    public $tabla_activa;
+    public $tab_mdobuscar;
+    public $titulo_tabla;
+    public $timp;
+    public $pimp;
+    public $tab_nlista;
+
+    public $tab_nameenlace;
+    public $tab_campoenlace;
+    public $tab_tipoenlace;
+    public $tab_nombreenlace;
+    public $tab_tablaregreso;
+    public $tab_id;
+
+    public $tab_campoprimario;
+    public $tab_tipocampoprimariio;
+
+    public $tab_sri;
+    public $tab_historialmedico;
+    public $tab_camposecsri;
 
 function maymin($txt)
 {

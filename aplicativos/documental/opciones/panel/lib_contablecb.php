@@ -27,7 +27,7 @@ $cliente_valor="";
 $linkeditar= 'onClick="ver_formularioenpantalla('.$comill_s.'aplicativos/documental/datos_'.$namemodulo.'.php'.$comill_s.','.$comill_s.'FORMULARIO'.$comill_s.','.$comill_s.'divBody_interno_'.$namemodulo.$comill_s.','.$comill_s.$comill_s.',0,'.$comill_s.$mnupan_id.$comill_s.',0,0,0,0)" style=cursor:pointer';	
 
 $contenido.='<div>';
-$contenido.='<button type="button" class="mb-sm btn btn-primary"  '.$linkeditar.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>NUEVO</button>';
+$contenido.='<button type="button" class="fs-5 btn bg-gradient-dark mb-0 btn btn-primary"  '.$linkeditar.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>&nbsp;&nbsp;NUEVO</button>';
 
 if($namemodulo=='compraproveedores')
 {
@@ -38,7 +38,7 @@ $linkeditar= 'onClick="ver_formularioenpantalla('.$comill_s.'aplicativos/documen
 
 if($_SESSION['datadarwin2679_sessid_inicio']==2 or $_SESSION['datadarwin2679_sessid_inicio']==502)
 {
-$contenido.='&nbsp;&nbsp;&nbsp;<button type="button" class="mb-sm btn btn-primary"  '.$linkeditar.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>NUEVO LQ</button>';
+$contenido.='&nbsp;&nbsp;&nbsp;<button type="button" class="fs-5 btn bg-gradient-dark mb-0 btn btn-primary"  '.$linkeditar.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>&nbsp;&nbsp;NUEVO LQ</button>';
 }
 
 
@@ -56,7 +56,7 @@ if($rs_gogessform)
 	
 $linkeditarbtn=' onclick="ver_reportedatamodulo('.$rs_gogessform->fields["vardev_id"].')" ';
 
-$contenido.='&nbsp;&nbsp;<button type="button" class="mb-sm btn btn-primary"  '.$linkeditarbtn.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>'.$rs_gogessform->fields["vardev_nombre"].'</button>';
+$contenido.='&nbsp;&nbsp;<button type="button" class="fs-5 btn bg-gradient-dark mb-0 btn btn-primary"  '.$linkeditarbtn.'  style="background-color:#000066"  ><span class="glyphicon glyphicon-plus"></span>&nbsp;&nbsp;'.$rs_gogessform->fields["vardev_nombre"].'</button>';
 		
 		
 		$rs_gogessform->MoveNext();	

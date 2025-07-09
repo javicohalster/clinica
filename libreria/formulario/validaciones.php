@@ -11,9 +11,30 @@
  
 class ValidacionesFormulario extends FormularioCmb
 { 
-public $sisfield_arr;
-public $sistable_arr;
+	public $sisfield_arr;
+	public $sistable_arr;
 
+	public $aplweb;
+    public $portalweb;
+    public $tiposis;
+    public $funciones_ext;
+    public $pathexterno;
+    public $pathexternoimp;
+    public $campos_formatoc;
+    public $idvalor_validador;
+
+	public $vatajo;
+    public $campoorden;
+    public $forden;
+    public $id_inicio;
+
+	public $existecampo;
+    public $sendvar;
+    public $ncamponombre;
+    public $txtobligatorio;
+
+	public $fie_campoafecta;
+    public $fie_camporecibe;
 /**
  * Funcion para generar los scripts de formatos.
  * 

@@ -5,8 +5,8 @@
 
 //$DB_gogess = &ADONewConnection($dsn);
 $host="localhost";
-$user='drodriguez';
-$pass='79Drodri$';
+$user='root'; //'drodriguez'
+$pass=''; //'79Drodri$'
 $dbname='pichinchahumana_original';
 
 $DB_gogess = NewADOConnection('mysqli');

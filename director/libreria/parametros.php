@@ -11,9 +11,11 @@
  */
 //Variables generales del sistema
 class parametros_generales{
-var $titulo;
-var $timp;
-var $pimp;
+	public $titulo;
+    public $timp;
+    public $pimp;
+    public $em_logoimp;
+    public $em_patharchivo;
 
 function maymin($txt)
 {

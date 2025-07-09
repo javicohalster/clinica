@@ -91,9 +91,6 @@ $objgrid_fk->orden=$ordenlistado;
 
 $objgrid_fk->leer_data($tabla_vista,"","","",90,$sqltotal,$DB_gogess);
 
-echo '';
-echo '<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold;" align="center" ><br><br></div><br>';
-
 include("buscador.php");
 
 echo '<table id="'.$_POST["namemodulo"].'" class="display responsive cell-border" cellspacing="0" width="100%">

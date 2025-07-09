@@ -1,3 +1,13 @@
+<style>
+.active-menu {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+.active-menu .material-symbols-outlined {
+    color: #fff !important;
+}
+</style>
+
 <?php
 $path_template='';
 $path_template='templates/page/';
@@ -123,7 +133,7 @@ $imagen_avatar='person.png';
 												   //$icon_val='<i class="'.$rs_listamenu->fields["mnupan_icono"].'"></i>';
 												   $icon_val='<span class="material-symbols-outlined">'.$rs_listamenu->fields["mnupan_icono"].'</span>';
 												}
-											echo '<a class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/opciones/panel/'.$rs_listamenu->fields["mnupan_archivo"].'\',\'Perfil\',\'divBody_ext\',\''.$_SESSION['datadarwin2679_sessid_inicio'].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)" >
+											echo '<a id="menu_'.$rs_listamenu->fields["mnupan_id"].'" class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/opciones/panel/'.$rs_listamenu->fields["mnupan_archivo"].'\',\'Perfil\',\'divBody_ext\',\''.$_SESSION['datadarwin2679_sessid_inicio'].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)" >
 												'.$icon_val.'
 												<span class="nav-link-text fs-5 ms-1 menu-text" >'.$rs_listamenu->fields["mnupan_nombre"].'</span>
 												<span class="selected"></span>
@@ -142,7 +152,7 @@ $imagen_avatar='person.png';
 												   $icon_val='<i class="'.$rs_listamenu->fields["mnupan_icono"].'"></i>';
 												   
 												}
-											echo '<a class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_clave.php\',\'Clave\',\'divBody_ext\',\''.$_SESSION['datadarwin2679_sessid_inicio'].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)">
+											echo '<a id="menu_'.$rs_listamenu->fields["mnupan_id"].'" class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_clave.php\',\'Clave\',\'divBody_ext\',\''.$_SESSION['datadarwin2679_sessid_inicio'].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)">
 												'.$icon_val.'
 												<span class="nav-link-text fs-5 ms-1 menu-text">'.$rs_listamenu->fields["mnupan_nombre"].'</span>
 												<span class="selected"></span>
@@ -160,7 +170,7 @@ $imagen_avatar='person.png';
 												{
 												   $icon_val='<i class="'.$rs_listamenu->fields["mnupan_icono"].'"></i>';
 												}
-										   echo '<a class="nav-link ms-0 text-dark" href="javascript:salir_sistema()">
+										   echo '<a id="menu_'.$rs_listamenu->fields["mnupan_id"].'" class="nav-link ms-0 text-dark" href="javascript:salir_sistema()">
 												'.$icon_val.'
 												<span class="nav-link-text ms-1 menu-text">'.$rs_listamenu->fields["mnupan_nombre"].'</span>
 												<span class="selected"></span>
@@ -178,7 +188,7 @@ $imagen_avatar='person.png';
 												   $icon_val='<i class="'.$rs_listamenu->fields["mnupan_icono"].'"></i>';
 												   //$icon_val='<span class="material-symbols-outlined">'.$rs_listamenu->fields["mnupan_icono"].'</span>';
 												}
-										   echo '<a class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_contenido.php\',\'Perfil\',\'divBody_ext\',\''.$rs_listamenu->fields["con_id"].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)">
+										   echo '<a id="menu_'.$rs_listamenu->fields["mnupan_id"].'" class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_contenido.php\',\'Perfil\',\'divBody_ext\',\''.$rs_listamenu->fields["con_id"].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)">
 												'.$icon_val.'
 												<span class="nav-link-text fs-5 ms-1 menu-text">'.$rs_listamenu->fields["mnupan_nombre"].'</span>
 												<span class="selected"></span>
@@ -196,7 +206,7 @@ $imagen_avatar='person.png';
 												{
 												   $icon_val='<i class="'.$rs_listamenu->fields["mnupan_icono"].'"></i>';
 												}
-											echo '<a class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_standar.php\',\'Pago\',\'divBody_ext\',\''.@$_SESSION[$rs_listamenu->fields["mnupan_variablesession"]].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)" >
+											echo '<a id="menu_'.$rs_listamenu->fields["mnupan_id"].'" class="nav-link ms-0 text-dark" href="javascript:ver_formularioenpantalla(\'aplicativos/documental/datos_standar.php\',\'Pago\',\'divBody_ext\',\''.@$_SESSION[$rs_listamenu->fields["mnupan_variablesession"]].'\',\''.$rs_listamenu->fields["mnupan_id"].'\',0,0,0,0,0)" >
 												'.$icon_val.'
 												<span class="nav-link-text fs-5 ms-1 menu-text" >'.$rs_listamenu->fields["mnupan_nombre"].'</span>
 												<span class="selected"></span>
@@ -321,4 +331,17 @@ function verifica_session() {
 }
 
 setInterval(verifica_session, 600000);
+
+document.addEventListener('DOMContentLoaded', function () {
+    const links = document.querySelectorAll('.nav-link');
+
+    links.forEach(link => {
+        link.addEventListener('click', function () {
+            // Quitar clase activa de todos
+            links.forEach(l => l.classList.remove('active-menu'));
+            // Agregar clase activa solo al clic actual
+            this.classList.add('active-menu');
+        });
+    });
+});
 </script>
